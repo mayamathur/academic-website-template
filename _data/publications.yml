@@ -284,6 +284,34 @@
   webapplink: 
   doi: "10.1177/1745691619850104"
 #
+- id: Mathur2019b
+  text: "Mathur MB & VanderWeele TJ (2019). Discussion on the meeting on 'Signs and sizes: understanding and replicating statistical findings'. Journal of the Royal Statistical Society: Series A, 183(5):449-469."
+  year: 2019
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12544?af=R"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1111/rssa.12544"
+#
+- id: Mathur2019c
+  text: "Mathur MB & VanderWeele TJ (2019). Challenges and suggestions for defining replication 'success' when effects may be heterogeneous: Comment on Hedges & Schauer (2019).  Psychological Methods, 24(5):571-575."
+  year: 2019
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://psycnet.apa.org/record/2019-58850-001"
+  datarepo: "https://osf.io/f6sh2"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1037/met0000223"
+#
 - id: VanderWeele2019a
   text: "VanderWeele TJ, Ding P, Mathur MB (2019). Technical considerations in the use of the E-value. Journal of Causal Inference, 7(2)."
   year: 2019
@@ -297,7 +325,20 @@
   webappname: "EValue Calculator"
   webapplink: "https://www.evalue-calculator.com"
   doi: "10.1515/jci-2018-0007"
-
+#
+- id: VanderWeele2019b
+  text: "VanderWeele TJ, Mathur MB, Chen Y (2019). Media portrayals and public health: Effects on suicide and other behaviors. JAMA Psychiatry, 76(9):891-892."
+  year: 2019
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2734855?casa_token=ojGVZCEBr_UAAAAA:0QLotJU0Ig1C9sTnbPLCXkFRJwTVu62yf5DXEyT6mWt9Fvn9mFdJ8vQJaztqg42h57tf6d44Sg"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1001/jamapsychiatry.2019.0842"
 # --------------------------- 2016 ---------------------------
 #
 - id: Mummah2016
