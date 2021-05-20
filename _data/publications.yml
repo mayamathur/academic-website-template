@@ -454,6 +454,34 @@
   webapplink: 
   doi: "10.1098/rsos.180448"
 #
+- id: Afghahi2018
+  text: "Afghahi A, Purington N, Han S, Desai M, Pierson E, Mathur MB, et al. (2018). Higher absolute lymphocyte counts predict lower mortality from early-stage triple-negative breast cancer. Clinical Cancer Research, 24(12), 2851-2858."
+  year: 2018
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://clincancerres.aacrjournals.org/content/24/12/2851"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1158/1078-0432.CCR-17-1323"
+#
+- id: Boehm2018
+  text: "Boehm JK, Chen Y, Koga H, Mathur MB, Vie LL, Kubzansky LD (2018). Is optimism associated with healthier cardiovascular-related behavior? Meta-analyses of three health behaviors. Circulation Research, 122(8), 1119-1134."
+  year: 2018
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.117.310828?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&"
+  datarepo: "https://osf.io/rk8fx"
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1161/CIRCRESAHA.117.310828"
+#
 # --------------------------- 2017 ---------------------------
 
 # --------------------------- 2016 ---------------------------
