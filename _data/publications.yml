@@ -42,7 +42,35 @@
   webappname:
   webapplink:
   doi:
+#
+- id: Lo2021
+  text: "Lo RM, Purington N, McGhee SA, Mathur MB, Shaw GM, Schroeder AR. Infant allergy testing and food allergy diagnoses before and after guidelines for early peanut introduction. The Journal of Allergy and Clinical Immunology: In Practice, 9(1):302-10."
+  year: 2021
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/abs/pii/S2213219820312162"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1016/j.jaip.2020.10.060""
 # --------------------------- 2020 ---------------------------
+#
+- id: Zhang2020
+  text: "Zhang X, Stamey JD, \textbf{Mathur MB} (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. Pharmacoepidemiology and Drug Safety, 29:1219–1227."
+  year: 2020
+  type: "methods"
+  authorship: "semior"
+  status: "published"
+  preprint: "https://osf.io/fe4gs/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1002/pds.5117"
 #
 - id: Ebersole2020
   text: "Ebersole, CA, Mathur MB, Chartier CA, Hartshorne JK, Ijzerman H, Ropovik I, et al (2020). Many Labs 5: Testing pre-data collection peer review as an intervention to increase replicability. Advances in Methods and Practices in Psychological Science, 3(3):309-331."
