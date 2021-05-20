@@ -2,7 +2,7 @@
 # --------------------------- 2021 ---------------------------
 #
 - id: Mathur2021a
-  text: "Mathur MB, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD, Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal welfare: Meta-analysis and evidence-based recommendations. Appetite. In press."
+  text: "Mathur MB, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD, Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal welfare: Meta-analysis and evidence-based recommendations. *Appetite.* In press."
   year: 2021
   type: "empirical"
   authorship: "first"
@@ -14,6 +14,7 @@
   webappname:
   webapplink:
   doi:
+#
 - id: Mathur2021b
   text: "Mathur MB & VanderWeele TJ (under revision). Meta-Regression Methods to Characterize Evidence Strength Using Meaningful-Effect Percentages Conditional on Study Characteristics."
   year: 2021
