@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maya Mathur"
+title                    : "Maya B. Mathur"
 title_separator          : "-"
-name                     : "Maya Mathur"
+name                     : "Maya B. Mathur"
 description:  > # this means to ignore newlines until "baseurl:"
   xxx
 url                      : "https://mayamathur.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jane Doe"
+  name             : "Maya B. Mathur"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Professor, Department, University"
+  bio              : "Assistant Professor, Quantitative Sciences Unit, Stanford University"
   location         : "Stanford, CA"
   email            : "jane.doe@uni.edu"
   uri              :
