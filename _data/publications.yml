@@ -86,6 +86,20 @@
   webapplink: "https://www.evalue-calculator.com/meta/"
   doi: "10.1080/01621459.2018.1529598"
 #
+- id: VanderWeele2020
+  text: "VanderWeele TJ, Martin J, Mathur MB (2020). E-values and incidence density sampling. Epidemiology, 31(6), e51-52."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2020/11000/E_Values_and_Incidence_Density_Sampling.22.aspx"
+  datarepo: 
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue"
+  webappname: "EValue Calculator"
+  webapplink: "https://www.evalue-calculator.com"
+  doi: "10.1097/EDE.0000000000001238"
+#
 # --------------------------- 2016 ---------------------------
 #
 - id: Mummah2016
