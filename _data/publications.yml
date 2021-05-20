@@ -101,7 +101,7 @@
   doi: "10.1016/j.chb.2019.08.029"
 #
 - id: Zhang2020
-  text: "Zhang X, Stamey JD, \textbf{Mathur MB} (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. Pharmacoepidemiology and Drug Safety, 29:1219–1227."
+  text: "Zhang X, Stamey JD, Mathur MB (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. Pharmacoepidemiology and Drug Safety, 29:1219–1227."
   year: 2020
   type: "methods"
   authorship: "senior"
@@ -128,7 +128,7 @@
   webapplink:
   doi: "10.1177/2515245920958687"
 #
-- id: VanderWeele2020
+- id: VanderWeele2020a
   text: "VanderWeele TJ, Martin J, Mathur MB (2020). E-values and incidence density sampling. Epidemiology, 31(6), e51-52."
   year: 2020
   type: "methods"
@@ -141,7 +141,37 @@
   webappname: "EValue Calculator"
   webapplink: "https://www.evalue-calculator.com"
   doi: "10.1097/EDE.0000000000001238"
-
+#
+- id: VanderWeele2020b
+  text: "VanderWeele TJ, Mathur MB, Chen Y (2020). Outcome-wide longitudinal studies: A new template for empirical studies. Statistical Science, 35:437-466."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Outcome-Wide-Longitudinal-Designs-for-Causal-Inference--A-New/10.1214/19-STS728.full"
+  datarepo: "https://osf.io/tv3wu/"
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1214/19-STS728"
+#
+# --------------------------- 2019 ---------------------------
+#
+- id: VanderWeele2019a
+  text: "VanderWeele TJ, Ding P, Mathur MB (2019). Technical considerations in the use of the E-value. Journal of Causal Inference, 7(2)."
+  year: 2019
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.degruyter.com/document/doi/10.1515/jci-2018-0007/html"
+  datarepo: 
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue"
+  webappname: "EValue Calculator"
+  webapplink: "https://www.evalue-calculator.com"
+  doi: "10.1515/jci-2018-0007"
+#
 # --------------------------- 2016 ---------------------------
 #
 - id: Mummah2016
