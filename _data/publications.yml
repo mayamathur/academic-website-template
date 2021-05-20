@@ -42,10 +42,37 @@
   webappname:
   webapplink:
   doi:
-#
 # --------------------------- 2020 ---------------------------
 #
-- id: Mathur2020
+- id: Ebersole2020
+  text: "Ebersole, CA, Mathur MB, Chartier CA, Hartshorne JK, Ijzerman H, Ropovik I, et al (2020). Many Labs 5: Testing pre-data collection peer review as an intervention to increase replicability. Advances in Methods and Practices in Psychological Science, 3(3):309-331."
+  year: 2020
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.sagepub.com/doi/full/10.1177/2515245920958687"
+  datarepo: "https://osf.io/7a6rd/"
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1177/2515245920958687"
+#
+- id: Mathur2020a
+  text: "Mathur MB, Bart-Plange DJ, Aczel B, Bernstein MH, Ciunci A, Ebersole CR, et al. (2020). Many Labs 5: Registered multisite replication of tempting-fate effects in Risen & Gilovich, 2008. Advances in Methods and Practices in Psychological Science, 3(3):394-404.""
+  year: 2020
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.sagepub.com/doi/full/10.1177/2515245918785165"
+  datarepo: "https://osf.io/h5a9y/"
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1177/2515245918785165"
+#
+- id: Mathur2020b
   text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for unmeasured confounding in meta-analyses. Journal of the American Statistical Association, 115(529), 163-170."
   year: 2020
   type: "methods"
