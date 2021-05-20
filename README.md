@@ -1,6 +1,6 @@
 # Academic website template
 
-This template is based on the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme, more specifically, it is an adaptation of the (blog) theme to academic portfolio website by [Maximilia Kasy](https://github.com/maxkasy/home).
+This template is based on the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme, more specifically, it is an adaptation of the (blog) theme to academic portfolio website by [Maximilian Kasy](https://github.com/maxkasy/home).
 
 See a demo [here](https://peter.solymos.org/academic-website-template/).
 
