@@ -3,7 +3,7 @@
 #
 # --------------------------- In press ---------------------------
 #
-- id: Ling
+- id: Ling2021
   text: "Ling A, Montez-Rath MR, Mathur MB, Kapphahn K, Desai M. 2021. How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. Journal of Modern Applied Statistical Methods. In press."
   year: 2021
   type: "methods"
@@ -47,6 +47,20 @@
   webapplink:
   doi:
 #
+- id: Mathur2021c
+  text: "Mathur MB & VanderWeele TJ (2021). Estimating publication bias in meta-analyses: A meta-meta-analysis across disciplines and journal tiers. Research Synthesis Methods, 12(2): 176-191."
+  year: 2021
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/p3xyd/"
+  datarepo: "https://osf.io/cz8tr/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1002/jrsm.1464"
+#
 - id: Smith2021
   text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. <i>Epidemiology.</i> In press."
   year: 2021
@@ -74,6 +88,21 @@
   webappname:
   webapplink:
   doi: "10.1016/j.jaip.2020.10.060"
+#
+- id: Fu2021
+  text: "Fu R, Sekercioglu N, Mathur MB, Couban R, Coyte PC. (2021). Dialysis initiation and all-cause mortality among incident adult patients with advanced chronic kidney disease: A meta-analysis with bias analysis. Kidney Medicine, 3(1), 64-75."
+  year: 2021
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.kidneymedicinejournal.org/article/S2590-0595(20)30256-9/fulltext"
+  datarepo: "https://osf.io/v2yu5/"
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1016/j.xkme.2020.09.013"
+#
 # --------------------------- 2020 ---------------------------
 #
 - id: Mathur2020a
@@ -187,6 +216,34 @@
   webappname: 
   webapplink: 
   doi: "10.1186/s13643-019-1264-5"
+#
+- id: Mathur2020i
+  text: "Mathur MB & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 3: Errors in the statistical justification for the 'credibility ceiling' remain uncorrected. Journal of Clinical Epidemiology, 127, 214-216."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/xmcdb/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/p3xyd"
+#
+- id: Mathur2020j
+  text: "Mathur MB & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 1: Fundamental problems with the 'credibility ceiling' method for meta-analyses. Journal of Clinical Epidemiology, 127, 208-210."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/4qxgf/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/4qxgf"
 #
 - id: Zhang2020
   text: "Zhang X, Stamey JD, Mathur MB (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. Pharmacoepidemiology and Drug Safety, 29:1219–1227."
