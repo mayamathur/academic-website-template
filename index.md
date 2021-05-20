@@ -1,10 +1,10 @@
 ---
-title: Welcome!
+title: 
 layout: academic
 author_profile: true
 ---
 
-I am a professor at the Department at the University.
+I am an Assistant Professor at Stanford University's [Quantitative Sciences Unit](https://med.stanford.edu/qsu.html) and the Department of Pediatrics.
 
 My research interests include:
 
