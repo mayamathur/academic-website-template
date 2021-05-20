@@ -20,11 +20,25 @@
   year: 2021
   type: "methods"
   authorship: "first"
-  status: "inprep"
+  status: "inpress"
   preprint: "https://osf.io/bmtdq/"
   datarepo: "https://osf.io/gs7fp/"
   rpackagename:
   rpackagelink:
+  webappname:
+  webapplink:
+  doi:
+#
+- id: Smith2021
+  text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. <i>Epidemiology.</i> In press."
+  year: 2021
+  type: "methods"
+  authorship: "middle"
+  status: "inpress"
+  preprint: "https://arxiv.org/abs/2005.02908/"
+  datarepo: 
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue/vignettes/multiple-bias-examples.html"
   webappname:
   webapplink:
   doi:
@@ -40,7 +54,7 @@
   preprint:
   datarepo: "https://osf.io/2r3gm/"
   rpackagename: "EValue"
-  rpackagelink: "https://CRAN.R-project.org/package=EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue/vignettes/meta-analysis.html"
   webappname: "EValue Calculator"
   webapplink: "https://www.evalue-calculator.com/meta/"
   doi: "10.1080/01621459.2018.1529598"
