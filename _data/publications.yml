@@ -58,34 +58,6 @@
   doi: "10.1016/j.jaip.2020.10.060""
 # --------------------------- 2020 ---------------------------
 #
-- id: Zhang2020
-  text: "Zhang X, Stamey JD, \textbf{Mathur MB} (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. Pharmacoepidemiology and Drug Safety, 29:1219–1227."
-  year: 2020
-  type: "methods"
-  authorship: "semior"
-  status: "published"
-  preprint: "https://osf.io/fe4gs/"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname:
-  webapplink:
-  doi: "10.1002/pds.5117"
-#
-- id: Ebersole2020
-  text: "Ebersole, CA, Mathur MB, Chartier CA, Hartshorne JK, Ijzerman H, Ropovik I, et al (2020). Many Labs 5: Testing pre-data collection peer review as an intervention to increase replicability. Advances in Methods and Practices in Psychological Science, 3(3):309-331."
-  year: 2020
-  type: "empirical"
-  authorship: "middle"
-  status: "published"
-  preprint: "https://journals.sagepub.com/doi/full/10.1177/2515245920958687"
-  datarepo: "https://osf.io/7a6rd/"
-  rpackagename: 
-  rpackagelink: 
-  webappname:
-  webapplink:
-  doi: "10.1177/2515245920958687"
-#
 - id: Mathur2020a
   text: "Mathur MB, Bart-Plange DJ, Aczel B, Bernstein MH, Ciunci A, Ebersole CR, et al. (2020). Many Labs 5: Registered multisite replication of tempting-fate effects in Risen & Gilovich, 2008. Advances in Methods and Practices in Psychological Science, 3(3):394-404."
   year: 2020
@@ -114,6 +86,48 @@
   webapplink: "https://www.evalue-calculator.com/meta/"
   doi: "10.1080/01621459.2018.1529598"
 #
+- id: Mathur2020c
+  text: "Mathur MB, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten PAM, et al (2020). Uncanny but not confusing: Multisite study of perceptual category confusion in the Uncanny Valley. Computers in Human Behavior, 103, 21-30."
+  year: 2020
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S0747563219303164"
+  datarepo: "https://osf.io/2v6f4/"
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1016/j.chb.2019.08.029"
+#
+- id: Zhang2020
+  text: "Zhang X, Stamey JD, \textbf{Mathur MB} (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. Pharmacoepidemiology and Drug Safety, 29:1219–1227."
+  year: 2020
+  type: "methods"
+  authorship: "senior"
+  status: "published"
+  preprint: "https://osf.io/fe4gs/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1002/pds.5117"
+#
+- id: Ebersole2020
+  text: "Ebersole, CA, Mathur MB, Chartier CA, Hartshorne JK, Ijzerman H, Ropovik I, et al (2020). Many Labs 5: Testing pre-data collection peer review as an intervention to increase replicability. Advances in Methods and Practices in Psychological Science, 3(3):309-331."
+  year: 2020
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.sagepub.com/doi/full/10.1177/2515245920958687"
+  datarepo: "https://osf.io/7a6rd/"
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1177/2515245920958687"
+#
 - id: VanderWeele2020
   text: "VanderWeele TJ, Martin J, Mathur MB (2020). E-values and incidence density sampling. Epidemiology, 31(6), e51-52."
   year: 2020
@@ -127,7 +141,7 @@
   webappname: "EValue Calculator"
   webapplink: "https://www.evalue-calculator.com"
   doi: "10.1097/EDE.0000000000001238"
-#
+
 # --------------------------- 2016 ---------------------------
 #
 - id: Mummah2016
