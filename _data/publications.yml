@@ -142,6 +142,34 @@
   webapplink: 
   doi: "10.1097/EDE.0000000000001180"
 #
+- id: Mathur2020g
+  text: "Mathur MB & VanderWeele TJ (2020). Evidence relating health care provider burnout and quality of care. Annals of Internal Medicine, 172(6):e16-e18."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2020/03000/A_Simple,_Interpretable_Conversion_from_Pearson_s.24.aspx"
+  datarepo: "https://osf.io/3ekfm"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.7326/L19-0826"
+#
+- id: Mathur2020h
+  text: "Mathur MB, Robinson TN, Reichling DB, Gardner CD, Nadler JN, Bain PA, Peacock J. (2020). Reducing meat consumption by appealing to animal welfare: Protocol for a systematic review and meta-analysis. Systematic Reviews, 9(3)."
+  year: 2020
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-1264-5"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1186/s13643-019-1264-5"
+#
 - id: Zhang2020
   text: "Zhang X, Stamey JD, Mathur MB (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. Pharmacoepidemiology and Drug Safety, 29:1219–1227."
   year: 2020
