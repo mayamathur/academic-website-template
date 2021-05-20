@@ -156,6 +156,34 @@
   webapplink:
   doi: "10.1214/19-STS728"
 #
+- id: VanderWeele2020c
+  text: "VanderWeele TJ, Mathur MB, & Chen Y  (2020). Rejoinder: The future of outcome-wide studies. Statistical Science, 35(3), 479-483."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder-The-Future-of-Outcome-Wide-Studies/10.1214/20-STS791.short"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1214/20-STS791"
+#
+- id: VanderWeele2020d
+  text: "VanderWeele TJ & Mathur MB (2020). Commentary: Developing best-practice guidelines for the reporting of the E-value. International Journal of Epidemiology, 49(5), 1495-1497."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://academic.oup.com/ije/article/49/5/1495/5879832"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/ije/dyaa094"
+#
 # --------------------------- 2019 ---------------------------
 #
 - id: VanderWeele2019a
