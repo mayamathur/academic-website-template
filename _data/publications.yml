@@ -100,6 +100,34 @@
   webapplink:
   doi: "10.1016/j.chb.2019.08.029"
 #
+- id: Mathur2020d
+  text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for publication bias in meta-analyses. Journal of the Royal Statistical Society: Series C, 69(5), 1091-1119."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12440"
+  datarepo: "https://osf.io/7wc2t/"
+  rpackagename: "PublicationBias"
+  rpackagelink: "https://CRAN.R-project.org/package=PublicationBias"
+  webappname:
+  webapplink:
+  doi: "10.1111/rssc.12440"
+#
+- id: Mathur2020e
+  text: "Mathur MB & VanderWeele TJ (2020). New statistical metrics for multisite replication projects. Journal of the Royal Statistical Society: Series A, 183(3):1145-1166."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssa.12572"
+  datarepo: "https://osf.io/ufjg4"
+  rpackagename: "Replicate"
+  rpackagelink: "https://CRAN.R-project.org/package=Replicate"
+  webappname: 
+  webapplink: 
+  doi: "10.1111/rssa.12572"
+#
 - id: Zhang2020
   text: "Zhang X, Stamey JD, Mathur MB (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. Pharmacoepidemiology and Drug Safety, 29:1219–1227."
   year: 2020
@@ -186,6 +214,20 @@
 #
 # --------------------------- 2019 ---------------------------
 #
+- id: Mathur2019a
+  text: "Mathur MB & VanderWeele TJ (2019). Finding common ground in meta-analysis 'wars' on violent video games. Perspectives on Psychological Science, 14(4), 705-708."
+  year: 2019
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.sagepub.com/doi/full/10.1177/1745691619850104?casa_token=61V6fkrpet0AAAAA:uFi_hfcqUObG-WGoZeHkZ1mROBHjrYbXNhQV_ez5OvFklJUTk23d5P2Vr25ZfxxFI1DIfynMYYRu"
+  datarepo: "https://osf.io/eunz3"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1515/jci-2018-0007"
+#
 - id: VanderWeele2019a
   text: "VanderWeele TJ, Ding P, Mathur MB (2019). Technical considerations in the use of the E-value. Journal of Causal Inference, 7(2)."
   year: 2019
@@ -199,7 +241,7 @@
   webappname: "EValue Calculator"
   webapplink: "https://www.evalue-calculator.com"
   doi: "10.1515/jci-2018-0007"
-#
+
 # --------------------------- 2016 ---------------------------
 #
 - id: Mummah2016
