@@ -312,6 +312,48 @@
   webapplink: 
   doi: "10.1037/met0000223"
 #
+- id: Mathur2019d
+  text: "Mathur MB, Ding P, Riddell CA, VanderWeele TJ (2018). Website and R package for computing E-values. Epidemiology, 29(5), e45-e47."
+  year: 2019
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6066405/"
+  datarepo: 
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue"
+  webappname: "EValue Calculator"
+  webapplink: "https://www.evalue-calculator.com"
+  doi: "10.1097/EDE.0000000000000864"
+#
+- id: Mathur2019e
+  text: "Mathur MB & Reichling DB (2019). Open-source software for mouse-tracking in Qualtrics to measure category competition. Behavior Research Methods, 51(5), 1987-1997."
+  year: 2019
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://link.springer.com/article/10.3758/s13428-019-01258-6"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: "Software"
+  webapplink: "https://osf.io/st2ef/"
+  doi: "10.3758/s13428-019-01258-6"
+#
+- id: Mathur2019f
+  text: "Mathur MB & VanderWeele TJ (2019). New metrics for meta-analyses of heterogeneous effects. Statistics in Medicine, 38(8):1336-1342."
+  year: 2019
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8057"
+  datarepo: "https://osf.io/pr2s9/"
+  rpackagename: "MetaUtility"
+  rpackagelink: "https://cran.r-project.org/web/packages/MetaUtility"
+  webappname: 
+  webapplink:
+  doi: "10.3758/s13428-019-01258-6"
+#
 - id: VanderWeele2019a
   text: "VanderWeele TJ, Ding P, Mathur MB (2019). Technical considerations in the use of the E-value. Journal of Causal Inference, 7(2)."
   year: 2019
@@ -326,6 +368,20 @@
   webapplink: "https://www.evalue-calculator.com"
   doi: "10.1515/jci-2018-0007"
 #
+- id: Desai2019
+  text: "Desai M, Montez-Rath M, Kapphahn K, Joyce V, Mathur MB, Garcia A, et al (2019). Missing data strategies for time-varying confounders in comparative effectiveness studies of non-missing time-varying exposures and right-censored outcomes. Statistics in Medicine, 38(17):3204-3220."
+  year: 2019
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://pubmed.ncbi.nlm.nih.gov/31099433/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1002/sim.8174"
+#
 - id: VanderWeele2019b
   text: "VanderWeele TJ, Mathur MB, Chen Y (2019). Media portrayals and public health: Effects on suicide and other behaviors. JAMA Psychiatry, 76(9):891-892."
   year: 2019
@@ -339,6 +395,67 @@
   webappname: 
   webapplink: 
   doi: "10.1001/jamapsychiatry.2019.0842"
+#
+- id: VanderWeele2019c
+  text: "VanderWeele TJ & Mathur MB (2019). Some desirable properties of the Bonferroni correction: Is the Bonferroni correction really so bad? American Journal of Epidemiology, 188(3):617-618."
+  year: 2019
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://pubmed.ncbi.nlm.nih.gov/30452538/"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/aje/kwy250"
+#
+- id: VanderWeele2019d
+  text: "VanderWeele TJ, Mathur MB, Ding P (2019). Correcting misinterpretations of the E-value. Annals of Internal Medicine, 170(2), 131-132."
+  year: 2019
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.acpjournals.org/doi/10.7326/M18-3112?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.7326/M18-3112"
+#  
+- id: VanderWeele2019c
+  text: "VanderWeele TJ & Mathur MB (2019). Some desirable properties of the Bonferroni correction: Is the Bonferroni correction really so bad? American Journal of Epidemiology, 188(3):617-618."
+  year: 2019
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://pubmed.ncbi.nlm.nih.gov/30452538/"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/aje/kwy250"
+#
+# --------------------------- 2018 ---------------------------
+#
+- id: Hardwicke2018
+  text: "Hardwicke TE, Mathur MB, MacDonald K, Nilsonne G, Banks GC, Kidwell MC, et al. (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. Royal Society Open Science, 5, 180448."
+  year: 2018
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://royalsocietypublishing.org/doi/10.1098/rsos.180448"
+  datarepo: "https://osf.io/wn8fd"
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1098/rsos.180448"
+#
+# --------------------------- 2017 ---------------------------
+
 # --------------------------- 2016 ---------------------------
 #
 - id: Mummah2016
