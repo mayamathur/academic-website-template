@@ -1,3 +1,21 @@
+
+
+#
+# --------------------------- In press ---------------------------
+#
+- id: Ling
+  text: "Ling A, Montez-Rath MR, Mathur MB, Kapphahn K, Desai M. 2021. How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. Journal of Modern Applied Statistical Methods. In press."
+  year: 2021
+  type: "methods"
+  authorship: "middle"
+  status: "inpress"
+  preprint: "https://arxiv.org/abs/1904.07408"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi:
 #
 # --------------------------- 2021 ---------------------------
 #
@@ -555,13 +573,41 @@
   webapplink:
   doi: "10.1016/j.bbi.2016.04.011"
 #
+- id: Mathur2016c
+  text: "Mathur MB & Reichling DB (2016). Navigating a social world with robot partners: A quantitative cartography of the Uncanny Valley. Cognition, 146, 22-32."
+  year: 2016
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S0010027715300640?via%3Dihub"
+  datarepo: "https://osf.io/3rjnk/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1016/j.cognition.2015.09.008"
+#
+- id: Mathur2016c
+  text: "Mathur MB, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni N (2016). Perceived stress and telomere length: A systematic review, meta-analysis, and methodologic considerations for advancing the field. Brain, Behavior, and Immunity, 56(413), 158-169."
+  year: 2016
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S088915911630023X?via%3Dihub"
+  datarepo: "https://osf.io/e9tg8/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1016/j.bbi.2016.02.002"
+#
 - id: Mummah2016
   text: "Mummah, SA, Mathur MB, King AC, Gardner CD, Sutton S (2016). Mobile technology for vegetable consumption: a randomized controlled pilot study in overweight adults. JMIR mHealth and uHealth, 4(2), e51."
   year: 2016
-  type: "methods"
+  type: "empirical"
   authorship: "middle"
   status: "published"
-  preprint:
+  preprint: "https://pubmed.ncbi.nlm.nih.gov/27193036/"
   datarepo:
   rpackagename:
   rpackagelink:
@@ -610,3 +656,97 @@
   webappname:
   webapplink:
   doi: "10.1093/jamia/ocw161"
+# 
+# --------------------------- 2015 ---------------------------
+#
+- id: Pargaonkar2015
+  text: "Pargaonkar VS, Perez MV, Jindal A, Mathur MB, Myers J, Froelicher VF (2015). Long-term prognosis of early repolarization with J-wave and QRS slur patterns on the resting electrocardiogram: a cohort study. Annals of Internal Medicine, 163(10), 747-755."
+  year: 2015
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.acpjournals.org/doi/10.7326/M15-0598?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.7326/M15-0598"
+#
+- id: Pless2015
+  text: "Pless E, Queirolo J, Pinter-Wollman N, Crow S, Allen K, Mathur MB, Gordon DM (2015). Interactions increase forager availability and activity in harvester ants. PLOS ONE, 10(11), e0141971."
+  year: 2015
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141971"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1371/journal.pone.0141971"
+#
+- id: OSC2015
+  text: "Open Science Collaboration, including Mathur MB (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716."
+  year: 2015
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://science.sciencemag.org/content/349/6251/aac4716.long"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1126/science.aac4716"  
+# 
+# --------------------------- 2014 ---------------------------
+#
+- id: Mathur2014
+  text: "Mathur MB, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, et al. (2014). Seasonal patterns in human (A) H5N1 virus infection: analysis of global cases. PLOS ONE, 9(9), e106171."
+  year: 2014
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106171"
+  datarepo: 
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1371/journal.pone.0106171"  
+#
+- id: Patel2014
+  text: "Patel RB, Mathur MB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Khazeni N (2014). Demographic and clinical predictors of mortality from highly pathogenic avian influenza A (H5N1) virus infection: CART analysis of international cases. PLOS ONE, 9(3), e91630."
+  year: 2014
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091630"
+  datarepo:
+  rpackagename: 
+  rpackagelink: 
+  webappname: "Interactive case map"
+  webapplink: "http://flubusters.blogspot.com/p/contact.html"
+  doi: "10.1371/journal.pone.0091630"  
+#
+# --------------------------- 2010 ---------------------------
+#  
+- id: Mathur2010
+  text: "Mathur MB, Mathur VS, Reichling DB (2010). Participation in the decision to become vaccinated against human papillomavirus by California high school girls and the predictors of vaccine status. Journal of Pediatric Health Care, 24(1), 14-24."
+  year: 2010
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.jpedhc.org/article/S0891-5245(08)00350-7/fulltext"
+  datarepo: 
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1016/j.pedhc.2008.11.004"  
+#
+  
+  
+
