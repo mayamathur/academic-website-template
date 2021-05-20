@@ -1,5 +1,19 @@
-
-
+#
+# --------------------------- In preparation ---------------------------
+#
+- id: Yoshida2020
+  text: "Yoshida K, Mathur MB, Glynn RJ (2020). Conducting regression-based causal mediation analysis using the R package 'regmedint'."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://osf.io/6c79f"
+  datarepo:
+  rpackagename: "regmedint"
+  rpackagelink: "https://CRAN.R-project.org/package=regmedint"
+  webappname:
+  webapplink:
+  doi: "10.31219/osf.io/6c79f"
 #
 # --------------------------- In press ---------------------------
 #
