@@ -440,6 +440,20 @@
 #
 # --------------------------- 2018 ---------------------------
 #
+- id: Mathur2018a
+  text: "Mathur MB & VanderWeele TJ (2018). R function for additive interaction measures. Epidemiology, 29(1), e5-e6."
+  year: 2018
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://pubmed.ncbi.nlm.nih.gov/28901974/"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: "Software"
+  webapplink: "https://osf.io/7ccpp/"
+  doi: "10.1097/EDE.0000000000000752"
+#
 - id: Hardwicke2018
   text: "Hardwicke TE, Mathur MB, MacDonald K, Nilsonne G, Banks GC, Kidwell MC, et al. (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. Royal Society Open Science, 5, 180448."
   year: 2018
@@ -483,8 +497,63 @@
   doi: "10.1161/CIRCRESAHA.117.310828"
 #
 # --------------------------- 2017 ---------------------------
-
+- id: Mummah2017
+  text: "Mummah S, Robinson TN, Mathur MB, Farzinkhou S, Sutton S, Gardner CD (2017). Effect of a mobile app intervention on vegetable consumption in overweight adults: a randomized controlled trial. International Journal of Behavioral Nutrition and Physical Activity, 14(1), 125-135."
+  year: 2017
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-017-0563-2"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1186/s12966-017-0563-2"
+#
+- id: Montez2017
+  text: "Montez-Rath ME, Kapphahn K, Mathur MB, Mitani AA, Hendry DJ, Desai M (2017). Guidelines for generating right-censored outcomes from a Cox model extended to accommodate time-varying covariates. Journal of Modern Applied Statistical Methods, 16(1), 86-106."
+  year: 2018
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://digitalcommons.wayne.edu/jmasm/vol16/iss1/6/"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.22237/jmasm/1493597100"
+#
 # --------------------------- 2016 ---------------------------
+#
+- id: Mathur2016a
+  text: "Mathur MB, Gould M, Khazeni N (2016). Direct-to-consumer drug advertisements can paradoxically increase intentions to adopt lifestyle changes. Frontiers in Psychology, 7(1533)."
+  year: 2016
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01533/full"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.3389/fpsyg.2016.01533"
+#
+- id: Mathur2016b
+  text: "Mathur MB, Epel E, Kind S, Desai M, Parks CG, Sandler, DP, Khazeni N (2016). Toward a mechanistic understanding of psychosocial factors in telomere degradation. Brain, Behavior, and Immunity, 56, 413."
+  year: 2016
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/abs/pii/S0889159116301027?via%3Dihub"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1016/j.bbi.2016.04.011"
 #
 - id: Mummah2016
   text: "Mummah, SA, Mathur MB, King AC, Gardner CD, Sutton S (2016). Mobile technology for vegetable consumption: a randomized controlled pilot study in overweight adults. JMIR mHealth and uHealth, 4(2), e51."
@@ -499,3 +568,45 @@
   webappname:
   webapplink:
   doi: "10.2196/mhealth.5146"
+# 
+- id: Charytan2016
+  text: "Charytan DM, Desai M, Mathur MB, Stern NM, Brooks MM, Krzych LJ, et al. (2016). Coronary artery bypass grafting compared with percutaneous coronary intervention in chronic kidney disease: an individual patient meta-analysis of randomized trials. Kidney International, 90(2), 411-421."
+  year: 2016
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://linkinghub.elsevier.com/retrieve/pii/S0085-2538(16)30126-0"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1016/j.kint.2016.03.033"
+# 
+- id: Afghahi2016
+  text: "Afghahi A, Mathur MB, Thompson C, Mitani A, Rigdon J, Desai M,  et al. (2016). Use and impact of gene expression profiling in early-stage breast cancer: a study of linked electronic medical record, cancer registry and genomic data across two healthcare systems. Journal of Oncology Practice, 12(6), e697-e709."
+  year: 2016
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://pubmed.ncbi.nlm.nih.gov/27221993/"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1200/JOP.2015.009803"
+# 
+- id: Lo2016
+  text: "Low YS, Daugherty AC, Schroeder EA, Chen W, Seto T, Weber S, et al., including Mathur MB (2016). Synergistic drug combinations from electronic health records and gene expression. Journal of the American Medical Informatics Association, 24 (3), 565-576."
+  year: 2016
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://academic.oup.com/jamia/article/24/3/565/2664593"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1093/jamia/ocw161"
