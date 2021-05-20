@@ -128,6 +128,20 @@
   webapplink: 
   doi: "10.1111/rssa.12572"
 #
+- id: Mathur2020f
+  text: "Mathur MB & VanderWeele TJ (2020). Robust metrics and sensitivity analyses for meta-analyses of heterogeneous effects. Epidemiology, 31(3):356-358."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2020/05000/Robust_Metrics_and_Sensitivity_Analyses_for.7.aspx?casa_token=GXWV40D5E4YAAAAA:NBoojG0hyzOyj5BoYBgVnX5lXHqRMUaJ8Ik8EwGh0-xnLWLTGzo8E4u7UU1Ukgm3ek63InTa_MNhopHMmQJVw8M"
+  datarepo: "https://osf.io/6nyg8"
+  rpackagename: "MetaUtility"
+  rpackagelink: "https://CRAN.R-project.org/package=MetaUtility"
+  webappname: 
+  webapplink: 
+  doi: "10.1097/EDE.0000000000001180"
+#
 - id: Zhang2020
   text: "Zhang X, Stamey JD, Mathur MB (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. Pharmacoepidemiology and Drug Safety, 29:1219–1227."
   year: 2020
@@ -198,6 +212,20 @@
   webapplink: 
   doi: "10.1214/20-STS791"
 #
+- id: Linden2020
+  text: "Linden A, Mathur MB, & VanderWeele TJ (2020). Conducting sensitivity analysis for unmeasured confounding in observational studies using E-values: The evalue package. The Stata Journal, 20(1): 162-175."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.sagepub.com/doi/pdf/10.1177/1536867X20909696"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1177/1536867X20909696"
+#
 - id: VanderWeele2020d
   text: "VanderWeele TJ & Mathur MB (2020). Commentary: Developing best-practice guidelines for the reporting of the E-value. International Journal of Epidemiology, 49(5), 1495-1497."
   year: 2020
@@ -226,7 +254,7 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: "10.1515/jci-2018-0007"
+  doi: "10.1177/1745691619850104"
 #
 - id: VanderWeele2019a
   text: "VanderWeele TJ, Ding P, Mathur MB (2019). Technical considerations in the use of the E-value. Journal of Causal Inference, 7(2)."
