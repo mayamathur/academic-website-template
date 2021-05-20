@@ -20,8 +20,7 @@ title                    : "Maya Mathur"
 title_separator          : "-"
 name                     : "Maya Mathur"
 description:  > # this means to ignore newlines until "baseurl:"
-  I am an Assistant Professor at Stanford University's <a href="https://med.stanford.edu/qsu.html">Quantitative Sciences Unit</a> and the Associate Director of
-  the Stanford Data Science Institute's <a href="https://datascience.stanford.edu/cores">Center for Open and Reproducible Science</a> (DSI-CORES).
+  xxx
 url                      : "https://psolymos.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/academic-website-template" # the subpath of your site, e.g. "/blog", use "/" if root
 repository               : "psolymos/academic-website-template" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
