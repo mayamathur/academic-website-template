@@ -10,12 +10,11 @@ author_profile: true
       <p>Filter to software meeting any of the following criteria:</p>
       <ul>
         <li class="checkboxlist">
+        Language
         <label class="container">R package
             <input type="checkbox" v-model="show.rpkg">
             <span class="checkmark"></span>
         </label>
-        </li>
-        <li class="checkboxlist">
         <label class="container">Stata module
             <input type="checkbox" v-model="show.stata">
             <span class="checkmark"></span>
