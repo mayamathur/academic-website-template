@@ -120,3 +120,8 @@ Besides the JavaScript part of Vue, components are also part of the HTML code in
 ## GitHub pages
 
 Go to your project Settings / Pages, set source to the branch you are hosting the site on (`main`, `gh-pages`), from root (`/`). Click Save, set 'Enforce HTTPS` if you like. Jekyll is the default static site builder for GitHub pages, it'll just work.
+
+## Maya's notes to self (to organize)
+
+- Altmetric is based on the article's DOI, not its URL
+- Update CV by uploading a new copy of "CV for website.pdf" to Dropbox/Public with same name
