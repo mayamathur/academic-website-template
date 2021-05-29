@@ -123,16 +123,16 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "jane-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/jane-doe-12345678)
+  linkedin         : # (the last part of your profile url, e.g. https://www.linkedin.com/in/jane-doe-12345678)
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  stackoverflow    : # (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # 
 
 
 # Reading Files
