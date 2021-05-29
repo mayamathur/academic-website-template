@@ -1,53 +1,49 @@
 #
 
-E-values for effect heterogeneity and conservative approximations for causal interaction},
-  author={Mathur, Maya B and Smith, Louisa H and Yoshida, Kazuki and Ding, Peng and VanderWeele, Tyler J}
-
-
 # --------------------------- In preparation ---------------------------
-# #
-# - id: Mathur2021d
-#   text: "Mathur MB, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2021). E-values for effect heterogeneity and conservative approximations for causal interaction."
-#   year: 2021
-#   type: "methods"
-#   authorship: "first"
-#   status: "inprep"
-#   preprint: "https://osf.io/h6pru/"
-#   datarepo: "https://osf.io/79scv/"
-#   rpackagename: "EValue"
-#   rpackagelink: "https://CRAN.R-project.org/package=EValue"
-#   webappname: "EValue Calculator"
-#   webapplink: "http://www.evalue-calculator.com"
-#   doi: "10.31219/osf.io/h6pru"
-# #
-# - id: Yoshida2020
-#   text: "Yoshida K, Mathur MB, Glynn RJ (2020). Conducting regression-based causal mediation analysis using the R package 'regmedint'."
-#   year: 2020
-#   type: "methods"
-#   authorship: "middle"
-#   status: "inprep"
-#   preprint: "https://osf.io/6c79f"
-#   datarepo:
-#   rpackagename: "regmedint"
-#   rpackagelink: "https://CRAN.R-project.org/package=regmedint"
-#   webappname:
-#   webapplink:
-#   doi: "10.31219/osf.io/6c79f"
-# #
-# - id: Lewis2020
-#   texT: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2020). The puzzling relationship between multi-lab replications and meta-analyses of the published literature."
-#   year: 2020
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "inprep"
-#   preprint: "https://psyarxiv.com/pbrdk/"
-#   datarepo: "https://github.com/mllewis/kvarven_reanalysis/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname:
-#   webapplink:
-#   doi: "10.31234/osf.io/pbrdk"
-# #
+#
+- id: Mathur2021d
+  text: "Mathur MB, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2021). E-values for effect heterogeneity and conservative approximations for causal interaction."
+  year: 2021
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/h6pru/"
+  datarepo: "https://osf.io/79scv/"
+  rpackagename: "EValue"
+  rpackagelink: "https://CRAN.R-project.org/package=EValue"
+  webappname: "EValue Calculator"
+  webapplink: "http://www.evalue-calculator.com"
+  doi: "10.31219/osf.io/h6pru"
+#
+- id: Yoshida2020
+  text: "Yoshida K, Mathur MB, Glynn RJ (2020). Conducting regression-based causal mediation analysis using the R package 'regmedint'."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://osf.io/6c79f"
+  datarepo:
+  rpackagename: "regmedint"
+  rpackagelink: "https://CRAN.R-project.org/package=regmedint"
+  webappname:
+  webapplink:
+  doi: "10.31219/osf.io/6c79f"
+#
+- id: Lewis2020
+  texT: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2020). The puzzling relationship between multi-lab replications and meta-analyses of the published literature."
+  year: 2020
+  type: "empirical"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://psyarxiv.com/pbrdk/"
+  datarepo: "https://github.com/mllewis/kvarven_reanalysis/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.31234/osf.io/pbrdk"
+#
 # --------------------------- In press ---------------------------
 #
 - id: Ling2021
