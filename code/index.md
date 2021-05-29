@@ -11,29 +11,26 @@ author_profile: true
       <ul>
         <li class="checkboxlist">
         Language
-        <label class="container">R package
+        <label class="container">R
             <input type="checkbox" v-model="show.rpkg">
             <span class="checkmark"></span>
         </label>
-        <label class="container">Stata module
+        <label class="container">Stata
             <input type="checkbox" v-model="show.stata">
             <span class="checkmark"></span>
         </label>
+        <label class="container">Online tool
+              <input type="checkbox" v-model="show.gui">
+              <span class="checkmark"></span>
+        </label>
         </li>
         <li class="checkboxlist">
-            <label class="container">Online tool
-                <input type="checkbox" v-model="show.gui">
-                <span class="checkmark"></span>
-            </label>
-        </li>
-        <li class="checkboxlist">
-            <label class="container">Statistics
+        Type
+            <label class="container">Statistical analysis
                 <input type="checkbox" v-model="show.statistics">
                 <span class="checkmark"></span>
             </label>
-        </li>
-        <li class="checkboxlist">
-            <label class="container">Psychology
+            <label class="container">Data collection
                 <input type="checkbox" v-model="show.psychology">
                 <span class="checkmark"></span>
             </label>
