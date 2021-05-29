@@ -125,3 +125,4 @@ Go to your project Settings / Pages, set source to the branch you are hosting th
 
 - Altmetric is based on the article's DOI, not its URL
 - Update CV by uploading a new copy of "CV for website.pdf" to Dropbox/Public with same name
+- mayamathur.com domain is registered via Netlify
