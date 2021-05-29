@@ -22,7 +22,7 @@ author_profile: true
         </label>
         </li>
         <li class="checkboxlist">
-            <label class="container">GUI
+            <label class="container">Online tool
                 <input type="checkbox" v-model="show.gui">
                 <span class="checkmark"></span>
             </label>
