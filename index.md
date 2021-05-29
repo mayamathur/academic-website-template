@@ -17,7 +17,7 @@ I do both original statistical research and applied research. My publication lis
 - Behavior and health
 
 ### Education
-- PhD Biostatistics, Harvard University (2015-2018)
-- MS Statistics, Stanford University (2011-2013)
-- BA Psychology, Stanford University (2009-2013)
+- **PhD Biostatistics**, Harvard University (2015-2018)
+- **MS Statistics**, Stanford University (2011-2013)
+- **BA Psychology**, Stanford University (2009-2013)
 

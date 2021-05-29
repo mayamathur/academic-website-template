@@ -25,7 +25,7 @@ author_profile: true
         </label>
         </li>
         <li class="checkboxlist">
-        Type
+        Purpose
             <label class="container">Statistical analysis
                 <input type="checkbox" v-model="show.statistics">
                 <span class="checkmark"></span>
