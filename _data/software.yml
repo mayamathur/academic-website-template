@@ -7,7 +7,7 @@
   description: Software in R, Javascript, and Qualtrics to design and analyze psychology experiments that use fine-grained mouse-tracking measures of perceptual category competition.
   link: https://osf.io/st2ef/
   type: R package
-  domain: Psychology
+  domain: Data collection
 - name: PublicationBias
   description: Conducts sensitivity analysis for publication bias in meta-analyses.
   link: https://cran.r-project.org/web/packages/PublicationBias/index.html

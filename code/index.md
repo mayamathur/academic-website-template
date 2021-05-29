@@ -31,7 +31,7 @@ author_profile: true
                 <span class="checkmark"></span>
             </label>
             <label class="container">Data collection
-                <input type="checkbox" v-model="show.psychology">
+                <input type="checkbox" v-model="show.datacollection">
                 <span class="checkmark"></span>
             </label>
         </li>
@@ -71,7 +71,7 @@ const app = Vue.createApp({
         stata: true,
         gui: true,
         statistics: true,
-        psychology: true,
+        datacollection: true,
     },
   }),
   computed: {
@@ -87,7 +87,7 @@ const app = Vue.createApp({
                 add = true;
             if (this.show.statistics && this.swa[i].domain == "Statistics")
                 add = true;
-            if (this.show.psychology && this.swa[i].domain == "Psychology")
+            if (this.show.datacollection && this.swa[i].domain == "Data collection")
                 add = true;
             if (add)
                 x.push(this.swa[i]);
