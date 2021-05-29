@@ -1,5 +1,5 @@
 ---
-title: Code
+title: Software
 layout: academic
 author_profile: true
 ---
