@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Assistant Professor, Stanford University"
   location         : "Stanford, CA"
-  email            : "jane.doe@uni.edu"
+  email            : "mmathur@stanford.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   github           : "mayamathur"
