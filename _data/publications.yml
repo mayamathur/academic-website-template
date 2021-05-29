@@ -16,22 +16,8 @@
   webapplink: "http://www.evalue-calculator.com"
   doi: "10.31219/osf.io/h6pru"
 #
-- id: Yoshida2020
-  text: "Yoshida K, Mathur MB, Glynn RJ (2020). Conducting regression-based causal mediation analysis using the R package 'regmedint'."
-  year: 2020
-  type: "methods"
-  authorship: "middle"
-  status: "inprep"
-  preprint: "https://osf.io/6c79f"
-  datarepo:
-  rpackagename: "regmedint"
-  rpackagelink: "https://CRAN.R-project.org/package=regmedint"
-  webappname:
-  webapplink:
-  doi: "10.31219/osf.io/6c79f"
-#
 - id: Lewis2020
-  texT: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2020). The puzzling relationship between multi-lab replications and meta-analyses of the published literature."
+  text: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2020). The puzzling relationship between multi-lab replications and meta-analyses of the published literature."
   year: 2020
   type: "empirical"
   authorship: "middle"
@@ -63,21 +49,21 @@
 # --------------------------- 2021 ---------------------------
 #
 - id: Mathur2021a
-  text: "Mathur MB, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD, Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal welfare: Meta-analysis and evidence-based recommendations. <i>Appetite.</i> In press."
+  text: "Mathur MB, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD, Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal welfare: Meta-analysis and evidence-based recommendations. Appetite, 164: 105277."
   year: 2021
   type: "empirical"
   authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/bc2wy/"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S0195666321001847"
   datarepo: "https://osf.io/8zsw7/"
   rpackagename:
   rpackagelink:
   webappname:
   webapplink:
-  doi:
+  doi: "10.1016/j.appet.2021.105277"
 #
 - id: Mathur2021b
-  text: "Mathur MB & VanderWeele TJ (2021). Meta-regression methods to characterize evidence strength using meaningful-effect percentages conditional on study characteristics. <i>Research Synthesis Methods</i>. In press."
+  text: "Mathur MB & VanderWeele TJ (2021). Meta-regression methods to characterize evidence strength using meaningful-effect percentages conditional on study characteristics. Research Synthesis Methods. In press."
   year: 2021
   type: "methods"
   authorship: "first"
@@ -105,7 +91,7 @@
   doi: "10.1002/jrsm.1464"
 #
 - id: Smith2021
-  text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. <i>Epidemiology.</i> In press."
+  text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. Epidemiology. In press."
   year: 2021
   type: "methods"
   authorship: "middle"
@@ -288,6 +274,20 @@
   webapplink: 
   doi: "10.31219/osf.io/4qxgf"
 #
+- id: Mathur2020k
+  text: "Mathur MB & VanderWeele TJ (2020). A simple, interpretable conversion from Pearson's correlation to Cohen's d for continuous exposures.  Epidemiology, 31(2):e16-e18."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2020/03000/A_Simple,_Interpretable_Conversion_from_Pearson_s.24.aspx"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1097/EDE.0000000000001105"
+#
 - id: Zhang2020
   text: "Zhang X, Stamey JD, Mathur MB (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. Pharmacoepidemiology and Drug Safety, 29:1219–1227."
   year: 2020
@@ -436,7 +436,7 @@
   type: "methods"
   authorship: "first"
   status: "published"
-  preprint: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6066405/"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2018/09000/Web_Site_and_R_Package_for_Computing_E_values.26.aspx"
   datarepo: 
   rpackagename: "EValue"
   rpackagelink: "https://cran.r-project.org/web/packages/EValue"
@@ -470,7 +470,7 @@
   rpackagelink: "https://cran.r-project.org/web/packages/MetaUtility"
   webappname: 
   webapplink:
-  doi: "10.3758/s13428-019-01258-6"
+  doi: "110.1002/sim.8057"
 #
 - id: VanderWeele2019a
   text: "VanderWeele TJ, Ding P, Mathur MB (2019). Technical considerations in the use of the E-value. Journal of Causal Inference, 7(2)."
@@ -564,7 +564,7 @@
   type: "methods"
   authorship: "first"
   status: "published"
-  preprint: "https://pubmed.ncbi.nlm.nih.gov/28901974/"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2018/01000/R_Function_for_Additive_Interaction_Measures.21.aspx"
   datarepo: 
   rpackagename:
   rpackagelink: 
@@ -804,7 +804,7 @@
 # --------------------------- 2014 ---------------------------
 #
 - id: Mathur2014
-  text: "Mathur MB, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, et al. (2014). Seasonal patterns in human (A) H5N1 virus infection: analysis of global cases. PLOS ONE, 9(9), e106171."
+  text: "Mathur MB, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, et al. (2014). Seasonal patterns in human (A) H5N1 virus infection: Analysis of global cases. PLOS ONE, 9(9), e106171."
   year: 2014
   type: "empirical"
   authorship: "first"
@@ -830,6 +830,20 @@
   webappname: "Interactive case map"
   webapplink: "http://flubusters.blogspot.com/p/contact.html"
   doi: "10.1371/journal.pone.0091630"  
+#
+- id: Perez2014
+  text: "De Jesus Perez VA, Yuan K, Lyuksyutova MA, Dewey F, Orcholski ME, Shuffle EM, et al., including Mathur MB (2014). Whole exome sequencing reveals TopBP1 as a novel gene in idiopathic pulmonary arterial hypertension. American Journal of Respiratory and Critical Care Medicine, 189(10), 1260-1272."
+  year: 2014
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.atsjournals.org/doi/full/10.1164/rccm.201310-1749OC"
+  datarepo:
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1164/rccm.201310-1749OC"  
 #
 # --------------------------- 2010 ---------------------------
 #  
