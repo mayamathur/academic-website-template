@@ -29,9 +29,24 @@
   doi: "10.31234/osf.io/pbrdk"
 #
 # --------------------------- In press ---------------------------
+
 #
 - id: Ling2021
-  text: "Ling A, Montez-Rath MR, Mathur MB, Kapphahn K, Desai M. 2021. How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. **Journal of Modern Applied Statistical Methods**. In press."
+  text: "Zhang, GC, Chen JL, Luo Y, Mathur MB, Anagnostis P, Nurmatov U, et al. (2021). Menopausal hormone therapy and women's health: An umbrella review. In press."
+  year: 2021
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: 
+  datarepo: "https://osf.io/dsy37/?view_only=a5b0bfea96694a54a1b5886e3fb03765"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi:
+#
+- id: Ling2021
+  text: "Ling A, Montez-Rath MR, Mathur MB, Kapphahn K, Desai M (2021). How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. **Journal of Modern Applied Statistical Methods**. In press."
   year: 2021
   type: "methods"
   authorship: "middle"
