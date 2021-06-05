@@ -62,6 +62,16 @@ author_profile: true
 
 The `author_profile` sets the profile in the left sidebar, so keep it `true`. If you want to remove the avatar image from the sidebar, set the `author_image: false` to disable it in the yaml header of the page. Change the title as needed.
 
+The `_config.yml` file sets defaults for the page header values, it currently has the following defaults for all the site (i.e. you can omit these from the header when creating new pages, or override with other values):
+
+```yaml
+---
+layout: academic
+author_profile: true
+author_image: true
+---
+```
+
 Edit the top navigation inside the `_data/navigation.yml` file if you want the new page to be listed at the top.
 
 ### Publications
