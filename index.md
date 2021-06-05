@@ -7,28 +7,14 @@ author_image: false
 
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
-{% if author.avatar and page.author_image %}
-  <div class="author__avatar__large">
-    {% if author.avatar contains "://" %}
-      {% assign author_src = author.avatar %}
-    {% else %}
-      {% assign author_src = author.avatar | relative_url %}
-    {% endif %}
-
-    {% if author.home %}
-      {% if author.home contains "://" %}
-        {% assign author_link = author.home %}
-      {% else %}
-        {% assign author_link = author.home | relative_url %}
-      {% endif %}
-      <a href="{{ author_link }}">
-        <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
-      </a>
-    {% else %}
-      <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
-    {% endif %}
-  </div>
-{% endif %}
+<div class="author__avatar__large">
+  {% if author.avatar contains "://" %}
+    {% assign author_src = author.avatar %}
+  {% else %}
+    {% assign author_src = author.avatar | relative_url %}
+  {% endif %}
+  <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+</div>
 
 I am an Assistant Professor at Stanford University's [Quantitative Sciences Unit](https://med.stanford.edu/qsu.html) and the Department of Pediatrics. I am the Associate Director of the Stanford Data Science's [Center for Open and Reproducible Science (SDS-CORES)](https://datascience.stanford.edu/cores).
 
