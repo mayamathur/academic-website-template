@@ -157,14 +157,18 @@
 }
 
 .author__avatar__large {
-  display: block;
+  display: table-cell;
   width: 25%;
   height: auto;
   margin: auto;
   padding: 10px;
 
+  @include breakpoint($large) {
+    display: block;
+  }
+
   img {
-    max-width: 400px;
+    max-width: 250px;
     border-radius: 50%;
     opacity: 1;
 
