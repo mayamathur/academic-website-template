@@ -2,6 +2,7 @@
 title: 
 layout: academic
 author_profile: true
+author_image: false
 ---
 
 I am an Assistant Professor at Stanford University's [Quantitative Sciences Unit](https://med.stanford.edu/qsu.html) and the Department of Pediatrics. I am the Associate Director of the Stanford Data Science's [Center for Open and Reproducible Science (SDS-CORES)](https://datascience.stanford.edu/cores).

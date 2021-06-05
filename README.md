@@ -60,7 +60,7 @@ author_profile: true
 ---
 ```
 
-The `author_profile` sets the profile in the left sidebar, so keep it `true`. Change the title as needed.
+The `author_profile` sets the profile in the left sidebar, so keep it `true`. If you want to remove the avatar image from the sidebar, set the `author_image: false` to disable it in the yaml header of the page. Change the title as needed.
 
 Edit the top navigation inside the `_data/navigation.yml` file if you want the new page to be listed at the top.
 
