@@ -9,7 +9,7 @@ author_profile: true
     <div>
       <p>Filter to software meeting any of the following criteria:</p>
       <ul>
-        <li class="checkboxlist">
+        <li class="checkboxlist" style="vertical-align:top;">
         Language
         <label class="container">R
             <input type="checkbox" v-model="show.rpkg">
@@ -24,7 +24,7 @@ author_profile: true
               <span class="checkmark"></span>
         </label>
         </li>
-        <li class="checkboxlist">
+        <li class="checkboxlist" style="vertical-align:top;">
         Purpose
             <label class="container">Statistical analysis
                 <input type="checkbox" v-model="show.statistics">
