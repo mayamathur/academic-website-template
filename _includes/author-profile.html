@@ -3,7 +3,7 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  {% if author.avatar and page.author_image %}
+  {% if author.avatar and page.author_image == true %}
     <div class="author__avatar">
       {% if author.avatar contains "://" %}
         {% assign author_src = author.avatar %}
