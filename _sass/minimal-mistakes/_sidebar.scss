@@ -156,6 +156,24 @@
   }
 }
 
+.author__avatar__large {
+  display: table-cell;
+  vertical-align: top;
+  width: 120px;
+  height: 120px;
+
+  img {
+    max-width: 110px;
+    border-radius: 50%;
+    opacity: 1;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+
 .author__content {
   display: table-cell;
   vertical-align: top;
