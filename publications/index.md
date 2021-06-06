@@ -60,7 +60,7 @@ author_profile: true
       </ul>
     </div>
     <div v-for="yr in [...new Set(publ.map(a => a.year))].sort().reverse()">
-      <div v-if="publ.filter(a => (a.year === yr && a.status === 'inprep')).length > 0">
+      <div v-if="publ.filter(a => (a.year === yr && a.status !== 'inprep')).length > 0">
         <h2>{{ yr }}</h2>
         <ul class="publist">
           <div v-for="pub in publ.filter(a => (a.year === yr && a.status !== 'inprep'))">
