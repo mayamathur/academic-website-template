@@ -36,6 +36,7 @@ author_profile: true
             </label>
         </li>
       </ul>
+      <p>{{ softw.length }} software matched the criteria</p>
     </div>
     <div v-for="sof in softw">
         <h2>{{ sof.name }}</h2>
