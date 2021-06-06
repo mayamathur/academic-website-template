@@ -105,7 +105,12 @@ The page displays a range slider for filtering publications by year. By default 
 
 There are also check boxes for publication type, authorship and status. By default all of the boxes are checked and all the publications are displayed. When checkboxes are unchecked, only a corresponding subset will be displayed within the requested range of years.
 
-You can use HTML markup inside the `text` field, e.g. `<em>Journal</em> <strong>25</strong>:1&ndash;10`. Use `<strong>` for bold, `<em>` for italics, `<span style=\"text-decoration:underline;\">` for underlined text. Make sure to use single quotes or escaped double quotes inside the `text` field.
+You can use HTML markup inside the `text` field, e.g. `<em>Journal</em> <strong>25</strong>:1&ndash;10`. Use `<strong>` for bold, `<em>` for italics, `<span style='text-decoration:underline;'>` for underlined text. Make sure to use single quotes inside the `text` field (`text: "text with 'quotes' here"`).
+
+Publications display the following badges based on DOI:
+
+- [Altmetric](https://api.altmetric.com/embeds.html) showing social mentions
+- [Scite](https://scite.ai/badge) showing scholarly citations
 
 ### Software
 
