@@ -55,12 +55,15 @@ author_profile: true
       <h2>{{ yr }}</h2>
       <ul class="publist">
         <div v-for="pub in publ.filter(a => (a.year === yr))">
-          <li class="publist" ><span v-html="pub.text"></span><span v-if="pub.preprint != ''"> &mdash; <a v-bind:href="pub.preprint">Article PDF</a></span><span v-if="pub.datarepo != ''"> &mdash; <a v-bind:href="pub.datarepo">Data repository</a></span><span v-if="pub.rpackagename != ''"> &mdash; <a v-bind:href="pub.rpackagelink">{{ pub.rpackagename }}</a></span><span v-if="pub.webappname != ''"> &mdash; <a v-bind:href="pub.webapplink">{{ pub.webappname }}</a></span><span v-if="pub.doi != ''">&nbsp;<div data-badge-popover="bottom" style="display: inline-block;" data-badge-type="4" v-bind:data-doi="pub.doi" data-hide-no-mentions="true" class="altmetric-embed"></div></span></li>
+          <li class="publist" ><span v-html="pub.text"></span><span v-if="pub.preprint != ''"> &mdash; <a v-bind:href="pub.preprint">Article PDF</a></span><span v-if="pub.datarepo != ''"> &mdash; <a v-bind:href="pub.datarepo">Data repository</a></span><span v-if="pub.rpackagename != ''"> &mdash; <a v-bind:href="pub.rpackagelink">{{ pub.rpackagename }}</a></span><span v-if="pub.webappname != ''"> &mdash; <a v-bind:href="pub.webapplink">{{ pub.webappname }}</a></span><span v-if="pub.doi != ''">&nbsp;<div data-badge-popover="bottom" style="display: inline-block;" data-badge-type="4" v-bind:data-doi="pub.doi" data-hide-no-mentions="true" class="altmetric-embed"></div>&nbsp;<div class="scite-badge" data-doi="pub.doi"/></span></li>
         </div>
       </ul>
     </div>
 </div>
 <!-- {% endraw %} -->
+
+<script async type="application/javascript" src="https://cdn.scite.ai/badge/scite-badge-latest.min.js">
+</script>
 
 <script>
 // publication list
