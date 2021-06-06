@@ -32,7 +32,7 @@
 
 #
 - id: Zhang2021
-  text: "Zhang, GC, Chen JL, Luo Y, <span style=\"text-decoration:underline;\">Mathur MB</span>, Anagnostis P, Nurmatov U, et al. (2021). Menopausal hormone therapy and women's health: An umbrella review. <em>In press.</em>"
+  text: "Zhang, GC, Chen JL, Luo Y, <span style='text-decoration:underline;'>Mathur MB</span>, Anagnostis P, Nurmatov U, et al. (2021). Menopausal hormone therapy and women's health: An umbrella review. <em>In press.</em>"
   year: 2021
   type: "empirical"
   authorship: "middle"
