@@ -46,7 +46,7 @@
   doi:
 #
 - id: Ling2021
-  text: "Ling A, Montez-Rath MR, Mathur MB, Kapphahn K, Desai M (2021). How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. **Journal of Modern Applied Statistical Methods**. In press."
+  text: "Ling A, Montez-Rath MR, Mathur MB, Kapphahn K, Desai M (2021). How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. <strong>Journal of Modern Applied Statistical Methods</strong>. In press."
   year: 2021
   type: "methods"
   authorship: "middle"
@@ -62,7 +62,7 @@
 # --------------------------- 2021 ---------------------------
 #
 - id: Mathur2021a
-  text: "Mathur MB, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD, Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal welfare: Meta-analysis and evidence-based recommendations. Appetite, 164: 105277."
+  text: "Mathur MB, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD, Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal welfare: Meta-analysis and evidence-based recommendations. <strong>Appetite</strong>, 164: 105277."
   year: 2021
   type: "empirical"
   authorship: "first"
