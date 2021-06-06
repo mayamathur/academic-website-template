@@ -50,6 +50,7 @@ author_profile: true
             </label>
         </li>
       </ul>
+      <p>{{ publ.length }} publications matched the criteria</p>
     </div>
     <div v-if="publ.filter(a => (a.status === 'inprep')).length > 0">
       <h2>In preparation</h2>
