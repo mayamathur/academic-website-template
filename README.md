@@ -107,10 +107,7 @@ There are also check boxes for publication type, authorship and status. By defau
 
 You can use HTML markup inside the `text` field, e.g. `<em>Journal</em> <strong>25</strong>:1&ndash;10`. Use `<strong>` for bold, `<em>` for italics, `<span style='text-decoration:underline;'>` for underlined text. Make sure to use single quotes inside the `text` field (`text: "text with 'quotes' here"`).
 
-Publications display the following badges based on DOI:
-
-- [Altmetric](https://api.altmetric.com/embeds.html) showing social mentions
-- [Scite](https://scite.ai/badge) showing scholarly citations
+Publication page displays the [Altmetric](https://api.altmetric.com/embeds.html) badge based on DOI, which shows social mentions.
 
 ### Software
 
