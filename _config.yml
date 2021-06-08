@@ -143,6 +143,7 @@ include:
   - _pages/conference  
   - _pages/teaching
 exclude:
+  - "*.Rproj"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
