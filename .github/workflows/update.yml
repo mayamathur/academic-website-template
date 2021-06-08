@@ -19,10 +19,10 @@ jobs:
         uses: r-lib/actions/setup-r@v1
 
       - name: Install
-        run: Rscript -q -e 'install.packages(c("yaml", "scholar"))'
+        run: Rscript -e 'install.packages(c("yaml", "scholar"))'
 
       - name: Run update script
-        run: Rscript -q _R/update-citations.R
+        run: Rscript _R/update-citations.R
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.0.0
