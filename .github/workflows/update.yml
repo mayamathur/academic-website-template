@@ -1,10 +1,9 @@
-#on:
-#  schedule:
-#    - cron: '0 0 * * 0' # At 00:00 on Sunday
 on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 0 * * 0' # At 00:00 on Sunday
 
 name: update
 
