@@ -17,7 +17,7 @@ for (i in seq_along(x)) {
   z <- c(x[[i]], google_cites=list(NULL))
   pid <- z$google_id
   if (!is.null(z$google_id)) {
-    cat("\t- getting citations for PID", z$google_id, "\n")
+    cat("  - getting citations for PID", z$google_id, "\n")
     z$google_cites <- get_cites(z$google_id)
   }
   x[[i]] <- z
