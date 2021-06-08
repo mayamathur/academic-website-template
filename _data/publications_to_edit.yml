@@ -13,6 +13,7 @@
   webappname: "EValue Calculator"
   webapplink: "http://www.evalue-calculator.com"
   doi: "10.31219/osf.io/h6pru"
+  google_id: 
 #
 - id: Lewis2020
   text: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2020). The puzzling relationship between multi-lab replications and meta-analyses of the published literature."
@@ -27,6 +28,7 @@
   webappname:
   webapplink:
   doi: "10.31234/osf.io/pbrdk"
+  google_id: 
 #
 # --------------------------- In press ---------------------------
 
@@ -44,6 +46,7 @@
   webappname:
   webapplink:
   doi:
+  google_id: 
 #
 - id: Ling2021
   text: "Ling A, Montez-Rath MR, Mathur MB, Kapphahn K, Desai M (2021). How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. <strong>Journal of Modern Applied Statistical Methods</strong>. In press."
@@ -58,6 +61,7 @@
   webappname:
   webapplink:
   doi:
+  google_id: 
 #
 # --------------------------- 2021 ---------------------------
 #
@@ -74,6 +78,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.appet.2021.105277"
+  google_id: 
 #
 - id: Mathur2021b
   text: "Mathur MB & VanderWeele TJ (2021). Meta-regression methods to characterize evidence strength using meaningful-effect percentages conditional on study characteristics. Research Synthesis Methods. In press."
@@ -88,6 +93,7 @@
   webappname:
   webapplink:
   doi:
+  google_id: 
 #
 - id: Mathur2021c
   text: "Mathur MB & VanderWeele TJ (2021). Estimating publication bias in meta-analyses: A meta-meta-analysis across disciplines and journal tiers. Research Synthesis Methods, 12(2): 176-191."
@@ -102,6 +108,7 @@
   webappname:
   webapplink:
   doi: "10.1002/jrsm.1464"
+  google_id: 
 #
 - id: Smith2021
   text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. Epidemiology. In press."
@@ -116,6 +123,7 @@
   webappname:
   webapplink:
   doi:
+  google_id: 
 #
 - id: Lo2021
   text: "Lo RM, Purington N, McGhee SA, Mathur MB, Shaw GM, Schroeder AR. Infant allergy testing and food allergy diagnoses before and after guidelines for early peanut introduction. The Journal of Allergy and Clinical Immunology: In Practice, 9(1):302-10."
@@ -130,6 +138,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.jaip.2020.10.060"
+  google_id: 
 #
 - id: Fu2021
   text: "Fu R, Sekercioglu N, Mathur MB, Couban R, Coyte PC. (2021). Dialysis initiation and all-cause mortality among incident adult patients with advanced chronic kidney disease: A meta-analysis with bias analysis. Kidney Medicine, 3(1), 64-75."
@@ -144,6 +153,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.xkme.2020.09.013"
+  google_id: 
 #
 # --------------------------- 2020 ---------------------------
 #
@@ -160,6 +170,7 @@
   webappname:
   webapplink:
   doi: "10.1177/2515245918785165"
+  google_id: 
 #
 - id: Mathur2020b
   text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for unmeasured confounding in meta-analyses. Journal of the American Statistical Association, 115(529), 163-170."
@@ -174,6 +185,7 @@
   webappname: "EValue Calculator"
   webapplink: "https://www.evalue-calculator.com/meta/"
   doi: "10.1080/01621459.2018.1529598"
+  google_id: 
 #
 - id: Mathur2020c
   text: "Mathur MB, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten PAM, et al (2020). Uncanny but not confusing: Multisite study of perceptual category confusion in the Uncanny Valley. Computers in Human Behavior, 103, 21-30."
@@ -188,6 +200,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.chb.2019.08.029"
+  google_id: 
 #
 - id: Mathur2020d
   text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for publication bias in meta-analyses. Journal of the Royal Statistical Society: Series C, 69(5), 1091-1119."
@@ -202,6 +215,7 @@
   webappname:
   webapplink:
   doi: "10.1111/rssc.12440"
+  google_id: 
 #
 - id: Mathur2020e
   text: "Mathur MB & VanderWeele TJ (2020). New statistical metrics for multisite replication projects. Journal of the Royal Statistical Society: Series A, 183(3):1145-1166."
@@ -216,6 +230,7 @@
   webappname: 
   webapplink: 
   doi: "10.1111/rssa.12572"
+  google_id: 
 #
 - id: Mathur2020f
   text: "Mathur MB & VanderWeele TJ (2020). Robust metrics and sensitivity analyses for meta-analyses of heterogeneous effects. Epidemiology, 31(3):356-358."
@@ -230,6 +245,7 @@
   webappname: 
   webapplink: 
   doi: "10.1097/EDE.0000000000001180"
+  google_id: 
 #
 - id: Mathur2020g
   text: "Mathur MB & VanderWeele TJ (2020). Evidence relating health care provider burnout and quality of care. Annals of Internal Medicine, 172(6):e16-e18."
@@ -244,6 +260,7 @@
   webappname: 
   webapplink: 
   doi: "10.7326/L19-0826"
+  google_id: 
 #
 - id: Mathur2020h
   text: "Mathur MB, Robinson TN, Reichling DB, Gardner CD, Nadler JN, Bain PA, Peacock J. (2020). Reducing meat consumption by appealing to animal welfare: Protocol for a systematic review and meta-analysis. Systematic Reviews, 9(3)."
@@ -258,6 +275,7 @@
   webappname: 
   webapplink: 
   doi: "10.1186/s13643-019-1264-5"
+  google_id: 
 #
 - id: Mathur2020i
   text: "Mathur MB & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 3: Errors in the statistical justification for the 'credibility ceiling' remain uncorrected. Journal of Clinical Epidemiology, 127, 214-216."
@@ -272,6 +290,7 @@
   webappname: 
   webapplink: 
   doi: "10.31219/osf.io/p3xyd"
+  google_id: 
 #
 - id: Mathur2020j
   text: "Mathur MB & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 1: Fundamental problems with the 'credibility ceiling' method for meta-analyses. Journal of Clinical Epidemiology, 127, 208-210."
@@ -286,6 +305,7 @@
   webappname: 
   webapplink: 
   doi: "10.31219/osf.io/4qxgf"
+  google_id: 
 #
 - id: Mathur2020k
   text: "Mathur MB & VanderWeele TJ (2020). A simple, interpretable conversion from Pearson's correlation to Cohen's d for continuous exposures.  Epidemiology, 31(2):e16-e18."
@@ -300,6 +320,7 @@
   webappname: 
   webapplink: 
   doi: "10.1097/EDE.0000000000001105"
+  google_id: 
 #
 - id: Zhang2020
   text: "Zhang X, Stamey JD, Mathur MB (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. Pharmacoepidemiology and Drug Safety, 29:1219–1227."
@@ -314,6 +335,7 @@
   webappname:
   webapplink:
   doi: "10.1002/pds.5117"
+  google_id: 
 #
 - id: Ebersole2020
   text: "Ebersole, CA, Mathur MB, Chartier CA, Hartshorne JK, Ijzerman H, Ropovik I, et al (2020). Many Labs 5: Testing pre-data collection peer review as an intervention to increase replicability. Advances in Methods and Practices in Psychological Science, 3(3):309-331."
@@ -328,6 +350,7 @@
   webappname:
   webapplink:
   doi: "10.1177/2515245920958687"
+  google_id: 
 #
 - id: VanderWeele2020a
   text: "VanderWeele TJ, Martin J, Mathur MB (2020). E-values and incidence density sampling. Epidemiology, 31(6), e51-52."
@@ -342,6 +365,7 @@
   webappname: "EValue Calculator"
   webapplink: "https://www.evalue-calculator.com"
   doi: "10.1097/EDE.0000000000001238"
+  google_id: 
 #
 - id: VanderWeele2020b
   text: "VanderWeele TJ, Mathur MB, Chen Y (2020). Outcome-wide longitudinal studies: A new template for empirical studies. Statistical Science, 35:437-466."
@@ -356,6 +380,7 @@
   webappname:
   webapplink:
   doi: "10.1214/19-STS728"
+  google_id: 
 #
 - id: VanderWeele2020c
   text: "VanderWeele TJ, Mathur MB, & Chen Y  (2020). Rejoinder: The future of outcome-wide studies. Statistical Science, 35(3), 479-483."
@@ -370,6 +395,7 @@
   webappname: 
   webapplink: 
   doi: "10.1214/20-STS791"
+  google_id: 
 #
 - id: Linden2020
   text: "Linden A, Mathur MB, & VanderWeele TJ (2020). Conducting sensitivity analysis for unmeasured confounding in observational studies using E-values: The evalue package. The Stata Journal, 20(1): 162-175."
@@ -384,6 +410,7 @@
   webappname: 
   webapplink: 
   doi: "10.1177/1536867X20909696"
+  google_id: 
 #
 - id: VanderWeele2020d
   text: "VanderWeele TJ & Mathur MB (2020). Commentary: Developing best-practice guidelines for the reporting of the E-value. International Journal of Epidemiology, 49(5), 1495-1497."
@@ -398,6 +425,7 @@
   webappname: 
   webapplink: 
   doi: "10.1093/ije/dyaa094"
+  google_id: 
 #
 # --------------------------- 2019 ---------------------------
 #
@@ -414,6 +442,7 @@
   webappname: 
   webapplink: 
   doi: "10.1177/1745691619850104"
+  google_id: 
 #
 - id: Mathur2019b
   text: "Mathur MB & VanderWeele TJ (2019). Discussion on the meeting on 'Signs and sizes: understanding and replicating statistical findings'. Journal of the Royal Statistical Society: Series A, 183(5):449-469."
@@ -428,6 +457,7 @@
   webappname: 
   webapplink: 
   doi: "10.1111/rssa.12544"
+  google_id: 
 #
 - id: Mathur2019c
   text: "Mathur MB & VanderWeele TJ (2019). Challenges and suggestions for defining replication 'success' when effects may be heterogeneous: Comment on Hedges & Schauer (2019).  Psychological Methods, 24(5):571-575."
@@ -442,6 +472,7 @@
   webappname: 
   webapplink: 
   doi: "10.1037/met0000223"
+  google_id: 
 #
 - id: Mathur2019d
   text: "Mathur MB, Ding P, Riddell CA, VanderWeele TJ (2018). Website and R package for computing E-values. Epidemiology, 29(5), e45-e47."
@@ -456,6 +487,7 @@
   webappname: "EValue Calculator"
   webapplink: "https://www.evalue-calculator.com"
   doi: "10.1097/EDE.0000000000000864"
+  google_id: "oTdOBqtIf_kC"
 #
 - id: Mathur2019e
   text: "Mathur MB & Reichling DB (2019). Open-source software for mouse-tracking in Qualtrics to measure category competition. Behavior Research Methods, 51(5), 1987-1997."
@@ -470,6 +502,7 @@
   webappname: "Software"
   webapplink: "https://osf.io/st2ef/"
   doi: "10.3758/s13428-019-01258-6"
+  google_id: 
 #
 - id: Mathur2019f
   text: "Mathur MB & VanderWeele TJ (2019). New metrics for meta-analyses of heterogeneous effects. Statistics in Medicine, 38(8):1336-1342."
@@ -484,6 +517,7 @@
   webappname: 
   webapplink:
   doi: "110.1002/sim.8057"
+  google_id: 
 #
 - id: VanderWeele2019a
   text: "VanderWeele TJ, Ding P, Mathur MB (2019). Technical considerations in the use of the E-value. Journal of Causal Inference, 7(2)."
@@ -498,6 +532,7 @@
   webappname: "EValue Calculator"
   webapplink: "https://www.evalue-calculator.com"
   doi: "10.1515/jci-2018-0007"
+  google_id: 
 #
 - id: Desai2019
   text: "Desai M, Montez-Rath M, Kapphahn K, Joyce V, Mathur MB, Garcia A, et al (2019). Missing data strategies for time-varying confounders in comparative effectiveness studies of non-missing time-varying exposures and right-censored outcomes. Statistics in Medicine, 38(17):3204-3220."
@@ -512,6 +547,7 @@
   webappname: 
   webapplink: 
   doi: "10.1002/sim.8174"
+  google_id: 
 #
 - id: VanderWeele2019b
   text: "VanderWeele TJ, Mathur MB, Chen Y (2019). Media portrayals and public health: Effects on suicide and other behaviors. JAMA Psychiatry, 76(9):891-892."
@@ -526,6 +562,7 @@
   webappname: 
   webapplink: 
   doi: "10.1001/jamapsychiatry.2019.0842"
+  google_id: 
 #
 - id: VanderWeele2019c
   text: "VanderWeele TJ & Mathur MB (2019). Some desirable properties of the Bonferroni correction: Is the Bonferroni correction really so bad? American Journal of Epidemiology, 188(3):617-618."
@@ -540,6 +577,7 @@
   webappname: 
   webapplink: 
   doi: "10.1093/aje/kwy250"
+  google_id: 
 #
 - id: VanderWeele2019d
   text: "VanderWeele TJ, Mathur MB, Ding P (2019). Correcting misinterpretations of the E-value. Annals of Internal Medicine, 170(2), 131-132."
@@ -554,6 +592,7 @@
   webappname: 
   webapplink: 
   doi: "10.7326/M18-3112"
+  google_id: 
 #  
 - id: VanderWeele2019c
   text: "VanderWeele TJ & Mathur MB (2019). Some desirable properties of the Bonferroni correction: Is the Bonferroni correction really so bad? American Journal of Epidemiology, 188(3):617-618."
@@ -568,6 +607,7 @@
   webappname: 
   webapplink: 
   doi: "10.1093/aje/kwy250"
+  google_id: 
 #
 # --------------------------- 2018 ---------------------------
 #
@@ -584,6 +624,7 @@
   webappname: "Software"
   webapplink: "https://osf.io/7ccpp/"
   doi: "10.1097/EDE.0000000000000752"
+  google_id: 
 #
 - id: Hardwicke2018
   text: "Hardwicke TE, Mathur MB, MacDonald K, Nilsonne G, Banks GC, Kidwell MC, et al. (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. Royal Society Open Science, 5, 180448."
@@ -598,6 +639,7 @@
   webappname: 
   webapplink: 
   doi: "10.1098/rsos.180448"
+  google_id: "QsKbpXNoaWkC"
 #
 - id: Afghahi2018
   text: "Afghahi A, Purington N, Han S, Desai M, Pierson E, Mathur MB, et al. (2018). Higher absolute lymphocyte counts predict lower mortality from early-stage triple-negative breast cancer. Clinical Cancer Research, 24(12), 2851-2858."
@@ -612,6 +654,7 @@
   webappname: 
   webapplink: 
   doi: "10.1158/1078-0432.CCR-17-1323"
+  google_id: 
 #
 - id: Boehm2018
   text: "Boehm JK, Chen Y, Koga H, Mathur MB, Vie LL, Kubzansky LD (2018). Is optimism associated with healthier cardiovascular-related behavior? Meta-analyses of three health behaviors. Circulation Research, 122(8), 1119-1134."
@@ -626,6 +669,7 @@
   webappname: 
   webapplink: 
   doi: "10.1161/CIRCRESAHA.117.310828"
+  google_id: "_tF6a-HnqWAC"
 #
 # --------------------------- 2017 ---------------------------
 - id: Mummah2017
@@ -641,6 +685,7 @@
   webappname: 
   webapplink: 
   doi: "10.1186/s12966-017-0563-2"
+  google_id: "hNSvKAmkeYkC"
 #
 - id: Montez2017
   text: "Montez-Rath ME, Kapphahn K, Mathur MB, Mitani AA, Hendry DJ, Desai M (2017). Guidelines for generating right-censored outcomes from a Cox model extended to accommodate time-varying covariates. Journal of Modern Applied Statistical Methods, 16(1), 86-106."
@@ -655,6 +700,7 @@
   webappname: 
   webapplink: 
   doi: "10.22237/jmasm/1493597100"
+  google_id: 
 #
 # --------------------------- 2016 ---------------------------
 #
@@ -671,6 +717,7 @@
   webappname:
   webapplink:
   doi: "10.3389/fpsyg.2016.01533"
+  google_id: 
 #
 - id: Mathur2016b
   text: "Mathur MB, Epel E, Kind S, Desai M, Parks CG, Sandler, DP, Khazeni N (2016). Toward a mechanistic understanding of psychosocial factors in telomere degradation. Brain, Behavior, and Immunity, 56, 413."
@@ -685,6 +732,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.bbi.2016.04.011"
+  google_id: 
 #
 - id: Mathur2016c
   text: "Mathur MB & Reichling DB (2016). Navigating a social world with robot partners: A quantitative cartography of the Uncanny Valley. Cognition, 146, 22-32."
@@ -699,6 +747,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.cognition.2015.09.008"
+  google_id: "W7OEmFMy1HYC"
 #
 - id: Mathur2016c
   text: "Mathur MB, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni N (2016). Perceived stress and telomere length: A systematic review, meta-analysis, and methodologic considerations for advancing the field. Brain, Behavior, and Immunity, 56(413), 158-169."
@@ -713,6 +762,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.bbi.2016.02.002"
+  google_id: "WF5omc3nYNoC"
 #
 - id: Mummah2016
   text: "Mummah, SA, Mathur MB, King AC, Gardner CD, Sutton S (2016). Mobile technology for vegetable consumption: a randomized controlled pilot study in overweight adults. JMIR mHealth and uHealth, 4(2), e51."
@@ -727,6 +777,7 @@
   webappname:
   webapplink:
   doi: "10.2196/mhealth.5146"
+  google_id: "roLk4NBRz8UC"
 # 
 - id: Charytan2016
   text: "Charytan DM, Desai M, Mathur MB, Stern NM, Brooks MM, Krzych LJ, et al. (2016). Coronary artery bypass grafting compared with percutaneous coronary intervention in chronic kidney disease: an individual patient meta-analysis of randomized trials. Kidney International, 90(2), 411-421."
@@ -741,6 +792,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.kint.2016.03.033"
+  google_id: 
 # 
 - id: Afghahi2016
   text: "Afghahi A, Mathur MB, Thompson C, Mitani A, Rigdon J, Desai M,  et al. (2016). Use and impact of gene expression profiling in early-stage breast cancer: a study of linked electronic medical record, cancer registry and genomic data across two healthcare systems. Journal of Oncology Practice, 12(6), e697-e709."
@@ -755,6 +807,7 @@
   webappname:
   webapplink:
   doi: "10.1200/JOP.2015.009803"
+  google_id: 
 # 
 - id: Lo2016
   text: "Low YS, Daugherty AC, Schroeder EA, Chen W, Seto T, Weber S, et al., including Mathur MB (2016). Synergistic drug combinations from electronic health records and gene expression. Journal of the American Medical Informatics Association, 24 (3), 565-576."
@@ -769,6 +822,7 @@
   webappname:
   webapplink:
   doi: "10.1093/jamia/ocw161"
+  google_id: 
 # 
 # --------------------------- 2015 ---------------------------
 #
@@ -785,6 +839,7 @@
   webappname:
   webapplink:
   doi: "10.7326/M15-0598"
+  google_id: 
 #
 - id: Pless2015
   text: "Pless E, Queirolo J, Pinter-Wollman N, Crow S, Allen K, Mathur MB, Gordon DM (2015). Interactions increase forager availability and activity in harvester ants. PLOS ONE, 10(11), e0141971."
@@ -799,6 +854,7 @@
   webappname:
   webapplink:
   doi: "10.1371/journal.pone.0141971"
+  google_id: 
 #
 - id: OSC2015
   text: "Open Science Collaboration, including Mathur MB (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716."
@@ -812,7 +868,8 @@
   rpackagelink:
   webappname:
   webapplink:
-  doi: "10.1126/science.aac4716"  
+  doi: "10.1126/science.aac4716"
+  google_id: "Y0pCki6q_DkC"
 # 
 # --------------------------- 2014 ---------------------------
 #
@@ -828,7 +885,8 @@
   rpackagelink:
   webappname:
   webapplink:
-  doi: "10.1371/journal.pone.0106171"  
+  doi: "10.1371/journal.pone.0106171"
+  google_id: 
 #
 - id: Patel2014
   text: "Patel RB, Mathur MB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Khazeni N (2014). Demographic and clinical predictors of mortality from highly pathogenic avian influenza A (H5N1) virus infection: CART analysis of international cases. PLOS ONE, 9(3), e91630."
@@ -842,7 +900,8 @@
   rpackagelink: 
   webappname: "Interactive case map"
   webapplink: "http://flubusters.blogspot.com/p/contact.html"
-  doi: "10.1371/journal.pone.0091630"  
+  doi: "10.1371/journal.pone.0091630"
+  google_id: 
 #
 - id: Perez2014
   text: "De Jesus Perez VA, Yuan K, Lyuksyutova MA, Dewey F, Orcholski ME, Shuffle EM, et al., including Mathur MB (2014). Whole exome sequencing reveals TopBP1 as a novel gene in idiopathic pulmonary arterial hypertension. American Journal of Respiratory and Critical Care Medicine, 189(10), 1260-1272."
@@ -856,7 +915,8 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: "10.1164/rccm.201310-1749OC"  
+  doi: "10.1164/rccm.201310-1749OC"
+  google_id: 
 #
 # --------------------------- 2010 ---------------------------
 #  
@@ -872,8 +932,7 @@
   rpackagelink:
   webappname:
   webapplink:
-  doi: "10.1016/j.pedhc.2008.11.004"  
+  doi: "10.1016/j.pedhc.2008.11.004"
+  google_id: "u5HHmVD_uO8C"
 #
-  
-  
-
+google_id: 
