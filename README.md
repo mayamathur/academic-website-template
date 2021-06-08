@@ -76,7 +76,7 @@ Edit the top navigation inside the `_data/navigation.yml` file if you want the n
 
 ### Publications
 
-Publications are listed in the `/publications/index.md` page. Due to the filtering options, updating the publications is not done directly in the markdown file. Instead, add new publication entries to the `_data/publications.yml` file according to this template:
+Publications are listed in the `/publications/index.md` page. Due to the filtering options, updating the publications is not done directly in the markdown file. Instead, add new publication entries to the `_data/publications_to_edit.yml` file according to this template:
 
 ```yaml
 - id: Mathur2020
@@ -92,6 +92,8 @@ Publications are listed in the `/publications/index.md` page. Due to the filteri
   webappname: "EValue Calculator"
   webapplink: "https://www.evalue-calculator.com/meta/"
   doi: "10.1080/01621459.2018.1529598"
+  google_id:
+  google_cites:
 ```
 
 Most of the fields are self explanatory, here are the ones that are currently used for filtering and need to be exact:
@@ -108,6 +110,13 @@ There are also check boxes for publication type, authorship and status. By defau
 You can use HTML markup inside the `text` field, e.g. `<em>Journal</em> <strong>25</strong>:1&ndash;10`. Use `<strong>` for bold, `<em>` for italics, `<span style='text-decoration:underline;'>` for underlined text. Make sure to use single quotes inside the `text` field (`text: "text with 'quotes' here"`).
 
 Publication page displays the [Altmetric](https://api.altmetric.com/embeds.html) badge based on DOI, which shows social mentions.
+
+Google Scholar citations are added by the GitHub action based on the `google_id`:
+
+- edit the `_data/publications_to_edit.yml` file: add `google_id` for the publication, see the `_R/get-publication-id.R` script
+- commit the changes to the `main` branch
+- the GitHub action will run the `_R/update-citations.R` script when committing to the `main` branch, or on a schedule every Sunday
+- this script write the `_data/publications.yml` that includes the citations, this is the file used by Jekyll
 
 ### Software
 
