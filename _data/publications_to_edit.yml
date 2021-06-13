@@ -811,7 +811,7 @@
 # --------------------------- 2015 ---------------------------
 #
 - id: Pargaonkar2015
-  text: "Pargaonkar VS, Perez MV, Jindal A, Mathur MB, Myers J, Froelicher VF (2015). Long-term prognosis of early repolarization with J-wave and QRS slur patterns on the resting electrocardiogram: a cohort study. Annals of Internal Medicine, 163(10), 747-755."
+  text: "Pargaonkar VS, Perez MV, Jindal A, Mathur MB, Myers J, Froelicher VF (2015). Long-term prognosis of early repolarization with J-wave and QRS slur patterns on the resting electrocardiogram: a cohort study. <strong>Annals of Internal Medicine</strong>, 163(10), 747-755."
   year: 2015
   type: "empirical"
   authorship: "middle"
@@ -823,10 +823,10 @@
   webappname:
   webapplink:
   doi: "10.7326/M15-0598"
-  google_id: 
+  google_id: "YsMSGLbcyi4C"
 #
 - id: Pless2015
-  text: "Pless E, Queirolo J, Pinter-Wollman N, Crow S, Allen K, Mathur MB, Gordon DM (2015). Interactions increase forager availability and activity in harvester ants. PLOS ONE, 10(11), e0141971."
+  text: "Pless E, Queirolo J, Pinter-Wollman N, Crow S, Allen K, Mathur MB, Gordon DM (2015). Interactions increase forager availability and activity in harvester ants. <strong>PLOS One</strong>, 10(11), e0141971."
   year: 2015
   type: "empirical"
   authorship: "middle"
@@ -838,10 +838,10 @@
   webappname:
   webapplink:
   doi: "10.1371/journal.pone.0141971"
-  google_id: 
+  google_id: "eQOLeE2rZwMC"
 #
 - id: OSC2015
-  text: "Open Science Collaboration, including Mathur MB (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716."
+  text: "Open Science Collaboration, including Mathur MB (2015). Estimating the reproducibility of psychological science. <strong>Science</strong>, 349(6251), aac4716."
   year: 2015
   type: "empirical"
   authorship: "middle"
@@ -858,7 +858,7 @@
 # --------------------------- 2014 ---------------------------
 #
 - id: Mathur2014
-  text: "Mathur MB, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, et al. (2014). Seasonal patterns in human (A) H5N1 virus infection: Analysis of global cases. PLOS ONE, 9(9), e106171."
+  text: "Mathur MB, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, et al. (2014). Seasonal patterns in human (A) H5N1 virus infection: Analysis of global cases. <strong>PLOS One</strong>, 9(9), e106171."
   year: 2014
   type: "empirical"
   authorship: "first"
@@ -870,10 +870,10 @@
   webappname:
   webapplink:
   doi: "10.1371/journal.pone.0106171"
-  google_id: 
+  google_id: "2osOgNQ5qMEC"
 #
 - id: Patel2014
-  text: "Patel RB, Mathur MB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Khazeni N (2014). Demographic and clinical predictors of mortality from highly pathogenic avian influenza A (H5N1) virus infection: CART analysis of international cases. PLOS ONE, 9(3), e91630."
+  text: "Patel RB, Mathur MB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Khazeni N (2014). Demographic and clinical predictors of mortality from highly pathogenic avian influenza A (H5N1) virus infection: CART analysis of international cases. <strong>PLOS One</strong>, 9(3), e91630."
   year: 2014
   type: "empirical"
   authorship: "middle"
@@ -885,10 +885,10 @@
   webappname: "Interactive case map"
   webapplink: "http://flubusters.blogspot.com/p/contact.html"
   doi: "10.1371/journal.pone.0091630"
-  google_id: 
+  google_id: "60iIaj97TE0C"
 #
 - id: Perez2014
-  text: "De Jesus Perez VA, Yuan K, Lyuksyutova MA, Dewey F, Orcholski ME, Shuffle EM, et al., including Mathur MB (2014). Whole exome sequencing reveals TopBP1 as a novel gene in idiopathic pulmonary arterial hypertension. American Journal of Respiratory and Critical Care Medicine, 189(10), 1260-1272."
+  text: "De Jesus Perez VA, Yuan K, Lyuksyutova MA, Dewey F, Orcholski ME, Shuffle EM, et al., including Mathur MB (2014). Whole exome sequencing reveals TopBP1 as a novel gene in idiopathic pulmonary arterial hypertension. <strong>American Journal of Respiratory and Critical Care Medicine</strong>, 189(10), 1260-1272."
   year: 2014
   type: "empirical"
   authorship: "middle"
@@ -900,12 +900,12 @@
   webappname: 
   webapplink: 
   doi: "10.1164/rccm.201310-1749OC"
-  google_id: 
+  google_id: "qjMakFHDy7sC"
 #
 # --------------------------- 2010 ---------------------------
 #  
 - id: Mathur2010
-  text: "Mathur MB, Mathur VS, Reichling DB (2010). Participation in the decision to become vaccinated against human papillomavirus by California high school girls and the predictors of vaccine status. Journal of Pediatric Health Care, 24(1), 14-24."
+  text: "Mathur MB, Mathur VS, Reichling DB (2010). Participation in the decision to become vaccinated against human papillomavirus by California high school girls and the predictors of vaccine status. <strong>Journal of Pediatric Health Care</strong>, 24(1), 14-24."
   year: 2010
   type: "empirical"
   authorship: "first"
