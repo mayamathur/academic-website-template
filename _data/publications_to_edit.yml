@@ -95,7 +95,7 @@
   google_id: "XDrR66g3YHsC"
 #
 - id: Mathur2021c
-  text: "Mathur MB & VanderWeele TJ (2021). Estimating publication bias in meta-analyses: A meta-meta-analysis across disciplines and journal tiers. Research Synthesis Methods, 12(2): 176-191."
+  text: "Mathur MB & VanderWeele TJ (2021). Estimating publication bias in meta-analyses: A meta-meta-analysis across disciplines and journal tiers. <strong>Research Synthesis Methods</strong> 12(2): 176-191."
   year: 2021
   type: "empirical"
   authorship: "first"
@@ -110,7 +110,7 @@
   google_id: "TGkaJS32XoUC"
 #
 - id: Smith2021
-  text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. Epidemiology. In press."
+  text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. <strong>Epidemiology</strong>. In press."
   year: 2021
   type: "methods"
   authorship: "middle"
@@ -157,7 +157,7 @@
 # --------------------------- 2020 ---------------------------
 #
 - id: Mathur2020a
-  text: "Mathur MB, Bart-Plange DJ, Aczel B, Bernstein MH, Ciunci A, Ebersole CR, et al. (2020). Many Labs 5: Registered multisite replication of tempting-fate effects in Risen & Gilovich, 2008. Advances in Methods and Practices in Psychological Science, 3(3):394-404."
+  text: "Mathur MB, Bart-Plange DJ, Aczel B, Bernstein MH, Ciunci A, Ebersole CR, et al. (2020). Many Labs 5: Registered multisite replication of tempting-fate effects in Risen & Gilovich, 2008. <strong>Advances in Methods and Practices in Psychological Science</strong>, 3(3):394-404."
   year: 2020
   type: "empirical"
   authorship: "first"
@@ -172,7 +172,7 @@
   google_id: "TesyEGJKHF4C"
 #
 - id: Mathur2020b
-  text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for unmeasured confounding in meta-analyses. Journal of the American Statistical Association, 115(529), 163-170."
+  text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for unmeasured confounding in meta-analyses. <strong>Journal of the American Statistical Association</strong>, 115(529), 163-170."
   year: 2020
   type: "methods"
   authorship: "first"
@@ -187,7 +187,7 @@
   google_id: "n3vGvpFsckwC"
 #
 - id: Mathur2020c
-  text: "Mathur MB, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten PAM, et al (2020). Uncanny but not confusing: Multisite study of perceptual category confusion in the Uncanny Valley. Computers in Human Behavior, 103, 21-30."
+  text: "Mathur MB, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten PAM, et al (2020). Uncanny but not confusing: Multisite study of perceptual category confusion in the Uncanny Valley. <strong>Computers in Human Behavior</strong>, 103, 21-30."
   year: 2020
   type: "empirical"
   authorship: "first"
@@ -202,7 +202,7 @@
   google_id: "In6cVmBjs0IC"
 #
 - id: Mathur2020d
-  text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for publication bias in meta-analyses. Journal of the Royal Statistical Society: Series C, 69(5), 1091-1119."
+  text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for publication bias in meta-analyses. <strong>Journal of the Royal Statistical Society: Series C</strong>, 69(5), 1091-1119."
   year: 2020
   type: "methods"
   authorship: "first"
@@ -214,10 +214,10 @@
   webappname:
   webapplink:
   doi: "10.1111/rssc.12440"
-  google_id: 
+  google_id: "L24QuVWYgZ0C"
 #
 - id: Mathur2020e
-  text: "Mathur MB & VanderWeele TJ (2020). New statistical metrics for multisite replication projects. Journal of the Royal Statistical Society: Series A, 183(3):1145-1166."
+  text: "Mathur MB & VanderWeele TJ (2020). New statistical metrics for multisite replication projects. <strong>Journal of the Royal Statistical Society: Series A</strong>, 183(3):1145-1166."
   year: 2020
   type: "methods"
   authorship: "first"
@@ -229,10 +229,10 @@
   webappname: 
   webapplink: 
   doi: "10.1111/rssa.12572"
-  google_id: 
+  google_id: "N4u4nq0IxgcC"
 #
 - id: Mathur2020f
-  text: "Mathur MB & VanderWeele TJ (2020). Robust metrics and sensitivity analyses for meta-analyses of heterogeneous effects. Epidemiology, 31(3):356-358."
+  text: "Mathur MB & VanderWeele TJ (2020). Robust metrics and sensitivity analyses for meta-analyses of heterogeneous effects. <strong>Epidemiology</strong>, 31(3):356-358."
   year: 2020
   type: "methods"
   authorship: "first"
@@ -244,10 +244,10 @@
   webappname: 
   webapplink: 
   doi: "10.1097/EDE.0000000000001180"
-  google_id: 
+  google_id: "ifOnle78iJkC"
 #
 - id: Mathur2020g
-  text: "Mathur MB & VanderWeele TJ (2020). Evidence relating health care provider burnout and quality of care. Annals of Internal Medicine, 172(6):e16-e18."
+  text: "Mathur MB & VanderWeele TJ (2020). Evidence relating health care provider burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18."
   year: 2020
   type: "methods"
   authorship: "first"
@@ -259,10 +259,10 @@
   webappname: 
   webapplink: 
   doi: "10.7326/L19-0826"
-  google_id: 
+  google_id: "VRfTbSk87rEC"
 #
 - id: Mathur2020h
-  text: "Mathur MB, Robinson TN, Reichling DB, Gardner CD, Nadler JN, Bain PA, Peacock J. (2020). Reducing meat consumption by appealing to animal welfare: Protocol for a systematic review and meta-analysis. Systematic Reviews, 9(3)."
+  text: "Mathur MB, Robinson TN, Reichling DB, Gardner CD, Nadler JN, Bain PA, Peacock J. (2020). Reducing meat consumption by appealing to animal welfare: Protocol for a systematic review and meta-analysis. <strong>Systematic Reviews</strong>, 9(3)."
   year: 2020
   type: "empirical"
   authorship: "first"
@@ -274,7 +274,7 @@
   webappname: 
   webapplink: 
   doi: "10.1186/s13643-019-1264-5"
-  google_id: 
+  google_id: "PlWzFYVEG4EC"
 #
 - id: Mathur2020i
   text: "Mathur MB & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 3: Errors in the statistical justification for the 'credibility ceiling' remain uncorrected. Journal of Clinical Epidemiology, 127, 214-216."
