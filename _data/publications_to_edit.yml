@@ -122,10 +122,10 @@
   webappname:
   webapplink:
   doi:
-  google_id: 
+  google_id: "kUhpeDhEZMUC"
 #
 - id: Lo2021
-  text: "Lo RM, Purington N, McGhee SA, Mathur MB, Shaw GM, Schroeder AR. Infant allergy testing and food allergy diagnoses before and after guidelines for early peanut introduction. The Journal of Allergy and Clinical Immunology: In Practice, 9(1):302-10."
+  text: "Lo RM, Purington N, McGhee SA, Mathur MB, Shaw GM, Schroeder AR. Infant allergy testing and food allergy diagnoses before and after guidelines for early peanut introduction. <strong>The Journal of Allergy and Clinical Immunology: In Practice</strong>, 9(1):302-10."
   year: 2021
   type: "empirical"
   authorship: "middle"
@@ -137,10 +137,10 @@
   webappname:
   webapplink:
   doi: "10.1016/j.jaip.2020.10.060"
-  google_id: 
+  google_id: "KI9T_ytC6pkC"
 #
 - id: Fu2021
-  text: "Fu R, Sekercioglu N, Mathur MB, Couban R, Coyte PC. (2021). Dialysis initiation and all-cause mortality among incident adult patients with advanced chronic kidney disease: A meta-analysis with bias analysis. Kidney Medicine, 3(1), 64-75."
+  text: "Fu R, Sekercioglu N, Mathur MB, Couban R, Coyte PC. (2021). Dialysis initiation and all-cause mortality among incident adult patients with advanced chronic kidney disease: A meta-analysis with bias analysis. <strong>Kidney Medicine</strong>, 3(1), 64-75."
   year: 2021
   type: "empirical"
   authorship: "middle"
@@ -152,7 +152,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.xkme.2020.09.013"
-  google_id: 
+  google_id: "0sTkTiv_uMkC"
 #
 # --------------------------- 2020 ---------------------------
 #
