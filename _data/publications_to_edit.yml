@@ -60,7 +60,7 @@
   webappname:
   webapplink:
   doi:
-  google_id: 
+  google_id: "tz746QTLzJkC"
 #
 # --------------------------- 2021 ---------------------------
 #
@@ -77,7 +77,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.appet.2021.105277"
-  google_id: 
+  google_id: "E7VqQtBCVmcC"
 #
 - id: Mathur2021b
   text: "Mathur MB & VanderWeele TJ (2021). Meta-regression methods to characterize evidence strength using meaningful-effect percentages conditional on study characteristics. Research Synthesis Methods. In press."
@@ -92,7 +92,7 @@
   webappname:
   webapplink:
   doi:
-  google_id: 
+  google_id: "XDrR66g3YHsC"
 #
 - id: Mathur2021c
   text: "Mathur MB & VanderWeele TJ (2021). Estimating publication bias in meta-analyses: A meta-meta-analysis across disciplines and journal tiers. Research Synthesis Methods, 12(2): 176-191."
@@ -107,7 +107,7 @@
   webappname:
   webapplink:
   doi: "10.1002/jrsm.1464"
-  google_id: 
+  google_id: "TGkaJS32XoUC"
 #
 - id: Smith2021
   text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. Epidemiology. In press."
