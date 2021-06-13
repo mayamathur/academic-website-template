@@ -28,7 +28,7 @@
   webappname:
   webapplink:
   doi: "10.31234/osf.io/pbrdk"
-  google_id: 
+  google_id: "U0iAMwwPxtsC"
 #
 # --------------------------- In press ---------------------------
 #
@@ -45,7 +45,7 @@
   webappname:
   webapplink:
   doi:
-  google_id: 
+  google_id: "aDl3D7KC1E4C"
 #
 - id: Ling2021
   text: "Ling A, Montez-Rath MR, Mathur MB, Kapphahn K, Desai M (2021). How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. <strong>Journal of Modern Applied Statistical Methods</strong>. In press."
