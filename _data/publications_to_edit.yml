@@ -444,7 +444,7 @@
   google_id: "Y0-TYkg6YM4C"
 #
 - id: Mathur2019b
-  text: "Mathur MB & VanderWeele TJ (2019). Discussion on the meeting on 'Signs and sizes: understanding and replicating statistical findings'. Journal of the Royal Statistical Society: Series A, 183(5):449-469."
+  text: "Mathur MB & VanderWeele TJ (2019). Discussion on the meeting on 'Signs and sizes: understanding and replicating statistical findings'. <strong>Journal of the Royal Statistical Society: Series A</strong>, 183(5):449-469."
   year: 2019
   type: "methods"
   authorship: "first"
@@ -456,10 +456,10 @@
   webappname: 
   webapplink: 
   doi: "10.1111/rssa.12544"
-  google_id: 
+  google_id: "R22Rs3tN8aoC"
 #
 - id: Mathur2019c
-  text: "Mathur MB & VanderWeele TJ (2019). Challenges and suggestions for defining replication 'success' when effects may be heterogeneous: Comment on Hedges & Schauer (2019).  Psychological Methods, 24(5):571-575."
+  text: "Mathur MB & VanderWeele TJ (2019). Challenges and suggestions for defining replication 'success' when effects may be heterogeneous: Comment on Hedges & Schauer (2019).  <strong>Psychological Methods</strong>, 24(5):571-575."
   year: 2019
   type: "methods"
   authorship: "first"
@@ -471,10 +471,10 @@
   webappname: 
   webapplink: 
   doi: "10.1037/met0000223"
-  google_id: 
+  google_id: "I8rxH6phXEkC"
 #
 - id: Mathur2019d
-  text: "Mathur MB, Ding P, Riddell CA, VanderWeele TJ (2018). Website and R package for computing E-values. Epidemiology, 29(5), e45-e47."
+  text: "Mathur MB, Ding P, Riddell CA, VanderWeele TJ (2018). Website and R package for computing E-values. <strong>Epidemiology</strong>, 29(5), e45-e47."
   year: 2019
   type: "methods"
   authorship: "first"
@@ -489,7 +489,7 @@
   google_id: "oTdOBqtIf_kC"
 #
 - id: Mathur2019e
-  text: "Mathur MB & Reichling DB (2019). Open-source software for mouse-tracking in Qualtrics to measure category competition. Behavior Research Methods, 51(5), 1987-1997."
+  text: "Mathur MB & Reichling DB (2019). Open-source software for mouse-tracking in Qualtrics to measure category competition. <strong>Behavior Research Methods</strong>, 51(5), 1987-1997."
   year: 2019
   type: "methods"
   authorship: "first"
@@ -501,10 +501,10 @@
   webappname: "Software"
   webapplink: "https://osf.io/st2ef/"
   doi: "10.3758/s13428-019-01258-6"
-  google_id: 
+  google_id: "W2uZP3ddy8sC"
 #
 - id: Mathur2019f
-  text: "Mathur MB & VanderWeele TJ (2019). New metrics for meta-analyses of heterogeneous effects. Statistics in Medicine, 38(8):1336-1342."
+  text: "Mathur MB & VanderWeele TJ (2019). New metrics for meta-analyses of heterogeneous effects. <strong>Statistics in Medicine</strong>, 38(8):1336-1342."
   year: 2019
   type: "methods"
   authorship: "first"
@@ -516,10 +516,10 @@
   webappname: 
   webapplink:
   doi: "110.1002/sim.8057"
-  google_id: 
+  google_id: "QoJ_w57xiyAC"
 #
 - id: VanderWeele2019a
-  text: "VanderWeele TJ, Ding P, Mathur MB (2019). Technical considerations in the use of the E-value. Journal of Causal Inference, 7(2)."
+  text: "VanderWeele TJ, Ding P, Mathur MB (2019). Technical considerations in the use of the E-value. <strong>Journal of Causal Inference</strong>, 7(2)."
   year: 2019
   type: "methods"
   authorship: "middle"
@@ -531,10 +531,10 @@
   webappname: "EValue Calculator"
   webapplink: "https://www.evalue-calculator.com"
   doi: "10.1515/jci-2018-0007"
-  google_id: 
+  google_id: "Azgs6IHzeyYC"
 #
 - id: Desai2019
-  text: "Desai M, Montez-Rath M, Kapphahn K, Joyce V, Mathur MB, Garcia A, et al (2019). Missing data strategies for time-varying confounders in comparative effectiveness studies of non-missing time-varying exposures and right-censored outcomes. Statistics in Medicine, 38(17):3204-3220."
+  text: "Desai M, Montez-Rath M, Kapphahn K, Joyce V, Mathur MB, Garcia A, et al (2019). Missing data strategies for time-varying confounders in comparative effectiveness studies of non-missing time-varying exposures and right-censored outcomes. <strong>Statistics in Medicine</strong>, 38(17):3204-3220."
   year: 2019
   type: "methods"
   authorship: "middle"
@@ -546,10 +546,10 @@
   webappname: 
   webapplink: 
   doi: "10.1002/sim.8174"
-  google_id: 
+  google_id: "RMgMIBzvq-4C"
 #
 - id: VanderWeele2019b
-  text: "VanderWeele TJ, Mathur MB, Chen Y (2019). Media portrayals and public health: Effects on suicide and other behaviors. JAMA Psychiatry, 76(9):891-892."
+  text: "VanderWeele TJ, Mathur MB, Chen Y (2019). Media portrayals and public health: Effects on suicide and other behaviors. <strong>JAMA Psychiatry</strong>, 76(9):891-892."
   year: 2019
   type: "empirical"
   authorship: "middle"
@@ -561,10 +561,10 @@
   webappname: 
   webapplink: 
   doi: "10.1001/jamapsychiatry.2019.0842"
-  google_id: 
+  google_id: "yTLRzDEmwhEC"
 #
 - id: VanderWeele2019c
-  text: "VanderWeele TJ & Mathur MB (2019). Some desirable properties of the Bonferroni correction: Is the Bonferroni correction really so bad? American Journal of Epidemiology, 188(3):617-618."
+  text: "VanderWeele TJ & Mathur MB (2019). Some desirable properties of the Bonferroni correction: Is the Bonferroni correction really so bad? <strong>American Journal of Epidemiology</strong>, 188(3):617-618."
   year: 2019
   type: "methods"
   authorship: "middle"
@@ -576,10 +576,10 @@
   webappname: 
   webapplink: 
   doi: "10.1093/aje/kwy250"
-  google_id: 
+  google_id: "x21FZCSn4ZoC"
 #
 - id: VanderWeele2019d
-  text: "VanderWeele TJ, Mathur MB, Ding P (2019). Correcting misinterpretations of the E-value. Annals of Internal Medicine, 170(2), 131-132."
+  text: "VanderWeele TJ, Mathur MB, Ding P (2019). Correcting misinterpretations of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132."
   year: 2019
   type: "methods"
   authorship: "middle"
@@ -591,27 +591,12 @@
   webappname: 
   webapplink: 
   doi: "10.7326/M18-3112"
-  google_id: 
+  google_id: "rCNdntzdTkkC"
 #  
-- id: VanderWeele2019c
-  text: "VanderWeele TJ & Mathur MB (2019). Some desirable properties of the Bonferroni correction: Is the Bonferroni correction really so bad? American Journal of Epidemiology, 188(3):617-618."
-  year: 2019
-  type: "methods"
-  authorship: "middle"
-  status: "published"
-  preprint: "https://pubmed.ncbi.nlm.nih.gov/30452538/"
-  datarepo: 
-  rpackagename:
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.1093/aje/kwy250"
-  google_id: 
-#
 # --------------------------- 2018 ---------------------------
 #
 - id: Mathur2018a
-  text: "Mathur MB & VanderWeele TJ (2018). R function for additive interaction measures. Epidemiology, 29(1), e5-e6."
+  text: "Mathur MB & VanderWeele TJ (2018). R function for additive interaction measures. <strong>Epidemiology</strong>, 29(1), e5-e6."
   year: 2018
   type: "methods"
   authorship: "first"
@@ -623,10 +608,10 @@
   webappname: "Software"
   webapplink: "https://osf.io/7ccpp/"
   doi: "10.1097/EDE.0000000000000752"
-  google_id: 
+  google_id: "yeL6HyUMUGUC"
 #
 - id: Hardwicke2018
-  text: "Hardwicke TE, Mathur MB, MacDonald K, Nilsonne G, Banks GC, Kidwell MC, et al. (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. Royal Society Open Science, 5, 180448."
+  text: "Hardwicke TE, Mathur MB, MacDonald K, Nilsonne G, Banks GC, Kidwell MC, et al. (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. <strong>Royal Society Open Science</strong>, 5, 180448."
   year: 2018
   type: "empirical"
   authorship: "middle"
@@ -641,7 +626,7 @@
   google_id: "QsKbpXNoaWkC"
 #
 - id: Afghahi2018
-  text: "Afghahi A, Purington N, Han S, Desai M, Pierson E, Mathur MB, et al. (2018). Higher absolute lymphocyte counts predict lower mortality from early-stage triple-negative breast cancer. Clinical Cancer Research, 24(12), 2851-2858."
+  text: "Afghahi A, Purington N, Han S, Desai M, Pierson E, Mathur MB, et al. (2018). Higher absolute lymphocyte counts predict lower mortality from early-stage triple-negative breast cancer. <strong>Clinical Cancer Research</strong>, 24(12), 2851-2858."
   year: 2018
   type: "empirical"
   authorship: "middle"
@@ -653,10 +638,10 @@
   webappname: 
   webapplink: 
   doi: "10.1158/1078-0432.CCR-17-1323"
-  google_id: 
+  google_id: "orDZ08hpP44C"
 #
 - id: Boehm2018
-  text: "Boehm JK, Chen Y, Koga H, Mathur MB, Vie LL, Kubzansky LD (2018). Is optimism associated with healthier cardiovascular-related behavior? Meta-analyses of three health behaviors. Circulation Research, 122(8), 1119-1134."
+  text: "Boehm JK, Chen Y, Koga H, Mathur MB, Vie LL, Kubzansky LD (2018). Is optimism associated with healthier cardiovascular-related behavior? Meta-analyses of three health behaviors. <strong>Circulation Research</strong>, 122(8), 1119-1134."
   year: 2018
   type: "empirical"
   authorship: "middle"
@@ -672,7 +657,7 @@
 #
 # --------------------------- 2017 ---------------------------
 - id: Mummah2017
-  text: "Mummah S, Robinson TN, Mathur MB, Farzinkhou S, Sutton S, Gardner CD (2017). Effect of a mobile app intervention on vegetable consumption in overweight adults: a randomized controlled trial. International Journal of Behavioral Nutrition and Physical Activity, 14(1), 125-135."
+  text: "Mummah S, Robinson TN, Mathur MB, Farzinkhou S, Sutton S, Gardner CD (2017). Effect of a mobile app intervention on vegetable consumption in overweight adults: a randomized controlled trial. <strong>International Journal of Behavioral Nutrition and Physical Activity</strong>, 14(1), 125-135."
   year: 2017
   type: "empirical"
   authorship: "middle"
@@ -687,7 +672,7 @@
   google_id: "hNSvKAmkeYkC"
 #
 - id: Montez2017
-  text: "Montez-Rath ME, Kapphahn K, Mathur MB, Mitani AA, Hendry DJ, Desai M (2017). Guidelines for generating right-censored outcomes from a Cox model extended to accommodate time-varying covariates. Journal of Modern Applied Statistical Methods, 16(1), 86-106."
+  text: "Montez-Rath ME, Kapphahn K, Mathur MB, Mitani AA, Hendry DJ, Desai M (2017). Guidelines for generating right-censored outcomes from a Cox model extended to accommodate time-varying covariates. <strong>Journal of Modern Applied Statistical Methods</strong>, 16(1), 86-106."
   year: 2018
   type: "methods"
   authorship: "middle"
@@ -699,12 +684,12 @@
   webappname: 
   webapplink: 
   doi: "10.22237/jmasm/1493597100"
-  google_id: 
+  google_id: "nPTYJWkExTIC"
 #
 # --------------------------- 2016 ---------------------------
 #
 - id: Mathur2016a
-  text: "Mathur MB, Gould M, Khazeni N (2016). Direct-to-consumer drug advertisements can paradoxically increase intentions to adopt lifestyle changes. Frontiers in Psychology, 7(1533)."
+  text: "Mathur MB, Gould M, Khazeni N (2016). Direct-to-consumer drug advertisements can paradoxically increase intentions to adopt lifestyle changes. <strong>Frontiers in Psychology</strong>, 7(1533)."
   year: 2016
   type: "empirical"
   authorship: "first"
@@ -716,10 +701,10 @@
   webappname:
   webapplink:
   doi: "10.3389/fpsyg.2016.01533"
-  google_id: 
+  google_id: "5nxA0vEk-isC"
 #
 - id: Mathur2016b
-  text: "Mathur MB, Epel E, Kind S, Desai M, Parks CG, Sandler, DP, Khazeni N (2016). Toward a mechanistic understanding of psychosocial factors in telomere degradation. Brain, Behavior, and Immunity, 56, 413."
+  text: "Mathur MB, Epel E, Kind S, Desai M, Parks CG, Sandler, DP, Khazeni N (2016). Toward a mechanistic understanding of psychosocial factors in telomere degradation. <strong>Brain, Behavior, and Immunity</strong>, 56, 413."
   year: 2016
   type: "empirical"
   authorship: "first"
@@ -731,10 +716,10 @@
   webappname:
   webapplink:
   doi: "10.1016/j.bbi.2016.04.011"
-  google_id: 
+  google_id: "LkGwnXOMwfcC"
 #
 - id: Mathur2016c
-  text: "Mathur MB & Reichling DB (2016). Navigating a social world with robot partners: A quantitative cartography of the Uncanny Valley. Cognition, 146, 22-32."
+  text: "Mathur MB & Reichling DB (2016). Navigating a social world with robot partners: A quantitative cartography of the Uncanny Valley. <strong>Cognition</strong>, 146, 22-32."
   year: 2016
   type: "empirical"
   authorship: "first"
@@ -749,7 +734,7 @@
   google_id: "W7OEmFMy1HYC"
 #
 - id: Mathur2016c
-  text: "Mathur MB, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni N (2016). Perceived stress and telomere length: A systematic review, meta-analysis, and methodologic considerations for advancing the field. Brain, Behavior, and Immunity, 56(413), 158-169."
+  text: "Mathur MB, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni N (2016). Perceived stress and telomere length: A systematic review, meta-analysis, and methodologic considerations for advancing the field. <strong>Brain, Behavior, and Immunity</strong>, 56(413), 158-169."
   year: 2016
   type: "empirical"
   authorship: "first"
@@ -764,7 +749,7 @@
   google_id: "WF5omc3nYNoC"
 #
 - id: Mummah2016
-  text: "Mummah, SA, Mathur MB, King AC, Gardner CD, Sutton S (2016). Mobile technology for vegetable consumption: a randomized controlled pilot study in overweight adults. JMIR mHealth and uHealth, 4(2), e51."
+  text: "Mummah, SA, Mathur MB, King AC, Gardner CD, Sutton S (2016). Mobile technology for vegetable consumption: a randomized controlled pilot study in overweight adults. <strong>JMIR mHealth and uHealth</strong>, 4(2), e51."
   year: 2016
   type: "empirical"
   authorship: "middle"
@@ -779,7 +764,7 @@
   google_id: "roLk4NBRz8UC"
 # 
 - id: Charytan2016
-  text: "Charytan DM, Desai M, Mathur MB, Stern NM, Brooks MM, Krzych LJ, et al. (2016). Coronary artery bypass grafting compared with percutaneous coronary intervention in chronic kidney disease: an individual patient meta-analysis of randomized trials. Kidney International, 90(2), 411-421."
+  text: "Charytan DM, Desai M, Mathur MB, Stern NM, Brooks MM, Krzych LJ, et al. (2016). Coronary artery bypass grafting compared with percutaneous coronary intervention in chronic kidney disease: an individual patient meta-analysis of randomized trials. <strong>Kidney International</strong>, 90(2), 411-421."
   year: 2016
   type: "empirical"
   authorship: "middle"
@@ -791,10 +776,10 @@
   webappname:
   webapplink:
   doi: "10.1016/j.kint.2016.03.033"
-  google_id: 
+  google_id: "UebtZRa9Y70C"
 # 
 - id: Afghahi2016
-  text: "Afghahi A, Mathur MB, Thompson C, Mitani A, Rigdon J, Desai M,  et al. (2016). Use and impact of gene expression profiling in early-stage breast cancer: a study of linked electronic medical record, cancer registry and genomic data across two healthcare systems. Journal of Oncology Practice, 12(6), e697-e709."
+  text: "Afghahi A, Mathur MB, Thompson C, Mitani A, Rigdon J, Desai M,  et al. (2016). Use and impact of gene expression profiling in early-stage breast cancer: a study of linked electronic medical record, cancer registry and genomic data across two healthcare systems. <strong>Journal of Oncology Practice</strong>, 12(6), e697-e709."
   year: 2016
   type: "empirical"
   authorship: "middle"
@@ -806,10 +791,10 @@
   webappname:
   webapplink:
   doi: "10.1200/JOP.2015.009803"
-  google_id: 
+  google_id: "Se3iqnhoufwC"
 # 
 - id: Lo2016
-  text: "Low YS, Daugherty AC, Schroeder EA, Chen W, Seto T, Weber S, et al., including Mathur MB (2016). Synergistic drug combinations from electronic health records and gene expression. Journal of the American Medical Informatics Association, 24 (3), 565-576."
+  text: "Low YS, Daugherty AC, Schroeder EA, Chen W, Seto T, Weber S, et al., including Mathur MB (2016). Synergistic drug combinations from electronic health records and gene expression. <strong>Journal of the American Medical Informatics Association</strong>, 24 (3), 565-576."
   year: 2016
   type: "empirical"
   authorship: "middle"
@@ -821,7 +806,7 @@
   webappname:
   webapplink:
   doi: "10.1093/jamia/ocw161"
-  google_id: 
+  google_id: "qmtmRrLr0tkC"
 # 
 # --------------------------- 2015 ---------------------------
 #
