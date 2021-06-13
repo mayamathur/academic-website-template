@@ -80,7 +80,7 @@
   google_id: "E7VqQtBCVmcC"
 #
 - id: Mathur2021b
-  text: "Mathur MB & VanderWeele TJ (2021). Meta-regression methods to characterize evidence strength using meaningful-effect percentages conditional on study characteristics. Research Synthesis Methods. In press."
+  text: "Mathur MB & VanderWeele TJ (2021). Meta-regression methods to characterize evidence strength using meaningful-effect percentages conditional on study characteristics. <strong>Research Synthesis Methods</strong>. In press."
   year: 2021
   type: "methods"
   authorship: "first"
@@ -169,7 +169,7 @@
   webappname:
   webapplink:
   doi: "10.1177/2515245918785165"
-  google_id: 
+  google_id: "TesyEGJKHF4C"
 #
 - id: Mathur2020b
   text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for unmeasured confounding in meta-analyses. Journal of the American Statistical Association, 115(529), 163-170."
@@ -199,7 +199,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.chb.2019.08.029"
-  google_id: 
+  google_id: "In6cVmBjs0IC"
 #
 - id: Mathur2020d
   text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for publication bias in meta-analyses. Journal of the Royal Statistical Society: Series C, 69(5), 1091-1119."
