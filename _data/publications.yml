@@ -34,7 +34,7 @@
 - id: Zhang2021
   text: 'Zhang, GC, Chen JL, Luo Y, <span style=''text-decoration:underline;''>Mathur
     MB</span>, Anagnostis P, Nurmatov U, et al. (2021). Menopausal hormone therapy
-    and women''s health: An umbrella review. <em>In press.</em>'
+    and women''s health: An umbrella review. <strong>PLOS Medicine.<> <em>In press.</em>'
   year: 2021
   type: empirical
   authorship: middle
@@ -201,7 +201,7 @@
   webapplink: https://www.evalue-calculator.com/meta/
   doi: 10.1080/01621459.2018.1529598
   google_id: n3vGvpFsckwC
-  google_cites: 35
+  google_cites: 36
 - id: Mathur2020c
   text: 'Mathur MB, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten
     PAM, et al (2020). Uncanny but not confusing: Multisite study of perceptual category
@@ -532,7 +532,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 147
+  google_cites: 148
 - id: Mathur2019e
   text: Mathur MB & Reichling DB (2019). Open-source software for mouse-tracking in
     Qualtrics to measure category competition. Behavior Research Methods, 51(5), 1987-1997.
@@ -698,7 +698,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 112
+  google_cites: 113
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, Mathur MB, et al. (2018).
     Higher absolute lymphocyte counts predict lower mortality from early-stage triple-negative
@@ -818,7 +818,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 257
+  google_cites: 259
 - id: Mathur2016c
   text: 'Mathur MB, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni N (2016).
     Perceived stress and telomere length: A systematic review, meta-analysis, and
@@ -853,7 +853,7 @@
   webapplink: ~
   doi: 10.2196/mhealth.5146
   google_id: roLk4NBRz8UC
-  google_cites: 47
+  google_cites: 48
 - id: Charytan2016
   text: 'Charytan DM, Desai M, Mathur MB, Stern NM, Brooks MM, Krzych LJ, et al. (2016).
     Coronary artery bypass grafting compared with percutaneous coronary intervention
@@ -958,7 +958,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 5354
+  google_cites: 5362
 - id: Mathur2014
   text: 'Mathur MB, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, et al. (2014).
     Seasonal patterns in human (A) H5N1 virus infection: Analysis of global cases.
