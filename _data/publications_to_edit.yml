@@ -45,7 +45,7 @@
   webappname:
   webapplink:
   doi:
-  google_id: "aDl3D7KC1E4C"
+  google_id: "JH5k92_tO-AC"
 #
 - id: Ling2021
   text: "Ling A, Montez-Rath MR, Mathur MB, Kapphahn K, Desai M (2021). How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. <strong>Journal of Modern Applied Statistical Methods</strong>. In press."
@@ -277,7 +277,7 @@
   google_id: "PlWzFYVEG4EC"
 #
 - id: Mathur2020i
-  text: "Mathur MB & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 3: Errors in the statistical justification for the 'credibility ceiling' remain uncorrected. Journal of Clinical Epidemiology, 127, 214-216."
+  text: "Mathur MB & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 3: Errors in the statistical justification for the 'credibility ceiling' remain uncorrected. <strong>Journal of Clinical Epidemiology</strong>, 127, 214-216."
   year: 2020
   type: "methods"
   authorship: "first"
@@ -289,10 +289,10 @@
   webappname: 
   webapplink: 
   doi: "10.31219/osf.io/p3xyd"
-  google_id: 
+  google_id: "BAanoTsO0WEC"
 #
 - id: Mathur2020j
-  text: "Mathur MB & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 1: Fundamental problems with the 'credibility ceiling' method for meta-analyses. Journal of Clinical Epidemiology, 127, 208-210."
+  text: "Mathur MB & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 1: Fundamental problems with the 'credibility ceiling' method for meta-analyses. <strong>Journal of Clinical Epidemiology</strong>, 127, 208-210."
   year: 2020
   type: "methods"
   authorship: "first"
@@ -304,10 +304,10 @@
   webappname: 
   webapplink: 
   doi: "10.31219/osf.io/4qxgf"
-  google_id: 
+  google_id: "lbI08cpqPnQC"
 #
 - id: Mathur2020k
-  text: "Mathur MB & VanderWeele TJ (2020). A simple, interpretable conversion from Pearson's correlation to Cohen's d for continuous exposures.  Epidemiology, 31(2):e16-e18."
+  text: "Mathur MB & VanderWeele TJ (2020). A simple, interpretable conversion from Pearson's correlation to Cohen's d for continuous exposures. <strong>Epidemiology</strong> 31(2):e16-e18."
   year: 2020
   type: "methods"
   authorship: "first"
@@ -319,10 +319,10 @@
   webappname: 
   webapplink: 
   doi: "10.1097/EDE.0000000000001105"
-  google_id: 
+  google_id: "rOcdG6UcVlcC"
 #
 - id: Zhang2020
-  text: "Zhang X, Stamey JD, Mathur MB (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. Pharmacoepidemiology and Drug Safety, 29:1219–1227."
+  text: "Zhang X, Stamey JD, Mathur MB (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. <strong>Pharmacoepidemiology and Drug Safety</strong>, 29:1219–1227."
   year: 2020
   type: "methods"
   authorship: "senior"
@@ -334,10 +334,10 @@
   webappname:
   webapplink:
   doi: "10.1002/pds.5117"
-  google_id: 
+  google_id: "aDl3D7KC1E4C"
 #
 - id: Ebersole2020
-  text: "Ebersole, CA, Mathur MB, Chartier CA, Hartshorne JK, Ijzerman H, Ropovik I, et al (2020). Many Labs 5: Testing pre-data collection peer review as an intervention to increase replicability. Advances in Methods and Practices in Psychological Science, 3(3):309-331."
+  text: "Ebersole, CA, Mathur MB, Chartier CA, Hartshorne JK, Ijzerman H, Ropovik I, et al (2020). <strong>Many Labs 5: Testing pre-data collection peer review as an intervention to increase replicability. Advances in Methods and Practices in Psychological Science</strong>, 3(3):309-331."
   year: 2020
   type: "empirical"
   authorship: "middle"
@@ -349,10 +349,10 @@
   webappname:
   webapplink:
   doi: "10.1177/2515245920958687"
-  google_id: 
+  google_id: "TesyEGJKHF4C"
 #
 - id: VanderWeele2020a
-  text: "VanderWeele TJ, Martin J, Mathur MB (2020). E-values and incidence density sampling. Epidemiology, 31(6), e51-52."
+  text: "VanderWeele TJ, Martin J, Mathur MB (2020). E-values and incidence density sampling. <strong>Epidemiology</strong>, 31(6), e51-52."
   year: 2020
   type: "methods"
   authorship: "middle"
@@ -364,10 +364,10 @@
   webappname: "EValue Calculator"
   webapplink: "https://www.evalue-calculator.com"
   doi: "10.1097/EDE.0000000000001238"
-  google_id: 
+  google_id: "PuOEWVtPfzwC"
 #
 - id: VanderWeele2020b
-  text: "VanderWeele TJ, Mathur MB, Chen Y (2020). Outcome-wide longitudinal studies: A new template for empirical studies. Statistical Science, 35:437-466."
+  text: "VanderWeele TJ, Mathur MB, Chen Y (2020). Outcome-wide longitudinal studies: A new template for empirical studies. <strong>Statistical Science</strong>, 35:437-466."
   year: 2020
   type: "methods"
   authorship: "middle"
@@ -379,10 +379,10 @@
   webappname:
   webapplink:
   doi: "10.1214/19-STS728"
-  google_id: 
+  google_id: "7Frjd3zlGBUC"
 #
 - id: VanderWeele2020c
-  text: "VanderWeele TJ, Mathur MB, & Chen Y  (2020). Rejoinder: The future of outcome-wide studies. Statistical Science, 35(3), 479-483."
+  text: "VanderWeele TJ, Mathur MB, & Chen Y  (2020). Rejoinder: The future of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483."
   year: 2020
   type: "methods"
   authorship: "middle"
@@ -394,10 +394,10 @@
   webappname: 
   webapplink: 
   doi: "10.1214/20-STS791"
-  google_id: 
+  google_id: "J3LtWjKFLicC"
 #
 - id: Linden2020
-  text: "Linden A, Mathur MB, & VanderWeele TJ (2020). Conducting sensitivity analysis for unmeasured confounding in observational studies using E-values: The evalue package. The Stata Journal, 20(1): 162-175."
+  text: "Linden A, Mathur MB, & VanderWeele TJ (2020). Conducting sensitivity analysis for unmeasured confounding in observational studies using E-values: The evalue package. <strong>The Stata Journal</strong>, 20(1): 162-175."
   year: 2020
   type: "methods"
   authorship: "middle"
@@ -409,10 +409,10 @@
   webappname: 
   webapplink: 
   doi: "10.1177/1536867X20909696"
-  google_id: 
+  google_id: "Vno172sVVMwC"
 #
 - id: VanderWeele2020d
-  text: "VanderWeele TJ & Mathur MB (2020). Commentary: Developing best-practice guidelines for the reporting of the E-value. International Journal of Epidemiology, 49(5), 1495-1497."
+  text: "VanderWeele TJ & Mathur MB (2020). Commentary: Developing best-practice guidelines for the reporting of the E-value. <strong>International Journal of Epidemiology</strong>, 49(5), 1495-1497."
   year: 2020
   type: "methods"
   authorship: "middle"
@@ -424,12 +424,12 @@
   webappname: 
   webapplink: 
   doi: "10.1093/ije/dyaa094"
-  google_id: 
+  google_id: "3A3nxV7CjKIC"
 #
 # --------------------------- 2019 ---------------------------
 #
 - id: Mathur2019a
-  text: "Mathur MB & VanderWeele TJ (2019). Finding common ground in meta-analysis 'wars' on violent video games. Perspectives on Psychological Science, 14(4), 705-708."
+  text: "Mathur MB & VanderWeele TJ (2019). Finding common ground in meta-analysis 'wars' on violent video games. <strong>Perspectives on Psychological Science</strong>, 14(4), 705-708."
   year: 2019
   type: "empirical"
   authorship: "first"
@@ -441,7 +441,7 @@
   webappname: 
   webapplink: 
   doi: "10.1177/1745691619850104"
-  google_id: 
+  google_id: "Y0-TYkg6YM4C"
 #
 - id: Mathur2019b
   text: "Mathur MB & VanderWeele TJ (2019). Discussion on the meeting on 'Signs and sizes: understanding and replicating statistical findings'. Journal of the Royal Statistical Society: Series A, 183(5):449-469."
