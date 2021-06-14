@@ -47,21 +47,6 @@
   doi:
   google_id: "JH5k92_tO-AC"
 #
-- id: Ling2021
-  text: "Ling A, Montez-Rath MR, Mathur MB, Kapphahn K, Desai M (2021). How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. <strong>Journal of Modern Applied Statistical Methods</strong>. In press."
-  year: 2021
-  type: "methods"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://arxiv.org/abs/1904.07408"
-  datarepo:
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi:
-  google_id: "tz746QTLzJkC"
-#
 # --------------------------- 2021 ---------------------------
 #
 - id: Mathur2021a
@@ -321,6 +306,21 @@
   doi: "10.1097/EDE.0000000000001105"
   google_id: "rOcdG6UcVlcC"
 #
+- id: Ling2020
+  text: "Ling A, Montez-Rath MR, Mathur MB, Kapphahn K, Desai (2020). How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. <strong>Journal of Modern Applied Statistical Methods</strong> 19(1): eP3439."
+  year: 2021
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://arxiv.org/abs/1904.07408"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi:
+  google_id: "tz746QTLzJkC"
+#
 - id: Zhang2020
   text: "Zhang X, Stamey JD, Mathur MB (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. <strong>Pharmacoepidemiology and Drug Safety</strong>, 29:1219–1227."
   year: 2020
@@ -337,7 +337,7 @@
   google_id: "aDl3D7KC1E4C"
 #
 - id: Ebersole2020
-  text: "Ebersole, CA, Mathur MB, Chartier CA, Hartshorne JK, Ijzerman H, Ropovik I, et al (2020). <strong>Many Labs 5: Testing pre-data collection peer review as an intervention to increase replicability. Advances in Methods and Practices in Psychological Science</strong>, 3(3):309-331."
+  text: "Ebersole, CA, Mathur MB, Chartier CA, Hartshorne JK, Ijzerman H, Ropovik I, et al (2020). Many Labs 5: Testing pre-data collection peer review as an intervention to increase replicability. <strong>Advances in Methods and Practices in Psychological Science</strong>, 3(3):309-331."
   year: 2020
   type: "empirical"
   authorship: "middle"
@@ -473,21 +473,6 @@
   doi: "10.1037/met0000223"
   google_id: "I8rxH6phXEkC"
 #
-- id: Mathur2019d
-  text: "Mathur MB, Ding P, Riddell CA, VanderWeele TJ (2018). Website and R package for computing E-values. <strong>Epidemiology</strong>, 29(5), e45-e47."
-  year: 2019
-  type: "methods"
-  authorship: "first"
-  status: "published"
-  preprint: "https://journals.lww.com/epidem/Fulltext/2018/09000/Web_Site_and_R_Package_for_Computing_E_values.26.aspx"
-  datarepo: 
-  rpackagename: "EValue"
-  rpackagelink: "https://cran.r-project.org/web/packages/EValue"
-  webappname: "EValue Calculator"
-  webapplink: "https://www.evalue-calculator.com"
-  doi: "10.1097/EDE.0000000000000864"
-  google_id: "oTdOBqtIf_kC"
-#
 - id: Mathur2019e
   text: "Mathur MB & Reichling DB (2019). Open-source software for mouse-tracking in Qualtrics to measure category competition. <strong>Behavior Research Methods</strong>, 51(5), 1987-1997."
   year: 2019
@@ -609,6 +594,21 @@
   webapplink: "https://osf.io/7ccpp/"
   doi: "10.1097/EDE.0000000000000752"
   google_id: "yeL6HyUMUGUC"
+#
+- id: Mathur2018b
+  text: "Mathur MB, Ding P, Riddell CA, VanderWeele TJ (2018). Website and R package for computing E-values. <strong>Epidemiology</strong>, 29(5), e45-e47."
+  year: 2018
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2018/09000/Web_Site_and_R_Package_for_Computing_E_values.26.aspx"
+  datarepo: 
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue"
+  webappname: "EValue Calculator"
+  webapplink: "https://www.evalue-calculator.com"
+  doi: "10.1097/EDE.0000000000000864"
+  google_id: "oTdOBqtIf_kC"
 #
 - id: Hardwicke2018
   text: "Hardwicke TE, Mathur MB, MacDonald K, Nilsonne G, Banks GC, Kidwell MC, et al. (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. <strong>Royal Society Open Science</strong>, 5, 180448."
@@ -885,7 +885,7 @@
   webappname: "Interactive case map"
   webapplink: "http://flubusters.blogspot.com/p/contact.html"
   doi: "10.1371/journal.pone.0091630"
-  google_id: "60iIaj97TE0C"
+  google_id: "9yKSN-GCB0IC"
 #
 - id: Perez2014
   text: "De Jesus Perez VA, Yuan K, Lyuksyutova MA, Dewey F, Orcholski ME, Shuffle EM, et al., including Mathur MB (2014). Whole exome sequencing reveals TopBP1 as a novel gene in idiopathic pulmonary arterial hypertension. <strong>American Journal of Respiratory and Critical Care Medicine</strong>, 189(10), 1260-1272."
