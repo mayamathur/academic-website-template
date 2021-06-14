@@ -2,9 +2,11 @@
 main:
   - title: Publications
     url: /publications/
+  - title: CV
+    url: /cv/
   - title: Software
     url: /code/
   - title: Teaching
     url: /teaching/
-  - title: CV
-    url: /cv/
+  - title: Join my lab
+    url: /join/
