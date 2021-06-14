@@ -110,7 +110,7 @@
   google_id: "kUhpeDhEZMUC"
 #
 - id: Lo2021
-  text: "Lo RM, Purington N, McGhee SA, Mathur MB, Shaw GM, Schroeder AR. Infant allergy testing and food allergy diagnoses before and after guidelines for early peanut introduction. <strong>The Journal of Allergy and Clinical Immunology: In Practice</strong>, 9(1):302-10."
+  text: "Lo RM, Purington N, McGhee SA, Mathur MB, Shaw GM, Schroeder AR (2021). Infant allergy testing and food allergy diagnoses before and after guidelines for early peanut introduction. <strong>The Journal of Allergy and Clinical Immunology: In Practice</strong>, 9(1):302-10."
   year: 2021
   type: "empirical"
   authorship: "middle"
@@ -308,7 +308,7 @@
 #
 - id: Ling2020
   text: "Ling A, Montez-Rath MR, Mathur MB, Kapphahn K, Desai (2020). How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. <strong>Journal of Modern Applied Statistical Methods</strong> 19(1): eP3439."
-  year: 2021
+  year: 2020
   type: "methods"
   authorship: "middle"
   status: "published"
@@ -325,7 +325,7 @@
   text: "Zhang X, Stamey JD, Mathur MB (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. <strong>Pharmacoepidemiology and Drug Safety</strong>, 29:1219–1227."
   year: 2020
   type: "methods"
-  authorship: "senior"
+  authorship: "last"
   status: "published"
   preprint: "https://osf.io/fe4gs/"
   datarepo: 
