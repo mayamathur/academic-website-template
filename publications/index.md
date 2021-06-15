@@ -44,7 +44,7 @@ author_profile: true
                 <input type="checkbox" v-model="show.published">
                 <span class="checkmark"></span>
             </label>
-            <label class="container">In preparation
+            <label class="container">In preparation / in press
                 <input type="checkbox" v-model="show.inprep">
                 <span class="checkmark"></span>
             </label>
