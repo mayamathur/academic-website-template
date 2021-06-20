@@ -30,7 +30,7 @@
   webapplink: ~
   doi: 10.31234/osf.io/pbrdk
   google_id: U0iAMwwPxtsC
-  google_cites: 1
+  google_cites: 2
 - id: Zhang2021
   text: 'Zhang, GC, Chen JL, Luo Y, Mathur MB, Anagnostis P, Nurmatov U, et al. (2021).
     Menopausal hormone therapy and women''s health: An umbrella review. <strong>PLOS
@@ -186,7 +186,7 @@
   webapplink: https://www.evalue-calculator.com/meta/
   doi: 10.1080/01621459.2018.1529598
   google_id: n3vGvpFsckwC
-  google_cites: 35
+  google_cites: 36
 - id: Mathur2020c
   text: 'Mathur MB, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten
     PAM, et al (2020). Uncanny but not confusing: Multisite study of perceptual category
@@ -813,7 +813,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 261
+  google_cites: 262
 - id: Mathur2016c
   text: 'Mathur MB, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni N (2016).
     Perceived stress and telomere length: A systematic review, meta-analysis, and
@@ -831,7 +831,7 @@
   webapplink: ~
   doi: 10.1016/j.bbi.2016.02.002
   google_id: WF5omc3nYNoC
-  google_cites: 173
+  google_cites: 174
 - id: Mummah2016
   text: 'Mummah, SA, Mathur MB, King AC, Gardner CD, Sutton S (2016). Mobile technology
     for vegetable consumption: a randomized controlled pilot study in overweight adults.
@@ -953,7 +953,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 5374
+  google_cites: 5378
 - id: Mathur2014
   text: 'Mathur MB, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, et al. (2014).
     Seasonal patterns in human (A) H5N1 virus infection: Analysis of global cases.
@@ -1006,7 +1006,7 @@
   webapplink: ~
   doi: 10.1164/rccm.201310-1749OC
   google_id: qjMakFHDy7sC
-  google_cites: 77
+  google_cites: 78
 - id: Mathur2010
   text: Mathur MB, Mathur VS, Reichling DB (2010). Participation in the decision to
     become vaccinated against human papillomavirus by California high school girls
