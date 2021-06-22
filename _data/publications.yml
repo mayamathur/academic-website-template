@@ -626,7 +626,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 35
+  google_cites: 36
 - id: VanderWeele2019d
   text: VanderWeele TJ, Mathur MB, Ding P (2019). Correcting misinterpretations of
     the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -674,7 +674,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 148
+  google_cites: 151
 - id: Hardwicke2018
   text: 'Hardwicke TE, Mathur MB, MacDonald K, Nilsonne G, Banks GC, Kidwell MC, et
     al. (2018). Data availability, reusability, and analytic reproducibility: Evaluating
@@ -692,7 +692,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 115
+  google_cites: 117
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, Mathur MB, et al. (2018).
     Higher absolute lymphocyte counts predict lower mortality from early-stage triple-negative
@@ -744,7 +744,7 @@
   webapplink: ~
   doi: 10.1186/s12966-017-0563-2
   google_id: hNSvKAmkeYkC
-  google_cites: 54
+  google_cites: 55
 - id: Montez2017
   text: Montez-Rath ME, Kapphahn K, Mathur MB, Mitani AA, Hendry DJ, Desai M (2017).
     Guidelines for generating right-censored outcomes from a Cox model extended to
@@ -813,7 +813,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 262
+  google_cites: 263
 - id: Mathur2016c
   text: 'Mathur MB, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni N (2016).
     Perceived stress and telomere length: A systematic review, meta-analysis, and
@@ -953,7 +953,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 5378
+  google_cites: 5390
 - id: Mathur2014
   text: 'Mathur MB, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, et al. (2014).
     Seasonal patterns in human (A) H5N1 virus infection: Analysis of global cases.
@@ -988,7 +988,7 @@
   webapplink: http://flubusters.blogspot.com/p/contact.html
   doi: 10.1371/journal.pone.0091630
   google_id: 9yKSN-GCB0IC
-  google_cites: 24
+  google_cites: 25
 - id: Perez2014
   text: De Jesus Perez VA, Yuan K, Lyuksyutova MA, Dewey F, Orcholski ME, Shuffle
     EM, et al., including Mathur MB (2014). Whole exome sequencing reveals TopBP1
