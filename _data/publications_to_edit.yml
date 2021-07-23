@@ -15,6 +15,22 @@
   doi: "10.31219/osf.io/h6pru"
   google_id: 
 #
+#
+- id: Grundy2021
+  text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB. Interventions that influence animal-product consumption: A meta-review.""
+  year: 2021
+  type: "empirical"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://osf.io/mcdsq/"
+  datarepo: "https://osf.io/s4bz3/?view_only=e0ab65dc636944c0b2e81ad7b0632493"
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.17605/OSF.IO/S4BZ3"
+  google_id: 
+#
 - id: Lewis2020
   text: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2020). The puzzling relationship between multi-lab replications and meta-analyses of the published literature."
   year: 2020
