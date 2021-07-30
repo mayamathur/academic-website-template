@@ -48,6 +48,22 @@
 #
 # --------------------------- In press ---------------------------
 #
+- id: Mathur2022a
+  text: "Mathur MB & VanderWeele TJ (2022). Methods to address confounding and other biases in meta-analyses: Review and recommendations. <\strong>Annual Review of Public Health<\strong>. In press."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/v7dtq/"
+  datarepo: "https://osf.io/yd3ws/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+#
 - id: Voytenko2021
   text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB (2021). Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> In press."
   year: 2021
@@ -185,7 +201,7 @@
   webappname:
   webapplink:
   doi: "10.1177/2515245918785165"
-  google_id: "TesyEGJKHF4C"
+  google_id: "EaFouW7jFu4C"
 #
 - id: Mathur2020b
   text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for unmeasured confounding in meta-analyses. <strong>Journal of the American Statistical Association</strong>, 115(529), 163-170."
@@ -268,7 +284,7 @@
   type: "methods"
   authorship: "first"
   status: "published"
-  preprint: "https://journals.lww.com/epidem/Fulltext/2020/03000/A_Simple,_Interpretable_Conversion_from_Pearson_s.24.aspx"
+  preprint: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7958380/"
   datarepo: "https://osf.io/3ekfm"
   rpackagename: 
   rpackagelink: 
