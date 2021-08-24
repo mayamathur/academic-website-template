@@ -1,7 +1,7 @@
 # --------------------------- In preparation ---------------------------
 #
 - id: Mathur2021d
-  text: "Mathur MB, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2021). E-values for effect heterogeneity and conservative approximations for causal interaction. In preparation."
+  text: "Mathur MB, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2021). E-values for effect heterogeneity and approximations for causal interaction. In preparation."
   year: 2021
   type: "methods"
   authorship: "first"
@@ -117,14 +117,14 @@
   type: "methods"
   authorship: "first"
   status: "inpress"
-  preprint: "https://osf.io/bmtdq/"
+  preprint: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/jrsm.1504"
   datarepo: "https://osf.io/gs7fp/"
   rpackagename:
   rpackagelink:
   webappname:
   webapplink:
   doi:
-  google_id: "XDrR66g3YHsC"
+  google_id: "h168fVGZblEC"
 #
 - id: Mathur2021c
   text: "Mathur MB & VanderWeele TJ (2021). Estimating publication bias in meta-analyses: A meta-meta-analysis across disciplines and journal tiers. <strong>Research Synthesis Methods</strong> 12(2): 176-191."
