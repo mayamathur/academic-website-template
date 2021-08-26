@@ -1,5 +1,21 @@
 # --------------------------- In preparation ---------------------------
 #
+- id: Maier2021
+  text: "Maier M, VanderWeele TJ, Mathur MB (2021). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. In preparation."
+  year: 2021
+  type: "methods"
+  authorship: "last"
+  status: "inprep"
+  preprint: " Preprint retrieved from: https://osf.io/preprints/metaarxiv/tp45u"
+  datarepo: "https://osf.io/37y9f/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.31222/osf.io/tp45u"
+  google_id: 
+#
+#
 - id: Mathur2021d
   text: "Mathur MB, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2021). E-values for effect heterogeneity and approximations for causal interaction. In preparation."
   year: 2021
