@@ -6,7 +6,7 @@
   type: "methods"
   authorship: "last"
   status: "inprep"
-  preprint: " Preprint retrieved from: https://osf.io/preprints/metaarxiv/tp45u"
+  preprint: "https://osf.io/preprints/metaarxiv/tp45u"
   datarepo: "https://osf.io/37y9f/"
   rpackagename: 
   rpackagelink: 
