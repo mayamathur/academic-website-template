@@ -64,6 +64,22 @@
 #
 # --------------------------- In press ---------------------------
 #
+- id: Tsui2022
+  text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including \textbf{Mathur MB} (2022+). Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. </strong>Developmental Science.</strong> Accepted pending data collection."
+  year: 2022
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: 
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+#
 - id: Mathur2022a
   text: "Mathur MB & VanderWeele TJ (2022). Methods to address confounding and other biases in meta-analyses: Review and recommendations. <strong>Annual Review of Public Health</strong>. In press."
   year: 2022
