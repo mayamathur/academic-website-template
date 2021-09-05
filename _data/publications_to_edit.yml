@@ -112,11 +112,11 @@
   google_id:
 #
 - id: Zhang2021
-  text: "Zhang, GC, Chen JL, Luo Y, Mathur MB, Anagnostis P, Nurmatov U, et al. (2021). Menopausal hormone therapy and women's health: An umbrella review. <strong>PLOS Medicine.</strong> In press."
+  text: "Zhang, GC, Chen JL, Luo Y, Mathur MB, Anagnostis P, Nurmatov U, et al. (2021). Menopausal hormone therapy and women's health: An umbrella review. <strong>PLOS Medicine,</strong> 18(8): e1003731."
   year: 2021
   type: "empirical"
   authorship: "middle"
-  status: "inpress"
+  status: "published"
   preprint: "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003731"
   datarepo: "https://osf.io/dsy37/?view_only=a5b0bfea96694a54a1b5886e3fb03765"
   rpackagename:
@@ -174,12 +174,12 @@
   google_id: "TGkaJS32XoUC"
 #
 - id: Smith2021
-  text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. <strong>Epidemiology</strong>. In press."
+  text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-2634."
   year: 2021
   type: "methods"
   authorship: "middle"
-  status: "inpress"
-  preprint: "https://arxiv.org/abs/2005.02908/"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2019/07000/Bounding_Bias_Due_to_Selection.7.aspx"
   datarepo: 
   rpackagename: "EValue"
   rpackagelink: "https://cran.r-project.org/web/packages/EValue/vignettes/multiple-bias-examples.html"
