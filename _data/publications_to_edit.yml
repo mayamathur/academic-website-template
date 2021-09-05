@@ -110,22 +110,7 @@
   webapplink:
   doi:
   google_id:
-#
-- id: Zhang2021
-  text: "Zhang, GC, Chen JL, Luo Y, Mathur MB, Anagnostis P, Nurmatov U, et al. (2021). Menopausal hormone therapy and women's health: An umbrella review. <strong>PLOS Medicine,</strong> 18(8): e1003731."
-  year: 2021
-  type: "empirical"
-  authorship: "middle"
-  status: "published"
-  preprint: "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003731"
-  datarepo: "https://osf.io/dsy37/?view_only=a5b0bfea96694a54a1b5886e3fb03765"
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi:
-  google_id: "RXiHnyRawswC"
-#
+
 # --------------------------- 2021 ---------------------------
 #
 - id: Mathur2021a
@@ -172,6 +157,21 @@
   webapplink:
   doi: "10.1002/jrsm.1464"
   google_id: "TGkaJS32XoUC"
+#
+- id: Zhang2021
+  text: "Zhang, GC, Chen JL, Luo Y, Mathur MB, Anagnostis P, Nurmatov U, et al. (2021). Menopausal hormone therapy and women's health: An umbrella review. <strong>PLOS Medicine,</strong> 18(8): e1003731."
+  year: 2021
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003731"
+  datarepo: "https://osf.io/dsy37/?view_only=a5b0bfea96694a54a1b5886e3fb03765"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi:
+  google_id: "RXiHnyRawswC"
 #
 - id: Smith2021
   text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. <strong>Epidemiology</strong>, 30(4): 509-516."
