@@ -174,12 +174,12 @@
   google_id: "RXiHnyRawswC"
 #
 - id: Smith2021
-  text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. <strong>Epidemiology</strong>, 30(4): 509-516."
+  text: "Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634."
   year: 2021
   type: "methods"
   authorship: "middle"
   status: "published"
-  preprint: "https://journals.lww.com/epidem/Fulltext/2019/07000/Bounding_Bias_Due_to_Selection.7.aspx"
+  preprint: "https://journals.lww.com/epidem/Citation/2021/09000/Multiple_bias_Sensitivity_Analysis_Using_Bounds.2.aspx"
   datarepo: 
   rpackagename: "EValue"
   rpackagelink: "https://cran.r-project.org/web/packages/EValue/vignettes/multiple-bias-examples.html"
