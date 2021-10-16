@@ -96,22 +96,6 @@
 #
 # --------------------------- In press ---------------------------
 #
-- id: Tsui2022
-  text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB (2022+). Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
-  year: 2022
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: 
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-#
 - id: Mathur2022a
   text: "Mathur MB & VanderWeele TJ (2022). Methods to address confounding and other biases in meta-analyses: Review and recommendations. <strong>Annual Review of Public Health</strong>. In press."
   year: 2022
@@ -127,6 +111,20 @@
   doi: 
   google_id: 
 #
+- id: Errington2021
+  text: "Errington TM, Mathur MB, Soderberg CK, Denis A, Perfito N, et al. (2021). Investigating the replicability of preclinical cancer biology. <strong>eLife.</strong> In press."
+  year: 2021
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: 
+  datarepo: 
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi:
+  google_id:
 #
 - id: Voytenko2021
   text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB (2021). Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> In press."
@@ -142,7 +140,22 @@
   webapplink:
   doi:
   google_id:
-
+#
+- id: Tsui2022
+  text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB (2022+). Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
+  year: 2022
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: 
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 # --------------------------- 2021 ---------------------------
 #
 - id: Mathur2021a
