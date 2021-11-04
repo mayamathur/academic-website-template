@@ -174,22 +174,22 @@
   google_id: "E7VqQtBCVmcC"
 #
 - id: Mathur2021b
-  text: "Mathur MB & VanderWeele TJ (2021). Meta-regression methods to characterize evidence strength using meaningful-effect percentages conditional on study characteristics. <strong>Research Synthesis Methods</strong>. In press."
+  text: "Mathur MB & VanderWeele TJ (2021). Meta-regression methods to characterize evidence strength using meaningful-effect percentages conditional on study characteristics. <strong>Research Synthesis Methods</strong>, 12(6): 731-749."
   year: 2021
   type: "methods"
   authorship: "first"
-  status: "inpress"
+  status: "published"
   preprint: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/jrsm.1504"
   datarepo: "https://osf.io/gs7fp/"
   rpackagename:
   rpackagelink:
   webappname:
   webapplink:
-  doi:
+  doi: "10.1002/jrsm.1504"
   google_id: "h168fVGZblEC"
 #
 - id: Mathur2021c
-  text: "Mathur MB & VanderWeele TJ (2021). Estimating publication bias in meta-analyses: A meta-meta-analysis across disciplines and journal tiers. <strong>Research Synthesis Methods</strong> 12(2): 176-191."
+  text: "Mathur MB & VanderWeele TJ (2021). Estimating publication bias in meta-analyses: A meta-meta-analysis across disciplines and journal tiers. <strong>Research Synthesis Methods</strong>, 12(2): 176-191."
   year: 2021
   type: "empirical"
   authorship: "first"
