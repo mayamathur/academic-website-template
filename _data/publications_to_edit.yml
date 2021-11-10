@@ -79,12 +79,13 @@
   doi: "10.17605/OSF.IO/S4BZ3"
   google_id: 
 #
+# --------------------------- In press ---------------------------
 - id: Lewis2020
-  text: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2020). The puzzling relationship between multi-lab replications and meta-analyses of the published literature."
-  year: 2020
+  text: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2021+). The puzzling relationship between multi-lab replications and meta-analyses of the published literature <strong>Royal Society Open Science</strong>. In press."
+  year: 2021
   type: "empirical"
   authorship: "middle"
-  status: "inprep"
+  status: "inpress"
   preprint: "https://psyarxiv.com/pbrdk/"
   datarepo: "https://github.com/mllewis/kvarven_reanalysis/"
   rpackagename:
@@ -93,8 +94,6 @@
   webapplink:
   doi: "10.31234/osf.io/pbrdk"
   google_id: "U0iAMwwPxtsC"
-#
-# --------------------------- In press ---------------------------
 #
 - id: Mathur2022a
   text: "Mathur MB & VanderWeele TJ (2022). Methods to address confounding and other biases in meta-analyses: Review and recommendations. <strong>Annual Review of Public Health</strong>. In press."
