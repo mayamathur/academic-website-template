@@ -1,21 +1,5 @@
 # --------------------------- In preparation ---------------------------
 #
-- id: Mathur2021f
-  text: "Mathur MB & VanderWeele TJ (2021). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. In preparation."
-  year: 2021
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/xb25k/"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.31219/osf.io/xb25k"
-  google_id: 
-#
-#
 - id: Mathur2021e
   text: "Mathur MB, Peacock JR, Robinson TN, Gardner CD (2021). Effectiveness of a theory-informed documentary to reduce meat and animal-product consumption: Three randomized controlled experiments. In preparation."
   year: 2021
@@ -80,6 +64,22 @@
   google_id: 
 #
 # --------------------------- In press ---------------------------
+#
+- id: Mathur2021f
+  text: "Mathur MB & VanderWeele TJ (2021). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. <strong>Environment International<\strong>. In press."
+  year: 2021
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/xb25k/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/xb25k"
+  google_id: 
+#
 - id: Lewis2020
   text: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2021+). The puzzling relationship between multi-lab replications and meta-analyses of the published literature. <strong>Royal Society Open Science</strong>. In press."
   year: 2021
