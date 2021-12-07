@@ -193,7 +193,7 @@
   type: "empirical"
   authorship: "middle"
   status: "published"
-  preprint: 
+  preprint: "https://elifesciences.org/articles/71601"
   datarepo: "https://osf.io/e5nvr/"
   rpackagename:
   rpackagelink:
