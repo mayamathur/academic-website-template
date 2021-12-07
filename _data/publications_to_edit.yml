@@ -110,21 +110,6 @@
   doi: 
   google_id: 
 #
-- id: Errington2021
-  text: "Errington TM, Mathur MB, Soderberg CK, Denis A, Perfito N, et al. (2021+). Investigating the replicability of preclinical cancer biology. <strong>eLife.</strong> In press."
-  year: 2021
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: 
-  datarepo: 
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi:
-  google_id:
-#
 - id: Voytenko2021
   text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB (2021+). Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> In press."
   year: 2021
@@ -201,6 +186,21 @@
   webapplink:
   doi: "10.1002/jrsm.1464"
   google_id: "TGkaJS32XoUC"
+#  
+- id: Errington2021
+  text: "Errington TM, Mathur MB, Soderberg CK, Denis A, Perfito N, et al. (2021). Investigating the replicability of preclinical cancer biology. <strong>eLife</strong>, 2021;10:e71601."
+  year: 2021
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: 
+  datarepo: "https://osf.io/e5nvr/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.7554/eLife.71601"
+  google_id:
 #
 - id: Zhang2021
   text: "Zhang, GC, Chen JL, Luo Y, Mathur MB, Anagnostis P, Nurmatov U, et al. (2021). Menopausal hormone therapy and women's health: An umbrella review. <strong>PLOS Medicine,</strong> 18(8): e1003731."
