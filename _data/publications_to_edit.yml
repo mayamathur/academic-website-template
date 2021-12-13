@@ -1,21 +1,5 @@
 # --------------------------- In preparation ---------------------------
 #
-- id: Mathur2021e
-  text: "Mathur MB, Peacock JR, Robinson TN, Gardner CD (2021). Effectiveness of a theory-informed documentary to reduce meat and animal-product consumption: Three randomized controlled experiments. In preparation."
-  year: 2021
-  type: "empirical"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/vgu6z"
-  datarepo: "https://osf.io/8dzng/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.31219/osf.io/vgu6z"
-  google_id: 
-#
-#
 - id: Mathur2021d
   text: "Mathur MB, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2021). E-values for effect heterogeneity and approximations for causal interaction. In preparation."
   year: 2021
@@ -64,6 +48,21 @@
   google_id: 
 #
 # --------------------------- In press ---------------------------
+#
+- id: Mathur2021e
+  text: "Mathur MB, Peacock JR, Robinson TN, Gardner CD (2021+). Effectiveness of a theory-informed documentary to reduce consumption of meat and animal products: Three randomized controlled experiments. <strong>Nutrients</strong>. In press."
+  year: 2021
+  type: "empirical"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/vgu6z"
+  datarepo: "https://osf.io/8dzng/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/vgu6z"
+  google_id: 
 #
 - id: Mathur2021f
   text: "Mathur MB & VanderWeele TJ (2021). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. <strong>Environment International</strong>. In press."
