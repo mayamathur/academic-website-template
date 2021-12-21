@@ -49,21 +49,6 @@
 #
 # --------------------------- In press ---------------------------
 #
-- id: Mathur2021e
-  text: "Mathur MB, Peacock JR, Robinson TN, Gardner CD (2021+). Effectiveness of a theory-informed documentary to reduce consumption of meat and animal products: Three randomized controlled experiments. <strong>Nutrients</strong>. In press."
-  year: 2021
-  type: "empirical"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/vgu6z"
-  datarepo: "https://osf.io/8dzng/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.31219/osf.io/vgu6z"
-  google_id: 
-#
 - id: Mathur2021f
   text: "Mathur MB & VanderWeele TJ (2021). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. <strong>Environment International</strong>. In press."
   year: 2021
@@ -140,6 +125,22 @@
   google_id: 
 #
 # --------------------------- 2021 ---------------------------
+#
+- id: Mathur2021e
+  text: "Mathur MB, Peacock JR, Robinson TN, Gardner CD (2021). Effectiveness of a theory-informed documentary to reduce consumption of meat and animal products: Three randomized controlled experiments. <strong>Nutrients</strong>, 13(12):4555."
+  year: 2021
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.mdpi.com/2072-6643/13/12/4555"
+  datarepo: "https://osf.io/8dzng/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.3390/nu13124555"
+  google_id: 
+#
 #
 - id: Mathur2021a
   text: "Mathur MB, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD, Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal welfare: Meta-analysis and evidence-based recommendations. <strong>Appetite</strong>, 164: 105277."
