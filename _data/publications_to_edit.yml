@@ -48,25 +48,25 @@
   google_id: 
 #
 # --------------------------- In press ---------------------------
-#
+##
 - id: Mathur2021f
-  text: "Mathur MB & VanderWeele TJ (2021). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. <strong>Environment International</strong>. In press."
+  text: "Mathur MB & VanderWeele TJ (2021). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. <strong>Environment International</strong>, 160, 107032."
   year: 2021
   type: "methods"
   authorship: "first"
   status: "inpress"
-  preprint: "https://osf.io/xb25k/"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S0160412021006577?via%3Dihub/"
   datarepo: 
   rpackagename: 
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: "10.31219/osf.io/xb25k"
+  doi: "10.1016/j.envint.2021.107032"
   google_id: 
 #
-- id: Lewis2020
-  text: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2021+). The puzzling relationship between multi-lab replications and meta-analyses of the published literature. <strong>Royal Society Open Science</strong>. In press."
-  year: 2021
+- id: Lewis2022
+  text: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2022). The puzzling relationship between multi-lab replications and meta-analyses of the published literature. <strong>Royal Society Open Science</strong>. In press."
+  year: 2022
   type: "empirical"
   authorship: "middle"
   status: "inpress"
@@ -94,9 +94,9 @@
   doi: 
   google_id: 
 #
-- id: Voytenko2021
-  text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB (2021+). Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> In press."
-  year: 2021
+- id: Voytenko2022
+  text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB (2022). Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> In press."
+  year: 2022
   type: "empirical"
   authorship: "middle"
   status: "inpress"
@@ -106,8 +106,8 @@
   rpackagelink:
   webappname:
   webapplink:
-  doi:
-  google_id:
+  doi: "10.1037/rel0000441"
+  google_id: "q0uBw5dMOAkC"
 #
 - id: Tsui2022
   text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB (2022+). Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
