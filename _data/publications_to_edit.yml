@@ -31,22 +31,6 @@
   doi: "10.31222/osf.io/tp45u"
   google_id: 
 #
-#
-- id: Grundy2021
-  text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB. Interventions that influence animal-product consumption: A meta-review. In preparation."
-  year: 2021
-  type: "empirical"
-  authorship: "middle"
-  status: "inprep"
-  preprint: "https://osf.io/mcdsq/"
-  datarepo: "https://osf.io/s4bz3/?view_only=e0ab65dc636944c0b2e81ad7b0632493"
-  rpackagename:
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.17605/OSF.IO/S4BZ3"
-  google_id: 
-#
 # --------------------------- In press ---------------------------
 ##
 - id: Mathur2021f
@@ -62,6 +46,21 @@
   webappname: 
   webapplink: 
   doi: "10.1016/j.envint.2021.107032"
+  google_id: 
+#
+- id: Grundy2022
+  text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB (2022). Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods.</strong> In press."
+  year: 2022
+  type: "empirical"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://osf.io/mcdsq/"
+  datarepo: "https://osf.io/s4bz3/?view_only=e0ab65dc636944c0b2e81ad7b0632493"
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.17605/OSF.IO/S4BZ3"
   google_id: 
 #
 - id: Lewis2022
