@@ -33,7 +33,7 @@
 #
 # --------------------------- In press ---------------------------
 ##
-- id: Mathur2021f
+- id: Mathur2022a
   text: "Mathur MB & VanderWeele TJ (2022). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. <strong>Environment International</strong>, 160, 107032."
   year: 2022
   type: "methods"
@@ -48,19 +48,19 @@
   doi: "10.1016/j.envint.2021.107032"
   google_id: 
 #
-- id: Grundy2022
-  text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB (2022). Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods.</strong> In press."
+- id: Mathur2022b
+  text: "Mathur MB & VanderWeele TJ (2022). Methods to address confounding and other biases in meta-analyses: Review and recommendations. <strong>Annual Review of Public Health</strong>. In press."
   year: 2022
-  type: "empirical"
-  authorship: "middle"
+  type: "methods"
+  authorship: "first"
   status: "inpress"
-  preprint: "https://osf.io/mcdsq/"
-  datarepo: "https://osf.io/s4bz3/?view_only=e0ab65dc636944c0b2e81ad7b0632493"
-  rpackagename:
+  preprint: "https://osf.io/v7dtq/"
+  datarepo: "https://osf.io/yd3ws/"
+  rpackagename: 
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: "10.17605/OSF.IO/S4BZ3"
+  doi: 
   google_id: 
 #
 - id: Lewis2022
@@ -78,19 +78,19 @@
   doi: "10.31234/osf.io/pbrdk"
   google_id: "U0iAMwwPxtsC"
 #
-- id: Mathur2022a
-  text: "Mathur MB & VanderWeele TJ (2022). Methods to address confounding and other biases in meta-analyses: Review and recommendations. <strong>Annual Review of Public Health</strong>. In press."
+- id: Grundy2022
+  text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB (2022). Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods.</strong> In press."
   year: 2022
-  type: "methods"
-  authorship: "first"
+  type: "empirical"
+  authorship: "middle"
   status: "inpress"
-  preprint: "https://osf.io/v7dtq/"
-  datarepo: "https://osf.io/yd3ws/"
-  rpackagename: 
+  preprint: "https://osf.io/mcdsq/"
+  datarepo: "https://osf.io/s4bz3/?view_only=e0ab65dc636944c0b2e81ad7b0632493"
+  rpackagename:
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: 
+  doi: "10.17605/OSF.IO/S4BZ3"
   google_id: 
 #
 - id: Voytenko2022
