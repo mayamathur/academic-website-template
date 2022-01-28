@@ -6,7 +6,8 @@ aid <- "vmuNN1sAAAAJ"
 
 # function to simplify queries
 get_cites <- function(pid) {
-  as.integer(sum(get_article_cite_history(aid, pid)$cites))
+  #@MM: using my own patched fn
+  as.integer(sum(get_article_cite_history2(aid, pid)$cites))
 }
 
 # read in the yml file

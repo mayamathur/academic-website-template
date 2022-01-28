@@ -3,7 +3,7 @@ library(scholar) # google scholar
 
 
 # TEMPORARILY OVERWRITE SCHOLAR'S OWN FN 
-get_article_cite_history = function (id, article) 
+get_article_cite_history2 = function (id, article) 
 {
   site <- getOption("scholar_site")
   id <- tidy_id(id)
@@ -20,10 +20,12 @@ get_article_cite_history = function (id, article)
   vals <- doc %>% html_nodes(".gsc_oci_g_al") %>% html_text() %>% 
     as.numeric()
   
-  #@MM: Fix bug that happens when article has 0 citations from the most recent year(s)
+  ###@begin patch
+  # happens when article has 0 citations from the most recent year(s)
   vals2 = rep(0, length(years))
   vals2[1:length(vals)] = vals
   vals = vals2
+  ### end patch
   
   df <- data.frame(year = years, cites = vals)
   if (nrow(df) > 0) {
@@ -55,5 +57,6 @@ apply(pubs[1:10,], 1, function(z)
 
 # get citation count for a given publication
 pid <- "Y0pCki6q_DkC"
-(cit <- get_article_cite_history(aid, pid))
+#@MM: using my own patched fn
+(cit <- get_article_cite_history2(aid, pid))
 (n <- sum(cit$cites))
