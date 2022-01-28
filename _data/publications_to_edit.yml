@@ -32,20 +32,20 @@
   google_id: 
 #
 # --------------------------- In press ---------------------------
-##
-- id: Mathur2022a
-  text: "Mathur MB & VanderWeele TJ (2022). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. <strong>Environment International</strong>, 160, 107032."
+#
+- id: Mathur2022c
+  text: "Mathur MB & VanderWeele TJ (2022+). Assessing uncontrolled confounding in associations of being overweight with all-cause mortality. <strong>JAMA Network Open.</strong> In press."
   year: 2022
   type: "methods"
   authorship: "first"
   status: "inpress"
-  preprint: "https://www.sciencedirect.com/science/article/pii/S0160412021006577?via%3Dihub/"
-  datarepo: 
+  preprint: 
+  datarepo: "https://osf.io/b3ux8/"
   rpackagename: 
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: "10.1016/j.envint.2021.107032"
+  doi: 
   google_id: 
 #
 - id: Mathur2022b
@@ -121,6 +121,22 @@
   webappname: 
   webapplink: 
   doi: 
+  google_id: 
+#
+# --------------------------- 2022 ---------------------------
+- id: Mathur2022a
+  text: "Mathur MB & VanderWeele TJ (2022). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. <strong>Environment International</strong>, 160, 107032."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S0160412021006577?via%3Dihub/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.envint.2021.107032"
   google_id: 
 #
 # --------------------------- 2021 ---------------------------
