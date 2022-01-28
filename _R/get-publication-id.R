@@ -20,8 +20,9 @@ get_article_cite_history2 = function (id, article)
   vals <- doc %>% html_nodes(".gsc_oci_g_al") %>% html_text() %>% 
     as.numeric()
   
-  ###@begin patch
-  # happens when article has 0 citations from the most recent year(s)
+  ###@MM: begin patch
+  # happens when article has 0 citations in a given year
+  # it's a known issue: https://github.com/jkeirstead/scholar/issues/102
   vals2 = rep(0, length(years))
   vals2[1:length(vals)] = vals
   vals = vals2
