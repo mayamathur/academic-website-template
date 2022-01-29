@@ -61,7 +61,7 @@
   webappname: 
   webapplink: 
   doi: 
-  google_id: 
+  google_id: "uUvzmPk0f8oC"
 #
 - id: Lewis2022
   text: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2022). The puzzling relationship between multi-lab replications and meta-analyses of the published literature. <strong>Royal Society Open Science</strong>. In press."
@@ -91,7 +91,7 @@
   webappname: 
   webapplink: 
   doi: "10.17605/OSF.IO/S4BZ3"
-  google_id: 
+  google_id: "8VtEwCQfWZkC"
 #
 - id: Voytenko2022
   text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB (2022). Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> In press."
@@ -137,7 +137,7 @@
   webappname: 
   webapplink: 
   doi: "10.1016/j.envint.2021.107032"
-  google_id: 
+  google_id: "g_UdREhPGEoC"
 #
 # --------------------------- 2021 ---------------------------
 #
@@ -154,7 +154,7 @@
   webappname: 
   webapplink: 
   doi: "10.3390/nu13124555"
-  google_id: 
+  google_id: "BJtnxTr0fRcC"
 #
 #
 - id: Mathur2021a
@@ -215,7 +215,7 @@
   webappname:
   webapplink:
   doi: "10.7554/eLife.71601"
-  google_id:
+  google_id: "rbGdIwl2e6cC"
 #
 - id: Zhang2021
   text: "Zhang, GC, Chen JL, Luo Y, Mathur MB, Anagnostis P, Nurmatov U, et al. (2021). Menopausal hormone therapy and women's health: An umbrella review. <strong>PLOS Medicine,</strong> 18(8): e1003731."
@@ -229,7 +229,7 @@
   rpackagelink:
   webappname:
   webapplink:
-  doi:
+  doi: "10.1371/journal.pmed.1003731"
   google_id: "RXiHnyRawswC"
 #
 - id: Smith2021
