@@ -1,7 +1,8 @@
 library(yaml) # read/write yaml
 library(scholar) # google scholar
-library(textreadr) #@MM added to fix error about not finding read_html
 
+library(rvest) #@MM added to fix error about not finding read_html
+library(xml2)
 
 # TEMPORARILY OVERWRITE SCHOLAR'S OWN FN 
 get_article_cite_history2 = function (id, article) 
