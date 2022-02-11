@@ -94,7 +94,7 @@
   google_id: "8VtEwCQfWZkC"
 #
 - id: Voytenko2022
-  text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB (2022). Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> In press."
+  text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB (2022+). Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> In press."
   year: 2022
   type: "empirical"
   authorship: "middle"
@@ -107,6 +107,21 @@
   webapplink:
   doi: "10.1037/rel0000441"
   google_id: "q0uBw5dMOAkC"
+#
+- id: Harris2022
+  text: "Harris J, Ladak A, Mathur MB (2022+). The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> In press."
+  year: 2022
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: "https://psyarxiv.com/p6hbk"
+  datarepo: "https://osf.io/gny9x/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: 
+  google_id: "GYcXSSpN504C"
 #
 - id: Tsui2022
   text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB (2022+). Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
