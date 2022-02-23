@@ -33,6 +33,22 @@
 #
 # --------------------------- In press ---------------------------
 #
+- id: Mathur2022b
+  text: "Mathur MB (2022+). Ethical tradeoffs of food choice nudges. <strong>Science</strong>. In press."
+  year: 2022
+  type: "empirical"
+  authorship: "first"
+  status: "in press"
+  preprint: 
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+#
 - id: Mathur2022c
   text: "Mathur MB & VanderWeele TJ (2022+). Assessing uncontrolled confounding in associations of being overweight with all-cause mortality. <strong>JAMA Network Open.</strong> In press."
   year: 2022
