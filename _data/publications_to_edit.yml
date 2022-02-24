@@ -79,21 +79,6 @@
   doi: 
   google_id: "uUvzmPk0f8oC"
 #
-- id: Lewis2022
-  text: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2022). The puzzling relationship between multi-lab replications and meta-analyses of the published literature. <strong>Royal Society Open Science</strong>. In press."
-  year: 2022
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://psyarxiv.com/pbrdk/"
-  datarepo: "https://github.com/mllewis/kvarven_reanalysis/"
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi: "10.31234/osf.io/pbrdk"
-  google_id: "U0iAMwwPxtsC"
-#
 - id: Grundy2022
   text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB (2022). Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods.</strong> In press."
   year: 2022
@@ -169,6 +154,21 @@
   webapplink: 
   doi: "10.1016/j.envint.2021.107032"
   google_id: "g_UdREhPGEoC"
+#
+- id: Lewis2022
+  text: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2022). The puzzling relationship between multi-lab replications and meta-analyses of the published literature. <strong>Royal Society Open Science</strong>. In press."
+  year: 2022
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "The puzzling relationship between multi-lab replications and meta-analyses of the published literature"
+  datarepo: "https://github.com/mllewis/kvarven_reanalysis/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1098/rsos.211499"
+  google_id: "U0iAMwwPxtsC"
 #
 # --------------------------- 2021 ---------------------------
 #
