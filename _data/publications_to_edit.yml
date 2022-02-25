@@ -15,22 +15,6 @@
   doi: "10.31219/osf.io/h6pru"
   google_id: 
 #
-#
-- id: Maier2021
-  text: "Maier M, VanderWeele TJ, Mathur MB (2021). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. In preparation."
-  year: 2021
-  type: "methods"
-  authorship: "last"
-  status: "inprep"
-  preprint: "https://osf.io/preprints/metaarxiv/tp45u"
-  datarepo: "https://osf.io/37y9f/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.31222/osf.io/tp45u"
-  google_id: 
-#
 # --------------------------- In press ---------------------------
 #
 - id: Mathur2022b
@@ -78,6 +62,22 @@
   webapplink: 
   doi: 
   google_id: "uUvzmPk0f8oC"
+#
+#
+- id: Maier2022
+  text: "Maier M, VanderWeele TJ, Mathur MB (2022+). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. <strong>Campbell Systematic Reviews</strong>. Provisionally accepted."
+  year: 2022
+  type: "methods"
+  authorship: "last"
+  status: "inpress"
+  preprint: "https://osf.io/preprints/metaarxiv/tp45u"
+  datarepo: "https://osf.io/37y9f/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.31222/osf.io/tp45u"
+  google_id: 
 #
 - id: Grundy2022
   text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB (2022). Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods.</strong> In press."
