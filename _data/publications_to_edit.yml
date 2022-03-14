@@ -1,11 +1,13 @@
 # --------------------------- In preparation ---------------------------
 #
-- id: Mathur2021d
-  text: "Mathur MB, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2021). E-values for effect heterogeneity and approximations for causal interaction. In preparation."
-  year: 2021
+# --------------------------- In press ---------------------------
+#
+- id: Mathur2022e
+  text: "Mathur MB, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2022+). E-values for effect heterogeneity and approximations for causal interaction. <strong>International Journal of Epidemiology.</strong> In press."
+  year: 2022
   type: "methods"
   authorship: "first"
-  status: "inprep"
+  status: "inpress"
   preprint: "https://osf.io/h6pru/"
   datarepo: "https://osf.io/79scv/"
   rpackagename: "EValue"
@@ -15,14 +17,12 @@
   doi: "10.31219/osf.io/h6pru"
   google_id: 
 #
-# --------------------------- In press ---------------------------
-#
 - id: Mathur2022b
   text: "Mathur MB (2022+). Ethical drawbacks of sustainable meat choices. <strong>Science</strong>. In press."
   year: 2022
   type: "empirical"
   authorship: "first"
-  status: "in press"
+  status: "inpress"
   preprint: 
   datarepo: 
   rpackagename: 
