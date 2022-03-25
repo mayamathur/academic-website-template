@@ -17,22 +17,6 @@
   doi: "10.31219/osf.io/h6pru"
   google_id: 
 #
-- id: Mathur2022b
-  text: "Mathur MB (2022+). Ethical drawbacks of sustainable meat choices. <strong>Science</strong>. In press."
-  year: 2022
-  type: "empirical"
-  authorship: "first"
-  status: "inpress"
-  preprint: 
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-#
 - id: Mathur2022c
   text: "Mathur MB & VanderWeele TJ (2022+). Assessing uncontrolled confounding in associations of being overweight with all-cause mortality. <strong>JAMA Network Open.</strong> In press."
   year: 2022
@@ -140,6 +124,22 @@
   google_id: 
 #
 # --------------------------- 2022 ---------------------------
+#
+- id: Mathur2022b
+  text: "Mathur MB (2022). Ethical drawbacks of sustainable meat choices. <strong>Science</strong>, 375, 6587."
+  year: 2022
+  type: "empirical"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://www.science.org/doi/abs/10.1126/science.abo2535?af=R"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1126/science.abo2535"
+  google_id: 
+#
 - id: Mathur2022a
   text: "Mathur MB & VanderWeele TJ (2022). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. <strong>Environment International</strong>, 160, 107032."
   year: 2022
