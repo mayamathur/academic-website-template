@@ -1,5 +1,20 @@
 # --------------------------- In preparation ---------------------------
 #
+- id: Li2023
+  text: "Li Y, Kaufman J, Mathur MB (under review). Conducting regression-based causal mediation analysis: a tutorial using the R package regmedint."
+  year: 2022
+  type: "methods"
+  authorship: "last"
+  status: "inprep"
+  preprint: "https://osf.io/jath7/"
+  datarepo: "https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/ZZZEGG"
+  rpackagename: "regmedint"
+  rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 # --------------------------- In press ---------------------------
 #
 - id: Mathur2022e
