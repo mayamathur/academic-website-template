@@ -144,15 +144,15 @@
   year: 2022
   type: "empirical"
   authorship: "first"
-  status: "inpress"
-  preprint: "https://www.science.org/doi/abs/10.1126/science.abo2535?af=R"
+  status: "published"
+  preprint: "https://osf.io/nkyqd/"
   datarepo: 
   rpackagename: 
   rpackagelink: 
   webappname: 
   webapplink: 
   doi: "10.1126/science.abo2535"
-  google_id: 
+  google_id: "cNe27ouKFcQC"
 #
 - id: Mathur2022a
   text: "Mathur MB & VanderWeele TJ (2022). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. <strong>Environment International</strong>, 160, 107032."
