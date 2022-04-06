@@ -32,22 +32,6 @@
   doi: "10.31219/osf.io/h6pru"
   google_id: 
 #
-- id: Mathur2022b
-  text: "Mathur MB & VanderWeele TJ (2022). Methods to address confounding and other biases in meta-analyses: Review and recommendations. <strong>Annual Review of Public Health</strong>. In press."
-  year: 2022
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/v7dtq/"
-  datarepo: "https://osf.io/yd3ws/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: "uUvzmPk0f8oC"
-#
-#
 - id: Maier2022
   text: "Maier M, VanderWeele TJ, Mathur MB (2022+). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. <strong>Campbell Systematic Reviews</strong>. Provisionally accepted."
   year: 2022
@@ -124,6 +108,23 @@
   google_id: 
 #
 # --------------------------- 2022 ---------------------------
+#
+- id: Mathur2022d
+  text: "Mathur MB & VanderWeele TJ (2022). Methods to address confounding and other biases in meta-analyses: Review and recommendations. <strong>Annual Review of Public Health</strong>, 43, 19-35."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.annualreviews.org/doi/abs/10.1146/annurev-publhealth-051920-114020"
+  datarepo: "https://osf.io/yd3ws/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1146/annurev-publhealth-051920-114020"
+  google_id: "uUvzmPk0f8oC"
+#
+#
 - id: Mathur2022c
   text: "Mathur MB & VanderWeele TJ (2022). Assessing uncontrolled confounding in associations of being overweight with all-cause mortality. <strong>JAMA Network Open</strong>, 5(3), e222614."
   year: 2022
@@ -137,7 +138,7 @@
   webappname: 
   webapplink: 
   doi: "10.1001/jamanetworkopen.2022.2614"
-  google_id: 
+  google_id: "qsWQJNntlusC"
 #
 - id: Mathur2022b
   text: "Mathur MB (2022). Ethical drawbacks of sustainable meat choices. <strong>Science</strong>, 375, 6587."
