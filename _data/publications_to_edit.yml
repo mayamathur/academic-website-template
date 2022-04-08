@@ -1,5 +1,21 @@
 # --------------------------- In preparation ---------------------------
 #
+- id: Li2023b
+  text: "Li Y, Mathur MB, Solomon DH, Glynn RJ, Yoshida K (under review). Effect measure modification by covariates in mediation: extending regression-based causal mediation analysis."
+  year: 2022
+  type: "methods"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/3gf64/"
+  datarepo: 
+  rpackagename: "regmedint"
+  rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+#
 - id: Li2023
   text: "Li Y, Kaufman J, Mathur MB (under review). Conducting regression-based causal mediation analysis: a tutorial using the R package regmedint."
   year: 2022
