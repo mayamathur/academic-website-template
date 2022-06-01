@@ -1,5 +1,21 @@
 # --------------------------- In preparation ---------------------------
 #
+- id: Mathur2023a
+  text: "Mathur MB (under review). Sensitivity analysis for p-hacking in meta-analyses."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/ezjsx"
+  datarepo: 
+  rpackagename: "phacking"
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+#
 - id: Li2023b
   text: "Li Y, Mathur MB, Solomon DH, Glynn RJ, Yoshida K (under review). Effect measure modification by covariates in mediation: extending regression-based causal mediation analysis."
   year: 2022
