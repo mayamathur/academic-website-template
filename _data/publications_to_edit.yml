@@ -15,6 +15,20 @@
   doi: 
   google_id: 
 #
+- id: Mathur2023b
+  text: "Mathur MB (under review). E-value analogs for bias due to missing data in treatment effect estimates."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/e9bzc/"
+  datarepo: 
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue/index.html"
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
 #
 - id: Li2023b
   text: "Li Y, Mathur MB, Solomon DH, Glynn RJ, Yoshida K (under review). Effect measure modification by covariates in mediation: extending regression-based causal mediation analysis."
@@ -65,7 +79,7 @@
   google_id: 
 #
 - id: Maier2022
-  text: "Maier M, VanderWeele TJ, Mathur MB (2022+). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. <strong>Campbell Systematic Reviews</strong>. Provisionally accepted."
+  text: "Maier M, VanderWeele TJ, Mathur MB (2022+). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. <strong>Campbell Systematic Reviews</strong>. In press."
   year: 2022
   type: "methods"
   authorship: "last"
