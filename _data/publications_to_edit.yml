@@ -30,6 +30,21 @@
   doi: 
   google_id: 
 #
+- id: Mathur2023c
+  text: "Mathur MB & VanderWeele TJ (under review). Effects of being overweight on mortality are unclear given multiple methodological problems."
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/3psrm"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Li2023b
   text: "Li Y, Mathur MB, Solomon DH, Glynn RJ, Yoshida K (under review). Effect measure modification by covariates in mediation: extending regression-based causal mediation analysis."
   year: 2022
