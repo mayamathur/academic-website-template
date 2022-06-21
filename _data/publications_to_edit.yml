@@ -7,13 +7,13 @@
   authorship: "first"
   status: "inprep"
   preprint: "https://osf.io/ezjsx"
-  datarepo: 
+  datarepo: "https://osf.io/gk5ez/"
   rpackagename: "phacking"
-  rpackagelink: 
+  rpackagelink: "https://cran.r-project.org/web/packages/phacking/index.html"
   webappname: 
   webapplink: 
-  doi: 
-  google_id: 
+  doi: "10.31219/osf.io/ezjsx"
+  google_id: "lK9BDNCuzFgC"
 #
 - id: Mathur2023b
   text: "Mathur MB (under review). E-value analogs for bias due to missing data in treatment effect estimates. "
@@ -22,13 +22,13 @@
   authorship: "first"
   status: "inprep"
   preprint: "https://osf.io/e9bzc/"
-  datarepo: 
+  datarepo: "https://osf.io/v8ma6/"
   rpackagename: "EValue"
   rpackagelink: "https://cran.r-project.org/web/packages/EValue/index.html"
   webappname: 
   webapplink: 
-  doi: 
-  google_id: 
+  doi: "10.31219/osf.io/e9bzc"
+  google_id: "oursBaop5wYC"
 #
 - id: Li2023b
   text: "Li Y, Mathur MB, Solomon DH, Glynn RJ, Yoshida K (under review). Effect measure modification by covariates in mediation: extending regression-based causal mediation analysis."
@@ -59,7 +59,7 @@
   webappname: 
   webapplink: 
   doi: 
-  google_id: 
+  google_id: "RfUwGJFMQ-0C"
 #
 # --------------------------- In press ---------------------------
 - id: Mathur2023c
@@ -75,7 +75,7 @@
   webappname: 
   webapplink: 
   doi: 
-  google_id: 
+  google_id: "yIeBiWEAh44C"
 #
 #
 - id: Mathur2022e
