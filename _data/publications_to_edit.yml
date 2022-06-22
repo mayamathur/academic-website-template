@@ -15,6 +15,21 @@
   doi: "10.31219/osf.io/ezjsx"
   google_id: "lK9BDNCuzFgC"
 #
+- id: Mathur2023c
+  text: "Mathur MB & VanderWeele TJ (under review). New metrics for multiple testing with correlated outcomes."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/k9g3b"
+  datarepo: "https://osf.io/qj9wa/"
+  rpackagename: "NRejections"
+  rpackagelink: "https://cran.r-project.org/web/packages/NRejections/index.html"
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/k9g3b"
+  google_id: "xm0LlTxljI0C"
+#
 - id: Mathur2023b
   text: "Mathur MB (under review). E-value analogs for bias due to missing data in treatment effect estimates."
   year: 2022
