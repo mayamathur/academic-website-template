@@ -123,23 +123,8 @@
   doi: 
   google_id: 
 # 
-- id: Maier2022
-  text: "Maier M, VanderWeele TJ, Mathur MB (2022+). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. <strong>Campbell Systematic Reviews</strong>. In press."
-  year: 2022
-  type: "methods"
-  authorship: "last"
-  status: "inpress"
-  preprint: "https://osf.io/preprints/metaarxiv/tp45u"
-  datarepo: "https://osf.io/37y9f/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.31222/osf.io/tp45u"
-  google_id: 
-#
 - id: Grundy2022
-  text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB (2022). Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods.</strong> In press."
+  text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB (2022). Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods.</strong>"
   year: 2022
   type: "empirical"
   authorship: "middle"
@@ -260,6 +245,21 @@
   webapplink: 
   doi: "10.1016/j.envint.2021.107032"
   google_id: "g_UdREhPGEoC"
+#
+- id: Maier2022
+  text: "Maier M, VanderWeele TJ, Mathur MB (2022). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. <strong>Campbell Systematic Reviews</strong>. In press."
+  year: 2022
+  type: "methods"
+  authorship: "last"
+  status: "published"
+  preprint: "https://onlinelibrary.wiley.com/doi/full/10.1002/cl2.1256"
+  datarepo: "https://osf.io/37y9f/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1002/cl2.1256"
+  google_id: "bXQfdp6S9ecC"
 #
 - id: Lewis2022
   text: "Lewis M, Mathur MB, VanderWeele TJ, Frank MC (2022). The puzzling relationship between multi-lab replications and meta-analyses of the published literature. <strong>Royal Society Open Science</strong>, 9, 211499."
