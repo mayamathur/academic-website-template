@@ -45,8 +45,23 @@
   doi: "10.31219/osf.io/e9bzc"
   google_id: "oursBaop5wYC"
 #
+- id: Fox2023
+  text: "Fox MP, Mathur MB, Matthay EC (under review). Quantifying the impact of bias to inform quality assessment in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma."
+  year: 2022
+  type: "methods"
+  authorship: "middle"
+  status: "inprep"
+  preprint: 
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Li2023b
-  text: "Li Y, Mathur MB, Solomon DH, Glynn RJ, Yoshida K (under review). Effect measure modification by covariates in mediation: extending regression-based causal mediation analysis."
+  text: "Li Y, Mathur MB, Solomon DH, Glynn RJ, Yoshida K (under review). Effect measure modification by covariates in mediation: Extending regression-based causal mediation analysis."
   year: 2022
   type: "methods"
   authorship: "middle"
@@ -62,7 +77,7 @@
 #
 #
 - id: Li2023
-  text: "Li Y, Kaufman J, Mathur MB (under review). Conducting regression-based causal mediation analysis: a tutorial using the R package regmedint."
+  text: "Li Y, Yoshida K, Kaufman J, Mathur MB (under review). A brief primer on conducting regression-based causal mediation analysis."
   year: 2022
   type: "methods"
   authorship: "last"
