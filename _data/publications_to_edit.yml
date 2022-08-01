@@ -31,7 +31,7 @@
   google_id: "xm0LlTxljI0C"
 #
 - id: Mathur2023b
-  text: "Mathur MB (under review). E-value analogs for bias due to missing data in treatment effect estimates."
+  text: "Mathur MB (under review). The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates."
   year: 2022
   type: "methods"
   authorship: "first"
