@@ -107,22 +107,6 @@
   doi: 
   google_id: "yIeBiWEAh44C"
 #
-#
-- id: Mathur2022e
-  text: "Mathur MB, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2022+). E-values for effect heterogeneity and approximations for causal interaction. <strong>International Journal of Epidemiology.</strong> In press."
-  year: 2022
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/h6pru/"
-  datarepo: "https://osf.io/79scv/"
-  rpackagename: "EValue"
-  rpackagelink: "https://CRAN.R-project.org/package=EValue"
-  webappname: "EValue Calculator"
-  webapplink: "http://www.evalue-calculator.com"
-  doi: "10.31219/osf.io/h6pru"
-  google_id: 
-#
 - id: Thielmann2022
   text: "Thielmann M, Lemp JM, Winkler V, Manne-Goehler J, Marcus M, Probst C, et al., including Mathur MB (2022+). Patterns of tobacco use in low- and middle-income countries by tobacco product and sociodemographic characteristics: a study of nationally representative survey data from 82 countries. <strong>BMJ.</strong> In press."
   year: 2022
@@ -199,6 +183,21 @@
   google_id: 
 #
 # --------------------------- 2022 ---------------------------
+#
+- id: Mathur2022e
+  text: "Mathur MB, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2022). E-values for effect heterogeneity and approximations for causal interaction. <strong>International Journal of Epidemiology,</strong> 51(4), 1268-1275."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/h6pru/"
+  datarepo: "https://osf.io/79scv/"
+  rpackagename: "EValue"
+  rpackagelink: "https://CRAN.R-project.org/package=EValue"
+  webappname: "EValue Calculator"
+  webapplink: "http://www.evalue-calculator.com"
+  doi: "10.1093/ije/dyac073"
+  google_id: "QaSi33NTfwYC"
 #
 - id: Mathur2022d
   text: "Mathur MB & VanderWeele TJ (2022). Methods to address confounding and other biases in meta-analyses: Review and recommendations. <strong>Annual Review of Public Health</strong>, 43, 19-35."
