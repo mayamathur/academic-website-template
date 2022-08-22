@@ -1,5 +1,35 @@
 # --------------------------- In preparation ---------------------------
 #
+- id: Mathur2023d
+  text: "Mathur MB (under review). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/u7vcb"
+  datarepo: "https://osf.io/3cz56/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+- id: Mathur2023b
+  text: "Mathur MB (under review). The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/e9bzc/"
+  datarepo: "https://osf.io/v8ma6/"
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue/index.html"
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/e9bzc"
+  google_id: "oursBaop5wYC"
+#
 - id: Mathur2023a
   text: "Mathur MB (under review). Sensitivity analysis for p-hacking in meta-analyses."
   year: 2022
@@ -29,21 +59,6 @@
   webapplink: 
   doi: "10.31219/osf.io/k9g3b"
   google_id: "xm0LlTxljI0C"
-#
-- id: Mathur2023b
-  text: "Mathur MB (under review). The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates."
-  year: 2022
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/e9bzc/"
-  datarepo: "https://osf.io/v8ma6/"
-  rpackagename: "EValue"
-  rpackagelink: "https://cran.r-project.org/web/packages/EValue/index.html"
-  webappname: 
-  webapplink: 
-  doi: "10.31219/osf.io/e9bzc"
-  google_id: "oursBaop5wYC"
 #
 - id: Fox2023
   text: "Fox MP, Mathur MB, Matthay EC (under review). Quantifying the impact of bias to inform quality assessment in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma."
