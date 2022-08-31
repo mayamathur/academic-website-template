@@ -137,21 +137,6 @@
   doi: 
   google_id: "yIeBiWEAh44C"
 #
-- id: Thielmann2022
-  text: "Thielmann M, Lemp JM, Winkler V, Manne-Goehler J, Marcus M, Probst C, et al., including Mathur MB (2022+). Patterns of tobacco use in low- and middle-income countries by tobacco product and sociodemographic characteristics: a study of nationally representative survey data from 82 countries. <strong>BMJ.</strong> In press."
-  year: 2022
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: 
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-# 
 - id: Grundy2022
   text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB (2022). Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods.</strong>"
   year: 2022
@@ -290,6 +275,21 @@
   doi: "10.1016/j.envint.2021.107032"
   google_id: "g_UdREhPGEoC"
 #
+- id: Thielmann2022
+  text: "Thielmann M, Lemp JM, Winkler V, Manne-Goehler J, Marcus M, Probst C, et al., including Mathur MB (2022). Patterns of tobacco use in low- and middle-income countries by tobacco product and sociodemographic characteristics: a study of nationally representative survey data from 82 countries. <strong>BMJ,</strong> 378:e067582."
+  year: 2022
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.bmj.com/content/378/bmj-2021-067582"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1136/bmj-2021-067582"
+  google_id: 
+# 
 - id: Maier2022
   text: "Maier M, VanderWeele TJ, Mathur MB (2022). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. <strong>Campbell Systematic Reviews</strong>."
   year: 2022
