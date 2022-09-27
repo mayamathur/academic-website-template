@@ -30,21 +30,6 @@
   doi: 
   google_id: 
 #
-- id: Mathur2023b
-  text: "Mathur MB (under review). The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates."
-  year: 2022
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/e9bzc/"
-  datarepo: "https://osf.io/v8ma6/"
-  rpackagename: "EValue"
-  rpackagelink: "https://cran.r-project.org/web/packages/EValue/index.html"
-  webappname: 
-  webapplink: 
-  doi: "10.31219/osf.io/e9bzc"
-  google_id: "oursBaop5wYC"
-#
 - id: Mathur2023a
   text: "Mathur MB (under review). Sensitivity analysis for p-hacking in meta-analyses."
   year: 2022
@@ -122,6 +107,21 @@
   google_id: "RfUwGJFMQ-0C"
 #
 # --------------------------- In press ---------------------------
+- id: Mathur2023b
+  text: "Mathur MB (2023+). The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology.</strong> In press."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/e9bzc/"
+  datarepo: "https://osf.io/v8ma6/"
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue/index.html"
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/e9bzc"
+  google_id: "oursBaop5wYC"
+#
 - id: Mathur2023c
   text: "Mathur MB & VanderWeele TJ (2022+). Effects of being overweight on mortality are unclear given multiple methodological problems. <strong>Epidemiology.</strong> In press."
   year: 2022
