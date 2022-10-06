@@ -1,3 +1,14 @@
+
+- name: truncnormbayes
+  description: Finds the posterior modes for the mean and standard deviation for a truncated normal distribution.
+  link: https://cran.r-project.org/web/packages/truncnormbayes/index.html
+  type: R package
+  domain: Statistics
+- name: phacking
+  description: Conducts sensitivity analysis for p-hacking in meta-analyses.
+  link: https://cran.r-project.org/web/packages/phacking/index.html
+  type: R package
+  domain: Statistics
 - name: regmedint
   description: Regression-based causal mediation analysis with a treatment-mediator interaction term.
   link: https://cran.r-project.org/web/packages/regmedint/index.html

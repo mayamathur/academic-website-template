@@ -16,9 +16,9 @@ author_image: false
   <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
 </div>
 
-I am an Assistant Professor at Stanford University's [Quantitative Sciences Unit](https://med.stanford.edu/qsu.html) and the Department of Pediatrics. I am the Associate Director of the Stanford Data Science's [Center for Open and Reproducible Science (SDS-CORES)](https://datascience.stanford.edu/cores).
+Maya Mathur is an Assistant Professor at Stanford University's [Quantitative Sciences Unit](https://med.stanford.edu/qsu.html) and the Department of Pediatrics. She is the Associate Director of the Stanford Data Science's [Center for Open and Reproducible Science (SDS-CORES)](https://datascience.stanford.edu/cores). She is a statistician whose methodological research focuses on advancing methods for meta-analysis, replication studies, and sensitivity analysis. She has received early-career and young investigator awards from the Society for Epidemiologic Research (2022), the Society for Research Synthesis Methods (2022), and American Statistical Association (2018).
 
-I do both original statistical research and applied research. My publication list is available [here](https://www.mayamathur.com/publications/) and on [Google Scholar](https://scholar.google.com/citations?user=vmuNN1sAAAAJ&hl=en), and repositories with data, code, and materials for my research are available on the [Open Science Framework](https://osf.io/e9tg8/).
+Her publication list is available [here](https://www.mayamathur.com/publications/) and on [Google Scholar](https://scholar.google.com/citations?user=vmuNN1sAAAAJ&hl=en), and repositories with data, code, and materials for her research are available on the [Open Science Framework](https://osf.io/e9tg8/).
 
 ### Research interests
 - Meta-analysis
