@@ -90,22 +90,6 @@
   doi: 
   google_id: 
 #
-#
-- id: Li2023
-  text: "Li Y, Yoshida K, Kaufman J, Mathur MB (under review). A brief primer on conducting regression-based causal mediation analysis."
-  year: 2022
-  type: "methods"
-  authorship: "last"
-  status: "inprep"
-  preprint: "https://osf.io/jath7/"
-  datarepo: "https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/ZZZEGG"
-  rpackagename: "regmedint"
-  rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: "RfUwGJFMQ-0C"
-#
 # --------------------------- In press ---------------------------
 - id: Mathur2023b
   text: "Mathur MB (2023+). The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology.</strong> In press."
@@ -136,6 +120,21 @@
   webapplink: 
   doi: 
   google_id: "yIeBiWEAh44C"
+#
+- id: Li2023
+  text: "Li Y, Yoshida K, Kaufman J, Mathur MB (2023+). A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma</strong>. In press."
+  year: 2023
+  type: "methods"
+  authorship: "last"
+  status: "inpress"
+  preprint: "https://osf.io/jath7/"
+  datarepo: "https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/ZZZEGG"
+  rpackagename: "regmedint"
+  rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: "RfUwGJFMQ-0C"
 #
 - id: Grundy2022
   text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB (2022). Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods.</strong>"
