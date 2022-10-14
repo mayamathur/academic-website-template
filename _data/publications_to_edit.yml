@@ -121,6 +121,36 @@
   doi: 
   google_id: "yIeBiWEAh44C"
 #
+- id: Fox2023
+  text: "Fox MP, Mathur MB, Matthay EC (2022+). Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.<\strong> In press."
+  year: 2023
+  type: "methods"
+  authorship: "middle"
+  status: "inpress"
+  preprint: 
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+- id: Boronowsky2022
+  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. (2022+). Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.<\strong> In press."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: 
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Li2023
   text: "Li Y, Yoshida K, Kaufman J, Mathur MB (2023+). A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma</strong>. In press."
   year: 2023
