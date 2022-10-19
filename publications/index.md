@@ -44,7 +44,11 @@ author_profile: true
                 <input type="checkbox" v-model="show.published">
                 <span class="checkmark"></span>
             </label>
-            <label class="container">In preparation / in press
+            <label class="container">In press
+                <input type="checkbox" v-model="show.inpress">
+                <span class="checkmark"></span>
+            </label>
+            <label class="container">In preparation
                 <input type="checkbox" v-model="show.inprep">
                 <span class="checkmark"></span>
             </label>
@@ -60,11 +64,19 @@ author_profile: true
         </div>
       </ul>
     </div>
+    <div v-if="publ.filter(a => (a.status === 'inpress')).length > 0">
+      <h2>In press</h2>
+      <ul class="publist">
+        <div v-for="pub in publ.filter(a => (a.status === 'inpress'))">
+          <li class="publist" ><span v-html="pub.text"></span><span v-if="pub.preprint != ''"> &mdash; <a v-bind:href="pub.preprint">Article PDF</a></span><span v-if="pub.datarepo != ''"> &mdash; <a v-bind:href="pub.datarepo">Data repository</a></span><span v-if="pub.rpackagename != ''"> &mdash; <a v-bind:href="pub.rpackagelink">{{ pub.rpackagename }}</a></span><span v-if="pub.webappname != ''"> &mdash; <a v-bind:href="pub.webapplink">{{ pub.webappname }}</a></span><span v-if="pub.doi != ''">&nbsp;<div data-badge-popover="bottom" style="display: inline-block;" data-badge-type="4" v-bind:data-doi="pub.doi" data-hide-no-mentions="true" class="altmetric-embed"></div><br/><div class="scite-badge" v-bind:data-doi="pub.doi" data-layout="horizontal" data-show-zero="false" data-show-labels="false"></div></span></li>
+        </div>
+      </ul>
+    </div>
     <div v-for="yr in [...new Set(publ.map(a => a.year))].sort().reverse()">
-      <div v-if="publ.filter(a => (a.year === yr && a.status !== 'inprep')).length > 0">
+      <div v-if="publ.filter(a => (a.year === yr && a.status === 'published')).length > 0">
         <h2>{{ yr }}</h2>
         <ul class="publist">
-          <div v-for="pub in publ.filter(a => (a.year === yr && a.status !== 'inprep'))">
+          <div v-for="pub in publ.filter(a => (a.year === yr && a.status === 'published'))">
             <li class="publist" ><span v-html="pub.text"></span><span v-if="pub.preprint != ''"> &mdash; <a v-bind:href="pub.preprint">Article PDF</a></span><span v-if="pub.datarepo != ''"> &mdash; <a v-bind:href="pub.datarepo">Data repository</a></span><span v-if="pub.rpackagename != ''"> &mdash; <a v-bind:href="pub.rpackagelink">{{ pub.rpackagename }}</a></span><span v-if="pub.webappname != ''"> &mdash; <a v-bind:href="pub.webapplink">{{ pub.webappname }}</a></span><span v-if="pub.google_cites != ''"> &mdash; Google Scholar citations: {{ pub.google_cites }}</span><span v-if="pub.doi != ''">&nbsp;<div data-badge-popover="bottom" style="display: inline-block;" data-badge-type="4" v-bind:data-doi="pub.doi" data-hide-no-mentions="true" class="altmetric-embed"></div></span></li>
           </div>
         </ul>
@@ -100,19 +112,20 @@ var yrs = [...new Set(p.map(a => a.year))].sort().reverse();
 const app = Vue.createApp({
   data: () => ({
     yearslider: {
-        value: [Math.min(...yrs), Math.max(...yrs)],
-        min: Math.min(...yrs),
-        max: Math.max(...yrs),
+      value: [Math.min(...yrs), Math.max(...yrs)],
+      min: Math.min(...yrs),
+      max: Math.max(...yrs),
     },
     pubs: p,
     allyears: yrs,
     show: {
-        empirical: true,
-        methods: true,
-        first: true,
-        last: true,
-        published: true,
-        inprep: true,
+      empirical: true,
+      methods: true,
+      first: true,
+      last: true,
+      published: true,
+      inpress: true,
+      inprep: true,
     },
   }),
   computed: {
@@ -133,7 +146,9 @@ const app = Vue.createApp({
             // status
             if (this.show.published && this.pubs[i].status == "published")
                 add = true;
-            if (this.show.inprep && this.pubs[i].status != "published")
+            if (this.show.inpress && this.pubs[i].status == "inpress")
+                add = true;
+            if (this.show.inprep && this.pubs[i].status == "inprep")
                 add = true;
             if (add) {
                 if (this.pubs[i].year < this.yearslider.value[0]) {
@@ -152,5 +167,5 @@ const app = Vue.createApp({
 })
 // slider component
 app.component('Slider', VueformSlider)
-app.mount('#app')
+const vm = app.mount('#app')
 </script>
