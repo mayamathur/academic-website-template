@@ -149,3 +149,15 @@ Go to your project Settings / Pages, set source to the branch you are hosting th
 - Altmetric is based on the article's DOI, not its URL
 - Update CV by uploading a new copy of "CV for website.pdf" to Dropbox/Public with same name
 - mayamathur.com domain is registered via Netlify
+
+## Docker based development
+
+This makes development and testing easier, because we don't need Roby and Jekyll to be installed locally, only Docker Desktop.
+
+```
+docker run --rm \
+  --volume="$PWD:/srv/jekyll:Z" \
+  --publish 4000:4000 \
+  jekyll/jekyll:3 \
+  jekyll serve
+```
