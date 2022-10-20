@@ -106,21 +106,6 @@
   doi: "10.31219/osf.io/e9bzc"
   google_id: "oursBaop5wYC"
 #
-- id: Mathur2023c
-  text: "Mathur MB & VanderWeele TJ (2022+). Effects of being overweight on mortality are unclear given multiple methodological problems. <strong>Epidemiology.</strong> In press."
-  year: 2022
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/3psrm"
-  datarepo: 
-  rpackagename:
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: "yIeBiWEAh44C"
-#
 - id: Fox2023
   text: "Fox MP, Mathur MB, Matthay EC (2022+). Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> In press."
   year: 2023
@@ -227,6 +212,21 @@
   google_id: 
 #
 # --------------------------- 2022 ---------------------------
+#
+- id: Mathur2022f
+  text: "Mathur MB & VanderWeele TJ (2022). The authors respond: Effects of being overweight on mortality are unclear given multiple methodological problems. <strong>Epidemiology,</strong> 33(6):e22-e23."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/3psrm"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1097/EDE.0000000000001533"
+  google_id: "yIeBiWEAh44C"
 #
 - id: Mathur2022e
   text: "Mathur MB, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2022). E-values for effect heterogeneity and approximations for causal interaction. <strong>International Journal of Epidemiology,</strong> 51(4), 1268-1275."
