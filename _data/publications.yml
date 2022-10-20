@@ -283,7 +283,7 @@
   webapplink: ~
   doi: 10.1146/annurev-publhealth-051920-114020
   google_id: uUvzmPk0f8oC
-  google_cites: 10
+  google_cites: 11
 - id: Mathur2022c
   text: Mathur MB & VanderWeele TJ (2022). Assessing uncontrolled confounding in associations
     of being overweight with all-cause mortality. <strong>JAMA Network Open</strong>,
@@ -489,7 +489,7 @@
   webapplink: ~
   doi: 10.1371/journal.pmed.1003731
   google_id: RXiHnyRawswC
-  google_cites: 28
+  google_cites: 30
 - id: Smith2021
   text: 'Smith LH, Mathur MB, VanderWeele TJ (2021). Multiple-bias sensitivity analysis
     using bounds. <strong>Epidemiology</strong>, 32(5): 625-634.'
@@ -576,7 +576,7 @@
   webapplink: https://www.evalue-calculator.com/meta/
   doi: 10.1080/01621459.2018.1529598
   google_id: n3vGvpFsckwC
-  google_cites: 77
+  google_cites: 78
 - id: Mathur2020c
   text: 'Mathur MB, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten
     PAM, et al (2020). Uncanny but not confusing: Multisite study of perceptual category
@@ -644,7 +644,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001180
   google_id: ifOnle78iJkC
-  google_cites: 26
+  google_cites: 27
 - id: Mathur2020g
   text: Mathur MB & VanderWeele TJ (2020). Evidence relating health care provider
     burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18.
@@ -882,7 +882,7 @@
   webapplink: ~
   doi: 10.1177/1745691619850104
   google_id: Y0-TYkg6YM4C
-  google_cites: 72
+  google_cites: 73
 - id: Mathur2019b
   text: 'Mathur MB & VanderWeele TJ (2019). Discussion on the meeting on ''Signs and
     sizes: understanding and replicating statistical findings''. <strong>Journal of
@@ -949,7 +949,7 @@
   webapplink: ~
   doi: 110.1002/sim.8057
   google_id: QoJ_w57xiyAC
-  google_cites: 46
+  google_cites: 47
 - id: VanderWeele2019a
   text: VanderWeele TJ, Ding P, Mathur MB (2019). Technical considerations in the
     use of the E-value. <strong>Journal of Causal Inference</strong>, 7(2).
@@ -965,7 +965,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1515/jci-2018-0007
   google_id: Azgs6IHzeyYC
-  google_cites: 62
+  google_cites: 63
 - id: Desai2019
   text: Desai M, Montez-Rath M, Kapphahn K, Joyce V, Mathur MB, Garcia A, et al (2019).
     Missing data strategies for time-varying confounders in comparative effectiveness
@@ -1064,7 +1064,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 328
+  google_cites: 330
 - id: Hardwicke2018
   text: 'Hardwicke TE, Mathur MB, MacDonald K, Nilsonne G, Banks GC, Kidwell MC, et
     al. (2018). Data availability, reusability, and analytic reproducibility: Evaluating
@@ -1082,7 +1082,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 190
+  google_cites: 191
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, Mathur MB, et al. (2018).
     Higher absolute lymphocyte counts predict lower mortality from early-stage triple-negative
@@ -1343,7 +1343,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 6841
+  google_cites: 6842
 - id: Mathur2014
   text: 'Mathur MB, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, et al. (2014).
     Seasonal patterns in human (A) H5N1 virus infection: Analysis of global cases.
