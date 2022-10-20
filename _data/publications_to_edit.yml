@@ -60,21 +60,6 @@
   doi: "10.31219/osf.io/k9g3b"
   google_id: "xm0LlTxljI0C"
 #
-- id: Fox2023
-  text: "Fox MP, Mathur MB, Matthay EC (under review). Quantifying the impact of bias to inform quality assessment in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma."
-  year: 2022
-  type: "methods"
-  authorship: "middle"
-  status: "inprep"
-  preprint: 
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
 - id: Li2023b
   text: "Li Y, Mathur MB, Solomon DH, Glynn RJ, Yoshida K (under review). Effect measure modification by covariates in mediation: Extending regression-based causal mediation analysis."
   year: 2022
@@ -92,7 +77,7 @@
 #
 # --------------------------- In press ---------------------------
 - id: Mathur2023b
-  text: "Mathur MB (2023+). The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology.</strong> In press."
+  text: "Mathur MB. The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology.</strong> In press."
   year: 2023
   type: "methods"
   authorship: "first"
@@ -107,7 +92,7 @@
   google_id: "oursBaop5wYC"
 #
 - id: Fox2023
-  text: "Fox MP, Mathur MB, Matthay EC (2022+). Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> In press."
+  text: "Fox MP, Mathur MB, Matthay EC. Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> In press."
   year: 2023
   type: "methods"
   authorship: "middle"
@@ -137,7 +122,7 @@
   google_id: 
 #
 - id: Li2023
-  text: "Li Y, Yoshida K, Kaufman J, Mathur MB (2023+). A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma</strong>. In press."
+  text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma</strong>. In press."
   year: 2023
   type: "methods"
   authorship: "last"
@@ -167,7 +152,7 @@
   google_id: "8VtEwCQfWZkC"
 #
 - id: Voytenko2022
-  text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB (2022+). Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> In press."
+  text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB. Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> In press."
   year: 2022
   type: "empirical"
   authorship: "middle"
@@ -182,7 +167,7 @@
   google_id: "q0uBw5dMOAkC"
 #
 - id: Harris2022
-  text: "Harris J, Ladak A, Mathur MB (2022+). The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> In press."
+  text: "Harris J, Ladak A, Mathur MB. The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> In press."
   year: 2022
   type: "empirical"
   authorship: "last"
@@ -197,7 +182,7 @@
   google_id: "GYcXSSpN504C"
 #
 - id: Tsui2022
-  text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB (2023+). Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
+  text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
   year: 2023
   type: "empirical"
   authorship: "middle"
