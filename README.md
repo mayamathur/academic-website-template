@@ -152,7 +152,7 @@ Go to your project Settings / Pages, set source to the branch you are hosting th
 
 ## Docker based development
 
-This makes development and testing easier, because we don't need Roby and Jekyll to be installed locally, only Docker Desktop.
+Using [Docker](https://www.docker.com/) can be used as a development environment from the command line. This way you don't have to install Ruby, Jekyll, gems, etc. Once Docker desktop is installed, `cd` into this project folder and run the following command:
 
 ```
 docker run --rm \
@@ -161,3 +161,5 @@ docker run --rm \
   jekyll/jekyll:3 \
   jekyll serve
 ```
+
+You'll have to wait until all the gems are installed and the site is built. After that, visit `http://locahost:4000` in your browser. When you edit files in the folder, the site will rebuild and reflect the changes. Once done, hit `Ctrl+C` to exit the Docker process, it will clean up the container. Your changes will persist in this folder and you can commit the mto git.
