@@ -91,9 +91,9 @@
   doi: "10.31219/osf.io/e9bzc"
   google_id: "oursBaop5wYC"
 #
-- id: Fox2023
+- id: Fox2022
   text: "Fox MP, Mathur MB, Matthay EC. Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> In press."
-  year: 2023
+  year: 2022
   type: "methods"
   authorship: "middle"
   status: "inpress"
@@ -107,18 +107,18 @@
   google_id: 
 #
 - id: Boronowsky2022
-  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. (2022+). Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> In press."
+  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> In press."
   year: 2023
   type: "empirical"
   authorship: "middle"
   status: "inpress"
-  preprint: 
+  preprint: "https://www.frontiersin.org/articles/10.3389/fsufs.2022.1001157/abstract"
   datarepo: 
   rpackagename: 
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: 
+  doi: "10.3389/fsufs.2022.1001157"
   google_id: 
 #
 - id: Li2023
@@ -137,7 +137,7 @@
   google_id: "RfUwGJFMQ-0C"
 #
 - id: Grundy2022
-  text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB (2022). Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods.</strong>"
+  text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB. Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods.</strong>"
   year: 2022
   type: "empirical"
   authorship: "middle"
