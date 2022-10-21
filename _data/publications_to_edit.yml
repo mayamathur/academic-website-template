@@ -97,14 +97,14 @@
   type: "methods"
   authorship: "middle"
   status: "inpress"
-  preprint: 
+  preprint: "https://www.sciencedirect.com/science/article/pii/S2590113322000207?via%3Dihub"
   datarepo: 
   rpackagename: 
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: 
-  google_id: 
+  doi: "10.1016/j.gloepi.2022.100090"
+  google_id: "sgsej9ZJWHMC"
 #
 - id: Boronowsky2022
   text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> In press."
