@@ -136,21 +136,6 @@
   doi: 
   google_id: "RfUwGJFMQ-0C"
 #
-- id: Grundy2022
-  text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB. Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods.</strong>"
-  year: 2022
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://osf.io/mcdsq/"
-  datarepo: "https://osf.io/s4bz3/?view_only=e0ab65dc636944c0b2e81ad7b0632493"
-  rpackagename:
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.17605/OSF.IO/S4BZ3"
-  google_id: "8VtEwCQfWZkC"
-#
 - id: Voytenko2022
   text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB. Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> In press."
   year: 2022
@@ -304,6 +289,21 @@
   doi: "10.1136/bmj-2021-067582"
   google_id: 
 # 
+- id: Grundy2022
+  text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB. Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods,</strong> 100111."
+  year: 2022
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://osf.io/mcdsq/"
+  datarepo: "https://osf.io/s4bz3/?view_only=e0ab65dc636944c0b2e81ad7b0632493"
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.17605/OSF.IO/S4BZ3"
+  google_id: "8VtEwCQfWZkC"
+#
 - id: Maier2022
   text: "Maier M, VanderWeele TJ, Mathur MB (2022). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. <strong>Campbell Systematic Reviews</strong>."
   year: 2022
