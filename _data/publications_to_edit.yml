@@ -77,7 +77,7 @@
 #
 # --------------------------- In press ---------------------------
 - id: Mathur2023b
-  text: "Mathur MB. The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology.</strong> In press."
+  text: "Mathur MB. The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology.</strong> "
   year: 2023
   type: "methods"
   authorship: "first"
@@ -91,8 +91,23 @@
   doi: "10.31219/osf.io/e9bzc"
   google_id: "oursBaop5wYC"
 #
+- id: Rooprai2023
+  text: "Rooprai, et al., including Mathur MB. Is there evidence of p-hacking in imaging research? <strong>Canadian Association of Radiologists Journal.</strong> "
+  year: 2023
+  type: "methods"
+  authorship: "empirical"
+  status: "inpress"
+  preprint: 
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Fox2022
-  text: "Fox MP, Mathur MB, Matthay EC. Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> In press."
+  text: "Fox MP, Mathur MB, Matthay EC. Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> "
   year: 2022
   type: "methods"
   authorship: "middle"
@@ -107,7 +122,7 @@
   google_id: "sgsej9ZJWHMC"
 #
 - id: Boronowsky2022
-  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> In press."
+  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> "
   year: 2023
   type: "empirical"
   authorship: "middle"
@@ -122,7 +137,7 @@
   google_id: 
 #
 - id: Li2023
-  text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma</strong>. In press."
+  text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma</strong>. "
   year: 2023
   type: "methods"
   authorship: "last"
@@ -137,7 +152,7 @@
   google_id: "RfUwGJFMQ-0C"
 #
 - id: Voytenko2022
-  text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB. Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> In press."
+  text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB. Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> "
   year: 2022
   type: "empirical"
   authorship: "middle"
@@ -152,7 +167,7 @@
   google_id: "q0uBw5dMOAkC"
 #
 - id: Harris2022
-  text: "Harris J, Ladak A, Mathur MB. The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> In press."
+  text: "Harris J, Ladak A, Mathur MB. The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> "
   year: 2022
   type: "empirical"
   authorship: "last"
