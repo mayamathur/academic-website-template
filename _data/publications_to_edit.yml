@@ -1,20 +1,5 @@
 # --------------------------- In preparation ---------------------------
 #
-- id: Mathur2023e
-  text: "Mathur MB & Fox MP (under review). Toward open and reproducible epidemiology."
-  year: 2022
-  type: "empirical"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/bpkf7/"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
 - id: Mathur2023d
   text: "Mathur MB (under review). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses."
   year: 2022
@@ -91,6 +76,21 @@
   doi: "10.31219/osf.io/e9bzc"
   google_id: "oursBaop5wYC"
 #
+- id: Mathur2023e
+  text: "Mathur MB & Fox MP. Toward open and reproducible epidemiology. <strong>American Journal of Epidemiology.</strong>"
+  year: 2023
+  type: "empirical"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/bpkf7/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/bpkf7"
+  google_id: 
+#
 - id: Rooprai2023
   text: "Rooprai P, Islam N, Salameh JP, Ebrahimzadeh S, Kazi A, Frank RA, et al., including Mathur MB. Is there evidence of p-hacking in imaging research? <strong>Canadian Association of Radiologists Journal.</strong> "
   year: 2023
@@ -108,7 +108,7 @@
 #
 - id: Fox2022
   text: "Fox MP, Mathur MB, Matthay EC. Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> "
-  year: 2022
+  year: 2023
   type: "methods"
   authorship: "middle"
   status: "inpress"
