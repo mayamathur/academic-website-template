@@ -1,17 +1,8 @@
 ---
-title: Lab members
+title: Teaching
 layout: academic
 author_profile: true
 ---
 
-Current lab members
-
-* Mika Braginsky (postdoctoral fellow)
-* Yi Li (graduate-level statistics research intern)
-
-Former lab members
-
-* Leon Tran King (graduate-level statistics research intern)
-* Maximilian Maier (graduate-level statistics research intern)
-
+Many of my teaching slide decks are [publicly available](https://osf.io/x7zgu/).
 
