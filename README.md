@@ -50,7 +50,7 @@ Edit the `cv/index.md`, `teaching/index.md` as regular markdown file. All markdo
 
 If you want to rename the directories, just go ahead.
 
-If you want to add new pages: create a new folder, create a new text file called `index.html` inside this new folder. Add the yaml header as the following:
+If you want to add new pages: create a new folder, create a new text file called `index.md` inside this new folder. Add the yaml header as the following:
 
 ```yaml
 ---
@@ -73,6 +73,10 @@ author_image: true
 ```
 
 Edit the top navigation inside the `_data/navigation.yml` file if you want the new page to be listed at the top.
+
+Troubleshooting:
+
+* If a page renders online as plain text without the sidebar, etc., see if its directory contains a file called `index.html` (not `index.md`). If so, delete `index.html` and also add to the directory a .gitignore that contains the line `index.html`.
 
 ### Publications
 
