@@ -2,11 +2,7 @@
 main:
   - title: Publications
     url: /publications/
-  - title: CV
-    url: /cv/
   - title: Software
     url: /code/
-  - title: Teaching
-    url: /teaching/
   - title: Lab members
     url: /members/
