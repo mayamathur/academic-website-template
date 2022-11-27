@@ -4,30 +4,29 @@ layout: academic
 author_profile: true
 ---
 
-# Current lab members
 
-## Postdoctoral fellows
+### Postdoctoral fellows
 
 * Mika Braginsky
 
-## Graduate-level research interns
+### Graduate-level research interns
 
 * Yi Li 
 
-## Research assistants
+### Research assistants
 
 * Kawther Said
 * Melissa Liu
 * Ananya Khosla
 
-# Former lab members
+## Former lab members
 
-## Graduate-level research interns
+### Graduate-level research interns
 
 * Leon Tran King 
 * Maximilian Maier 
 
-## Research assistants
+### Research assistants
 
 * Theiss Bendixen
 * Andrea Lamas-Nino
