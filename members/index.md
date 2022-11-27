@@ -4,12 +4,34 @@ layout: academic
 author_profile: true
 ---
 
-Current lab members
+# Current lab members
 
-* Mika Braginsky (postdoctoral fellow)
-* Yi Li (graduate-level statistics research intern)
+## Postdoctoral fellows
 
-Former lab members
+* Mika Braginsky
 
-* Leon Tran King (graduate-level statistics research intern)
-* Maximilian Maier (graduate-level statistics research intern)
+## Graduate-level research interns
+
+* Yi Li 
+
+## Research assistants
+
+* Kawther Said
+* Melissa Liu
+* Ananya Khosla
+
+# Former lab members
+
+## Graduate-level research interns
+
+* Leon Tran King 
+* Maximilian Maier 
+
+## Research assistants
+
+* Theiss Bendixen
+* Andrea Lamas-Nino
+* Maximilian Maier 
+* Leslie Meza
+* Claire Punturieri
+* Yawen Xiang
