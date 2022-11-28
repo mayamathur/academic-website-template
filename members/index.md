@@ -19,7 +19,7 @@ author_profile: true
 * Melissa Liu
 * Ananya Khosla
 
-## Former lab members
+# Former lab members
 
 ### Graduate-level research interns
 
