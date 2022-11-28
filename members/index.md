@@ -12,6 +12,7 @@ author_profile: true
 ### Graduate-level research interns
 
 * Yi Li 
+* Guo-Qiang Zhang
 
 ### Research assistants
 
