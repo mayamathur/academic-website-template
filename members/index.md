@@ -9,8 +9,9 @@ author_profile: true
 
 * Mika Braginsky
 
-### Graduate-level research interns
+### Graduate-level researchers
 
+* Anaïs Voski
 * Yi Li 
 * Guo-Qiang Zhang
 
@@ -22,7 +23,7 @@ author_profile: true
 
 # Former lab members
 
-### Graduate-level research interns
+### Graduate-level researchers
 
 * Leon Tran King 
 * Maximilian Maier 
