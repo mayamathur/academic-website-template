@@ -85,11 +85,11 @@
   status: "inpress"
   preprint: "https://osf.io/e9bzc/"
   datarepo: "https://osf.io/v8ma6/"
-  rpackagename: "EValue"
-  rpackagelink: "https://cran.r-project.org/web/packages/EValue/index.html"
+  rpackagename: 
+  rpackagelink: 
   webappname: 
   webapplink: 
-  doi: "10.31219/osf.io/e9bzc"
+  doi: "/10.1093/aje/kwac207"
   google_id: "oursBaop5wYC"
 #
 - id: Mathur2023e
