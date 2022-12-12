@@ -62,6 +62,22 @@
 #
 # --------------------------- In press ---------------------------
 #
+- id: Mathur2023f
+  text: "Mathur MB & Mathur VS. Primary care physicians' perceptions of the effects of being overweight on all-cause mortality. <strong>Epidemiology.</strong>"
+  year: 2023
+  type: "empirical"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/q8bvn"
+  datarepo: "https://osf.io/9ydkm"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+#
 - id: Mathur2023e
   text: "Mathur MB, Covington C, VanderWeele TJ. Variation across analysts in statistical significance, yet consistently small effect sizes. <strong>Proceedings of the National Academy of Sciences.</strong> (Provisionally accepted)"
   year: 2023
