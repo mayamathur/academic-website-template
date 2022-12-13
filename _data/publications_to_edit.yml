@@ -45,6 +45,21 @@
   doi: "10.31219/osf.io/k9g3b"
   google_id: "xm0LlTxljI0C"
 #
+- id: Zhang2023a
+  text: "Zhang GC, Basna R, Mathur MB, Lässer C, Mincheva R, Ekerljung L, et al. (under review). Exogenous female sex steroid Hormones and new onset asthma in women: A matched case-control study."
+  year: 2022
+  type: "empirical"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://assets.researchsquare.com/files/rs-2324858/v1_covered.pdf?c=1670620194"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Li2023b
   text: "Li Y, Mathur MB, Solomon DH, Glynn RJ, Yoshida K (under review). Effect measure modification by covariates in mediation: Extending regression-based causal mediation analysis."
   year: 2022
