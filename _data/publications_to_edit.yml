@@ -92,22 +92,6 @@
   doi: 
   google_id: 
 #
-#
-- id: Mathur2023e
-  text: "Mathur MB, Covington C, VanderWeele TJ. Variation across analysts in statistical significance, yet consistently small effect sizes. <strong>Proceedings of the National Academy of Sciences.</strong> (Provisionally accepted)"
-  year: 2023
-  type: "empirical"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/8s24n"
-  datarepo: "https://github.com/ctcovington/MCV_BRWN-22_comment"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.31219/osf.io/8s24n"
-  google_id: 
-#
 - id: Mathur2023b
   text: "Mathur MB. The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology.</strong> "
   year: 2023
@@ -241,6 +225,23 @@
   webappname: 
   webapplink: 
   doi: 
+  google_id: 
+#
+# --------------------------- 2023 ---------------------------
+#
+- id: Mathur2023e
+  text: "Mathur MB, Covington C, VanderWeele TJ. Variation across analysts in statistical significance, yet consistently small effect sizes. <strong>Proceedings of the National Academy of Sciences,</strong> 120(3) e2218957120."
+  year: 2023
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/8s24n"
+  datarepo: "https://github.com/ctcovington/MCV_BRWN-22_comment"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1073/pnas.2219555120"
   google_id: 
 #
 # --------------------------- 2022 ---------------------------
