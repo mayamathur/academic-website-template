@@ -197,21 +197,6 @@
   doi: "10.1037/rel0000441"
   google_id: "q0uBw5dMOAkC"
 #
-- id: Harris2022
-  text: "Harris J, Ladak A, Mathur MB. The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> "
-  year: 2022
-  type: "empirical"
-  authorship: "last"
-  status: "inpress"
-  preprint: "https://psyarxiv.com/p6hbk"
-  datarepo: "https://osf.io/gny9x/"
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi: 
-  google_id: "GYcXSSpN504C"
-#
 - id: Tsui2022
   text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
   year: 2023
@@ -352,6 +337,21 @@
   doi: "10.1136/bmj-2021-067582"
   google_id: 
 # 
+- id: Harris2022
+  text: "Harris J, Ladak A, Mathur MB. The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> "
+  year: 2022
+  type: "empirical"
+  authorship: "last"
+  status: "published"
+  preprint: "https://psyarxiv.com/p6hbk"
+  datarepo: "https://osf.io/gny9x/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1080/08927936.2022.2062868"
+  google_id: "GYcXSSpN504C"
+#
 - id: Grundy2022
   text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB. Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods,</strong> 100111."
   year: 2022
