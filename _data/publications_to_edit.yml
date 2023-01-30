@@ -152,21 +152,6 @@
   doi: "10.1016/j.gloepi.2022.100090"
   google_id: "sgsej9ZJWHMC"
 #
-- id: Boronowsky2022
-  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems,</strong> 6(100115)."
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://www.frontiersin.org/articles/10.3389/fsufs.2022.1001157/abstract"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.3389/fsufs.2022.1001157"
-  google_id: 
-#
 - id: Li2023
   text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma</strong>. "
   year: 2023
@@ -337,6 +322,21 @@
   doi: "10.1136/bmj-2021-067582"
   google_id: 
 # 
+- id: Boronowsky2022
+  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems,</strong> 6(100115)."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.frontiersin.org/articles/10.3389/fsufs.2022.1001157/abstract"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.3389/fsufs.2022.1001157"
+  google_id: 
+#
 - id: Harris2022
   text: "Harris J, Ladak A, Mathur MB. The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos,</strong> 35(6), 773-788."
   year: 2022
