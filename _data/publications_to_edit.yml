@@ -1,4 +1,19 @@
 # --------------------------- In preparation ---------------------------
+#
+- id: Mathur2023e
+  text: "Mathur MB, Shpitser I, VanderWeele TJ (under review). A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment."
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/ths4e/"
+  datarepo: "https://osf.io/crxyw/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
 # 
 - id: Mathur2023d
   text: "Mathur MB (under review). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses."
@@ -89,11 +104,11 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: 
-  google_id: 
+  doi: "10.1097/EDE.0000000000001590"
+  google_id: "CMvovTBb2okC"
 #
 - id: Mathur2023b
-  text: "Mathur MB. The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology.</strong> "
+  text: "Mathur MB. The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology.</strong>"
   year: 2023
   type: "methods"
   authorship: "first"
@@ -164,7 +179,7 @@
   rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
   webappname: 
   webapplink: 
-  doi: 
+  doi: "10.1037/tra0001421"
   google_id: "RfUwGJFMQ-0C"
 #
 - id: Voytenko2022
@@ -212,7 +227,7 @@
   webappname: 
   webapplink: 
   doi: "10.1073/pnas.2219555120"
-  google_id: 
+  google_id: "yJjnfzR0HrkC"
 #
 # --------------------------- 2022 ---------------------------
 #
