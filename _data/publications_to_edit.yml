@@ -1,5 +1,20 @@
 # --------------------------- In preparation ---------------------------
 # 
+- id: Mathur2023e
+  text: "Mathur MB, Shpitser I, VanderWeele TJ (under review). A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment."
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/ths4e/"
+  datarepo: "https://osf.io/crxyw/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/ths4e"
+  google_id: 
+# 
 - id: Mathur2023d
   text: "Mathur MB (under review). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses."
   year: 2022
