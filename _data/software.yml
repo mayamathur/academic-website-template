@@ -1,4 +1,13 @@
-
+- name: multibiasmeta
+  description: Conducts corrections and sensitivity analyses for within-study and/or across-study biases in meta-analyses.
+  link: https://cran.r-project.org/web/packages/multibiasmeta/index.html
+  type: R package
+  domain: Statistics
+- name: metabias
+  description: Provides common components (classes, methods, documentation) for meta-analysis packages.
+  link: https://cran.r-project.org/web/packages/metabias/index.html
+  type: R package
+  domain: Statistics
 - name: truncnormbayes
   description: Finds the posterior modes for the mean and standard deviation for a truncated normal distribution.
   link: https://cran.r-project.org/web/packages/truncnormbayes/index.html

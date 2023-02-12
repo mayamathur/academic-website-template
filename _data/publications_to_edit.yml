@@ -1,19 +1,4 @@
 # --------------------------- In preparation ---------------------------
-#
-- id: Mathur2023e
-  text: "Mathur MB, Shpitser I, VanderWeele TJ (under review). A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment."
-  year: 2023
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/ths4e/"
-  datarepo: "https://osf.io/crxyw/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
 # 
 - id: Mathur2023d
   text: "Mathur MB (under review). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses."
@@ -98,17 +83,17 @@
   type: "empirical"
   authorship: "first"
   status: "inpress"
-  preprint: "https://journals.lww.com/epidem/Citation/9900/Primary_care_physicians__perceptions_of_the.107.aspx"
+  preprint: "https://osf.io/q8bvn"
   datarepo: "https://osf.io/9ydkm"
   rpackagename: 
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: "10.1097/EDE.0000000000001590"
-  google_id: "CMvovTBb2okC"
+  doi: 
+  google_id: 
 #
 - id: Mathur2023b
-  text: "Mathur MB. The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology.</strong>"
+  text: "Mathur MB. The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology.</strong> "
   year: 2023
   type: "methods"
   authorship: "first"
@@ -134,7 +119,7 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: "10.31219/osf.io/bpkf7"
+  doi: "10.1093/aje/kwad007"
   google_id: 
 #
 - id: Rooprai2023
@@ -167,6 +152,21 @@
   doi: "10.1016/j.gloepi.2022.100090"
   google_id: "sgsej9ZJWHMC"
 #
+- id: Boronowsky2022
+  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> "
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: "https://www.frontiersin.org/articles/10.3389/fsufs.2022.1001157/abstract"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.3389/fsufs.2022.1001157"
+  google_id: 
+#
 - id: Li2023
   text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma</strong>. "
   year: 2023
@@ -179,7 +179,7 @@
   rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
   webappname: 
   webapplink: 
-  doi: "10.1037/tra0001421"
+  doi: 
   google_id: "RfUwGJFMQ-0C"
 #
 - id: Voytenko2022
@@ -196,6 +196,21 @@
   webapplink:
   doi: "10.1037/rel0000441"
   google_id: "q0uBw5dMOAkC"
+#
+- id: Harris2022
+  text: "Harris J, Ladak A, Mathur MB. The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> "
+  year: 2022
+  type: "empirical"
+  authorship: "last"
+  status: "inpress"
+  preprint: "https://psyarxiv.com/p6hbk"
+  datarepo: "https://osf.io/gny9x/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: 
+  google_id: "GYcXSSpN504C"
 #
 - id: Tsui2022
   text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
@@ -227,7 +242,7 @@
   webappname: 
   webapplink: 
   doi: "10.1073/pnas.2219555120"
-  google_id: "yJjnfzR0HrkC"
+  google_id: 
 #
 # --------------------------- 2022 ---------------------------
 #
@@ -337,36 +352,6 @@
   doi: "10.1136/bmj-2021-067582"
   google_id: 
 # 
-- id: Boronowsky2022
-  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems,</strong> 6(100115)."
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "published"
-  preprint: "https://www.frontiersin.org/articles/10.3389/fsufs.2022.1001157/abstract"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.3389/fsufs.2022.1001157"
-  google_id: 
-#
-- id: Harris2022
-  text: "Harris J, Ladak A, Mathur MB. The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos,</strong> 35(6), 773-788."
-  year: 2022
-  type: "empirical"
-  authorship: "last"
-  status: "published"
-  preprint: "https://psyarxiv.com/p6hbk"
-  datarepo: "https://osf.io/gny9x/"
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi: "10.1080/08927936.2022.2062868"
-  google_id: "GYcXSSpN504C"
-#
 - id: Grundy2022
   text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB. Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods,</strong> 100111."
   year: 2022
