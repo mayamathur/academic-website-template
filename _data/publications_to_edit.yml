@@ -119,7 +119,7 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: "/10.1093/aje/kwac207"
+  doi: "10.1093/aje/kwac207"
   google_id: "oursBaop5wYC"
 #
 - id: Mathur2023e
@@ -135,37 +135,37 @@
   webappname: 
   webapplink: 
   doi: "10.1093/aje/kwad007"
-  google_id: 
+  google_id: "l6Q3WhenKVUC"
 #
+- id: Chen2023
+  text: "Chen Y, Mathur MB, Case BW, VanderWeele TJ (2023). Marital transitions during earlier adulthood and subsequent health and well-being in mid- to late-life among female nurses: An outcome-wide analysis. <strong>Global Epidemiology.</strong>"
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S2590113323000020?via%3Dihub"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.gloepi.2023.100099"
+  google_id: "X5YyAB84Iw4C"
+# 
 - id: Rooprai2023
   text: "Rooprai P, Islam N, Salameh JP, Ebrahimzadeh S, Kazi A, Frank RA, et al., including Mathur MB. Is there evidence of p-hacking in imaging research? <strong>Canadian Association of Radiologists Journal.</strong> "
   year: 2023
   type: "empirical"
   authorship: "middle"
   status: "inpress"
-  preprint: 
+  preprint: "https://journals.sagepub.com/doi/full/10.1177/08465371221139418"
   datarepo: 
   rpackagename: 
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: 
-  google_id: 
-#
-- id: Fox2022
-  text: "Fox MP, Mathur MB, Matthay EC. Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> "
-  year: 2023
-  type: "methods"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://www.sciencedirect.com/science/article/pii/S2590113322000207?via%3Dihub"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.1016/j.gloepi.2022.100090"
-  google_id: "sgsej9ZJWHMC"
+  doi: "10.1177/0846537122113"
+  google_id: "AFmTUeZ1pmEC"
 #
 - id: Boronowsky2022
   text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> "
@@ -211,21 +211,6 @@
   webapplink:
   doi: "10.1037/rel0000441"
   google_id: "q0uBw5dMOAkC"
-#
-- id: Harris2022
-  text: "Harris J, Ladak A, Mathur MB. The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> "
-  year: 2022
-  type: "empirical"
-  authorship: "last"
-  status: "inpress"
-  preprint: "https://psyarxiv.com/p6hbk"
-  datarepo: "https://osf.io/gny9x/"
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi: 
-  google_id: "GYcXSSpN504C"
 #
 - id: Tsui2022
   text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
@@ -351,6 +336,36 @@
   webapplink: 
   doi: "10.1016/j.envint.2021.107032"
   google_id: "g_UdREhPGEoC"
+#
+- id: Fox2022
+  text: "Fox MP, Mathur MB, Matthay EC. Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> "
+  year: 2022
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S2590113322000207?via%3Dihub"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.gloepi.2022.100090"
+  google_id: "sgsej9ZJWHMC"
+#
+- id: Harris2022
+  text: "Harris J, Ladak A, Mathur MB. The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> "
+  year: 2022
+  type: "empirical"
+  authorship: "last"
+  status: "published"
+  preprint: "https://psyarxiv.com/p6hbk"
+  datarepo: "https://osf.io/gny9x/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1080/08927936.2022.2062868"
+  google_id: "GYcXSSpN504C"
 #
 - id: Thielmann2022
   text: "Thielmann M, Lemp JM, Winkler V, Manne-Goehler J, Marcus M, Probst C, et al., including Mathur MB (2022). Patterns of tobacco use in low- and middle-income countries by tobacco product and sociodemographic characteristics: a study of nationally representative survey data from 82 countries. <strong>BMJ,</strong> 378:e067582."
