@@ -167,21 +167,6 @@
   doi: "10.1177/0846537122113"
   google_id: "AFmTUeZ1pmEC"
 #
-- id: Boronowsky2022
-  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> "
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://www.frontiersin.org/articles/10.3389/fsufs.2022.1001157/abstract"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.3389/fsufs.2022.1001157"
-  google_id: 
-#
 - id: Li2023
   text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma</strong>. "
   year: 2023
@@ -196,21 +181,6 @@
   webapplink: 
   doi: 
   google_id: "RfUwGJFMQ-0C"
-#
-- id: Voytenko2022
-  text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB. Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> "
-  year: 2022
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: 
-  datarepo: 
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi: "10.1037/rel0000441"
-  google_id: "q0uBw5dMOAkC"
 #
 - id: Tsui2022
   text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
@@ -243,6 +213,21 @@
   webapplink: 
   doi: "10.1073/pnas.2219555120"
   google_id: 
+#
+- id: Voytenko2023
+  text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB. Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> "
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://psycnet.apa.org/record/2021-78192-001"
+  datarepo: 
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1037/rel0000441"
+  google_id: "q0uBw5dMOAkC"
 #
 # --------------------------- 2022 ---------------------------
 #
@@ -382,6 +367,22 @@
   doi: "10.1136/bmj-2021-067582"
   google_id: 
 # 
+#
+- id: Boronowsky2022
+  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> "
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.frontiersin.org/articles/10.3389/fsufs.2022.1001157/abstract"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.3389/fsufs.2022.1001157"
+  google_id: "qCpRzq7zkD8C"
+#
 - id: Grundy2022
   text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, et al., including Mathur MB. Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods,</strong> 100111."
   year: 2022
