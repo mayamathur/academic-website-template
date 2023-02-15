@@ -90,6 +90,21 @@
   doi: 
   google_id: 
 #
+- id: Tsui2022
+  text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "inprep"
+  preprint: 
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 # --------------------------- In press ---------------------------
 #
 - id: Mathur2023f
@@ -119,83 +134,9 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: "10.1093/aje/kwac207"
-  google_id: "oursBaop5wYC"
-#
-- id: Mathur2023e
-  text: "Mathur MB & Fox MP. Toward open and reproducible epidemiology. <strong>American Journal of Epidemiology.</strong>"
-  year: 2023
-  type: "empirical"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwad007/6982711?utm_source=authortollfreelink&utm_campaign=aje&utm_medium=email&guestAccessKey=5b2b52fc-e528-43d4-a84b-a591f2b57d90"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.1093/aje/kwad007"
-  google_id: "l6Q3WhenKVUC"
-#
-- id: Chen2023
-  text: "Chen Y, Mathur MB, Case BW, VanderWeele TJ. Marital transitions during earlier adulthood and subsequent health and well-being in mid- to late-life among female nurses: An outcome-wide analysis. <strong>Global Epidemiology.</strong>"
-  year: 2023
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://www.sciencedirect.com/science/article/pii/S2590113323000020?via%3Dihub"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.1016/j.gloepi.2023.100099"
-  google_id: "X5YyAB84Iw4C"
-# 
-- id: Rooprai2023
-  text: "Rooprai P, Islam N, Salameh JP, Ebrahimzadeh S, Kazi A, Frank RA, et al., including Mathur MB. Is there evidence of p-hacking in imaging research? <strong>Canadian Association of Radiologists Journal.</strong> "
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://journals.sagepub.com/doi/full/10.1177/08465371221139418"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.1177/0846537122113"
-  google_id: "AFmTUeZ1pmEC"
-#
-- id: Li2023
-  text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma</strong>. "
-  year: 2023
-  type: "methods"
-  authorship: "last"
-  status: "inpress"
-  preprint: "https://osf.io/jath7/"
-  datarepo: "https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/ZZZEGG"
-  rpackagename: "regmedint"
-  rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
-  webappname: 
-  webapplink: 
+  doi: "10.1093/aje/kwac207"    
   doi: 
   google_id: "RfUwGJFMQ-0C"
-#
-- id: Tsui2022
-  text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: 
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
 #
 # --------------------------- 2023 ---------------------------
 #
