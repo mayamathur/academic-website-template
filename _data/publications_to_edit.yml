@@ -138,11 +138,11 @@
   google_id: "l6Q3WhenKVUC"
 #
 - id: Chen2023
-  text: "Chen Y, Mathur MB, Case BW, VanderWeele TJ (2023). Marital transitions during earlier adulthood and subsequent health and well-being in mid- to late-life among female nurses: An outcome-wide analysis. <strong>Global Epidemiology.</strong>"
+  text: "Chen Y, Mathur MB, Case BW, VanderWeele TJ. Marital transitions during earlier adulthood and subsequent health and well-being in mid- to late-life among female nurses: An outcome-wide analysis. <strong>Global Epidemiology.</strong>"
   year: 2023
   type: "methods"
   authorship: "first"
-  status: "inprep"
+  status: "inpress"
   preprint: "https://www.sciencedirect.com/science/article/pii/S2590113323000020?via%3Dihub"
   datarepo: 
   rpackagename: 
@@ -323,7 +323,7 @@
   google_id: "g_UdREhPGEoC"
 #
 - id: Fox2022
-  text: "Fox MP, Mathur MB, Matthay EC. Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> "
+  text: "Fox MP, Mathur MB, Matthay EC (2022). Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> "
   year: 2022
   type: "methods"
   authorship: "middle"
@@ -338,7 +338,7 @@
   google_id: "sgsej9ZJWHMC"
 #
 - id: Harris2022
-  text: "Harris J, Ladak A, Mathur MB. The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> "
+  text: "Harris J, Ladak A, Mathur MB (2022). The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> "
   year: 2022
   type: "empirical"
   authorship: "last"
@@ -369,8 +369,8 @@
 # 
 #
 - id: Boronowsky2022
-  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al. Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> "
-  year: 2023
+  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, Mathur MB, Cleveland DA, et al (2022). Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> "
+  year: 2022
   type: "empirical"
   authorship: "middle"
   status: "published"
