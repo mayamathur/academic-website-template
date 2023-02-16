@@ -24,7 +24,7 @@ jobs:
         run: Rscript _R/update-citations.R
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.0.0
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: main
           folder: .
