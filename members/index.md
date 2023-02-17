@@ -1,5 +1,5 @@
 ---
-title: 
+title: Lab members
 layout: academic
 author_profile: true
 ---
