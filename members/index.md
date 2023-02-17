@@ -4,19 +4,17 @@ layout: academic
 author_profile: true
 ---
 
-# Current lab members
-
-### Postdoctoral fellows
+# Postdoctoral fellows
 
 -   Mika Braginsky
 
-### Graduate-level researchers
+# Graduate-level researchers
 
 -   Anaïs Voski
 -   Yi Li
 -   Guo-Qiang Zhang
 
-### Research assistants
+# Research assistants
 
 -   Kawther Said
 
@@ -25,6 +23,12 @@ author_profile: true
 -   Ananya Khosla
 
 # Affiliated researchers
+
+<img src="peacock.jpg" width="200">
+
+
+<strong>Jacob Peacock</strong> is a Senior Research Manager at Rethink Priorities focused on farmed animal welfare. In his previous role as Director of The Humane League Labs, he studied plant-based milk alternatives, education to reduce meat consumption, and global cage-free campaigns. He earned a degree in Computational Biology from Rutgers University and is an advocate for open science.
+
 
 
 <img src="sinclair.jpg" width="200">
