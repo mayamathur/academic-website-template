@@ -137,6 +137,21 @@
   doi: "10.1093/aje/kwac207"    
   google_id: "RfUwGJFMQ-0C"
 #
+- id: Chen2023
+  text: "Chen Y, Mathur MB, Case BW, VanderWeele TJ. Marital transitions during earlier adulthood and subsequent health and well-being in mid-to late-life among female nurses: An outcome-wide analysis. <strong>Global Epidemiology.</strong> "
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S2590113323000020"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.gloepi.2023.100099"    
+  google_id: "X5YyAB84Iw4C"
+#
 # --------------------------- 2023 ---------------------------
 #
 - id: Mathur2023e
