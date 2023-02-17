@@ -107,6 +107,21 @@
 #
 # --------------------------- In press ---------------------------
 #
+- id: Mathur2023c
+  text: "Mathur MB & Fox MP. Toward open and reproducible epidemiology. <strong>American Journal of Epidemiology.</strong> "
+  year: 2023
+  type: "empirical"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwad007/6982711"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/aje/kwad007"    
+  google_id: "l6Q3WhenKVUC"
+#
 - id: Mathur2023f
   text: "Mathur MB & Mathur VS. Primary care physicians' perceptions of the effects of being overweight on all-cause mortality. <strong>Epidemiology.</strong>"
   year: 2023
@@ -119,8 +134,8 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: 
-  google_id: 
+  doi: "10.1097/EDE.0000000000001590"
+  google_id: "CMvovTBb2okC"
 #
 - id: Mathur2023b
   text: "Mathur MB. The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology.</strong> "
@@ -151,6 +166,21 @@
   webapplink: 
   doi: "10.1016/j.gloepi.2023.100099"    
   google_id: "X5YyAB84Iw4C"
+#
+- id: Chen2023
+  text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma: Theory, Research, Practice, and Policy.</strong> "
+  year: 2023
+  type: "methods"
+  authorship: "last"
+  status: "inpress"
+  preprint: "https://osf.io/jath7"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1037/tra0001421"    
+  google_id: "DquSII9TDu4C"
 #
 # --------------------------- 2023 ---------------------------
 #
