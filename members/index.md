@@ -3,7 +3,6 @@ title:
 layout: academic
 author_profile: true
 ---
-
 # Postdoctoral fellows
 
 -   Mika Braginsky
