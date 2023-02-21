@@ -143,7 +143,7 @@
   type: "methods"
   authorship: "first"
   status: "inpress"
-  preprint: "https://osf.io/e9bzc/"
+  preprint: "https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwac207/6873724"
   datarepo: "https://osf.io/v8ma6/"
   rpackagename: 
   rpackagelink: 
@@ -152,22 +152,7 @@
   doi: "10.1093/aje/kwac207"    
   google_id: "RfUwGJFMQ-0C"
 #
-- id: Chen2023
-  text: "Chen Y, Mathur MB, Case BW, VanderWeele TJ. Marital transitions during earlier adulthood and subsequent health and well-being in mid-to late-life among female nurses: An outcome-wide analysis. <strong>Global Epidemiology.</strong> "
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://www.sciencedirect.com/science/article/pii/S2590113323000020"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.1016/j.gloepi.2023.100099"    
-  google_id: "X5YyAB84Iw4C"
-#
-- id: Chen2023
+- id: Li2023
   text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma: Theory, Research, Practice, and Policy.</strong> "
   year: 2023
   type: "methods"
@@ -213,6 +198,21 @@
   webapplink: 
   doi: "10.1073/pnas.2219555120"
   google_id: 
+#
+- id: Chen2023
+  text: "Chen Y, Mathur MB, Case BW, VanderWeele TJ (2023). Marital transitions during earlier adulthood and subsequent health and well-being in mid-to late-life among female nurses: An outcome-wide analysis. <strong>Global Epidemiology.</strong> "
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S2590113323000020"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.gloepi.2023.100099"    
+  google_id: "X5YyAB84Iw4C"
 #
 - id: Voytenko2023
   text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, et al., including Mathur MB. Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> "
