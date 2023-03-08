@@ -59,6 +59,22 @@
   webapplink: 
   doi: "10.31219/osf.io/k9g3b"
   google_id: "xm0LlTxljI0C"
+#  
+- id: Ho2023
+  text: "Ho MY, et al., including Mathur MB (under review). International REACH forgiveness intervention: A multi-site randomized controlled trial."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://osf.io/8qzgw/"
+  datarepo: "https://osf.io/f34jp"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: 
+  google_id: 
+#
 #
 - id: Zhang2023a
   text: "Zhang GC, Basna R, Mathur MB, Lässer C, Mincheva R, Ekerljung L, et al. (under review). Exogenous female sex steroid hormones and new onset asthma in women: A matched case-control study."
