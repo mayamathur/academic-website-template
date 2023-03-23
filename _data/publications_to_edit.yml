@@ -91,21 +91,6 @@
   doi: 
   google_id: 
 #
-- id: Li2023b
-  text: "Li Y, Mathur MB, Solomon DH, Glynn RJ, Yoshida K (under review). Effect measure modification by covariates in mediation: Extending regression-based causal mediation analysis."
-  year: 2022
-  type: "methods"
-  authorship: "middle"
-  status: "inprep"
-  preprint: "https://osf.io/preprints/3gf64/"
-  datarepo: 
-  rpackagename: "regmedint"
-  rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
 - id: Tsui2022
   text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
   year: 2023
@@ -182,6 +167,21 @@
   webapplink: 
   doi: "10.1037/tra0001421"    
   google_id: "DquSII9TDu4C"
+#
+- id: Li2023b
+  text: "Li Y, Mathur MB, Solomon DH, Glynn RJ, Yoshida K (under review). Effect measure modification by covariates in mediation: Extending regression-based causal mediation analysis."
+  year: 2023
+  type: "methods"
+  authorship: "middle"
+  status: "inpress"
+  preprint: "https://osf.io/preprints/3gf64/"
+  datarepo: 
+  rpackagename: "regmedint"
+  rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
 #
 - id: Rooprai2023
   text: "Rooprai et al., including Mathur MB. Is there evidence of p-hacking in imaging research? <strong>Canadian Association of Radiologists Journal.</strong> "
