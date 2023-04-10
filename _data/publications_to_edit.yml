@@ -45,21 +45,6 @@
   doi: "10.31219/osf.io/ezjsx"
   google_id: "lK9BDNCuzFgC"
 #
-- id: Mathur2023c
-  text: "Mathur MB & VanderWeele TJ (under review). New metrics for multiple testing with correlated outcomes."
-  year: 2022
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/k9g3b"
-  datarepo: "https://osf.io/qj9wa/"
-  rpackagename: "NRejections"
-  rpackagelink: "https://cran.r-project.org/web/packages/NRejections/index.html"
-  webappname: 
-  webapplink: 
-  doi: "10.31219/osf.io/k9g3b"
-  google_id: "xm0LlTxljI0C"
-#  
 - id: Ho2023
   text: "Ho MY, et al., including Mathur MB (under review). International REACH forgiveness intervention: A multi-site randomized controlled trial."
   year: 2023
@@ -107,6 +92,21 @@
   google_id: 
 #
 # --------------------------- In press ---------------------------
+#
+- id: Mathur2023c
+  text: "Mathur MB & VanderWeele TJ. New metrics for multiple testing with correlated outcomes. <strong>Frontiers in Applied Mathematics and Statistics.</strong>"
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/k9g3b"
+  datarepo: "https://osf.io/qj9wa/"
+  rpackagename: "NRejections"
+  rpackagelink: "https://cran.r-project.org/web/packages/NRejections/index.html"
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/k9g3b"
+  google_id: "xm0LlTxljI0C"
 #
 - id: Mathur2023c
   text: "Mathur MB & Fox MP. Toward open and reproducible epidemiology. <strong>American Journal of Epidemiology.</strong> "
