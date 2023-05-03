@@ -109,21 +109,6 @@
 # --------------------------- In press ---------------------------
 #
 - id: Mathur2023c
-  text: "Mathur MB & VanderWeele TJ. New metrics for multiple testing with correlated outcomes. <strong>Frontiers in Applied Mathematics and Statistics.</strong>"
-  year: 2023
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/k9g3b"
-  datarepo: "https://osf.io/qj9wa/"
-  rpackagename: "NRejections"
-  rpackagelink: "https://cran.r-project.org/web/packages/NRejections/index.html"
-  webappname: 
-  webapplink: 
-  doi: "10.31219/osf.io/k9g3b"
-  google_id: "xm0LlTxljI0C"
-#
-- id: Mathur2023c
   text: "Mathur MB & Fox MP. Toward open and reproducible epidemiology. <strong>American Journal of Epidemiology.</strong> "
   year: 2023
   type: "empirical"
@@ -214,6 +199,21 @@
   google_id: "AFmTUeZ1pmEC"
 #
 # --------------------------- 2023 ---------------------------
+#
+- id: Mathur2023c
+  text: "Mathur MB & VanderWeele TJ (2023). New metrics for multiple testing with correlated outcomes. <strong>Frontiers in Applied Mathematics and Statistics,</strong> 9:1151314."
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.frontiersin.org/articles/10.3389/fams.2023.1151314/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Applied_Mathematics_and_Statistics&id=1151314"
+  datarepo: "https://osf.io/qj9wa/"
+  rpackagename: "NRejections"
+  rpackagelink: "https://cran.r-project.org/web/packages/NRejections/index.html"
+  webappname: 
+  webapplink: 
+  doi: "10.3389/fams.2023.1151314"
+  google_id: "xm0LlTxljI0C"
 #
 - id: Mathur2023e
   text: "Mathur MB, Covington C, VanderWeele TJ (2023). Variation across analysts in statistical significance, yet consistently small effect sizes. <strong>Proceedings of the National Academy of Sciences,</strong> 120(3):e2218957120."
