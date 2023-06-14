@@ -108,6 +108,22 @@
 #
 # --------------------------- In press ---------------------------
 #
+- id: Hunt2023
+  text: "Hunt IJ, et al., including Mathur MB. A social media-based public health campaign to reduce indoor tanning in high-risk populations. <strong>AJPM Focus.</strong>"
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: "https://www.ajpmfocus.org/article/S2773-0654(23)00060-3/fulltext"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.focus.2023.100123"    
+  google_id: 
+#
+#
 - id: Li2023
   text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma: Theory, Research, Practice, and Policy.</strong> "
   year: 2023
