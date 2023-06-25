@@ -46,7 +46,7 @@
   google_id: 
 #
 - id: Mathur2023a
-  text: "Mathur MB (under review). Sensitivity analysis for p-hacking in meta-analyses."
+  text: "Mathur MB (under review). P-hacking in meta-analyses: A formalization and new meta-analytic methods."
   year: 2022
   type: "methods"
   authorship: "first"
