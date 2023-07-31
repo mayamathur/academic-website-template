@@ -60,6 +60,21 @@
   doi: "10.31219/osf.io/ezjsx"
   google_id: "lK9BDNCuzFgC"
 #
+- id: Boyce2023
+  text: "Boyce V, Mathur MB, Frank MC (under review). Eleven years of student replication projects provide evidence on the correlates of replicability in psychology."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://psyarxiv.com/dpyn6/"
+  datarepo: "https://osf.io/xwn9m/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: 
+  google_id: 
+#
 - id: Ho2023
   text: "Ho MY, et al., including Mathur MB (under review). International REACH forgiveness intervention: A multi-site randomized controlled trial."
   year: 2023
