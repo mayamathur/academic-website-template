@@ -154,21 +154,6 @@
   doi: "10.1037/tra0001421"    
   google_id: "DquSII9TDu4C"
 #
-- id: Li2023b
-  text: "Li Y, Mathur MB, Solomon DH, Glynn RJ, Yoshida K. Effect measure modification by covariates in mediation: Extending regression-based causal mediation analysis. <strong>Epidemiology.</strong>"
-  year: 2023
-  type: "methods"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://osf.io/preprints/3gf64/"
-  datarepo: 
-  rpackagename: "regmedint"
-  rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
 - id: Rooprai2023
   text: "Rooprai et al., including Mathur MB. Is there evidence of p-hacking in imaging research? <strong>Canadian Association of Radiologists Journal.</strong> "
   year: 2023
@@ -259,6 +244,21 @@
   webappname: 
   webapplink: 
   doi: "10.1073/pnas.2219555120"
+  google_id: 
+#
+- id: Li2023b
+  text: "Li Y, Mathur MB, Solomon DH, Ridker PM, Glynn RJ, Yoshida K. Effect measure modification by covariates in mediation: Extending regression-based causal mediation analysis. <strong>Epidemiology</strong>, 34(5):661-672."
+  year: 2023
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://osf.io/preprints/3gf64/"
+  datarepo: 
+  rpackagename: "regmedint"
+  rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
+  webappname: 
+  webapplink: 
+  doi: 
   google_id: 
 #
 - id: Chen2023
