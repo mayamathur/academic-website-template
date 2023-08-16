@@ -123,22 +123,6 @@
   doi: 
   google_id: "u3T1itk59dMC"
 #
-- id: Hunt2023
-  text: "Hunt IJ, et al., including Mathur MB. A social media-based public health campaign to reduce indoor tanning in high-risk populations. <strong>AJPM Focus.</strong>"
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://www.ajpmfocus.org/article/S2773-0654(23)00060-3/fulltext"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.1016/j.focus.2023.100123"    
-  google_id: 
-#
-#
 - id: Li2023
   text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma: Theory, Research, Practice, and Policy.</strong> "
   year: 2023
@@ -260,6 +244,21 @@
   webapplink: 
   doi: 
   google_id: 
+#
+- id: Hunt2023
+  text: "Hunt IJ, et al., including Mathur MB. A social media-based public health campaign to reduce indoor tanning in high-risk populations. <strong>AJPM Focus</strong>, 2(3):100123."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.ajpmfocus.org/article/S2773-0654(23)00060-3/fulltext"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.focus.2023.100123"    
+  google_id: "d4tt_xEv1X8C"
 #
 - id: Chen2023
   text: "Chen Y, Mathur MB, Case BW, VanderWeele TJ (2023). Marital transitions during earlier adulthood and subsequent health and well-being in mid-to late-life among female nurses: An outcome-wide analysis. <strong>Global Epidemiology.</strong> "
