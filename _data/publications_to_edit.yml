@@ -30,21 +30,6 @@
   doi: "10.31219/osf.io/ths4e"
   google_id: 
 # 
-- id: Mathur2023d
-  text: "Mathur MB (under review). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses."
-  year: 2022
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/u7vcb"
-  datarepo: "https://osf.io/3cz56/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
 - id: Mathur2023a
   text: "Mathur MB (under review). P-hacking in meta-analyses: A formalization and new meta-analytic methods."
   year: 2022
@@ -122,6 +107,21 @@
   google_id: 
 #
 # --------------------------- In press ---------------------------
+#
+- id: Mathur2023d
+  text: "Mathur MB. Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses. <strong>Research Synthesis Methods.</strong>"
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/u7vcb"
+  datarepo: "https://osf.io/3cz56/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: "u3T1itk59d"
 #
 - id: Hunt2023
   text: "Hunt IJ, et al., including Mathur MB. A social media-based public health campaign to reduce indoor tanning in high-risk populations. <strong>AJPM Focus.</strong>"
