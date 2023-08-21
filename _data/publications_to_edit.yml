@@ -1,20 +1,5 @@
 # --------------------------- In preparation ---------------------------
 #
-- id: Mathur2023f
-  text: "Mathur MB & Shpitser I (under review). Simple graphical rules for assessing selection bias in general-population and selected-sample treatment effects."
-  year: 2023
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/65dju"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-# 
 - id: Mathur2023e
   text: "Mathur MB, Shpitser I, VanderWeele TJ (under review). A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment."
   year: 2023
@@ -92,6 +77,21 @@
 #
 # --------------------------- In press ---------------------------
 #
+- id: Mathur2023f
+  text: "Mathur MB & Shpitser I. Simple graphical rules for assessing selection bias in general-population and selected-sample treatment effects. <strong>American Journal of Epidemiology.</strong>"
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/65dju"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+# 
 - id: Mathur2023d
   text: "Mathur MB. Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses. <strong>Research Synthesis Methods.</strong>"
   year: 2023
