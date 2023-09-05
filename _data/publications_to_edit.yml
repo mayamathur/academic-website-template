@@ -107,21 +107,6 @@
   doi: 
   google_id: "u3T1itk59dMC"
 #
-- id: Zhang2023a
-  text: "Zhang GC, Basna R, Mathur MB, Lässer C, Mincheva R, Ekerljung L, et al. Exogenous female sex steroid hormones and new onset asthma in women: A matched case-control study. <strong>BMC Medicine.</strong>"
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://assets.researchsquare.com/files/rs-2324858/v1_covered.pdf?c=1670620194"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: "rqnDXT1GswoC"
-#
 - id: Li2023
   text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma: Theory, Research, Practice, and Policy.</strong> "
   year: 2023
@@ -228,6 +213,21 @@
   webapplink: 
   doi: "10.1073/pnas.2219555120"
   google_id: 
+#
+- id: Zhang2023a
+  text: "Zhang GC, Basna R, Mathur MB, Lässer C, Mincheva R, Ekerljung L, et al. Exogenous female sex steroid hormones and new onset asthma in women: A matched case-control study. <strong>BMC Medicine,</strong> 21:337."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03038-8"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: "rqnDXT1GswoC"
 #
 - id: Li2023b
   text: "Li Y, Mathur MB, Solomon DH, Ridker PM, Glynn RJ, Yoshida K. Effect measure modification by covariates in mediation: Extending regression-based causal mediation analysis. <strong>Epidemiology</strong>, 34(5):661-672."
