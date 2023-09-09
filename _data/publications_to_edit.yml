@@ -122,36 +122,6 @@
   doi: 
   google_id: 
 #
-- id: Li2023
-  text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma: Theory, Research, Practice, and Policy.</strong> "
-  year: 2023
-  type: "methods"
-  authorship: "last"
-  status: "inpress"
-  preprint: "https://osf.io/jath7"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.1037/tra0001421"    
-  google_id: "DquSII9TDu4C"
-#
-- id: Rooprai2023
-  text: "Rooprai et al., including Mathur MB. Is there evidence of p-hacking in imaging research? <strong>Canadian Association of Radiologists Journal.</strong> "
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://journals.sagepub.com/doi/full/10.1177/08465371221139418"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.1177/08465371221139418"    
-  google_id: "AFmTUeZ1pmEC"
-#
 # --------------------------- 2023 ---------------------------
 #
 - id: Mathur2023c
@@ -258,6 +228,36 @@
   webapplink: 
   doi: 
   google_id: 
+#
+- id: Li2023
+  text: "Li Y, Yoshida K, Kaufman J, Mathur MB. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma: Theory, Research, Practice, and Policy,</strong> 15(6):930-938."
+  year: 2023
+  type: "methods"
+  authorship: "last"
+  status: "published"
+  preprint: "https://osf.io/jath7"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1037/tra0001421"    
+  google_id: "DquSII9TDu4C"
+#
+- id: Rooprai2023
+  text: "Rooprai et al., including Mathur MB. Is there evidence of p-hacking in imaging research? <strong>Canadian Association of Radiologists Journal,</strong> 74(3):497-507."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.sagepub.com/doi/full/10.1177/08465371221139418"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1177/08465371221139418"    
+  google_id: "AFmTUeZ1pmEC"
 #
 - id: Hunt2023
   text: "Hunt IJ, et al., including Mathur MB. A social media-based public health campaign to reduce indoor tanning in high-risk populations. <strong>AJPM Focus</strong>, 2(3):100123."
