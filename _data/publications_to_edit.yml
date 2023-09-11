@@ -140,21 +140,6 @@
 #
 # --------------------------- 2023 ---------------------------
 #
-- id: Mathur2023c
-  text: "Mathur MB & VanderWeele TJ (2023). New metrics for multiple testing with correlated outcomes. <strong>Frontiers in Applied Mathematics and Statistics,</strong> 9:1151314."
-  year: 2023
-  type: "methods"
-  authorship: "first"
-  status: "published"
-  preprint: "https://www.frontiersin.org/articles/10.3389/fams.2023.1151314/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Applied_Mathematics_and_Statistics&id=1151314"
-  datarepo: "https://osf.io/qj9wa/"
-  rpackagename: "NRejections"
-  rpackagelink: "https://cran.r-project.org/web/packages/NRejections/index.html"
-  webappname: 
-  webapplink: 
-  doi: "10.3389/fams.2023.1151314"
-  google_id: "xm0LlTxljI0C"
-#
 - id: Mathur2023g
   text: "Mathur MB & Fox MP (2023). Toward open and reproducible epidemiology. <strong>American Journal of Epidemiology</strong>, 192(4), 658-664. "
   year: 2023
@@ -214,6 +199,21 @@
   webapplink: 
   doi: "10.1073/pnas.2219555120"
   google_id: 
+#
+- id: Mathur2023c
+  text: "Mathur MB & VanderWeele TJ (2023). New metrics for multiple testing with correlated outcomes. <strong>Frontiers in Applied Mathematics and Statistics,</strong> 9:1151314."
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.frontiersin.org/articles/10.3389/fams.2023.1151314/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Applied_Mathematics_and_Statistics&id=1151314"
+  datarepo: "https://osf.io/qj9wa/"
+  rpackagename: "NRejections"
+  rpackagelink: "https://cran.r-project.org/web/packages/NRejections/index.html"
+  webappname: 
+  webapplink: 
+  doi: "10.3389/fams.2023.1151314"
+  google_id: "xm0LlTxljI0C"
 #
 - id: Zhang2023a
   text: "Zhang GC, Basna R, Mathur MB, Lässer C, Mincheva R, Ekerljung L, et al. Exogenous female sex steroid hormones and new onset asthma in women: A matched case-control study. <strong>BMC Medicine,</strong> 21:337."
