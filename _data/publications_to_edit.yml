@@ -107,22 +107,6 @@
   doi: 
   google_id: "u3T1itk59dMC"
 #
-- id: Rivera2023
-  text: "Rivera N, et al., including Mathur MB. A virtual teaching kitchen curriculum promotes knowledge and confidence of the Specific Carbohydrate Diet in caregivers of pediatric patients with inflammatory bowel disease. <strong>Nutrients.</strong>"
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: 
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-#
 - id: Marcone2023
   text: "Marcone AL, Darmstadt GL, Amsler Challamel G, Mathur MB, Gardner CD. Effects of an educational planetary plate graphic on meat consumption in Stanford University dining hall: A randomized controlled trial. <strong>BMC Nutrition.</strong>"
   year: 2023
@@ -214,6 +198,21 @@
   webapplink: 
   doi: "10.3389/fams.2023.1151314"
   google_id: "xm0LlTxljI0C"
+#
+- id: Rivera2023
+  text: "Rivera N, et al., including Mathur MB. A virtual teaching kitchen curriculum promotes knowledge and confidence of the Specific Carbohydrate Diet in caregivers of pediatric patients with inflammatory bowel disease. <strong>Nutrients</strong>, 15(18):3999."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.mdpi.com/2072-6643/15/18/3999"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
 #
 - id: Zhang2023a
   text: "Zhang GC, Basna R, Mathur MB, Lässer C, Mincheva R, Ekerljung L, et al. Exogenous female sex steroid hormones and new onset asthma in women: A matched case-control study. <strong>BMC Medicine,</strong> 21:337."
