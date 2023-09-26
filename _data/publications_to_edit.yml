@@ -122,21 +122,6 @@
   doi: 
   google_id: "u3T1itk59dMC"
 #
-- id: Marcone2023
-  text: "Marcone AL, Darmstadt GL, Amsler Challamel G, Mathur MB, Gardner CD. Effects of an educational planetary plate graphic on meat consumption in Stanford University dining hall: A randomized controlled trial. <strong>BMC Nutrition.</strong>"
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: 
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
 # --------------------------- 2023 ---------------------------
 #
 - id: Mathur2023g
@@ -213,6 +198,21 @@
   webapplink: 
   doi: "10.3389/fams.2023.1151314"
   google_id: "xm0LlTxljI0C"
+#
+- id: Marcone2023
+  text: "Marcone AL, Darmstadt GL, Amsler Challamel G, Mathur MB, Gardner CD. Effects of an educational planetary plate graphic on meat consumption in Stanford University dining hall: A randomized controlled trial. <strong>BMC Nutrition</strong>, 9:106."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://bmcnutr.biomedcentral.com/counter/pdf/10.1186/s40795-023-00764-3.pdf"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
 #
 - id: Rivera2023
   text: "Rivera N, et al., including Mathur MB. A Specific Carbohydrate Diet virtual teaching kitchen promotes knowledge and confidence in caregivers of pediatric patients with inflammatory bowel disease. <strong>Nutrients</strong>, 15(18):3999."
