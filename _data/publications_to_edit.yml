@@ -15,21 +15,6 @@
   doi: "10.31219/osf.io/ths4e"
   google_id: 
 # 
-- id: Mathur2023a
-  text: "Mathur MB (under review). P-hacking in meta-analyses: A formalization and new meta-analytic methods."
-  year: 2022
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/ezjsx"
-  datarepo: "https://osf.io/gk5ez/"
-  rpackagename: "phacking"
-  rpackagelink: "https://cran.r-project.org/web/packages/phacking/index.html"
-  webappname: 
-  webapplink: 
-  doi: "10.31219/osf.io/ezjsx"
-  google_id: "lK9BDNCuzFgC"
-#
 - id: Zettersten2023
   text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Major J, ... , Mathur MB (under review). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis."
   year: 2023
@@ -76,6 +61,22 @@
   google_id: 
 #
 # --------------------------- In press ---------------------------
+#
+- id: Mathur2023a
+  text: "Mathur MB. P-hacking in meta-analyses: A formalization and new meta-analytic methods. <strong>Research Synthesis Methods.<\strong>"
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/ezjsx"
+  datarepo: "https://osf.io/gk5ez/"
+  rpackagename: "phacking"
+  rpackagelink: "https://cran.r-project.org/web/packages/phacking/index.html"
+  webappname: "Web app"
+  webapplink: "https://metabias.io/phacking/"
+  doi: "10.31219/osf.io/ezjsx"
+  google_id: "lK9BDNCuzFgC"
+#
 #
 - id: Mathur2023f
   text: "Mathur MB & Shpitser I. Simple graphical rules for assessing selection bias in general-population and selected-sample treatment effects. <strong>American Journal of Epidemiology.</strong>"
