@@ -72,7 +72,7 @@
   datarepo: "https://osf.io/gk5ez/"
   rpackagename: "phacking"
   rpackagelink: "https://cran.r-project.org/web/packages/phacking/index.html"
-  webappname: "Web app"
+  webappname: "Online tool"
   webapplink: "https://metabias.io/phacking/"
   doi: "10.31219/osf.io/ezjsx"
   google_id: "lK9BDNCuzFgC"
