@@ -93,21 +93,6 @@
   doi: 
   google_id: 
 # 
-- id: Mathur2023d
-  text: "Mathur MB. Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses. <strong>Research Synthesis Methods.</strong>"
-  year: 2023
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/u7vcb"
-  datarepo: "https://osf.io/3cz56/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: "u3T1itk59dMC"
-#
 - id: Boyce2023
   text: "Boyce V, Mathur MB, Frank MC. Eleven years of student replication projects provide evidence on the correlates of replicability in psychology. <strong>Royal Society Open Science.</strong>"
   year: 2023
@@ -122,6 +107,23 @@
   webapplink:
   doi: 
   google_id: 
+#
+# --------------------------- 2024 ---------------------------
+#
+- id: Mathur2024a
+  text: "Mathur MB. Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses. <strong>Research Synthesis Methods</strong>, 15, 21-43."
+  year: 2024
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1667"
+  datarepo: "https://osf.io/3cz56/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1002/jrsm.1667"
+  google_id: "u3T1itk59dMC"
 #
 # --------------------------- 2023 ---------------------------
 #
