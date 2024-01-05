@@ -62,6 +62,21 @@
 #
 # --------------------------- In press ---------------------------
 #
+- id: Mathur2024b
+  text: "Mathur MB. Assessing robustness to worst-case publication bias using a simple subset meta-analysis. <strong>BMJ</strong>."
+  year: 2024
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: 
+  datarepo: "https://osf.io/8nqwy/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Mathur2023a
   text: "Mathur MB. P-hacking in meta-analyses: A formalization and new meta-analytic methods. <strong>Research Synthesis Methods.</strong>"
   year: 2023
