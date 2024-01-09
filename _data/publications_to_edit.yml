@@ -30,21 +30,6 @@
   doi: 
   google_id: 
 #
-- id: Ho2023
-  text: "Ho MY, et al., including Mathur MB (under review). International REACH forgiveness intervention: A multi-site randomized controlled trial."
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inprep"
-  preprint: "https://osf.io/8qzgw/"
-  datarepo: "https://osf.io/f34jp"
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi: 
-  google_id: 
-#
 - id: Tsui2022
   text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including Mathur MB. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
   year: 2023
@@ -108,6 +93,21 @@
   doi: 
   google_id: 
 # 
+- id: Ho2024
+  text: "Ho MY, Worthington EL, Cowden RG, Bechara AO, Chen ZJ, Gunatirin EY, et al., including Mathur MB. International REACH forgiveness intervention: A multi-site randomized controlled trial. <strong>BMJ Public Health.</strong>"
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: "https://osf.io/8qzgw/"
+  datarepo: "https://osf.io/f34jp"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "https://doi.org/10.31219/osf.io/8qzgw"
+  google_id: "j5aT6aphRxQC"
+#
 - id: Boyce2023
   text: "Boyce V, Mathur MB, Frank MC. Eleven years of student replication projects provide evidence on the correlates of replicability in psychology. <strong>Royal Society Open Science.</strong>"
   year: 2023
