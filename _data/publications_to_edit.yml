@@ -46,12 +46,12 @@
   google_id: 
 #
 - id: Tsui2022
-  text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, et al., including <u>Mathur MB</u>. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
+  text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, Basnight-Brown D, Bentu D, Bergmann C, Binan Dami E, Boll-Avetisyan N, de Jongh M, Diop Y, Herrmann E, Jang C, Kizito S, Lamba T, Maliwichi-Senganimalunje L, Marangu J, <u>Mathur MB</u>, et al. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
   year: 2023
   type: "empirical"
   authorship: "middle"
   status: "inprep"
-  preprint: 
+  preprint: "https://osf.io/fqp4b"
   datarepo: 
   rpackagename: 
   rpackagelink: 
@@ -737,7 +737,7 @@
   google_id: "n3vGvpFsckwC"
 #
 - id: Mathur2020c
-  text: "<u>Mathur MB</u>, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten PAM, et al (2020). Uncanny but not confusing: Multisite study of perceptual category confusion in the Uncanny Valley. <strong>Computers in Human Behavior</strong>, 103, 21-30."
+  text: "<u>Mathur MB</u>, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten PAM, Levitan CA, Nave G, Manfredi D, Bessette-Symons B, Szuts A, Aczel B (2020). Uncanny but not confusing: Multisite study of perceptual category confusion in the Uncanny Valley. <strong>Computers in Human Behavior</strong>, 103, 21-30."
   year: 2020
   type: "empirical"
   authorship: "first"
@@ -1084,7 +1084,7 @@
   google_id: "Azgs6IHzeyYC"
 #
 - id: Desai2019
-  text: "Desai M, Montez-Rath M, Kapphahn K, Joyce V, <u>Mathur MB</u>, Garcia A, et al (2019). Missing data strategies for time-varying confounders in comparative effectiveness studies of non-missing time-varying exposures and right-censored outcomes. <strong>Statistics in Medicine</strong>, 38(17):3204-3220."
+  text: "Desai M, Montez-Rath M, Kapphahn K, Joyce V, <u>Mathur MB</u>, Garcia A, Purington N, Owens DK (2019). Missing data strategies for time-varying confounders in comparative effectiveness studies of non-missing time-varying exposures and right-censored outcomes. <strong>Statistics in Medicine</strong>, 38(17):3204-3220."
   year: 2019
   type: "methods"
   authorship: "middle"
@@ -1176,7 +1176,7 @@
   google_id: "oTdOBqtIf_kC"
 #
 - id: Hardwicke2018
-  text: "Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell MC, et al. (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. <strong>Royal Society Open Science</strong>, 5, 180448."
+  text: "Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank MC (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. <strong>Royal Society Open Science</strong>, 5, 180448."
   year: 2018
   type: "empirical"
   authorship: "middle"
@@ -1191,7 +1191,7 @@
   google_id: "QsKbpXNoaWkC"
 #
 - id: Afghahi2018
-  text: "Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, et al. (2018). Higher absolute lymphocyte counts predict lower mortality from early-stage triple-negative breast cancer. <strong>Clinical Cancer Research</strong>, 24(12), 2851-2858."
+  text: "Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez SL, Ford JM, Sledge GW, Kurian SW. (2018). Higher absolute lymphocyte counts predict lower mortality from early-stage triple-negative breast cancer. <strong>Clinical Cancer Research</strong>, 24(12), 2851-2858."
   year: 2018
   type: "empirical"
   authorship: "middle"
@@ -1329,7 +1329,7 @@
   google_id: "roLk4NBRz8UC"
 # 
 - id: Charytan2016
-  text: "Charytan DM, Desai M, <u>Mathur MB</u>, Stern NM, Brooks MM, Krzych LJ, et al. (2016). Coronary artery bypass grafting compared with percutaneous coronary intervention in chronic kidney disease: an individual patient meta-analysis of randomized trials. <strong>Kidney International</strong>, 90(2), 411-421."
+  text: "Charytan DM, Desai M, <u>Mathur MB</u>, Stern NM, Brooks MM, Krzych LJ, Schuler GC, Kaehler J, Rodriguez-Granillo AM, Hueb W, Reeves BC, Thiele H, Rodriguez AE, Buszman PP, Puszman PE, Maurer R, Winkelmayer WC (2016). Coronary artery bypass grafting compared with percutaneous coronary intervention in chronic kidney disease: an individual patient meta-analysis of randomized trials. <strong>Kidney International</strong>, 90(2), 411-421."
   year: 2016
   type: "empirical"
   authorship: "middle"
@@ -1344,7 +1344,7 @@
   google_id: "UebtZRa9Y70C"
 # 
 - id: Afghahi2016
-  text: "Afghahi A, <u>Mathur MB</u>, Thompson C, Mitani A, Rigdon J, Desai M,  et al. (2016). Use and impact of gene expression profiling in early-stage breast cancer: a study of linked electronic medical record, cancer registry and genomic data across two healthcare systems. <strong>Journal of Oncology Practice</strong>, 12(6), e697-e709."
+  text: "Afghahi A, <u>Mathur MB</u>, Thompson C, Mitani A, Rigdon J, Desai M, Yu PP, de Bruin MA, Seto T, Olson C, Kenkare P, Gomez SL, Das AK, Luft HS, Sledge GW, Sing AP, Kurian AW (2016). Use and impact of gene expression profiling in early-stage breast cancer: a study of linked electronic medical record, cancer registry and genomic data across two healthcare systems. <strong>Journal of Oncology Practice</strong>, 12(6), e697-e709."
   year: 2016
   type: "empirical"
   authorship: "middle"
@@ -1359,7 +1359,7 @@
   google_id: "Se3iqnhoufwC"
 # 
 - id: Lo2016
-  text: "Low YS, Daugherty AC, Schroeder EA, Chen W, Seto T, Weber S, et al., including <u>Mathur MB</u> (2016). Synergistic drug combinations from electronic health records and gene expression. <strong>Journal of the American Medical Informatics Association</strong>, 24 (3), 565-576."
+  text: "Low YS, Daugherty AC, Schroeder EA, Chen W, Seto T, Weber S, Lim M, Hastie T, <u>Mathur MB<\u>, Desai M, Farrington C, Radin AA, Sirota M, Kenkare P, Thompson CA, Yu PP, Gomez SL, Sledge GW, Kurian AW, Shah NH (2016). Synergistic drug combinations from electronic health records and gene expression. <strong>Journal of the American Medical Informatics Association</strong>, 24 (3), 565-576."
   year: 2016
   type: "empirical"
   authorship: "middle"
@@ -1423,7 +1423,7 @@
 # --------------------------- 2014 ---------------------------
 #
 - id: Mathur2014
-  text: "<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, et al. (2014). Seasonal patterns in human (A) H5N1 virus infection: Analysis of global cases. <strong>PLOS One</strong>, 9(9), e106171."
+  text: "<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection: Analysis of global cases. <strong>PLOS One</strong>, 9(9), e106171."
   year: 2014
   type: "empirical"
   authorship: "first"
@@ -1453,7 +1453,7 @@
   google_id: "9yKSN-GCB0IC"
 #
 - id: Perez2014
-  text: "De Jesus Perez VA, Yuan K, Lyuksyutova MA, Dewey F, Orcholski ME, Shuffle EM, et al., including <u>Mathur MB</u> (2014). Whole exome sequencing reveals TopBP1 as a novel gene in idiopathic pulmonary arterial hypertension. <strong>American Journal of Respiratory and Critical Care Medicine</strong>, 189(10), 1260-1272."
+  text: "De Jesus Perez VA, Yuan K, Lyuksyutova MA, Dewey F, Orcholski ME, Shuffle EM, <u>Mathur MB</u>, Yancy Jr. L, Rojas V, Li CG, Cao A, Alastalo T-P, Khazeni N, Cimprich KA, Butte AJ, Ashley E, Zamanian RT (2014). Whole exome sequencing reveals TopBP1 as a novel gene in idiopathic pulmonary arterial hypertension. <strong>American Journal of Respiratory and Critical Care Medicine</strong>, 189(10), 1260-1272."
   year: 2014
   type: "empirical"
   authorship: "middle"
