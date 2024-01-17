@@ -1359,7 +1359,7 @@
   google_id: "Se3iqnhoufwC"
 # 
 - id: Lo2016
-  text: "Low YS, Daugherty AC, Schroeder EA, Chen W, Seto T, Weber S, Lim M, Hastie T, <u>Mathur MB<\u>, Desai M, Farrington C, Radin AA, Sirota M, Kenkare P, Thompson CA, Yu PP, Gomez SL, Sledge GW, Kurian AW, Shah NH (2016). Synergistic drug combinations from electronic health records and gene expression. <strong>Journal of the American Medical Informatics Association</strong>, 24 (3), 565-576."
+  text: "Low YS, Daugherty AC, Schroeder EA, Chen W, Seto T, Weber S, Lim M, Hastie T, <u>Mathur MB</u>, Desai M, Farrington C, Radin AA, Sirota M, Kenkare P, Thompson CA, Yu PP, Gomez SL, Sledge GW, Kurian AW, Shah NH (2016). Synergistic drug combinations from electronic health records and gene expression. <strong>Journal of the American Medical Informatics Association</strong>, 24 (3), 565-576."
   year: 2016
   type: "empirical"
   authorship: "middle"
