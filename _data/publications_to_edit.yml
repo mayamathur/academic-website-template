@@ -1,5 +1,20 @@
 # --------------------------- In preparation ---------------------------
 #
+- id: Mathur2024c
+  text: "Mathur MB, Shpitser I (under review). Reflections on evolving conceptions of selection bias."
+  year: 2024
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/osf/7xjnk/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Mathur2023e
   text: "Mathur MB, Shpitser I, VanderWeele TJ (under review). A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment."
   year: 2023
@@ -615,7 +630,7 @@
   google_id: "TGkaJS32XoUC"
 #  
 - id: Errington2021
-  text: "Errington TM, Mathur MB, Soderberg CK, Denis A, Perfito N, et al. (2021). Investigating the replicability of preclinical cancer biology. <strong>eLife</strong>, 2021;10:e71601."
+  text: "Errington TM, Mathur MB, Soderberg CK, Denis A, Perfito N, Iorns E, Nosek BA. (2021). Investigating the replicability of preclinical cancer biology. <strong>eLife</strong>, 2021;10:e71601."
   year: 2021
   type: "empirical"
   authorship: "middle"
@@ -630,7 +645,7 @@
   google_id: "rbGdIwl2e6cC"
 #
 - id: Zhang2021
-  text: "Zhang, GC, Chen JL, Luo Y, Mathur MB, Anagnostis P, Nurmatov U, et al. (2021). Menopausal hormone therapy and women's health: An umbrella review. <strong>PLOS Medicine,</strong> 18(8): e1003731."
+  text: "Zhang GC, Chen JL, Luo Y, Mathur MB, Anagnostis P, Nurmatov U, Talibov M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser C, Kankaanranta H, Lee SH, Nwaru B (2021). Menopausal hormone therapy and women's health: An umbrella review. <strong>PLOS Medicine,</strong> 18(8): e1003731."
   year: 2021
   type: "empirical"
   authorship: "middle"
