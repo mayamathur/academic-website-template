@@ -14,21 +14,6 @@
   doi: "10.31219/osf.io/ths4e"
   google_id: 
 # 
-- id: Zettersten2023
-  text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (under review). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis."
-  year: 2023
-  type: "empirical"
-  authorship: "last"
-  status: "inprep"
-  preprint: "https://psyarxiv.com/etqs7/"
-  datarepo: "https://osf.io/amj7u/?_gl=1*dba49g*_ga*MTU4NTA4MTEwNi4xNjkwODM4NTI4*_ga_YE9BMGGWX8*MTY5NTMyODYwNC4xMi4xLjE2OTUzMjg3NjQuNjAuMC4w"
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi: 
-  google_id: 
-#
 - id: Tsui2022
   text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, Basnight-Brown D, Bentu D, Bergmann C, Binan Dami E, Boll-Avetisyan N, de Jongh M, Diop Y, Herrmann E, Jang C, Kizito S, Lamba T, Maliwichi-Senganimalunje L, Marangu J, <u>Mathur MB</u>, et al. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
   year: 2023
@@ -45,6 +30,21 @@
   google_id: 
 #
 # --------------------------- In press ---------------------------
+#
+- id: Zettersten2023
+  text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (under review). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind.</strong>"
+  year: 2023
+  type: "empirical"
+  authorship: "last"
+  status: "inpress"
+  preprint: "https://psyarxiv.com/etqs7/"
+  datarepo: "https://osf.io/amj7u/?_gl=1*dba49g*_ga*MTU4NTA4MTEwNi4xNjkwODM4NTI4*_ga_YE9BMGGWX8*MTY5NTMyODYwNC4xMi4xLjE2OTUzMjg3NjQuNjAuMC4w"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: 
+  google_id: 
 #
 - id: Mathur2024c
   text: "<u>Mathur MB</u>, Shpitser I. Reflections on evolving conceptions of selection bias. <strong>American Journal of Epidemiology.</strong>"
