@@ -1,4 +1,20 @@
 # --------------------------- In preparation ---------------------------
+#
+- id: Mathur2023e
+  text: "<u>Mathur MB</u> (under review). Meta-analysis with Jeffreys priors: Empirical frequentist properties."
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/7jvrw/"
+  datarepo: "https://osf.io/9qfah/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Mathur2023e
   text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ (under review). A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment."
   year: 2023
@@ -30,21 +46,6 @@
   google_id: 
 #
 # --------------------------- In press ---------------------------
-#
-- id: Bechara2024
-  text: "Bechara AO, Chen ZJ, Cowden RG, Worthington EL, Toussaint L, Rodriguez N, Murillo HG, Ho MY, <u>Mathur MB</u>, VanderWeele TJ. Do forgiveness campaign activities improve forgiveness, mental health, and flourishing? <strong>International Journal of Public Health.</strong>"
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint:
-  datarepo: 
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi: 
-  google_id: 
 #
 - id: Zettersten2023
   text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (under review). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind.</strong>"
@@ -168,6 +169,21 @@
   webapplink: 
   doi: "10.1002/jrsm.1667"
   google_id: "u3T1itk59dMC"
+#
+- id: Bechara2024
+  text: "Bechara AO, Chen ZJ, Cowden RG, Worthington EL, Toussaint L, Rodriguez N, Murillo HG, Ho MY, <u>Mathur MB</u>, VanderWeele TJ. Do forgiveness campaign activities improve forgiveness, mental health, and flourishing? <strong>International Journal of Public Health</strong>, 69."
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.ssph-journal.org/articles/10.3389/ijph.2024.1605341/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=International_Journal_of_Public_Health&id=1605341"
+  datarepo: 
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: 
+  google_id: 
 #
 # --------------------------- 2023 ---------------------------
 #
