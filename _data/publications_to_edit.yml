@@ -47,21 +47,6 @@
 #
 # --------------------------- In press ---------------------------
 #
-- id: Zettersten2023
-  text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (under review). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind.</strong>"
-  year: 2023
-  type: "empirical"
-  authorship: "last"
-  status: "inpress"
-  preprint: "https://psyarxiv.com/etqs7/"
-  datarepo: "https://osf.io/amj7u/?_gl=1*dba49g*_ga*MTU4NTA4MTEwNi4xNjkwODM4NTI4*_ga_YE9BMGGWX8*MTY5NTMyODYwNC4xMi4xLjE2OTUzMjg3NjQuNjAuMC4w"
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi: 
-  google_id: 
-#
 - id: Mathur2024c
   text: "<u>Mathur MB</u>, Shpitser I. Reflections on evolving conceptions of selection bias. <strong>American Journal of Epidemiology.</strong>"
   year: 2024
@@ -123,6 +108,21 @@
   doi: 
   google_id: 
 # 
+- id: Zettersten2023
+  text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (under review). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind.</strong>"
+  year: 2023
+  type: "empirical"
+  authorship: "last"
+  status: "inpress"
+  preprint: "https://psyarxiv.com/etqs7/"
+  datarepo: "https://osf.io/amj7u/?_gl=1*dba49g*_ga*MTU4NTA4MTEwNi4xNjkwODM4NTI4*_ga_YE9BMGGWX8*MTY5NTMyODYwNC4xMi4xLjE2OTUzMjg3NjQuNjAuMC4w"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: 
+  google_id: 
+#
 - id: Ho2024
   text: "Ho MY, Worthington EL, Cowden RG, Bechara AO, Chen ZJ, Gunatirin EY, Joynt S, Khalanskyi VV, Korzhov H, Kurniati NMT, Rodriguez N Salnykova A, Shtanko L, Tymchenko S, Voytenko VL, Zulkaida A, <u>Mathur MB</u>, VanderWeele TJ. International REACH forgiveness intervention: A multi-site randomized controlled trial. <strong>BMJ Public Health.</strong>"
   year: 2023
@@ -137,21 +137,6 @@
   webapplink:
   doi: "https://doi.org/10.31219/osf.io/8qzgw"
   google_id: "j5aT6aphRxQC"
-#
-- id: Boyce2023
-  text: "Boyce V, <u>Mathur MB</u>, Frank MC. Eleven years of student replication projects provide evidence on the correlates of replicability in psychology. <strong>Royal Society Open Science.</strong>"
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://psyarxiv.com/dpyn6/"
-  datarepo: "https://osf.io/xwn9m/"
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi: 
-  google_id: 
 #
 # --------------------------- 2024 ---------------------------
 #
@@ -184,6 +169,21 @@
   webapplink:
   doi: 
   google_id: 
+#
+- id: Boyce2023
+  text: "Boyce V, <u>Mathur MB</u>, Frank MC (2023). Eleven years of student replication projects provide evidence on the correlates of replicability in psychology. <strong>Royal Society Open Science</strong>, 10:231240."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://royalsocietypublishing.org/doi/full/10.1098/rsos.231240"
+  datarepo: "https://osf.io/xwn9m/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: 
+  google_id: "17ZO-CJnx_8C"
 #
 # --------------------------- 2023 ---------------------------
 #
@@ -275,7 +275,7 @@
   webappname: 
   webapplink: 
   doi: 
-  google_id: 
+  google_id: "cSdaV2aYdYsC"
 #
 - id: Rivera2023
   text: "Rivera N, Nguyen K, Kalami V, Qin F, <u>Mathur MB</u>, Blankenburg R, Yeh AM. A Specific Carbohydrate Diet virtual teaching kitchen promotes knowledge and confidence in caregivers of pediatric patients with inflammatory bowel disease. <strong>Nutrients</strong>, 15(18):3999."
@@ -290,7 +290,7 @@
   webappname: 
   webapplink: 
   doi: 
-  google_id: 
+  google_id: "wGzT3bKASkAC"
 #
 - id: Zhang2023a
   text: "Zhang GC, Basna R, <u>Mathur MB</u>, Lässer C, Mincheva R, Ekerljung L, et al. Exogenous female sex steroid hormones and new onset asthma in women: A matched case-control study. <strong>BMC Medicine,</strong> 21:337."
@@ -320,7 +320,7 @@
   webappname: 
   webapplink: 
   doi: 
-  google_id: 
+  google_id: "eFf2swCANGcC"
 #
 - id: Li2023
   text: "Li Y, Yoshida K, Kaufman J, <u>Mathur MB</u>. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma: Theory, Research, Practice, and Policy,</strong> 15(6):930-938."
