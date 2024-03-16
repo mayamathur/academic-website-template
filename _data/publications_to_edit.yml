@@ -10,6 +10,21 @@
   datarepo: "https://osf.io/9qfah/"
   rpackagename: 
   rpackagelink: 
+  webappname: f
+  webapplink: 
+  doi: 
+  google_id: 
+#
+- id: He2024
+  text: "He Z, Chu B, Yang J, Gu J, Chen Z, Liu L, Morrison T, Belloy ME, Qi X, Hejazi N, <u>Mathur MB</u>, Le Guen Y, Tang H, Hastie T, Ionita-Laza I, Sabatti C, Candes E. In silico identification of putative causal genetic variants."
+  year: 2023
+  type: "methods"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://www.biorxiv.org/content/10.1101/2024.02.28.582621v1.abstract"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
   webappname: 
   webapplink: 
   doi: 
@@ -55,21 +70,6 @@
   status: "inpress"
   preprint: "https://osf.io/preprints/osf/7xjnk/"
   datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-- id: Mathur2024b
-  text: "<u>Mathur MB</u>. Assessing robustness to worst-case publication bias using a simple subset meta-analysis. <strong>BMJ</strong>."
-  year: 2024
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: 
-  datarepo: "https://osf.io/8nqwy/"
   rpackagename: 
   rpackagelink: 
   webappname: 
@@ -139,6 +139,21 @@
   google_id: "j5aT6aphRxQC"
 #
 # --------------------------- 2024 ---------------------------
+#
+- id: Mathur2024b
+  text: "<u>Mathur MB</u>. Assessing robustness to worst case publication bias using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851"
+  year: 2024
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.bmj.com/content/384/bmj-2023-076851"
+  datarepo: "https://osf.io/8nqwy/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1136/bmj-2023-076851"
+  google_id: 
 #
 - id: Mathur2024a
   text: "<u>Mathur MB</u>. Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses. <strong>Research Synthesis Methods</strong>, 15(1), 21-43."
