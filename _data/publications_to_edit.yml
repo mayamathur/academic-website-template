@@ -30,6 +30,21 @@
   doi: "10.31219/osf.io/ths4e"
   google_id: 
 # 
+- id: Voski2024
+  text: "Voski A, Braginsky M, Zhang A, Bertoldo J, Egan S, Levig LA, Ihrig MM, <u>Mathur MB</u> (under review). Effect of a default portion-size reduction on meat consumption and diner satisfaction: Controlled experiments in Stanford University dining halls."
+  year: 2024
+  type: "empirical"
+  authorship: "last"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/osf/9y53n"
+  datarepo: "https://osf.io/2hy74/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: He2024
   text: "He Z, Chu B, Yang J, Gu J, Chen Z, Liu L, Morrison T, Belloy ME, Qi X, Hejazi N, <u>Mathur MB</u>, Le Guen Y, Tang H, Hastie T, Ionita-Laza I, Sabatti C, Candes E. In silico identification of putative causal genetic variants."
   year: 2023
