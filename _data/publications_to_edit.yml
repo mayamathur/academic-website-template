@@ -122,21 +122,6 @@
   webapplink: 
   doi: 
   google_id: 
-# 
-- id: Zettersten2023
-  text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (under review). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind.</strong>"
-  year: 2023
-  type: "empirical"
-  authorship: "last"
-  status: "inpress"
-  preprint: "https://psyarxiv.com/etqs7/"
-  datarepo: "https://osf.io/amj7u/?_gl=1*dba49g*_ga*MTU4NTA4MTEwNi4xNjkwODM4NTI4*_ga_YE9BMGGWX8*MTY5NTMyODYwNC4xMi4xLjE2OTUzMjg3NjQuNjAuMC4w"
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi: 
-  google_id: 
 #
 # --------------------------- 2024 ---------------------------
 #
@@ -169,6 +154,21 @@
   webapplink: 
   doi: "10.1002/jrsm.1667"
   google_id: "u3T1itk59dMC"
+#
+- id: Zettersten2024
+  text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (under review). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind.</strong>"
+  year: 2024
+  type: "empirical"
+  authorship: "last"
+  status: "published"
+  preprint: "https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00134/120611/Evidence-for-Infant-directed-Speech-Preference-Is/"
+  datarepo: "https://osf.io/amj7u/?_gl=1*dba49g*_ga*MTU4NTA4MTEwNi4xNjkwODM4NTI4*_ga_YE9BMGGWX8*MTY5NTMyODYwNC4xMi4xLjE2OTUzMjg3NjQuNjAuMC4w"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: 
+  google_id: 
 #
 - id: Ho2024
   text: "Ho MY, Worthington EL, Cowden RG, Bechara AO, Chen ZJ, Gunatirin EY, Joynt S, Khalanskyi VV, Korzhov H, Kurniati NMT, Rodriguez N Salnykova A, Shtanko L, Tymchenko S, Voytenko VL, Zulkaida A, <u>Mathur MB</u>, VanderWeele TJ. International REACH forgiveness intervention: A multisite randomised controlled trial. <strong>BMJ Public Health,</strong> 2:e000072."
