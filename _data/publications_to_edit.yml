@@ -1,5 +1,20 @@
 # --------------------------- In preparation ---------------------------
 #
+- id: Mathur2024a
+  text: "<u>Mathur MB</u> (under review). On the statistical analysis of experiments with manipulation checks."
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/osf/9y8re/"
+  datarepo: "https://osf.io/78bjr/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Mathur2023e
   text: "<u>Mathur MB</u> (under review). Meta-analysis with Jeffreys priors: Empirical frequentist properties."
   year: 2023
