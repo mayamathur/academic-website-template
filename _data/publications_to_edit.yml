@@ -107,6 +107,21 @@
 #
 # --------------------------- In press ---------------------------
 #
+- id: Mathur2024d
+  text: "<u>Mathur MB</u>, Mathur VS. Toward evidence-based communication on overweight body mass index and mortality."
+  year: 2024
+  type: "empirical"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/72r8m/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Mathur2024c
   text: "<u>Mathur MB</u>, Shpitser I. Reflections on evolving conceptions of selection bias. <strong>American Journal of Epidemiology.</strong>"
   year: 2024
