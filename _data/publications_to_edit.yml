@@ -137,22 +137,6 @@
   doi: 
   google_id: 
 #
-- id: Mathur2023a
-  text: "<u>Mathur MB</u>. P-hacking in meta-analyses: A formalization and new meta-analytic methods. <strong>Research Synthesis Methods.</strong>"
-  year: 2023
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/ezjsx"
-  datarepo: "https://osf.io/gk5ez/"
-  rpackagename: "phacking"
-  rpackagelink: "https://cran.r-project.org/web/packages/phacking/index.html"
-  webappname: "Online tool"
-  webapplink: "https://metabias.io/phacking/"
-  doi: "10.31219/osf.io/ezjsx"
-  google_id: "lK9BDNCuzFgC"
-#
-#
 - id: Mathur2023f
   text: "<u>Mathur MB</u> & Shpitser I. Simple graphical rules for assessing selection bias in general-population and selected-sample treatment effects. <strong>American Journal of Epidemiology.</strong>"
   year: 2023
@@ -169,6 +153,22 @@
   google_id: 
 #
 # --------------------------- 2024 ---------------------------
+#
+- id: Mathur2023a
+  text: "<u>Mathur MB</u>. P-hacking in meta-analyses: A formalization and new meta-analytic methods. <strong>Research Synthesis Methods,</strong> 15(3), 483-499."
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/ezjsx"
+  datarepo: "https://osf.io/gk5ez/"
+  rpackagename: "phacking"
+  rpackagelink: "https://cran.r-project.org/web/packages/phacking/index.html"
+  webappname: "Online tool"
+  webapplink: "https://metabias.io/phacking/"
+  doi: "10.31219/osf.io/ezjsx"
+  google_id: "lK9BDNCuzFgC"
+#
 #
 - id: Mathur2024b
   text: "<u>Mathur MB</u>. Assessing robustness to worst case publication bias using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851"
