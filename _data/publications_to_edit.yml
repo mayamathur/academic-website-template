@@ -107,21 +107,6 @@
 #
 # --------------------------- In press ---------------------------
 #
-- id: Mathur2024d
-  text: "<u>Mathur MB</u>, Mathur VS. Toward evidence-based communication on overweight body mass index and mortality. <strong>BMC Medicine.</strong>"
-  year: 2024
-  type: "empirical"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/72r8m/"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
 - id: Mathur2024c
   text: "<u>Mathur MB</u>, Shpitser I. Reflections on evolving conceptions of selection bias. <strong>American Journal of Epidemiology.</strong>"
   year: 2024
@@ -152,10 +137,40 @@
   doi: 
   google_id: 
 #
+- id: Mathur2024d
+  text: "<u>Mathur MB</u>, Mathur VS. Toward evidence-based communication on overweight body mass index and mortality. <strong>BMC Medicine.</strong>"
+  year: 2024
+  type: "empirical"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/72r8m/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+- id: Zhao2024
+  text: "Zhao D, Cheng S, Tsui R, <u>Mathur MB</u>, Wang CJ. Risk of aircraft-acquired COVID-19 transmission during commercial flights: A systematic review. <strong>International Journal of Environmental Research and Public Health.</strong>"
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: 
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 # --------------------------- 2024 ---------------------------
 #
 - id: Mathur2023a
-  text: "<u>Mathur MB</u>. P-hacking in meta-analyses: A formalization and new meta-analytic methods. <strong>Research Synthesis Methods,</strong> 15(3), 483-499."
+  text: "<u>Mathur MB</u> (2024). P-hacking in meta-analyses: A formalization and new meta-analytic methods. <strong>Research Synthesis Methods,</strong> 15(3), 483-499."
   year: 2023
   type: "methods"
   authorship: "first"
@@ -171,7 +186,7 @@
 #
 #
 - id: Mathur2024b
-  text: "<u>Mathur MB</u>. Assessing robustness to worst case publication bias using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851"
+  text: "<u>Mathur MB</u> (2024). Assessing robustness to worst case publication bias using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851"
   year: 2024
   type: "methods"
   authorship: "first"
@@ -186,7 +201,7 @@
   google_id: 
 #
 - id: Mathur2024a
-  text: "<u>Mathur MB</u>. Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses. <strong>Research Synthesis Methods</strong>, 15(1), 21-43."
+  text: "<u>Mathur MB</u> (2024). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses. <strong>Research Synthesis Methods</strong>, 15(1), 21-43."
   year: 2024
   type: "methods"
   authorship: "first"
@@ -201,7 +216,7 @@
   google_id: "u3T1itk59dMC"
 #
 - id: Zettersten2024
-  text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (under review). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind.</strong>"
+  text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (2024). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind.</strong>"
   year: 2024
   type: "empirical"
   authorship: "last"
@@ -216,7 +231,7 @@
   google_id: 
 #
 - id: Ho2024
-  text: "Ho MY, Worthington EL, Cowden RG, Bechara AO, Chen ZJ, Gunatirin EY, Joynt S, Khalanskyi VV, Korzhov H, Kurniati NMT, Rodriguez N Salnykova A, Shtanko L, Tymchenko S, Voytenko VL, Zulkaida A, <u>Mathur MB</u>, VanderWeele TJ. International REACH forgiveness intervention: A multisite randomised controlled trial. <strong>BMJ Public Health,</strong> 2:e000072."
+  text: "Ho MY, Worthington EL, Cowden RG, Bechara AO, Chen ZJ, Gunatirin EY, Joynt S, Khalanskyi VV, Korzhov H, Kurniati NMT, Rodriguez N Salnykova A, Shtanko L, Tymchenko S, Voytenko VL, Zulkaida A, <u>Mathur MB</u>, VanderWeele TJ (2024). International REACH forgiveness intervention: A multisite randomised controlled trial. <strong>BMJ Public Health,</strong> 2:e000072."
   year: 2024
   type: "empirical"
   authorship: "middle"
@@ -231,7 +246,7 @@
   google_id: "j5aT6aphRxQC"
 #
 - id: Bechara2024
-  text: "Bechara AO, Chen ZJ, Cowden RG, Worthington EL, Toussaint L, Rodriguez N, Murillo HG, Ho MY, <u>Mathur MB</u>, VanderWeele TJ. Do forgiveness campaign activities improve forgiveness, mental health, and flourishing? <strong>International Journal of Public Health</strong>, 69."
+  text: "Bechara AO, Chen ZJ, Cowden RG, Worthington EL, Toussaint L, Rodriguez N, Murillo HG, Ho MY, <u>Mathur MB</u>, VanderWeele TJ (2024). Do forgiveness campaign activities improve forgiveness, mental health, and flourishing? <strong>International Journal of Public Health</strong>, 69."
   year: 2024
   type: "empirical"
   authorship: "middle"

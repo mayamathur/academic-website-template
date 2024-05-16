@@ -118,22 +118,6 @@
   doi: ~
   google_id: ~
   google_cites: ~
-- id: Mathur2024d
-  text: <u>Mathur MB</u>, Mathur VS. Toward evidence-based communication on overweight
-    body mass index and mortality. <strong>BMC Medicine.</strong>
-  year: 2024
-  type: empirical
-  authorship: first
-  status: inpress
-  preprint: https://osf.io/72r8m/
-  datarepo: ~
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
 - id: Mathur2024c
   text: <u>Mathur MB</u>, Shpitser I. Reflections on evolving conceptions of selection
     bias. <strong>American Journal of Epidemiology.</strong>
@@ -167,9 +151,43 @@
   doi: ~
   google_id: ~
   google_cites: ~
+- id: Mathur2024d
+  text: <u>Mathur MB</u>, Mathur VS. Toward evidence-based communication on overweight
+    body mass index and mortality. <strong>BMC Medicine.</strong>
+  year: 2024
+  type: empirical
+  authorship: first
+  status: inpress
+  preprint: https://osf.io/72r8m/
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
+- id: Zhao2024
+  text: 'Zhao D, Cheng S, Tsui R, <u>Mathur MB</u>, Wang CJ. Risk of aircraft-acquired
+    COVID-19 transmission during commercial flights: A systematic review. <strong>International
+    Journal of Environmental Research and Public Health.</strong>'
+  year: 2024
+  type: empirical
+  authorship: middle
+  status: inpress
+  preprint: ~
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
 - id: Mathur2023a
-  text: '<u>Mathur MB</u>. P-hacking in meta-analyses: A formalization and new meta-analytic
-    methods. <strong>Research Synthesis Methods,</strong> 15(3), 483-499.'
+  text: '<u>Mathur MB</u> (2024). P-hacking in meta-analyses: A formalization and
+    new meta-analytic methods. <strong>Research Synthesis Methods,</strong> 15(3),
+    483-499.'
   year: 2023
   type: methods
   authorship: first
@@ -184,8 +202,8 @@
   google_id: lK9BDNCuzFgC
   google_cites: 0
 - id: Mathur2024b
-  text: <u>Mathur MB</u>. Assessing robustness to worst case publication bias using
-    a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851
+  text: <u>Mathur MB</u> (2024). Assessing robustness to worst case publication bias
+    using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851
   year: 2024
   type: methods
   authorship: first
@@ -200,9 +218,9 @@
   google_id: ~
   google_cites: ~
 - id: Mathur2024a
-  text: <u>Mathur MB</u>. Sensitivity analysis for the interactive effects of internal
-    bias and publication bias in meta-analyses. <strong>Research Synthesis Methods</strong>,
-    15(1), 21-43.
+  text: <u>Mathur MB</u> (2024). Sensitivity analysis for the interactive effects
+    of internal bias and publication bias in meta-analyses. <strong>Research Synthesis
+    Methods</strong>, 15(1), 21-43.
   year: 2024
   type: methods
   authorship: first
@@ -219,8 +237,8 @@
 - id: Zettersten2024
   text: Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall
     RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black
-    AK, <u>Mathur MB</u> (under review). Evidence for infant-directed speech preference
-    is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open
+    AK, <u>Mathur MB</u> (2024). Evidence for infant-directed speech preference is
+    consistent across large-scale, multi-site replication and meta-analysis. <strong>Open
     Mind.</strong>
   year: 2024
   type: empirical
@@ -238,9 +256,9 @@
 - id: Ho2024
   text: 'Ho MY, Worthington EL, Cowden RG, Bechara AO, Chen ZJ, Gunatirin EY, Joynt
     S, Khalanskyi VV, Korzhov H, Kurniati NMT, Rodriguez N Salnykova A, Shtanko L,
-    Tymchenko S, Voytenko VL, Zulkaida A, <u>Mathur MB</u>, VanderWeele TJ. International
-    REACH forgiveness intervention: A multisite randomised controlled trial. <strong>BMJ
-    Public Health,</strong> 2:e000072.'
+    Tymchenko S, Voytenko VL, Zulkaida A, <u>Mathur MB</u>, VanderWeele TJ (2024).
+    International REACH forgiveness intervention: A multisite randomised controlled
+    trial. <strong>BMJ Public Health,</strong> 2:e000072.'
   year: 2024
   type: empirical
   authorship: middle
@@ -256,9 +274,9 @@
   google_cites: 4
 - id: Bechara2024
   text: Bechara AO, Chen ZJ, Cowden RG, Worthington EL, Toussaint L, Rodriguez N,
-    Murillo HG, Ho MY, <u>Mathur MB</u>, VanderWeele TJ. Do forgiveness campaign activities
-    improve forgiveness, mental health, and flourishing? <strong>International Journal
-    of Public Health</strong>, 69.
+    Murillo HG, Ho MY, <u>Mathur MB</u>, VanderWeele TJ (2024). Do forgiveness campaign
+    activities improve forgiveness, mental health, and flourishing? <strong>International
+    Journal of Public Health</strong>, 69.
   year: 2024
   type: empirical
   authorship: middle
@@ -844,7 +862,7 @@
   webapplink: ~
   doi: 10.7554/eLife.71601
   google_id: rbGdIwl2e6cC
-  google_cites: 202
+  google_cites: 205
 - id: Zhang2021
   text: 'Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov
     M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser
@@ -862,7 +880,7 @@
   webapplink: ~
   doi: 10.1371/journal.pmed.1003731
   google_id: RXiHnyRawswC
-  google_cites: 125
+  google_cites: 126
 - id: Smith2021
   text: 'Smith LH, <u>Mathur MB</u>, VanderWeele TJ (2021). Multiple-bias sensitivity
     analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634.'
@@ -986,7 +1004,7 @@
   webapplink: ~
   doi: 10.1111/rssc.12440
   google_id: L24QuVWYgZ0C
-  google_cites: 160
+  google_cites: 161
 - id: Mathur2020e
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). New statistical metrics for multisite
     replication projects. <strong>Journal of the Royal Statistical Society: Series
@@ -1003,7 +1021,7 @@
   webapplink: ~
   doi: 10.1111/rssa.12572
   google_id: N4u4nq0IxgcC
-  google_cites: 28
+  google_cites: 29
 - id: Mathur2020f
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Robust metrics and sensitivity analyses
     for meta-analyses of heterogeneous effects. <strong>Epidemiology</strong>, 31(3):356-358.
@@ -1105,7 +1123,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001105
   google_id: rOcdG6UcVlcC
-  google_cites: 15
+  google_cites: 16
 - id: Ling2020
   text: 'Ling A, Montez-Rath MR, <u>Mathur MB</u>, Kapphahn K, Desai (2020). How to
     apply multiple imputation in propensity score matching with partially observed
@@ -1193,7 +1211,7 @@
   webapplink: ~
   doi: 10.1214/19-STS728
   google_id: 7Frjd3zlGBUC
-  google_cites: 210
+  google_cites: 211
 - id: VanderWeele2020c
   text: 'VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future
     of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483.'
@@ -1226,7 +1244,7 @@
   webapplink: ~
   doi: 10.1177/1536867X20909696
   google_id: Vno172sVVMwC
-  google_cites: 112
+  google_cites: 113
 - id: VanderWeele2020d
   text: 'VanderWeele TJ & <u>Mathur MB</u> (2020). Commentary: Developing best-practice
     guidelines for the reporting of the E-value. <strong>International Journal of
@@ -1260,7 +1278,7 @@
   webapplink: ~
   doi: 10.1177/1745691619850104
   google_id: Y0-TYkg6YM4C
-  google_cites: 106
+  google_cites: 107
 - id: Mathur2019b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2019). Discussion on the meeting on ''Signs
     and sizes: understanding and replicating statistical findings''. <strong>Journal
@@ -1395,7 +1413,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 262
+  google_cites: 264
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1411,7 +1429,7 @@
   webapplink: ~
   doi: 10.7326/M18-3112
   google_id: rCNdntzdTkkC
-  google_cites: 49
+  google_cites: 50
 - id: Mathur2018a
   text: <u>Mathur MB</u> & VanderWeele TJ (2018). R function for additive interaction
     measures. <strong>Epidemiology</strong>, 29(1), e5-e6.
@@ -1443,7 +1461,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 527
+  google_cites: 528
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1585,7 +1603,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 493
+  google_cites: 495
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1620,7 +1638,7 @@
   webapplink: ~
   doi: 10.2196/mhealth.5146
   google_id: roLk4NBRz8UC
-  google_cites: 93
+  google_cites: 94
 - id: Charytan2016
   text: 'Charytan DM, Desai M, <u>Mathur MB</u>, Stern NM, Brooks MM, Krzych LJ, Schuler
     GC, Kaehler J, Rodriguez-Granillo AM, Hueb W, Reeves BC, Thiele H, Rodriguez AE,
@@ -1731,7 +1749,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 8996
+  google_cites: 9009
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
