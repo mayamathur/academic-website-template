@@ -1,6 +1,6 @@
 - id: Mathur2024a
-  text: <u>Mathur MB</u> (under review). On the statistical analysis of studies with
-    attention checks.
+  text: '<u>Mathur MB</u> (under review). On the statistical analysis of studies with
+    attention checks. '
   year: 2023
   type: methods
   authorship: first
@@ -271,7 +271,7 @@
   webapplink: ~
   doi: https://doi.org/10.31219/osf.io/8qzgw
   google_id: j5aT6aphRxQC
-  google_cites: 4
+  google_cites: 5
 - id: Bechara2024
   text: Bechara AO, Chen ZJ, Cowden RG, Worthington EL, Toussaint L, Rodriguez N,
     Murillo HG, Ho MY, <u>Mathur MB</u>, VanderWeele TJ (2024). Do forgiveness campaign
@@ -513,7 +513,7 @@
   webapplink: ~
   doi: 10.1016/j.focus.2023.100123
   google_id: d4tt_xEv1X8C
-  google_cites: 1
+  google_cites: 2
 - id: Chen2023
   text: 'Chen Y, <u>Mathur MB</u>, Case BW, VanderWeele TJ (2023). Marital transitions
     during earlier adulthood and subsequent health and well-being in mid-to late-life
@@ -880,7 +880,7 @@
   webapplink: ~
   doi: 10.1371/journal.pmed.1003731
   google_id: RXiHnyRawswC
-  google_cites: 126
+  google_cites: 127
 - id: Smith2021
   text: 'Smith LH, <u>Mathur MB</u>, VanderWeele TJ (2021). Multiple-bias sensitivity
     analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634.'
@@ -987,7 +987,7 @@
   webapplink: ~
   doi: 10.1016/j.chb.2019.08.029
   google_id: In6cVmBjs0IC
-  google_cites: 76
+  google_cites: 77
 - id: Mathur2020d
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). Sensitivity analysis for publication
     bias in meta-analyses. <strong>Journal of the Royal Statistical Society: Series
@@ -1004,7 +1004,7 @@
   webapplink: ~
   doi: 10.1111/rssc.12440
   google_id: L24QuVWYgZ0C
-  google_cites: 161
+  google_cites: 162
 - id: Mathur2020e
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). New statistical metrics for multisite
     replication projects. <strong>Journal of the Royal Statistical Society: Series
@@ -1141,7 +1141,7 @@
   webapplink: ~
   doi: ~
   google_id: tz746QTLzJkC
-  google_cites: 26
+  google_cites: 27
 - id: Zhang2020
   text: Zhang X, Stamey JD, <u>Mathur MB</u> (2020). Assessing the impact of unmeasured
     confounders for credible and reliable real-world evidence. <strong>Pharmacoepidemiology
@@ -1158,7 +1158,7 @@
   webapplink: ~
   doi: 10.1002/pds.5117
   google_id: aDl3D7KC1E4C
-  google_cites: 28
+  google_cites: 29
 - id: Ebersole2020
   text: 'Ebersole, CA, <u>Mathur MB</u>, Baranski E, Bart-Pange DJ, Buttrick NR, Chartier
     CR, Corker KS, Corley M, Hartshorne JK, Ijzerman H, Lazarevic LB, Rabagliati H,
@@ -1244,7 +1244,7 @@
   webapplink: ~
   doi: 10.1177/1536867X20909696
   google_id: Vno172sVVMwC
-  google_cites: 114
+  google_cites: 115
 - id: VanderWeele2020d
   text: 'VanderWeele TJ & <u>Mathur MB</u> (2020). Commentary: Developing best-practice
     guidelines for the reporting of the E-value. <strong>International Journal of
@@ -1361,7 +1361,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1515/jci-2018-0007
   google_id: Azgs6IHzeyYC
-  google_cites: 89
+  google_cites: 90
 - id: Desai2019
   text: Desai M, Montez-Rath M, Kapphahn K, Joyce V, <u>Mathur MB</u>, Garcia A, Purington
     N, Owens DK (2019). Missing data strategies for time-varying confounders in comparative
@@ -1413,7 +1413,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 266
+  google_cites: 267
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1534,7 +1534,7 @@
   webapplink: ~
   doi: 10.1186/s12966-017-0563-2
   google_id: hNSvKAmkeYkC
-  google_cites: 111
+  google_cites: 112
 - id: Montez2017
   text: Montez-Rath ME, Kapphahn K, <u>Mathur MB</u>, Mitani AA, Hendry DJ, Desai
     M (2017). Guidelines for generating right-censored outcomes from a Cox model extended
@@ -1603,7 +1603,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 498
+  google_cites: 499
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1749,7 +1749,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9015
+  google_cites: 9021
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
