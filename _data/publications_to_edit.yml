@@ -186,7 +186,7 @@
 # 
 - id: Mathur2023a
   text: "<u>Mathur MB</u> (2024). P-hacking in meta-analyses: A formalization and new meta-analytic methods. <strong>Research Synthesis Methods,</strong> 15(3), 483-499."
-  year: 2023
+  year: 2024
   type: "methods"
   authorship: "first"
   status: "published"
@@ -197,7 +197,7 @@
   webappname: "Online tool"
   webapplink: "https://metabias.io/phacking/"
   doi: "10.31219/osf.io/ezjsx"
-  google_id: "lK9BDNCuzFgC"
+  google_id: "wBLCggQE-ToC"
 #
 #
 - id: Mathur2024b
