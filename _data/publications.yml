@@ -1,6 +1,6 @@
 - id: Mathur2024a
-  text: '<u>Mathur MB</u> (under review). On the statistical analysis of studies with
-    attention checks. '
+  text: '<u>Mathur MB</u> (under review).  On the statistical analysis of studies
+    with attention checks. '
   year: 2023
   type: methods
   authorship: first
@@ -61,6 +61,22 @@
   webappname: ~
   webapplink: ~
   doi: 10.31219/osf.io/ths4e
+  google_id: ~
+  google_cites: ~
+- id: Winslow2024
+  text: Winslow J, <u>Mathur MB</u> (under review). Reanalysis of "A longitudinal
+    study of meat reduction over time in the UK".
+  year: 2024
+  type: empirical
+  authorship: last
+  status: inprep
+  preprint: https://osf.io/preprints/osf/s65t3
+  datarepo: https://osf.io/sxtq7/
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
   google_id: ~
   google_cites: ~
 - id: Voski2024
@@ -151,14 +167,17 @@
   doi: ~
   google_id: ~
   google_cites: ~
-- id: Mathur2024d
-  text: <u>Mathur MB</u>, Mathur VS. Toward evidence-based communication on overweight
-    body mass index and mortality. <strong>BMC Medicine.</strong>
+- id: Kurniati2024
+  text: 'Kurniati NMT, Cowden RG, Zulkaida A, Gunatirin EY, Rahardjo W, Elizabeth
+    MP, Suryani AI, Cynthia T, Rini QK, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington
+    EL. A randomized controlled trial of a brief self-directed secular REACH forgiveness
+    intervention with Indonesian Christians: Does religiousness matter? <strong>Spirituality
+    in Clinical Practice.</strong>'
   year: 2024
   type: empirical
-  authorship: first
+  authorship: middle
   status: inpress
-  preprint: https://osf.io/72r8m/
+  preprint: ~
   datarepo: ~
   rpackagename: ~
   rpackagelink: ~
@@ -184,11 +203,27 @@
   doi: ~
   google_id: ~
   google_cites: ~
+- id: Mathur2024d
+  text: <u>Mathur MB</u>, Mathur VS (2024). Toward evidence-based communication on
+    overweight body mass index and mortality. <strong>BMC Medicine,</strong> 22(1):183.
+  year: 2024
+  type: empirical
+  authorship: first
+  status: published
+  preprint: https://pubmed.ncbi.nlm.nih.gov/38693530/
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: 10.1186/s12916-024-03402-2
+  google_id: 4QKQTXcH0q8C
+  google_cites: 0
 - id: Mathur2023a
   text: '<u>Mathur MB</u> (2024). P-hacking in meta-analyses: A formalization and
     new meta-analytic methods. <strong>Research Synthesis Methods,</strong> 15(3),
     483-499.'
-  year: 2023
+  year: 2024
   type: methods
   authorship: first
   status: published
@@ -199,11 +234,11 @@
   webappname: Online tool
   webapplink: https://metabias.io/phacking/
   doi: 10.31219/osf.io/ezjsx
-  google_id: lK9BDNCuzFgC
-  google_cites: 0
+  google_id: wBLCggQE-ToC
+  google_cites: 11
 - id: Mathur2024b
   text: <u>Mathur MB</u> (2024). Assessing robustness to worst case publication bias
-    using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851
+    using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851.
   year: 2024
   type: methods
   authorship: first
@@ -215,8 +250,8 @@
   webappname: ~
   webapplink: ~
   doi: 10.1136/bmj-2023-076851
-  google_id: ~
-  google_cites: ~
+  google_id: pUxgyZctzPYC
+  google_cites: 0
 - id: Mathur2024a
   text: <u>Mathur MB</u> (2024). Sensitivity analysis for the interactive effects
     of internal bias and publication bias in meta-analyses. <strong>Research Synthesis
@@ -239,7 +274,7 @@
     RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black
     AK, <u>Mathur MB</u> (2024). Evidence for infant-directed speech preference is
     consistent across large-scale, multi-site replication and meta-analysis. <strong>Open
-    Mind.</strong>
+    Mind,</strong> 8, 439-461.
   year: 2024
   type: empirical
   authorship: last
@@ -250,9 +285,9 @@
   rpackagelink: ~
   webappname: ~
   webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
+  doi: 10.1162/opmi_a_00134
+  google_id: K4-iKlO5MD4C
+  google_cites: 0
 - id: Ho2024
   text: 'Ho MY, Worthington EL, Cowden RG, Bechara AO, Chen ZJ, Gunatirin EY, Joynt
     S, Khalanskyi VV, Korzhov H, Kurniati NMT, Rodriguez N Salnykova A, Shtanko L,
@@ -600,7 +635,7 @@
   webapplink: ~
   doi: 10.1146/annurev-publhealth-051920-114020
   google_id: uUvzmPk0f8oC
-  google_cites: 47
+  google_cites: 50
 - id: Mathur2022c
   text: <u>Mathur MB</u> & VanderWeele TJ (2022). Assessing uncontrolled confounding
     in associations of being overweight with all-cause mortality. <strong>JAMA Network
@@ -633,7 +668,7 @@
   webapplink: ~
   doi: 10.1126/science.abo2535
   google_id: cNe27ouKFcQC
-  google_cites: 7
+  google_cites: 8
 - id: Mathur2022a
   text: '<u>Mathur MB</u> & VanderWeele TJ (2022). How to report E-values for meta-analyses:
     Recommended improvements and additions to the new GRADE approach. <strong>Environment
@@ -742,7 +777,7 @@
   webapplink: ~
   doi: 10.17605/OSF.IO/S4BZ3
   google_id: 8VtEwCQfWZkC
-  google_cites: 27
+  google_cites: 28
 - id: Maier2022
   text: 'Maier M, VanderWeele TJ, <u>Mathur MB</u> (2022). Using selection models
     to assess sensitivity to publication bias: A tutorial and call for more routine
@@ -759,7 +794,7 @@
   webapplink: ~
   doi: 10.1002/cl2.1256
   google_id: bXQfdp6S9ecC
-  google_cites: 25
+  google_cites: 26
 - id: Lewis2022
   text: Lewis M, <u>Mathur MB</u>, VanderWeele TJ, Frank MC (2022). The puzzling relationship
     between multi-lab replications and meta-analyses of the published literature.
@@ -811,7 +846,7 @@
   webapplink: ~
   doi: 10.1016/j.appet.2021.105277
   google_id: E7VqQtBCVmcC
-  google_cites: 69
+  google_cites: 71
 - id: Mathur2021b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2021). Meta-regression methods to characterize
     evidence strength using meaningful-effect percentages conditional on study characteristics.
@@ -845,7 +880,7 @@
   webapplink: ~
   doi: 10.1002/jrsm.1464
   google_id: TGkaJS32XoUC
-  google_cites: 51
+  google_cites: 52
 - id: Errington2021
   text: Errington TM, <u>Mathur MB</u>, Soderberg CK, Denis A, Perfito N, Iorns E,
     Nosek BA. (2021). Investigating the replicability of preclinical cancer biology.
@@ -862,7 +897,7 @@
   webapplink: ~
   doi: 10.7554/eLife.71601
   google_id: rbGdIwl2e6cC
-  google_cites: 205
+  google_cites: 209
 - id: Zhang2021
   text: 'Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov
     M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser
@@ -880,7 +915,7 @@
   webapplink: ~
   doi: 10.1371/journal.pmed.1003731
   google_id: RXiHnyRawswC
-  google_cites: 127
+  google_cites: 128
 - id: Smith2021
   text: 'Smith LH, <u>Mathur MB</u>, VanderWeele TJ (2021). Multiple-bias sensitivity
     analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634.'
@@ -914,7 +949,7 @@
   webapplink: ~
   doi: 10.1016/j.jaip.2020.10.060
   google_id: KI9T_ytC6pkC
-  google_cites: 10
+  google_cites: 11
 - id: Fu2021
   text: 'Fu R, Sekercioglu N, <u>Mathur MB</u>, Couban R, Coyte PC. (2021). Dialysis
     initiation and all-cause mortality among incident adult patients with advanced
@@ -969,7 +1004,7 @@
   webapplink: https://www.evalue-calculator.com/meta/
   doi: 10.1080/01621459.2018.1529598
   google_id: n3vGvpFsckwC
-  google_cites: 100
+  google_cites: 101
 - id: Mathur2020c
   text: '<u>Mathur MB</u>, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten
     PAM, Levitan CA, Nave G, Manfredi D, Bessette-Symons B, Szuts A, Aczel B (2020).
@@ -987,7 +1022,7 @@
   webapplink: ~
   doi: 10.1016/j.chb.2019.08.029
   google_id: In6cVmBjs0IC
-  google_cites: 77
+  google_cites: 79
 - id: Mathur2020d
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). Sensitivity analysis for publication
     bias in meta-analyses. <strong>Journal of the Royal Statistical Society: Series
@@ -1004,7 +1039,7 @@
   webapplink: ~
   doi: 10.1111/rssc.12440
   google_id: L24QuVWYgZ0C
-  google_cites: 162
+  google_cites: 165
 - id: Mathur2020e
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). New statistical metrics for multisite
     replication projects. <strong>Journal of the Royal Statistical Society: Series
@@ -1021,7 +1056,7 @@
   webapplink: ~
   doi: 10.1111/rssa.12572
   google_id: N4u4nq0IxgcC
-  google_cites: 29
+  google_cites: 30
 - id: Mathur2020f
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Robust metrics and sensitivity analyses
     for meta-analyses of heterogeneous effects. <strong>Epidemiology</strong>, 31(3):356-358.
@@ -1037,7 +1072,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001180
   google_id: ifOnle78iJkC
-  google_cites: 36
+  google_cites: 37
 - id: Mathur2020g
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Evidence relating health care provider
     burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18.
@@ -1211,7 +1246,7 @@
   webapplink: ~
   doi: 10.1214/19-STS728
   google_id: 7Frjd3zlGBUC
-  google_cites: 212
+  google_cites: 216
 - id: VanderWeele2020c
   text: 'VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future
     of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483.'
@@ -1244,7 +1279,7 @@
   webapplink: ~
   doi: 10.1177/1536867X20909696
   google_id: Vno172sVVMwC
-  google_cites: 115
+  google_cites: 118
 - id: VanderWeele2020d
   text: 'VanderWeele TJ & <u>Mathur MB</u> (2020). Commentary: Developing best-practice
     guidelines for the reporting of the E-value. <strong>International Journal of
@@ -1261,7 +1296,7 @@
   webapplink: ~
   doi: 10.1093/ije/dyaa094
   google_id: 3A3nxV7CjKIC
-  google_cites: 89
+  google_cites: 90
 - id: Mathur2019a
   text: <u>Mathur MB</u> & VanderWeele TJ (2019). Finding common ground in meta-analysis
     'wars' on violent video games. <strong>Perspectives on Psychological Science</strong>,
@@ -1278,7 +1313,7 @@
   webapplink: ~
   doi: 10.1177/1745691619850104
   google_id: Y0-TYkg6YM4C
-  google_cites: 107
+  google_cites: 110
 - id: Mathur2019b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2019). Discussion on the meeting on ''Signs
     and sizes: understanding and replicating statistical findings''. <strong>Journal
@@ -1345,7 +1380,7 @@
   webapplink: ~
   doi: 110.1002/sim.8057
   google_id: QoJ_w57xiyAC
-  google_cites: 54
+  google_cites: 55
 - id: VanderWeele2019a
   text: VanderWeele TJ, Ding P, <u>Mathur MB</u> (2019). Technical considerations
     in the use of the E-value. <strong>Journal of Causal Inference</strong>, 7(2).
@@ -1413,7 +1448,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 267
+  google_cites: 272
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1461,7 +1496,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 529
+  google_cites: 530
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1480,7 +1515,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 292
+  google_cites: 293
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto
     T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez
@@ -1499,7 +1534,7 @@
   webapplink: ~
   doi: 10.1158/1078-0432.CCR-17-1323
   google_id: orDZ08hpP44C
-  google_cites: 75
+  google_cites: 76
 - id: Boehm2018
   text: Boehm JK, Chen Y, Koga H, <u>Mathur MB</u>, Vie LL, Kubzansky LD (2018). Is
     optimism associated with healthier cardiovascular-related behavior? Meta-analyses
@@ -1516,7 +1551,7 @@
   webapplink: ~
   doi: 10.1161/CIRCRESAHA.117.310828
   google_id: _tF6a-HnqWAC
-  google_cites: 148
+  google_cites: 149
 - id: Mummah2017
   text: 'Mummah S, Robinson TN, <u>Mathur MB</u>, Farzinkhou S, Sutton S, Gardner
     CD (2017). Effect of a mobile app intervention on vegetable consumption in overweight
@@ -1534,7 +1569,7 @@
   webapplink: ~
   doi: 10.1186/s12966-017-0563-2
   google_id: hNSvKAmkeYkC
-  google_cites: 112
+  google_cites: 113
 - id: Montez2017
   text: Montez-Rath ME, Kapphahn K, <u>Mathur MB</u>, Mitani AA, Hendry DJ, Desai
     M (2017). Guidelines for generating right-censored outcomes from a Cox model extended
@@ -1603,7 +1638,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 499
+  google_cites: 501
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1638,7 +1673,7 @@
   webapplink: ~
   doi: 10.2196/mhealth.5146
   google_id: roLk4NBRz8UC
-  google_cites: 94
+  google_cites: 95
 - id: Charytan2016
   text: 'Charytan DM, Desai M, <u>Mathur MB</u>, Stern NM, Brooks MM, Krzych LJ, Schuler
     GC, Kaehler J, Rodriguez-Granillo AM, Hueb W, Reeves BC, Thiele H, Rodriguez AE,
@@ -1697,7 +1732,7 @@
   webapplink: ~
   doi: 10.1093/jamia/ocw161
   google_id: qmtmRrLr0tkC
-  google_cites: 17
+  google_cites: 18
 - id: Pargaonkar2015
   text: 'Pargaonkar VS, Perez MV, Jindal A, <u>Mathur MB</u>, Myers J, Froelicher
     VF (2015). Long-term prognosis of early repolarization with J-wave and QRS slur
@@ -1749,7 +1784,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9021
+  google_cites: 9063
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
@@ -1784,7 +1819,7 @@
   webapplink: http://flubusters.blogspot.com/p/contact.html
   doi: 10.1371/journal.pone.0091630
   google_id: 9yKSN-GCB0IC
-  google_cites: 34
+  google_cites: 35
 - id: Perez2014
   text: De Jesus Perez VA, Yuan K, Lyuksyutova MA, Dewey F, Orcholski ME, Shuffle
     EM, <u>Mathur MB</u>, Yancy Jr. L, Rojas V, Li CG, Cao A, Alastalo T-P, Khazeni

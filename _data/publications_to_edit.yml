@@ -1,7 +1,7 @@
 # --------------------------- In preparation ---------------------------
 #
 - id: Mathur2024a
-  text: "<u>Mathur MB</u> (under review). On the statistical analysis of studies with attention checks. "
+  text: "<u>Mathur MB</u> (under review).  On the statistical analysis of studies with attention checks. "
   year: 2023
   type: "methods"
   authorship: "first"
@@ -60,6 +60,21 @@
   doi: "10.31219/osf.io/ths4e"
   google_id: 
 # 
+- id: Winslow2024
+  text: 'Winslow J, <u>Mathur MB</u> (under review). Reanalysis of "A longitudinal study of meat reduction over time in the UK".'
+  year: 2024
+  type: "empirical"
+  authorship: "last"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/osf/s65t3"
+  datarepo: "https://osf.io/sxtq7/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Voski2024
   text: "Voski A, Braginsky M, Zhang A, Bertoldo J, Egan S, Levig LA, Ihrig MM, <u>Mathur MB</u> (under review). Effect of a default portion-size reduction on meat consumption and diner satisfaction: Controlled experiments in Stanford University dining halls."
   year: 2024
@@ -137,13 +152,13 @@
   doi: 
   google_id: 
 #
-- id: Mathur2024d
-  text: "<u>Mathur MB</u>, Mathur VS. Toward evidence-based communication on overweight body mass index and mortality. <strong>BMC Medicine.</strong>"
+- id: Kurniati2024
+  text: "Kurniati NMT, Cowden RG, Zulkaida A, Gunatirin EY, Rahardjo W, Elizabeth MP, Suryani AI, Cynthia T, Rini QK, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington EL. A randomized controlled trial of a brief self-directed secular REACH forgiveness intervention with Indonesian Christians: Does religiousness matter? <strong>Spirituality in Clinical Practice.</strong>"
   year: 2024
   type: "empirical"
-  authorship: "first"
+  authorship: "middle"
   status: "inpress"
-  preprint: "https://osf.io/72r8m/"
+  preprint: 
   datarepo: 
   rpackagename: 
   rpackagelink: 
@@ -169,9 +184,24 @@
 #
 # --------------------------- 2024 ---------------------------
 #
+- id: Mathur2024d
+  text: "<u>Mathur MB</u>, Mathur VS (2024). Toward evidence-based communication on overweight body mass index and mortality. <strong>BMC Medicine,</strong> 22(1):183."
+  year: 2024
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://pubmed.ncbi.nlm.nih.gov/38693530/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1186/s12916-024-03402-2"
+  google_id: "4QKQTXcH0q8C"
+# 
 - id: Mathur2023a
   text: "<u>Mathur MB</u> (2024). P-hacking in meta-analyses: A formalization and new meta-analytic methods. <strong>Research Synthesis Methods,</strong> 15(3), 483-499."
-  year: 2023
+  year: 2024
   type: "methods"
   authorship: "first"
   status: "published"
@@ -182,11 +212,11 @@
   webappname: "Online tool"
   webapplink: "https://metabias.io/phacking/"
   doi: "10.31219/osf.io/ezjsx"
-  google_id: "lK9BDNCuzFgC"
+  google_id: "wBLCggQE-ToC"
 #
 #
 - id: Mathur2024b
-  text: "<u>Mathur MB</u> (2024). Assessing robustness to worst case publication bias using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851"
+  text: "<u>Mathur MB</u> (2024). Assessing robustness to worst case publication bias using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851."
   year: 2024
   type: "methods"
   authorship: "first"
@@ -198,7 +228,7 @@
   webappname: 
   webapplink: 
   doi: "10.1136/bmj-2023-076851"
-  google_id: 
+  google_id: "pUxgyZctzPYC"
 #
 - id: Mathur2024a
   text: "<u>Mathur MB</u> (2024). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses. <strong>Research Synthesis Methods</strong>, 15(1), 21-43."
@@ -216,7 +246,7 @@
   google_id: "u3T1itk59dMC"
 #
 - id: Zettersten2024
-  text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (2024). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind.</strong>"
+  text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (2024). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind,</strong> 8, 439-461."
   year: 2024
   type: "empirical"
   authorship: "last"
@@ -227,8 +257,8 @@
   rpackagelink:
   webappname:
   webapplink:
-  doi: 
-  google_id: 
+  doi: "10.1162/opmi_a_00134"
+  google_id: "K4-iKlO5MD4C"
 #
 - id: Ho2024
   text: "Ho MY, Worthington EL, Cowden RG, Bechara AO, Chen ZJ, Gunatirin EY, Joynt S, Khalanskyi VV, Korzhov H, Kurniati NMT, Rodriguez N Salnykova A, Shtanko L, Tymchenko S, Voytenko VL, Zulkaida A, <u>Mathur MB</u>, VanderWeele TJ (2024). International REACH forgiveness intervention: A multisite randomised controlled trial. <strong>BMJ Public Health,</strong> 2:e000072."
