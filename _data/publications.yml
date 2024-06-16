@@ -635,7 +635,7 @@
   webapplink: ~
   doi: 10.1146/annurev-publhealth-051920-114020
   google_id: uUvzmPk0f8oC
-  google_cites: 50
+  google_cites: 51
 - id: Mathur2022c
   text: <u>Mathur MB</u> & VanderWeele TJ (2022). Assessing uncontrolled confounding
     in associations of being overweight with all-cause mortality. <strong>JAMA Network
@@ -915,7 +915,7 @@
   webapplink: ~
   doi: 10.1371/journal.pmed.1003731
   google_id: RXiHnyRawswC
-  google_cites: 128
+  google_cites: 129
 - id: Smith2021
   text: 'Smith LH, <u>Mathur MB</u>, VanderWeele TJ (2021). Multiple-bias sensitivity
     analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634.'
@@ -1022,7 +1022,7 @@
   webapplink: ~
   doi: 10.1016/j.chb.2019.08.029
   google_id: In6cVmBjs0IC
-  google_cites: 79
+  google_cites: 80
 - id: Mathur2020d
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). Sensitivity analysis for publication
     bias in meta-analyses. <strong>Journal of the Royal Statistical Society: Series
@@ -1039,7 +1039,7 @@
   webapplink: ~
   doi: 10.1111/rssc.12440
   google_id: L24QuVWYgZ0C
-  google_cites: 165
+  google_cites: 166
 - id: Mathur2020e
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). New statistical metrics for multisite
     replication projects. <strong>Journal of the Royal Statistical Society: Series
@@ -1176,7 +1176,7 @@
   webapplink: ~
   doi: ~
   google_id: tz746QTLzJkC
-  google_cites: 27
+  google_cites: 28
 - id: Zhang2020
   text: Zhang X, Stamey JD, <u>Mathur MB</u> (2020). Assessing the impact of unmeasured
     confounders for credible and reliable real-world evidence. <strong>Pharmacoepidemiology
@@ -1246,7 +1246,7 @@
   webapplink: ~
   doi: 10.1214/19-STS728
   google_id: 7Frjd3zlGBUC
-  google_cites: 217
+  google_cites: 218
 - id: VanderWeele2020c
   text: 'VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future
     of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483.'
@@ -1279,7 +1279,7 @@
   webapplink: ~
   doi: 10.1177/1536867X20909696
   google_id: Vno172sVVMwC
-  google_cites: 118
+  google_cites: 119
 - id: VanderWeele2020d
   text: 'VanderWeele TJ & <u>Mathur MB</u> (2020). Commentary: Developing best-practice
     guidelines for the reporting of the E-value. <strong>International Journal of
@@ -1448,7 +1448,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 273
+  google_cites: 274
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1515,7 +1515,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 294
+  google_cites: 295
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto
     T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez
@@ -1638,7 +1638,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 501
+  google_cites: 502
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1656,7 +1656,7 @@
   webapplink: ~
   doi: 10.1016/j.bbi.2016.02.002
   google_id: WF5omc3nYNoC
-  google_cites: 292
+  google_cites: 294
 - id: Mummah2016
   text: 'Mummah, SA, <u>Mathur MB</u>, King AC, Gardner CD, Sutton S (2016). Mobile
     technology for vegetable consumption: a randomized controlled pilot study in overweight
@@ -1784,7 +1784,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9064
+  google_cites: 9087
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
@@ -1839,7 +1839,7 @@
   webapplink: ~
   doi: 10.1164/rccm.201310-1749OC
   google_id: qjMakFHDy7sC
-  google_cites: 96
+  google_cites: 97
 - id: Mathur2010
   text: <u>Mathur MB</u>, Mathur VS, Reichling DB (2010). Participation in the decision
     to become vaccinated against human papillomavirus by California high school girls
@@ -1857,4 +1857,4 @@
   webapplink: ~
   doi: 10.1016/j.pedhc.2008.11.004
   google_id: u5HHmVD_uO8C
-  google_cites: 92
+  google_cites: 93
