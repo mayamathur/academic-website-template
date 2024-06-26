@@ -152,6 +152,21 @@
   doi: 
   google_id: 
 #
+- id: Bane2024
+  text: "Bane S, Carmichael S <u>Mathur MB</u>, Simard J. Considering pregnancies as repeated versus independent events: An empirical comparison of common approaches across selected perinatal outcomes. <strong>American Journal of Obstetrics & Gynecology Maternal-Fetal Medicine.</strong>"
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: 
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Kurniati2024
   text: "Kurniati NMT, Cowden RG, Zulkaida A, Gunatirin EY, Rahardjo W, Elizabeth MP, Suryani AI, Cynthia T, Rini QK, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington EL. A randomized controlled trial of a brief self-directed secular REACH forgiveness intervention with Indonesian Christians: Does religiousness matter? <strong>Spirituality in Clinical Practice.</strong>"
   year: 2024
