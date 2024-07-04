@@ -60,6 +60,21 @@
   doi: "10.31219/osf.io/ths4e"
   google_id: 
 # 
+- id: Thomas2024
+  text: "Thomas AT, Hope J, <u>Mathur MB</u> (under review). Documentary films can increase nationwide interest in plant-based food."
+  year: 2024
+  type: "empirical"
+  authorship: "last"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/osf/yh94d"
+  datarepo: "https://github.com/hsflabstanford/media-impacts"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Winslow2024
   text: "Winslow J, <u>Mathur MB</u> (under review). Reanalysis of 'A longitudinal study of meat reduction over time in the UK.'"
   year: 2024
