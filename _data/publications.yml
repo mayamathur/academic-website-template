@@ -478,7 +478,7 @@
   webapplink: ~
   doi: ~
   google_id: 17ZO-CJnx_8C
-  google_cites: 4
+  google_cites: 5
 - id: Marcone2023
   text: 'Marcone AL, Darmstadt GL, Amsler Challamel G, <u>Mathur MB</u>, Gardner CD.
     Effects of an educational planetary plate graphic on meat consumption in Stanford
@@ -899,7 +899,7 @@
   webapplink: ~
   doi: 10.1016/j.appet.2021.105277
   google_id: E7VqQtBCVmcC
-  google_cites: 76
+  google_cites: 77
 - id: Mathur2021b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2021). Meta-regression methods to characterize
     evidence strength using meaningful-effect percentages conditional on study characteristics.
@@ -933,7 +933,7 @@
   webapplink: ~
   doi: 10.1002/jrsm.1464
   google_id: TGkaJS32XoUC
-  google_cites: 51
+  google_cites: 52
 - id: Errington2021
   text: Errington TM, <u>Mathur MB</u>, Soderberg CK, Denis A, Perfito N, Iorns E,
     Nosek BA. (2021). Investigating the replicability of preclinical cancer biology.
@@ -950,7 +950,7 @@
   webapplink: ~
   doi: 10.7554/eLife.71601
   google_id: rbGdIwl2e6cC
-  google_cites: 217
+  google_cites: 219
 - id: Zhang2021
   text: 'Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov
     M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser
@@ -968,7 +968,7 @@
   webapplink: ~
   doi: 10.1371/journal.pmed.1003731
   google_id: RXiHnyRawswC
-  google_cites: 130
+  google_cites: 131
 - id: Smith2021
   text: 'Smith LH, <u>Mathur MB</u>, VanderWeele TJ (2021). Multiple-bias sensitivity
     analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634.'
@@ -1109,7 +1109,7 @@
   webapplink: ~
   doi: 10.1111/rssa.12572
   google_id: N4u4nq0IxgcC
-  google_cites: 30
+  google_cites: 31
 - id: Mathur2020f
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Robust metrics and sensitivity analyses
     for meta-analyses of heterogeneous effects. <strong>Epidemiology</strong>, 31(3):356-358.
@@ -1299,7 +1299,7 @@
   webapplink: ~
   doi: 10.1214/19-STS728
   google_id: 7Frjd3zlGBUC
-  google_cites: 222
+  google_cites: 224
 - id: VanderWeele2020c
   text: 'VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future
     of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483.'
@@ -1549,7 +1549,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 535
+  google_cites: 537
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1691,7 +1691,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 504
+  google_cites: 505
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1709,7 +1709,7 @@
   webapplink: ~
   doi: 10.1016/j.bbi.2016.02.002
   google_id: WF5omc3nYNoC
-  google_cites: 293
+  google_cites: 295
 - id: Mummah2016
   text: 'Mummah, SA, <u>Mathur MB</u>, King AC, Gardner CD, Sutton S (2016). Mobile
     technology for vegetable consumption: a randomized controlled pilot study in overweight
@@ -1837,7 +1837,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9107
+  google_cites: 9121
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
