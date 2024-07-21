@@ -705,7 +705,7 @@
   webapplink: ~
   doi: 10.1001/jamanetworkopen.2022.2614
   google_id: qsWQJNntlusC
-  google_cites: 8
+  google_cites: 9
 - id: Mathur2022b
   text: <u>Mathur MB</u> (2022). Ethical drawbacks of sustainable meat choices. <strong>Science</strong>,
     375, 6587.
@@ -811,7 +811,7 @@
   webapplink: ~
   doi: 10.3389/fsufs.2022.1001157
   google_id: qCpRzq7zkD8C
-  google_cites: 5
+  google_cites: 6
 - id: Grundy2022
   text: 'Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, Askin H,
     Lee J, Mintoft-Jones A, Cyna S, Dziegielewski A, Gelber R, Rowe A, <u>Mathur MB</u>,
@@ -950,7 +950,7 @@
   webapplink: ~
   doi: 10.7554/eLife.71601
   google_id: rbGdIwl2e6cC
-  google_cites: 223
+  google_cites: 225
 - id: Zhang2021
   text: 'Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov
     M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser
@@ -1075,7 +1075,7 @@
   webapplink: ~
   doi: 10.1016/j.chb.2019.08.029
   google_id: In6cVmBjs0IC
-  google_cites: 84
+  google_cites: 85
 - id: Mathur2020d
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). Sensitivity analysis for publication
     bias in meta-analyses. <strong>Journal of the Royal Statistical Society: Series
@@ -1246,7 +1246,7 @@
   webapplink: ~
   doi: 10.1002/pds.5117
   google_id: aDl3D7KC1E4C
-  google_cites: 30
+  google_cites: 31
 - id: Ebersole2020
   text: 'Ebersole, CA, <u>Mathur MB</u>, Baranski E, Bart-Pange DJ, Buttrick NR, Chartier
     CR, Corker KS, Corley M, Hartshorne JK, Ijzerman H, Lazarevic LB, Rabagliati H,
@@ -1349,7 +1349,7 @@
   webapplink: ~
   doi: 10.1093/ije/dyaa094
   google_id: 3A3nxV7CjKIC
-  google_cites: 89
+  google_cites: 90
 - id: Mathur2019a
   text: <u>Mathur MB</u> & VanderWeele TJ (2019). Finding common ground in meta-analysis
     'wars' on violent video games. <strong>Perspectives on Psychological Science</strong>,
@@ -1366,7 +1366,7 @@
   webapplink: ~
   doi: 10.1177/1745691619850104
   google_id: Y0-TYkg6YM4C
-  google_cites: 110
+  google_cites: 111
 - id: Mathur2019b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2019). Discussion on the meeting on ''Signs
     and sizes: understanding and replicating statistical findings''. <strong>Journal
@@ -1501,7 +1501,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 280
+  google_cites: 285
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1549,7 +1549,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 539
+  google_cites: 544
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1640,7 +1640,7 @@
   webapplink: ~
   doi: 10.22237/jmasm/1493597100
   google_id: nPTYJWkExTIC
-  google_cites: 15
+  google_cites: 16
 - id: Mathur2016a
   text: <u>Mathur MB</u>, Gould M, Khazeni N (2016). Direct-to-consumer drug advertisements
     can paradoxically increase intentions to adopt lifestyle changes. <strong>Frontiers
@@ -1691,7 +1691,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 505
+  google_cites: 506
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1709,7 +1709,7 @@
   webapplink: ~
   doi: 10.1016/j.bbi.2016.02.002
   google_id: WF5omc3nYNoC
-  google_cites: 295
+  google_cites: 296
 - id: Mummah2016
   text: 'Mummah, SA, <u>Mathur MB</u>, King AC, Gardner CD, Sutton S (2016). Mobile
     technology for vegetable consumption: a randomized controlled pilot study in overweight
@@ -1837,7 +1837,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9147
+  google_cites: 9163
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
