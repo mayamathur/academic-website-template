@@ -288,7 +288,7 @@
   webapplink: https://metabias.io/phacking/
   doi: 10.31219/osf.io/ezjsx
   google_id: wBLCggQE-ToC
-  google_cites: 11
+  google_cites: 12
 - id: Mathur2024b
   text: <u>Mathur MB</u> (2024). Assessing robustness to worst case publication bias
     using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851.
@@ -478,7 +478,7 @@
   webapplink: ~
   doi: ~
   google_id: 17ZO-CJnx_8C
-  google_cites: 5
+  google_cites: 6
 - id: Marcone2023
   text: 'Marcone AL, Darmstadt GL, Amsler Challamel G, <u>Mathur MB</u>, Gardner CD.
     Effects of an educational planetary plate graphic on meat consumption in Stanford
@@ -637,7 +637,7 @@
   webapplink: ~
   doi: 10.1037/rel0000441
   google_id: q0uBw5dMOAkC
-  google_cites: 15
+  google_cites: 16
 - id: Mathur2022f
   text: '<u>Mathur MB</u> & VanderWeele TJ (2022). The authors respond: Effects of
     being overweight on mortality are unclear given multiple methodological problems.
@@ -933,7 +933,7 @@
   webapplink: ~
   doi: 10.1002/jrsm.1464
   google_id: TGkaJS32XoUC
-  google_cites: 53
+  google_cites: 55
 - id: Errington2021
   text: Errington TM, <u>Mathur MB</u>, Soderberg CK, Denis A, Perfito N, Iorns E,
     Nosek BA. (2021). Investigating the replicability of preclinical cancer biology.
@@ -968,7 +968,7 @@
   webapplink: ~
   doi: 10.1371/journal.pmed.1003731
   google_id: RXiHnyRawswC
-  google_cites: 135
+  google_cites: 137
 - id: Smith2021
   text: 'Smith LH, <u>Mathur MB</u>, VanderWeele TJ (2021). Multiple-bias sensitivity
     analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634.'
@@ -1057,7 +1057,7 @@
   webapplink: https://www.evalue-calculator.com/meta/
   doi: 10.1080/01621459.2018.1529598
   google_id: n3vGvpFsckwC
-  google_cites: 100
+  google_cites: 101
 - id: Mathur2020c
   text: '<u>Mathur MB</u>, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten
     PAM, Levitan CA, Nave G, Manfredi D, Bessette-Symons B, Szuts A, Aczel B (2020).
@@ -1125,7 +1125,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001180
   google_id: ifOnle78iJkC
-  google_cites: 38
+  google_cites: 39
 - id: Mathur2020g
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Evidence relating health care provider
     burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18.
@@ -1246,7 +1246,7 @@
   webapplink: ~
   doi: 10.1002/pds.5117
   google_id: aDl3D7KC1E4C
-  google_cites: 31
+  google_cites: 33
 - id: Ebersole2020
   text: 'Ebersole, CA, <u>Mathur MB</u>, Baranski E, Bart-Pange DJ, Buttrick NR, Chartier
     CR, Corker KS, Corley M, Hartshorne JK, Ijzerman H, Lazarevic LB, Rabagliati H,
@@ -1299,7 +1299,7 @@
   webapplink: ~
   doi: 10.1214/19-STS728
   google_id: 7Frjd3zlGBUC
-  google_cites: 231
+  google_cites: 232
 - id: VanderWeele2020c
   text: 'VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future
     of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483.'
@@ -1366,7 +1366,7 @@
   webapplink: ~
   doi: 10.1177/1745691619850104
   google_id: Y0-TYkg6YM4C
-  google_cites: 114
+  google_cites: 113
 - id: Mathur2019b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2019). Discussion on the meeting on ''Signs
     and sizes: understanding and replicating statistical findings''. <strong>Journal
@@ -1501,7 +1501,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 297
+  google_cites: 300
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1549,7 +1549,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 550
+  google_cites: 553
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1568,7 +1568,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 304
+  google_cites: 306
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto
     T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez
@@ -1691,7 +1691,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 513
+  google_cites: 514
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1837,7 +1837,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9207
+  google_cites: 9222
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
