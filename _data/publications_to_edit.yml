@@ -197,21 +197,6 @@
   doi: 
   google_id: 
 #
-- id: Kurniati2024
-  text: "Kurniati NMT, Cowden RG, Zulkaida A, Gunatirin EY, Rahardjo W, Elizabeth MP, Suryani AI, Cynthia T, Rini QK, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington EL. A randomized controlled trial of a brief self-directed secular REACH forgiveness intervention with Indonesian Christians: Does religiousness matter? <strong>Spirituality in Clinical Practice.</strong>"
-  year: 2024
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: 
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
 - id: Zhao2024
   text: "Zhao D, Cheng S, Tsui R, <u>Mathur MB</u>, Wang CJ. Risk of aircraft-acquired COVID-19 transmission during commercial flights: A systematic review. <strong>International Journal of Environmental Research and Public Health.</strong>"
   year: 2024
@@ -289,6 +274,21 @@
   webapplink: 
   doi: "10.1002/jrsm.1667"
   google_id: "u3T1itk59dMC"
+#
+- id: Kurniati2024
+  text: "Kurniati NMT, Cowden RG, Zulkaida A, Gunatirin EY, Rahardjo W, Elizabeth MP, Suryani AI, Cynthia T, Rini QK, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington EL. A randomized controlled trial of a brief self-directed secular REACH forgiveness intervention with Indonesian Christians: Does religiousness matter? <strong>Spirituality in Clinical Practice,</strong> 11(3), 297-314."
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://psycnet.apa.org/record/2025-19554-008"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1037/scp0000374"
+  google_id: "GJVTs2krol4C"
 #
 - id: Zettersten2024
   text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (2024). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind,</strong> 8, 439-461."

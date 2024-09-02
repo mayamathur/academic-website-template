@@ -220,25 +220,6 @@
   doi: ~
   google_id: ~
   google_cites: ~
-- id: Kurniati2024
-  text: 'Kurniati NMT, Cowden RG, Zulkaida A, Gunatirin EY, Rahardjo W, Elizabeth
-    MP, Suryani AI, Cynthia T, Rini QK, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington
-    EL. A randomized controlled trial of a brief self-directed secular REACH forgiveness
-    intervention with Indonesian Christians: Does religiousness matter? <strong>Spirituality
-    in Clinical Practice.</strong>'
-  year: 2024
-  type: empirical
-  authorship: middle
-  status: inpress
-  preprint: ~
-  datarepo: ~
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
 - id: Zhao2024
   text: 'Zhao D, Cheng S, Tsui R, <u>Mathur MB</u>, Wang CJ. Risk of aircraft-acquired
     COVID-19 transmission during commercial flights: A systematic review. <strong>International
@@ -322,6 +303,25 @@
   doi: 10.1002/jrsm.1667
   google_id: u3T1itk59dMC
   google_cites: 1
+- id: Kurniati2024
+  text: 'Kurniati NMT, Cowden RG, Zulkaida A, Gunatirin EY, Rahardjo W, Elizabeth
+    MP, Suryani AI, Cynthia T, Rini QK, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington
+    EL. A randomized controlled trial of a brief self-directed secular REACH forgiveness
+    intervention with Indonesian Christians: Does religiousness matter? <strong>Spirituality
+    in Clinical Practice,</strong> 11(3), 297-314.'
+  year: 2024
+  type: empirical
+  authorship: middle
+  status: published
+  preprint: https://psycnet.apa.org/record/2025-19554-008
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: 10.1037/scp0000374
+  google_id: GJVTs2krol4C
+  google_cites: 0
 - id: Zettersten2024
   text: Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall
     RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black
@@ -359,7 +359,7 @@
   webapplink: ~
   doi: https://doi.org/10.31219/osf.io/8qzgw
   google_id: j5aT6aphRxQC
-  google_cites: 7
+  google_cites: 8
 - id: Bechara2024
   text: Bechara AO, Chen ZJ, Cowden RG, Worthington EL, Toussaint L, Rodriguez N,
     Murillo HG, Ho MY, <u>Mathur MB</u>, VanderWeele TJ (2024). Do forgiveness campaign
@@ -637,7 +637,7 @@
   webapplink: ~
   doi: 10.1037/rel0000441
   google_id: q0uBw5dMOAkC
-  google_cites: 16
+  google_cites: 18
 - id: Mathur2022f
   text: '<u>Mathur MB</u> & VanderWeele TJ (2022). The authors respond: Effects of
     being overweight on mortality are unclear given multiple methodological problems.
@@ -899,7 +899,7 @@
   webapplink: ~
   doi: 10.1016/j.appet.2021.105277
   google_id: E7VqQtBCVmcC
-  google_cites: 79
+  google_cites: 80
 - id: Mathur2021b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2021). Meta-regression methods to characterize
     evidence strength using meaningful-effect percentages conditional on study characteristics.
@@ -1726,7 +1726,7 @@
   webapplink: ~
   doi: 10.2196/mhealth.5146
   google_id: roLk4NBRz8UC
-  google_cites: 98
+  google_cites: 99
 - id: Charytan2016
   text: 'Charytan DM, Desai M, <u>Mathur MB</u>, Stern NM, Brooks MM, Krzych LJ, Schuler
     GC, Kaehler J, Rodriguez-Granillo AM, Hueb W, Reeves BC, Thiele H, Rodriguez AE,
@@ -1837,7 +1837,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9286
+  google_cites: 9287
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
