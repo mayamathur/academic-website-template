@@ -31,21 +31,6 @@
   google_id: 
 #
 - id: Mathur2023e
-  text: "<u>Mathur MB</u> (under review). Meta-analysis with Jeffreys priors: Empirical frequentist properties."
-  year: 2023
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/7jvrw/"
-  datarepo: "https://osf.io/9qfah/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-- id: Mathur2023e
   text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ (under review). A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment."
   year: 2023
   type: "methods"
@@ -137,8 +122,23 @@
 #
 # --------------------------- In press ---------------------------
 #
+- id: Mathur2023e
+  text: "<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist properties. <strong>Research Synthesis Methods.</strong>"
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/7jvrw/"
+  datarepo: "https://osf.io/9qfah/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Mathur2024c
-  text: "<u>Mathur MB</u>, Shpitser I. Mathur and Shpitser respond to 'The evolution of selection bias in the recent epidemiologic literature – a selective overview'. <strong>American Journal of Epidemiology.</strong>"
+  text: "<u>Mathur MB</u> & Shpitser I. Mathur and Shpitser respond to 'The evolution of selection bias in the recent epidemiologic literature – a selective overview'. <strong>American Journal of Epidemiology.</strong>"
   year: 2024
   type: "methods"
   authorship: "first"
@@ -185,7 +185,7 @@
 # --------------------------- 2024 ---------------------------
 #
 - id: Mathur2024d
-  text: "<u>Mathur MB</u>, Mathur VS (2024). Toward evidence-based communication on overweight body mass index and mortality. <strong>BMC Medicine,</strong> 22(1):183."
+  text: "<u>Mathur MB</u> & Mathur VS (2024). Toward evidence-based communication on overweight body mass index and mortality. <strong>BMC Medicine,</strong> 22(1):183."
   year: 2024
   type: "empirical"
   authorship: "first"
