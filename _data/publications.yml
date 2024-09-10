@@ -30,23 +30,6 @@
   doi: ~
   google_id: ~
   google_cites: ~
-- id: Mathur2023e
-  text: <u>Mathur MB</u>, Shpitser I, VanderWeele TJ (under review). A common-cause
-    principle for eliminating selection bias in causal estimands through covariate
-    adjustment.
-  year: 2023
-  type: methods
-  authorship: first
-  status: inprep
-  preprint: https://osf.io/ths4e/
-  datarepo: https://osf.io/crxyw/
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: 10.31219/osf.io/ths4e
-  google_id: ~
-  google_cites: ~
 - id: Thomas2024
   text: Thomas AT, Hope J, <u>Mathur MB</u> (under review). Documentary films can
     increase nationwide interest in plant-based food.
@@ -134,6 +117,23 @@
   doi: ~
   google_id: ~
   google_cites: ~
+- id: Mathur2023e
+  text: <u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for
+    eliminating selection bias in causal estimands through covariate adjustment. <strong>Annals
+    of Statistics.</strong>
+  year: 2023
+  type: methods
+  authorship: first
+  status: inpress
+  preprint: https://osf.io/ths4e/
+  datarepo: https://osf.io/crxyw/
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: 10.31219/osf.io/ths4e
+  google_id: c1AJUTjuCtUC
+  google_cites: 5
 - id: Mathur2023e
   text: '<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist
     properties. <strong>Research Synthesis Methods.</strong>'
@@ -444,7 +444,7 @@
   webapplink: ~
   doi: 10.1073/pnas.2219555120
   google_id: yJjnfzR0HrkC
-  google_cites: 9
+  google_cites: 10
 - id: Mathur2023c
   text: <u>Mathur MB</u> & VanderWeele TJ (2023). New metrics for multiple testing
     with correlated outcomes. <strong>Frontiers in Applied Mathematics and Statistics,</strong>
@@ -637,7 +637,7 @@
   webapplink: ~
   doi: 10.1037/rel0000441
   google_id: q0uBw5dMOAkC
-  google_cites: 18
+  google_cites: 19
 - id: Mathur2022f
   text: '<u>Mathur MB</u> & VanderWeele TJ (2022). The authors respond: Effects of
     being overweight on mortality are unclear given multiple methodological problems.
@@ -968,7 +968,7 @@
   webapplink: ~
   doi: 10.1371/journal.pmed.1003731
   google_id: RXiHnyRawswC
-  google_cites: 142
+  google_cites: 143
 - id: Smith2021
   text: 'Smith LH, <u>Mathur MB</u>, VanderWeele TJ (2021). Multiple-bias sensitivity
     analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634.'
@@ -1092,7 +1092,7 @@
   webapplink: ~
   doi: 10.1111/rssc.12440
   google_id: L24QuVWYgZ0C
-  google_cites: 178
+  google_cites: 177
 - id: Mathur2020e
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). New statistical metrics for multisite
     replication projects. <strong>Journal of the Royal Statistical Society: Series
@@ -1366,7 +1366,7 @@
   webapplink: ~
   doi: 10.1177/1745691619850104
   google_id: Y0-TYkg6YM4C
-  google_cites: 118
+  google_cites: 117
 - id: Mathur2019b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2019). Discussion on the meeting on ''Signs
     and sizes: understanding and replicating statistical findings''. <strong>Journal
@@ -1501,7 +1501,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 304
+  google_cites: 305
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1549,7 +1549,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 556
+  google_cites: 557
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1568,7 +1568,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 309
+  google_cites: 310
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto
     T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez
@@ -1587,7 +1587,7 @@
   webapplink: ~
   doi: 10.1158/1078-0432.CCR-17-1323
   google_id: orDZ08hpP44C
-  google_cites: 83
+  google_cites: 84
 - id: Boehm2018
   text: Boehm JK, Chen Y, Koga H, <u>Mathur MB</u>, Vie LL, Kubzansky LD (2018). Is
     optimism associated with healthier cardiovascular-related behavior? Meta-analyses
@@ -1604,7 +1604,7 @@
   webapplink: ~
   doi: 10.1161/CIRCRESAHA.117.310828
   google_id: _tF6a-HnqWAC
-  google_cites: 159
+  google_cites: 160
 - id: Mummah2017
   text: 'Mummah S, Robinson TN, <u>Mathur MB</u>, Farzinkhou S, Sutton S, Gardner
     CD (2017). Effect of a mobile app intervention on vegetable consumption in overweight
