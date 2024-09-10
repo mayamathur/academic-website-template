@@ -1,7 +1,23 @@
-- id: Mathur2024a
-  text: '<u>Mathur MB</u> (under review).  On the statistical analysis of studies
-    with attention checks. '
-  year: 2023
+- id: Mathur2024c
+  text: '<u>Mathur MB</u> & Shpitser I (under review). Imputation without nightMARs:
+    Graphical criteria for valid imputation of missing data.'
+  year: 2024
+  type: methods
+  authorship: first
+  status: inprep
+  preprint: https://osf.io/preprints/osf/zqne9/
+  datarepo: https://osf.io/27aue/
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
+- id: Mathur2024b
+  text: <u>Mathur MB</u> (under review).  On the statistical analysis of studies with
+    attention checks.
+  year: 2024
   type: methods
   authorship: first
   status: inprep
@@ -17,7 +33,7 @@
 - id: Mathur2024a
   text: <u>Mathur MB</u> (under review). On the statistical analysis of experiments
     with manipulation checks.
-  year: 2023
+  year: 2024
   type: methods
   authorship: first
   status: inprep
