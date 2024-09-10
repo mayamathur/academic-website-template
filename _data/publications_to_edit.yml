@@ -30,21 +30,6 @@
   doi: 
   google_id: 
 #
-- id: Mathur2023e
-  text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ (under review). A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment."
-  year: 2023
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/ths4e/"
-  datarepo: "https://osf.io/crxyw/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.31219/osf.io/ths4e"
-  google_id: 
-# 
 - id: Thomas2024
   text: "Thomas AT, Hope J, <u>Mathur MB</u> (under review). Documentary films can increase nationwide interest in plant-based food."
   year: 2024
@@ -122,6 +107,21 @@
 #
 # --------------------------- In press ---------------------------
 #
+- id: Mathur2023e
+  text: "<u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment. <strong>Annals of Statistics.</strong>"
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/ths4e/"
+  datarepo: "https://osf.io/crxyw/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/ths4e"
+  google_id: "c1AJUTjuCtUC"
+# 
 - id: Mathur2023e
   text: "<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist properties. <strong>Research Synthesis Methods.</strong>"
   year: 2023
