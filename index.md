@@ -23,8 +23,8 @@ Maya Mathur is an Assistant Professor at Stanford University's [Quantitative Sci
 - [CV](https://www.dropbox.com/scl/fi/4akg39cxorep5d005n1dr/Mathur-CV-for-website.pdf?rlkey=jw6yg4j0f5huht40q8r2jdevv&dl=0)
 - [Google Scholar profile](https://scholar.google.com/citations?user=vmuNN1sAAAAJ&hl=en)
 - [Open-science repositories with replication data, code, and materials](https://osf.io/e9tg8/)
-- [Selected slide decks](https://osf.io/x7zgu/)
-- [Selected slide talks](https://www.youtube.com/playlist?list=PL518lxDNEhwMxYdl2N8Ip_FMsqC_0TW8F) 
+- [Some slide decks](https://osf.io/x7zgu/)
+- [Some talks](https://www.youtube.com/playlist?list=PL518lxDNEhwMxYdl2N8Ip_FMsqC_0TW8F) 
 
 ### Research interests
 - Meta-analysis
