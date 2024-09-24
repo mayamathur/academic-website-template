@@ -1,3 +1,19 @@
+- id: Mathur2024d
+  text: '<u>Mathur MB</u>, Shpitser I, VanderWeele TJ (under review). Resurrecting
+    complete-case analysis: A defense.'
+  year: 2024
+  type: methods
+  authorship: first
+  status: inprep
+  preprint: https://osf.io/preprints/osf/f9jvz/
+  datarepo: https://osf.io/crxyw/
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
 - id: Mathur2024c
   text: '<u>Mathur MB</u> & Shpitser I (under review). Imputation without nightMARs:
     Graphical criteria for valid imputation of missing data.'
