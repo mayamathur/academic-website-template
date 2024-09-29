@@ -409,7 +409,7 @@
   webapplink: ~
   doi: https://doi.org/10.31219/osf.io/8qzgw
   google_id: j5aT6aphRxQC
-  google_cites: 11
+  google_cites: 12
 - id: Bechara2024
   text: Bechara AO, Chen ZJ, Cowden RG, Worthington EL, Toussaint L, Rodriguez N,
     Murillo HG, Ho MY, <u>Mathur MB</u>, VanderWeele TJ (2024). Do forgiveness campaign
@@ -443,7 +443,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwad007
   google_id: l6Q3WhenKVUC
-  google_cites: 12
+  google_cites: 13
 - id: Mathur2023f
   text: <u>Mathur MB</u> & Mathur VS (2023). Primary care physicians' perceptions
     of the effects of being overweight on all-cause mortality. <strong>Epidemiology</strong>,
@@ -738,7 +738,7 @@
   webapplink: ~
   doi: 10.1146/annurev-publhealth-051920-114020
   google_id: uUvzmPk0f8oC
-  google_cites: 55
+  google_cites: 56
 - id: Mathur2022c
   text: <u>Mathur MB</u> & VanderWeele TJ (2022). Assessing uncontrolled confounding
     in associations of being overweight with all-cause mortality. <strong>JAMA Network
@@ -880,7 +880,7 @@
   webapplink: ~
   doi: 10.17605/OSF.IO/S4BZ3
   google_id: 8VtEwCQfWZkC
-  google_cites: 30
+  google_cites: 31
 - id: Maier2022
   text: 'Maier M, VanderWeele TJ, <u>Mathur MB</u> (2022). Using selection models
     to assess sensitivity to publication bias: A tutorial and call for more routine
@@ -949,7 +949,7 @@
   webapplink: ~
   doi: 10.1016/j.appet.2021.105277
   google_id: E7VqQtBCVmcC
-  google_cites: 81
+  google_cites: 82
 - id: Mathur2021b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2021). Meta-regression methods to characterize
     evidence strength using meaningful-effect percentages conditional on study characteristics.
@@ -1000,7 +1000,7 @@
   webapplink: ~
   doi: 10.7554/eLife.71601
   google_id: rbGdIwl2e6cC
-  google_cites: 241
+  google_cites: 244
 - id: Zhang2021
   text: 'Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov
     M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser
@@ -1018,7 +1018,7 @@
   webapplink: ~
   doi: 10.1371/journal.pmed.1003731
   google_id: RXiHnyRawswC
-  google_cites: 145
+  google_cites: 146
 - id: Smith2021
   text: 'Smith LH, <u>Mathur MB</u>, VanderWeele TJ (2021). Multiple-bias sensitivity
     analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634.'
@@ -1107,7 +1107,7 @@
   webapplink: https://www.evalue-calculator.com/meta/
   doi: 10.1080/01621459.2018.1529598
   google_id: n3vGvpFsckwC
-  google_cites: 105
+  google_cites: 106
 - id: Mathur2020c
   text: '<u>Mathur MB</u>, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten
     PAM, Levitan CA, Nave G, Manfredi D, Bessette-Symons B, Szuts A, Aczel B (2020).
@@ -1175,7 +1175,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001180
   google_id: ifOnle78iJkC
-  google_cites: 39
+  google_cites: 41
 - id: Mathur2020g
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Evidence relating health care provider
     burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18.
@@ -1296,7 +1296,7 @@
   webapplink: ~
   doi: 10.1002/pds.5117
   google_id: aDl3D7KC1E4C
-  google_cites: 33
+  google_cites: 34
 - id: Ebersole2020
   text: 'Ebersole, CA, <u>Mathur MB</u>, Baranski E, Bart-Pange DJ, Buttrick NR, Chartier
     CR, Corker KS, Corley M, Hartshorne JK, Ijzerman H, Lazarevic LB, Rabagliati H,
@@ -1349,7 +1349,7 @@
   webapplink: ~
   doi: 10.1214/19-STS728
   google_id: 7Frjd3zlGBUC
-  google_cites: 240
+  google_cites: 242
 - id: VanderWeele2020c
   text: 'VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future
     of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483.'
@@ -1416,7 +1416,7 @@
   webapplink: ~
   doi: 10.1177/1745691619850104
   google_id: Y0-TYkg6YM4C
-  google_cites: 118
+  google_cites: 119
 - id: Mathur2019b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2019). Discussion on the meeting on ''Signs
     and sizes: understanding and replicating statistical findings''. <strong>Journal
@@ -1483,7 +1483,7 @@
   webapplink: ~
   doi: 110.1002/sim.8057
   google_id: QoJ_w57xiyAC
-  google_cites: 55
+  google_cites: 56
 - id: VanderWeele2019a
   text: VanderWeele TJ, Ding P, <u>Mathur MB</u> (2019). Technical considerations
     in the use of the E-value. <strong>Journal of Causal Inference</strong>, 7(2).
@@ -1551,7 +1551,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 307
+  google_cites: 312
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1567,7 +1567,7 @@
   webapplink: ~
   doi: 10.7326/M18-3112
   google_id: rCNdntzdTkkC
-  google_cites: 50
+  google_cites: 51
 - id: Mathur2018a
   text: <u>Mathur MB</u> & VanderWeele TJ (2018). R function for additive interaction
     measures. <strong>Epidemiology</strong>, 29(1), e5-e6.
@@ -1599,7 +1599,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 566
+  google_cites: 568
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1654,7 +1654,7 @@
   webapplink: ~
   doi: 10.1161/CIRCRESAHA.117.310828
   google_id: _tF6a-HnqWAC
-  google_cites: 160
+  google_cites: 161
 - id: Mummah2017
   text: 'Mummah S, Robinson TN, <u>Mathur MB</u>, Farzinkhou S, Sutton S, Gardner
     CD (2017). Effect of a mobile app intervention on vegetable consumption in overweight
@@ -1759,7 +1759,7 @@
   webapplink: ~
   doi: 10.1016/j.bbi.2016.02.002
   google_id: WF5omc3nYNoC
-  google_cites: 299
+  google_cites: 300
 - id: Mummah2016
   text: 'Mummah, SA, <u>Mathur MB</u>, King AC, Gardner CD, Sutton S (2016). Mobile
     technology for vegetable consumption: a randomized controlled pilot study in overweight
@@ -1887,7 +1887,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9331
+  google_cites: 9354
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
