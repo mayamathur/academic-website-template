@@ -409,7 +409,7 @@
   webapplink: ~
   doi: https://doi.org/10.31219/osf.io/8qzgw
   google_id: j5aT6aphRxQC
-  google_cites: 12
+  google_cites: 14
 - id: Bechara2024
   text: Bechara AO, Chen ZJ, Cowden RG, Worthington EL, Toussaint L, Rodriguez N,
     Murillo HG, Ho MY, <u>Mathur MB</u>, VanderWeele TJ (2024). Do forgiveness campaign
@@ -949,7 +949,7 @@
   webapplink: ~
   doi: 10.1016/j.appet.2021.105277
   google_id: E7VqQtBCVmcC
-  google_cites: 82
+  google_cites: 81
 - id: Mathur2021b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2021). Meta-regression methods to characterize
     evidence strength using meaningful-effect percentages conditional on study characteristics.
@@ -1416,7 +1416,7 @@
   webapplink: ~
   doi: 10.1177/1745691619850104
   google_id: Y0-TYkg6YM4C
-  google_cites: 119
+  google_cites: 120
 - id: Mathur2019b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2019). Discussion on the meeting on ''Signs
     and sizes: understanding and replicating statistical findings''. <strong>Journal
@@ -1599,7 +1599,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 568
+  google_cites: 569
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1618,7 +1618,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 314
+  google_cites: 313
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto
     T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez
@@ -1887,7 +1887,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9357
+  google_cites: 9359
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
