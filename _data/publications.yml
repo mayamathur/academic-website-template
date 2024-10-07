@@ -200,6 +200,23 @@
   doi: ~
   google_id: ~
   google_cites: ~
+- id: Zhang2024
+  text: Zhang G, Tynelius P, <u>Mathur MB</u>, Quartagno M, Branden G, Lijeros F,
+    Kosidou K. Population trends and individual fluidity of sexual identity in Stockholm
+    County, 2010 to 2021. <strong>JAMA Network Open.</strong>
+  year: 2024
+  type: empirical
+  authorship: middle
+  status: inpress
+  preprint: ~
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
 - id: Li2024
   text: 'Li LZ, Yang P, Singer SJ, Pfeffer J, <u>Mathur MB</u>, Shanafelt T. Nurse
     burnout and patient safety, satisfaction, and quality of care: A meta-analysis.
