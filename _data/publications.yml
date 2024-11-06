@@ -216,23 +216,6 @@
   doi: ~
   google_id: ~
   google_cites: ~
-- id: Li2024
-  text: 'Li LZ, Yang P, Singer SJ, Pfeffer J, <u>Mathur MB</u>, Shanafelt T. Nurse
-    burnout and patient safety, satisfaction, and quality of care: A meta-analysis.
-    <strong>JAMA Network Open.</strong>'
-  year: 2024
-  type: empirical
-  authorship: middle
-  status: inpress
-  preprint: ~
-  datarepo: ~
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
 - id: Panda2024
   text: 'Panda P, Deng Y, Frang A, Ward V, Wang E, Newberry J, <u>Mathur MB</u>, Patel
     A. Increased emergency department identification of youth experiencing trafficking
@@ -300,7 +283,7 @@
   webapplink: https://metabias.io/phacking/
   doi: 10.31219/osf.io/ezjsx
   google_id: wBLCggQE-ToC
-  google_cites: 14
+  google_cites: 13
 - id: Mathur2024b
   text: <u>Mathur MB</u> (2024). Assessing robustness to worst case publication bias
     using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851.
@@ -334,6 +317,23 @@
   doi: 10.1002/jrsm.1667
   google_id: u3T1itk59dMC
   google_cites: 1
+- id: Li2024
+  text: 'Li LZ, Yang P, Singer SJ, Pfeffer J, <u>Mathur MB</u>, Shanafelt T. Nurse
+    burnout and patient safety, satisfaction, and quality of care: A meta-analysis.
+    <strong>JAMA Network Open,</strong> 7(11):e2443059.'
+  year: 2024
+  type: empirical
+  authorship: middle
+  status: published
+  preprint: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825639
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: 10.1001/jamanetworkopen.2024.43059
+  google_id: ~
+  google_cites: ~
 - id: Bane2024
   text: 'Bane S, Carmichael S, <u>Mathur MB</u>, Simard J (2024). Considering pregnancies
     as repeated versus independent events: An empirical comparison of common approaches
@@ -649,7 +649,7 @@
   webapplink: ~
   doi: 10.1177/08465371221139418
   google_id: AFmTUeZ1pmEC
-  google_cites: 4
+  google_cites: 5
 - id: Hunt2023
   text: Hunt IJ, Cai ZR, Nava V, Admassu NE, Bousheri S, Johnson T, Tomz A, Thompson
     J, Zhang L, Pagato S, Wehner MR, <u>Mathur MB</u>, Linos E. A social media-based
@@ -684,7 +684,7 @@
   webapplink: ~
   doi: 10.1016/j.gloepi.2023.100099
   google_id: X5YyAB84Iw4C
-  google_cites: 13
+  google_cites: 14
 - id: Voytenko2023
   text: 'Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO,
     Joynt S, Kocum M, Korkhov M, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington
@@ -965,7 +965,7 @@
   webapplink: ~
   doi: 10.1016/j.appet.2021.105277
   google_id: E7VqQtBCVmcC
-  google_cites: 86
+  google_cites: 85
 - id: Mathur2021b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2021). Meta-regression methods to characterize
     evidence strength using meaningful-effect percentages conditional on study characteristics.
@@ -1016,7 +1016,7 @@
   webapplink: ~
   doi: 10.7554/eLife.71601
   google_id: rbGdIwl2e6cC
-  google_cites: 250
+  google_cites: 251
 - id: Zhang2021
   text: 'Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov
     M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser
@@ -1158,7 +1158,7 @@
   webapplink: ~
   doi: 10.1111/rssc.12440
   google_id: L24QuVWYgZ0C
-  google_cites: 193
+  google_cites: 194
 - id: Mathur2020e
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). New statistical metrics for multisite
     replication projects. <strong>Journal of the Royal Statistical Society: Series
@@ -1191,7 +1191,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001180
   google_id: ifOnle78iJkC
-  google_cites: 42
+  google_cites: 43
 - id: Mathur2020g
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Evidence relating health care provider
     burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18.
@@ -1432,7 +1432,7 @@
   webapplink: ~
   doi: 10.1177/1745691619850104
   google_id: Y0-TYkg6YM4C
-  google_cites: 121
+  google_cites: 122
 - id: Mathur2019b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2019). Discussion on the meeting on ''Signs
     and sizes: understanding and replicating statistical findings''. <strong>Journal
@@ -1567,7 +1567,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 315
+  google_cites: 316
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1615,7 +1615,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 576
+  google_cites: 578
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1757,7 +1757,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 531
+  google_cites: 532
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1903,7 +1903,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9449
+  google_cites: 9457
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
