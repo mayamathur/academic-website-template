@@ -1,5 +1,20 @@
 # --------------------------- In preparation ---------------------------
 #
+- id: Mathur2024e
+  text: "<u>Mathur MB</u> & Shpitser I (under review). Pitfalls of imputing using incomplete auxiliary variables."
+  year: 2024
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/osf/c3zrh/"
+  datarepo: "https://osf.io/8pk7t/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Mathur2024d
   text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ (under review). Resurrecting complete-case analysis: A defense."
   year: 2024
