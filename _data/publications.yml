@@ -180,7 +180,7 @@
   webapplink: ~
   doi: 10.31219/osf.io/ths4e
   google_id: c1AJUTjuCtUC
-  google_cites: 5
+  google_cites: 6
 - id: Mathur2023e
   text: '<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist
     properties. <strong>Research Synthesis Methods.</strong>'
@@ -576,7 +576,7 @@
   webapplink: ~
   doi: ~
   google_id: 17ZO-CJnx_8C
-  google_cites: 9
+  google_cites: 10
 - id: Marcone2023
   text: 'Marcone AL, Darmstadt GL, Amsler Challamel G, <u>Mathur MB</u>, Gardner CD.
     Effects of an educational planetary plate graphic on meat consumption in Stanford
@@ -769,7 +769,7 @@
   webapplink: http://www.evalue-calculator.com
   doi: 10.1093/ije/dyac073
   google_id: QaSi33NTfwYC
-  google_cites: 13
+  google_cites: 14
 - id: Mathur2022d
   text: '<u>Mathur MB</u> & VanderWeele TJ (2022). Methods to address confounding
     and other biases in meta-analyses: Review and recommendations. <strong>Annual
@@ -803,7 +803,7 @@
   webapplink: ~
   doi: 10.1001/jamanetworkopen.2022.2614
   google_id: qsWQJNntlusC
-  google_cites: 9
+  google_cites: 10
 - id: Mathur2022b
   text: <u>Mathur MB</u> (2022). Ethical drawbacks of sustainable meat choices. <strong>Science</strong>,
     375, 6587.
@@ -928,7 +928,7 @@
   webapplink: ~
   doi: 10.17605/OSF.IO/S4BZ3
   google_id: 8VtEwCQfWZkC
-  google_cites: 34
+  google_cites: 36
 - id: Maier2022
   text: 'Maier M, VanderWeele TJ, <u>Mathur MB</u> (2022). Using selection models
     to assess sensitivity to publication bias: A tutorial and call for more routine
@@ -997,7 +997,7 @@
   webapplink: ~
   doi: 10.1016/j.appet.2021.105277
   google_id: E7VqQtBCVmcC
-  google_cites: 87
+  google_cites: 88
 - id: Mathur2021b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2021). Meta-regression methods to characterize
     evidence strength using meaningful-effect percentages conditional on study characteristics.
@@ -1048,7 +1048,7 @@
   webapplink: ~
   doi: 10.7554/eLife.71601
   google_id: rbGdIwl2e6cC
-  google_cites: 255
+  google_cites: 257
 - id: Zhang2021
   text: 'Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov
     M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser
@@ -1066,7 +1066,7 @@
   webapplink: ~
   doi: 10.1371/journal.pmed.1003731
   google_id: RXiHnyRawswC
-  google_cites: 151
+  google_cites: 152
 - id: Smith2021
   text: 'Smith LH, <u>Mathur MB</u>, VanderWeele TJ (2021). Multiple-bias sensitivity
     analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634.'
@@ -1082,7 +1082,7 @@
   webapplink: ~
   doi: ~
   google_id: kUhpeDhEZMUC
-  google_cites: 31
+  google_cites: 32
 - id: Lo2021
   text: 'Lo RM, Purington N, McGhee SA, <u>Mathur MB</u>, Shaw GM, Schroeder AR (2021).
     Infant allergy testing and food allergy diagnoses before and after guidelines
@@ -1155,7 +1155,7 @@
   webapplink: https://www.evalue-calculator.com/meta/
   doi: 10.1080/01621459.2018.1529598
   google_id: n3vGvpFsckwC
-  google_cites: 110
+  google_cites: 115
 - id: Mathur2020c
   text: '<u>Mathur MB</u>, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten
     PAM, Levitan CA, Nave G, Manfredi D, Bessette-Symons B, Szuts A, Aczel B (2020).
@@ -1173,7 +1173,7 @@
   webapplink: ~
   doi: 10.1016/j.chb.2019.08.029
   google_id: In6cVmBjs0IC
-  google_cites: 89
+  google_cites: 91
 - id: Mathur2020d
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). Sensitivity analysis for publication
     bias in meta-analyses. <strong>Journal of the Royal Statistical Society: Series
@@ -1190,7 +1190,7 @@
   webapplink: ~
   doi: 10.1111/rssc.12440
   google_id: L24QuVWYgZ0C
-  google_cites: 200
+  google_cites: 207
 - id: Mathur2020e
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). New statistical metrics for multisite
     replication projects. <strong>Journal of the Royal Statistical Society: Series
@@ -1207,7 +1207,7 @@
   webapplink: ~
   doi: 10.1111/rssa.12572
   google_id: N4u4nq0IxgcC
-  google_cites: 31
+  google_cites: 32
 - id: Mathur2020f
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Robust metrics and sensitivity analyses
     for meta-analyses of heterogeneous effects. <strong>Epidemiology</strong>, 31(3):356-358.
@@ -1223,7 +1223,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001180
   google_id: ifOnle78iJkC
-  google_cites: 45
+  google_cites: 46
 - id: Mathur2020g
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Evidence relating health care provider
     burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18.
@@ -1344,7 +1344,7 @@
   webapplink: ~
   doi: 10.1002/pds.5117
   google_id: aDl3D7KC1E4C
-  google_cites: 35
+  google_cites: 36
 - id: Ebersole2020
   text: 'Ebersole, CA, <u>Mathur MB</u>, Baranski E, Bart-Pange DJ, Buttrick NR, Chartier
     CR, Corker KS, Corley M, Hartshorne JK, Ijzerman H, Lazarevic LB, Rabagliati H,
@@ -1397,7 +1397,7 @@
   webapplink: ~
   doi: 10.1214/19-STS728
   google_id: 7Frjd3zlGBUC
-  google_cites: 254
+  google_cites: 255
 - id: VanderWeele2020c
   text: 'VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future
     of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483.'
@@ -1430,7 +1430,7 @@
   webapplink: ~
   doi: 10.1177/1536867X20909696
   google_id: Vno172sVVMwC
-  google_cites: 143
+  google_cites: 144
 - id: VanderWeele2020d
   text: 'VanderWeele TJ & <u>Mathur MB</u> (2020). Commentary: Developing best-practice
     guidelines for the reporting of the E-value. <strong>International Journal of
@@ -1464,7 +1464,7 @@
   webapplink: ~
   doi: 10.1177/1745691619850104
   google_id: Y0-TYkg6YM4C
-  google_cites: 123
+  google_cites: 124
 - id: Mathur2019b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2019). Discussion on the meeting on ''Signs
     and sizes: understanding and replicating statistical findings''. <strong>Journal
@@ -1498,7 +1498,7 @@
   webapplink: ~
   doi: 10.1037/met0000223
   google_id: I8rxH6phXEkC
-  google_cites: 16
+  google_cites: 17
 - id: Mathur2019e
   text: <u>Mathur MB</u> & Reichling DB (2019). Open-source software for mouse-tracking
     in Qualtrics to measure category competition. <strong>Behavior Research Methods</strong>,
@@ -1515,7 +1515,7 @@
   webapplink: https://osf.io/st2ef/
   doi: 10.3758/s13428-019-01258-6
   google_id: W2uZP3ddy8sC
-  google_cites: 56
+  google_cites: 57
 - id: Mathur2019f
   text: <u>Mathur MB</u> & VanderWeele TJ (2019). New metrics for meta-analyses of
     heterogeneous effects. <strong>Statistics in Medicine</strong>, 38(8):1336-1342.
@@ -1531,7 +1531,7 @@
   webapplink: ~
   doi: 110.1002/sim.8057
   google_id: QoJ_w57xiyAC
-  google_cites: 56
+  google_cites: 57
 - id: VanderWeele2019a
   text: VanderWeele TJ, Ding P, <u>Mathur MB</u> (2019). Technical considerations
     in the use of the E-value. <strong>Journal of Causal Inference</strong>, 7(2).
@@ -1547,7 +1547,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1515/jci-2018-0007
   google_id: Azgs6IHzeyYC
-  google_cites: 98
+  google_cites: 99
 - id: Desai2019
   text: Desai M, Montez-Rath M, Kapphahn K, Joyce V, <u>Mathur MB</u>, Garcia A, Purington
     N, Owens DK (2019). Missing data strategies for time-varying confounders in comparative
@@ -1599,7 +1599,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 321
+  google_cites: 328
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1647,7 +1647,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 583
+  google_cites: 586
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1789,7 +1789,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 533
+  google_cites: 536
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1807,7 +1807,7 @@
   webapplink: ~
   doi: 10.1016/j.bbi.2016.02.002
   google_id: WF5omc3nYNoC
-  google_cites: 302
+  google_cites: 305
 - id: Mummah2016
   text: 'Mummah, SA, <u>Mathur MB</u>, King AC, Gardner CD, Sutton S (2016). Mobile
     technology for vegetable consumption: a randomized controlled pilot study in overweight
@@ -1824,7 +1824,7 @@
   webapplink: ~
   doi: 10.2196/mhealth.5146
   google_id: roLk4NBRz8UC
-  google_cites: 99
+  google_cites: 100
 - id: Charytan2016
   text: 'Charytan DM, Desai M, <u>Mathur MB</u>, Stern NM, Brooks MM, Krzych LJ, Schuler
     GC, Kaehler J, Rodriguez-Granillo AM, Hueb W, Reeves BC, Thiele H, Rodriguez AE,
@@ -1935,7 +1935,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9485
+  google_cites: 9510
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
