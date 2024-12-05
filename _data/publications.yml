@@ -1,19 +1,3 @@
-- id: Mathur2024e
-  text: <u>Mathur MB</u> & Shpitser I (under review). Pitfalls of imputing using incomplete
-    auxiliary variables.
-  year: 2024
-  type: methods
-  authorship: first
-  status: inprep
-  preprint: https://osf.io/preprints/osf/c3zrh/
-  datarepo: https://osf.io/8pk7t/
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
 - id: Mathur2024d
   text: '<u>Mathur MB</u>, Shpitser I, VanderWeele TJ (under review). Resurrecting
     complete-case analysis: A defense.'
@@ -148,6 +132,22 @@
   doi: ~
   google_id: ~
   google_cites: ~
+- id: Mathur2024e
+  text: <u>Mathur MB</u> & Shpitser I. Pitfalls of imputing using incomplete auxiliary
+    variables. <strong>American Journal of Epidemiology.</strong>
+  year: 2024
+  type: methods
+  authorship: first
+  status: inpress
+  preprint: https://osf.io/preprints/osf/c3zrh/
+  datarepo: https://osf.io/8pk7t/
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
 - id: Mathur2024a
   text: <u>Mathur MB</u>. On the statistical analysis of experiments with manipulation
     checks. <strong>Advances in Methods and Practices in Psychological Science.</strong>
@@ -223,23 +223,6 @@
   authorship: first
   status: inpress
   preprint: https://osf.io/65dju
-  datarepo: ~
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
-- id: Zhang2024
-  text: Zhang G, Tynelius P, <u>Mathur MB</u>, Quartagno M, Branden G, Lijeros F,
-    Kosidou K. Population trends and individual fluidity of sexual identity in Stockholm
-    County, 2010 to 2021. <strong>JAMA Network Open.</strong>
-  year: 2024
-  type: empirical
-  authorship: middle
-  status: inpress
-  preprint: ~
   datarepo: ~
   rpackagename: ~
   rpackagelink: ~
@@ -349,6 +332,23 @@
   doi: 10.1002/jrsm.1667
   google_id: u3T1itk59dMC
   google_cites: 3
+- id: Zhang2024
+  text: Zhang G, Tynelius P, <u>Mathur MB</u>, Quartagno M, Branden G, Lijeros F,
+    Kosidou K. Population trends and individual fluidity of sexual identity in Stockholm
+    County, 2010 to 2021. <strong>JAMA Network Open,</strong> 7(12):e2447627.
+  year: 2024
+  type: empirical
+  authorship: middle
+  status: published
+  preprint: ~
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
 - id: Li2024
   text: 'Li LZ, Yang P, Singer SJ, Pfeffer J, <u>Mathur MB</u>, Shanafelt T. Nurse
     burnout and patient safety, satisfaction, and quality of care: A meta-analysis.
