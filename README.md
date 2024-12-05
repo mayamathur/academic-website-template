@@ -20,7 +20,7 @@ Here are some of the highlights for the Jekyll templating (i.e. these directorie
 The following folders are published:
 
 - `assets`: this is where CSS, JavaScript, and image files are stored, most notably:
-  - `assets/images/avatar.jpg` is used as the avatar image
+  - `assets/images/avatar.jpg` is used as the avatar image. 
   - `assets/css/listing.css` defines styles for lists and form elements for publications, software
 - `code`, `cv`, `publications`, `teaching`: these are placeholders for the content, each directory contains an `index.md` file that is explained below
 - `index.md`: this is the landing (home) page
@@ -30,9 +30,9 @@ The following folders are published:
 
 ### Personal info
 
-Edit the `_config.yml` file (name, social, Googl Analytics tag, etc.).
+Edit the `_config.yml` file (name, social, Google Analytics tag, etc.).
 
-Change the `assets/images/avatar.jpg` picture, make sure it is a square image otherwise the image will look like an ellipse, not a circle.
+Change the `assets/images/avatar.jpg` picture, make sure it is a square image otherwise the image will look like an ellipse, not a circle. Also make sure it's not too large; otherwise push might fail.
 
 Replace `favicon.ico`: create a logo and save it as a 50x50 pixel PNG image, possibly with transparent beckground.
 
