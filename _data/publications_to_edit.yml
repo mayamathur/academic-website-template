@@ -313,7 +313,7 @@
   type: "empirical"
   authorship: "middle"
   status: "published"
-  preprint:
+  preprint: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827231"
   datarepo: 
   rpackagename: 
   rpackagelink: 
