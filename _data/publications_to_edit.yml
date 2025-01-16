@@ -197,21 +197,6 @@
   doi: 
   google_id: 
 #
-- id: Mathur2023f
-  text: "<u>Mathur MB</u> & Shpitser I. Simple graphical rules for assessing selection bias in general-population and selected-sample treatment effects. <strong>American Journal of Epidemiology.</strong>"
-  year: 2023
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/65dju"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id:
-#
 - id: Panda2024
   text: "Panda P, Deng Y, Frang A, Ward V, Wang E, Newberry J, <u>Mathur MB</u>, Patel A. Increased emergency department identification of youth experiencing trafficking during the COVID-19 pandemic: An interrupted time series analysis. <strong>Public Health Reports.</strong>"
   year: 2024
@@ -229,6 +214,21 @@
 #
 # --------------------------- 2025 ---------------------------
 # 
+- id: Mathur2025a
+  text: "<u>Mathur MB</u> & Shpitser I (2025). Simple graphical rules for assessing selection bias in general-population and selected-sample treatment effects. <strong>American Journal of Epidemiology,</strong> 194(1), 267-277."
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://academic.oup.com/aje/article/194/1/267/7696650?utm_source=etoc&utm_campaign=aje&utm_medium=email#500381322"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/aje/kwae145"
+  google_id: "S2WlVNSe3u4C"
+#
 - id: Winslow2025
   text: "Winslow J & <u>Mathur MB</u> (2025). Reanalysis of 'A longitudinal study of meat reduction over time in the UK.' <strong>Food Quality and Preference,</strong> 123, 105324."
   year: 2025
