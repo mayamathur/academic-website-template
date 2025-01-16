@@ -229,6 +229,21 @@
 #
 # --------------------------- 2025 ---------------------------
 # 
+- id: Mathur2025a
+  text: "<u>Mathur MB</u> & Shpitser I (2025). Simple graphical rules for assessing selection bias in general-population and selected-sample treatment effects. <strong>American Journal of Epidemiology,</strong> 194(1), 267-277."
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://academic.oup.com/aje/article/194/1/267/7696650?utm_source=etoc&utm_campaign=aje&utm_medium=email#500381322"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/aje/kwae145"
+  google_id: "S2WlVNSe3u4C"
+#
 - id: Winslow2025
   text: "Winslow J & <u>Mathur MB</u> (2025). Reanalysis of 'A longitudinal study of meat reduction over time in the UK.' <strong>Food Quality and Preference,</strong> 123, 105324."
   year: 2025
@@ -1036,7 +1051,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.chb.2019.08.029"
-  google_id: "In6cVmBjs0IC"
+  google_id: "S0747563219303164"
 #
 - id: Mathur2020d
   text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Sensitivity analysis for publication bias in meta-analyses. <strong>Journal of the Royal Statistical Society: Series C</strong>, 69(5), 1091-1119."
