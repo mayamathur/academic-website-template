@@ -197,21 +197,6 @@
   doi: 
   google_id: 
 #
-- id: Mathur2023f
-  text: "<u>Mathur MB</u> & Shpitser I. Simple graphical rules for assessing selection bias in general-population and selected-sample treatment effects. <strong>American Journal of Epidemiology.</strong>"
-  year: 2023
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/65dju"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id:
-#
 - id: Panda2024
   text: "Panda P, Deng Y, Frang A, Ward V, Wang E, Newberry J, <u>Mathur MB</u>, Patel A. Increased emergency department identification of youth experiencing trafficking during the COVID-19 pandemic: An interrupted time series analysis. <strong>Public Health Reports.</strong>"
   year: 2024
@@ -1051,7 +1036,7 @@
   webappname:
   webapplink:
   doi: "10.1016/j.chb.2019.08.029"
-  google_id: "S0747563219303164"
+  google_id: "In6cVmBjs0IC"
 #
 - id: Mathur2020d
   text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Sensitivity analysis for publication bias in meta-analyses. <strong>Journal of the Royal Statistical Society: Series C</strong>, 69(5), 1091-1119."
