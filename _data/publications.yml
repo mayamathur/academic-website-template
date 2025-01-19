@@ -298,7 +298,7 @@
   webapplink: https://metabias.io/phacking/
   doi: 10.31219/osf.io/ezjsx
   google_id: wBLCggQE-ToC
-  google_cites: 16
+  google_cites: 15
 - id: Mathur2024b
   text: <u>Mathur MB</u> (2024). Assessing robustness to worst case publication bias
     using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851.
@@ -331,7 +331,7 @@
   webapplink: ~
   doi: 10.1002/jrsm.1667
   google_id: u3T1itk59dMC
-  google_cites: 5
+  google_cites: 6
 - id: Zhang2024
   text: Zhang G, Tynelius P, <u>Mathur MB</u>, Quartagno M, Branden G, Lijeros F,
     Kosidou K. Population trends and individual fluidity of sexual identity in Stockholm
@@ -997,7 +997,7 @@
   webapplink: ~
   doi: 10.1016/j.appet.2021.105277
   google_id: E7VqQtBCVmcC
-  google_cites: 89
+  google_cites: 90
 - id: Mathur2021b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2021). Meta-regression methods to characterize
     evidence strength using meaningful-effect percentages conditional on study characteristics.
@@ -1031,7 +1031,7 @@
   webapplink: ~
   doi: 10.1002/jrsm.1464
   google_id: TGkaJS32XoUC
-  google_cites: 61
+  google_cites: 62
 - id: Errington2021
   text: Errington TM, <u>Mathur MB</u>, Soderberg CK, Denis A, Perfito N, Iorns E,
     Nosek BA. (2021). Investigating the replicability of preclinical cancer biology.
@@ -1397,7 +1397,7 @@
   webapplink: ~
   doi: 10.1214/19-STS728
   google_id: 7Frjd3zlGBUC
-  google_cites: 269
+  google_cites: 270
 - id: VanderWeele2020c
   text: 'VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future
     of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483.'
@@ -1599,7 +1599,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 342
+  google_cites: 345
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1666,7 +1666,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 326
+  google_cites: 328
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto
     T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez
@@ -1807,7 +1807,7 @@
   webapplink: ~
   doi: 10.1016/j.bbi.2016.02.002
   google_id: WF5omc3nYNoC
-  google_cites: 309
+  google_cites: 310
 - id: Mummah2016
   text: 'Mummah, SA, <u>Mathur MB</u>, King AC, Gardner CD, Sutton S (2016). Mobile
     technology for vegetable consumption: a randomized controlled pilot study in overweight
@@ -1935,7 +1935,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9646
+  google_cites: 9653
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
