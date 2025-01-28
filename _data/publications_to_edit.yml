@@ -212,6 +212,21 @@
   doi: 
   google_id: 
 #
+- id: Ricotta2025
+  text: "Ricotta EE, Carrillo FAB, Angelli-Nichols S, Barugahare J, Benton A, Carlson CJ, Chang-Rabley E, Dean N, Duda SN, Federer L, Fill MMA, LeRoy EC, Linton NM, Lipsitch M, <u>Mathur MB</u>, Phelan AL, Rid A, Rosen JB, Sauer L, Sullivan SG, Zendt M, Evans NG. Observational research in epidemic settings: A roadmap to reform. <strong>BMJ Global Health.</strong>"
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: 
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 # --------------------------- 2025 ---------------------------
 # 
 - id: Mathur2025a
@@ -778,7 +793,7 @@
   google_id: "GYcXSSpN504C"
 #
 - id: Thielmann2022
-  text: "Thielmann M, Lemp JM, Winkler V, Manne-Goehler J, Marcus M, Probst C, Lopez-Arboleda WA, Ebert C, Bommer C, <u>Mathur MB</u>, Andall-Brereton G, Bahendeka SK, Bovet P, Farzadfar F, Ghasemi E, Mayige MT, Moghaddam SS, Mwangi KJ, Naderimagham S, Sturua L, et al. (2022). Patterns of tobacco use in low- and middle-income countries by tobacco product and sociodemographic characteristics: a study of nationally representative survey data from 82 countries. <strong>BMJ,</strong> 378:e067582."
+  text: "Theilmann M, Lemp JM, Winkler V, Manne-Goehler J, Marcus ME, Probst C, Lopez-Arboleda WA, Ebert C, Bommer C, <u>Mathur M</u>, Andall-Brereton G, Bahendeka SK, Bovet P, Farzadfar F, Ghasemi E, Mayige MT, Moghaddam SS, Mwangi KJ, Naderimagham S, Sturua L, Atun R, Davies JI, Bärnighausen T, Vollmer S, Geldsetzer P.. (2022). Patterns of tobacco use in low- and middle-income countries by tobacco product and sociodemographic characteristics: a study of nationally representative survey data from 82 countries. <strong>BMJ,</strong> 378:e067582."
   year: 2022
   type: "empirical"
   authorship: "middle"
