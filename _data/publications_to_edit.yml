@@ -211,22 +211,7 @@
   webapplink: 
   doi: 
   google_id: 
-#
-- id: Ricotta2025
-  text: "Ricotta EE, Carrillo FAB, Angelli-Nichols S, Barugahare J, Benton A, Carlson CJ, Chang-Rabley E, Dean N, Duda SN, Federer L, Fill MMA, LeRoy EC, Linton NM, Lipsitch M, <u>Mathur MB</u>, Phelan AL, Rid A, Rosen JB, Sauer L, Sullivan SG, Zendt M, Evans NG. Observational research in epidemic settings: A roadmap to reform. <strong>BMJ Global Health.</strong>"
-  year: 2024
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: 
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
+  #
 # --------------------------- 2025 ---------------------------
 # 
 - id: Mathur2025a
@@ -243,6 +228,21 @@
   webapplink: 
   doi: "10.1093/aje/kwae145"
   google_id: "S2WlVNSe3u4C"
+#
+- id: Ricotta2025
+  text: "Ricotta EE, Carrillo FAB, Angelli-Nichols S, Barugahare J, Benton A, Carlson CJ, Chang-Rabley E, Dean N, Duda SN, Federer L, Fill MMA, LeRoy EC, Linton NM, Lipsitch M, <u>Mathur MB</u>, Phelan AL, Rid A, Rosen JB, Sauer L, Sullivan SG, Zendt M, Evans NG (2025). Observational research in epidemic settings: A roadmap to reform. <strong>BMJ Global Health</strong>, 10, e017981."
+  year: 2025
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://gh.bmj.com/content/10/2/e017981"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1136/bmjgh-2024-017981"
+  google_id: 
 #
 - id: Winslow2025
   text: "Winslow J & <u>Mathur MB</u> (2025). Reanalysis of 'A longitudinal study of meat reduction over time in the UK.' <strong>Food Quality and Preference,</strong> 123, 105324."

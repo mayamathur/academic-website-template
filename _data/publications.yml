@@ -232,25 +232,6 @@
   doi: ~
   google_id: ~
   google_cites: ~
-- id: Ricotta2025
-  text: 'Ricotta EE, Carrillo FAB, Angelli-Nichols S, Barugahare J, Benton A, Carlson
-    CJ, Chang-Rabley E, Dean N, Duda SN, Federer L, Fill MMA, LeRoy EC, Linton NM,
-    Lipsitch M, <u>Mathur MB</u>, Phelan AL, Rid A, Rosen JB, Sauer L, Sullivan SG,
-    Zendt M, Evans NG. Observational research in epidemic settings: A roadmap to reform.
-    <strong>BMJ Global Health.</strong>'
-  year: 2024
-  type: empirical
-  authorship: middle
-  status: inpress
-  preprint: ~
-  datarepo: ~
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
 - id: Mathur2025a
   text: <u>Mathur MB</u> & Shpitser I (2025). Simple graphical rules for assessing
     selection bias in general-population and selected-sample treatment effects. <strong>American
@@ -268,6 +249,25 @@
   doi: 10.1093/aje/kwae145
   google_id: S2WlVNSe3u4C
   google_cites: 10
+- id: Ricotta2025
+  text: 'Ricotta EE, Carrillo FAB, Angelli-Nichols S, Barugahare J, Benton A, Carlson
+    CJ, Chang-Rabley E, Dean N, Duda SN, Federer L, Fill MMA, LeRoy EC, Linton NM,
+    Lipsitch M, <u>Mathur MB</u>, Phelan AL, Rid A, Rosen JB, Sauer L, Sullivan SG,
+    Zendt M, Evans NG (2025). Observational research in epidemic settings: A roadmap
+    to reform. <strong>BMJ Global Health</strong>, 10, e017981.'
+  year: 2025
+  type: empirical
+  authorship: middle
+  status: published
+  preprint: https://gh.bmj.com/content/10/2/e017981
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: 10.1136/bmjgh-2024-017981
+  google_id: ~
+  google_cites: ~
 - id: Winslow2025
   text: Winslow J & <u>Mathur MB</u> (2025). Reanalysis of 'A longitudinal study of
     meat reduction over time in the UK.' <strong>Food Quality and Preference,</strong>
@@ -317,7 +317,7 @@
   webapplink: https://metabias.io/phacking/
   doi: 10.31219/osf.io/ezjsx
   google_id: wBLCggQE-ToC
-  google_cites: 17
+  google_cites: 16
 - id: Mathur2024b
   text: <u>Mathur MB</u> (2024). Assessing robustness to worst case publication bias
     using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851.
@@ -510,7 +510,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwad007
   google_id: l6Q3WhenKVUC
-  google_cites: 16
+  google_cites: 17
 - id: Mathur2023f
   text: <u>Mathur MB</u> & Mathur VS (2023). Primary care physicians' perceptions
     of the effects of being overweight on all-cause mortality. <strong>Epidemiology</strong>,
@@ -631,7 +631,7 @@
   webapplink: ~
   doi: ~
   google_id: wGzT3bKASkAC
-  google_cites: 2
+  google_cites: 3
 - id: Zhang2023a
   text: 'Zhang GC, Basna R, <u>Mathur MB</u>, Lässer C, Mincheva R, Ekerljung L, et
     al. Exogenous female sex steroid hormones and new onset asthma in women: A matched
@@ -948,7 +948,7 @@
   webapplink: ~
   doi: 10.17605/OSF.IO/S4BZ3
   google_id: 8VtEwCQfWZkC
-  google_cites: 38
+  google_cites: 39
 - id: Maier2022
   text: 'Maier M, VanderWeele TJ, <u>Mathur MB</u> (2022). Using selection models
     to assess sensitivity to publication bias: A tutorial and call for more routine
@@ -999,7 +999,7 @@
   webapplink: ~
   doi: 10.3390/nu13124555
   google_id: BJtnxTr0fRcC
-  google_cites: 11
+  google_cites: 12
 - id: Mathur2021a
   text: '<u>Mathur MB</u>, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD,
     Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal
@@ -1068,7 +1068,7 @@
   webapplink: ~
   doi: 10.7554/eLife.71601
   google_id: rbGdIwl2e6cC
-  google_cites: 278
+  google_cites: 279
 - id: Zhang2021
   text: 'Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov
     M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser
@@ -1086,7 +1086,7 @@
   webapplink: ~
   doi: 10.1371/journal.pmed.1003731
   google_id: RXiHnyRawswC
-  google_cites: 162
+  google_cites: 163
 - id: Smith2021
   text: 'Smith LH, <u>Mathur MB</u>, VanderWeele TJ (2021). Multiple-bias sensitivity
     analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634.'
@@ -1210,7 +1210,7 @@
   webapplink: ~
   doi: 10.1111/rssc.12440
   google_id: L24QuVWYgZ0C
-  google_cites: 242
+  google_cites: 244
 - id: Mathur2020e
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). New statistical metrics for multisite
     replication projects. <strong>Journal of the Royal Statistical Society: Series
@@ -1329,7 +1329,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001105
   google_id: rOcdG6UcVlcC
-  google_cites: 19
+  google_cites: 20
 - id: Ling2020
   text: 'Ling A, Montez-Rath MR, <u>Mathur MB</u>, Kapphahn K, Desai (2020). How to
     apply multiple imputation in propensity score matching with partially observed
@@ -1417,7 +1417,7 @@
   webapplink: ~
   doi: 10.1214/19-STS728
   google_id: 7Frjd3zlGBUC
-  google_cites: 275
+  google_cites: 276
 - id: VanderWeele2020c
   text: 'VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future
     of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483.'
@@ -1619,7 +1619,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 355
+  google_cites: 358
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1667,7 +1667,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 603
+  google_cites: 604
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1722,7 +1722,7 @@
   webapplink: ~
   doi: 10.1161/CIRCRESAHA.117.310828
   google_id: _tF6a-HnqWAC
-  google_cites: 171
+  google_cites: 172
 - id: Mummah2017
   text: 'Mummah S, Robinson TN, <u>Mathur MB</u>, Farzinkhou S, Sutton S, Gardner
     CD (2017). Effect of a mobile app intervention on vegetable consumption in overweight
@@ -1809,7 +1809,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 553
+  google_cites: 554
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1827,7 +1827,7 @@
   webapplink: ~
   doi: 10.1016/j.bbi.2016.02.002
   google_id: WF5omc3nYNoC
-  google_cites: 310
+  google_cites: 311
 - id: Mummah2016
   text: 'Mummah, SA, <u>Mathur MB</u>, King AC, Gardner CD, Sutton S (2016). Mobile
     technology for vegetable consumption: a randomized controlled pilot study in overweight
@@ -1955,7 +1955,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9705
+  google_cites: 9726
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
