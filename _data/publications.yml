@@ -46,6 +46,22 @@
   doi: ~
   google_id: ~
   google_cites: ~
+- id: Thomas2025
+  text: Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K (under review).
+    What can large language models do for sustainable food?
+  year: 2025
+  type: empirical
+  authorship: middle
+  status: inprep
+  preprint: https://www.researchgate.net/publication/388860023_What_Can_Large_Language_Models_Do_for_Sustainable_Food
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
 - id: Green2024
   text: 'Green SA, Smith B, <u>Mathur MB</u> (under review). Meaningfully reducing
     consumption of meat and animal products is an unsolved problem: A meta-analysis.'
@@ -965,7 +981,7 @@
   webapplink: ~
   doi: 10.1002/cl2.1256
   google_id: bXQfdp6S9ecC
-  google_cites: 31
+  google_cites: 32
 - id: Lewis2022
   text: Lewis M, <u>Mathur MB</u>, VanderWeele TJ, Frank MC (2022). The puzzling relationship
     between multi-lab replications and meta-analyses of the published literature.
@@ -1017,7 +1033,7 @@
   webapplink: ~
   doi: 10.1016/j.appet.2021.105277
   google_id: E7VqQtBCVmcC
-  google_cites: 96
+  google_cites: 97
 - id: Mathur2021b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2021). Meta-regression methods to characterize
     evidence strength using meaningful-effect percentages conditional on study characteristics.
@@ -1102,7 +1118,7 @@
   webapplink: ~
   doi: ~
   google_id: kUhpeDhEZMUC
-  google_cites: 34
+  google_cites: 35
 - id: Lo2021
   text: 'Lo RM, Purington N, McGhee SA, <u>Mathur MB</u>, Shaw GM, Schroeder AR (2021).
     Infant allergy testing and food allergy diagnoses before and after guidelines
@@ -1210,7 +1226,7 @@
   webapplink: ~
   doi: 10.1111/rssc.12440
   google_id: L24QuVWYgZ0C
-  google_cites: 244
+  google_cites: 246
 - id: Mathur2020e
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). New statistical metrics for multisite
     replication projects. <strong>Journal of the Royal Statistical Society: Series
@@ -1467,7 +1483,7 @@
   webapplink: ~
   doi: 10.1093/ije/dyaa094
   google_id: 3A3nxV7CjKIC
-  google_cites: 96
+  google_cites: 97
 - id: Mathur2019a
   text: <u>Mathur MB</u> & VanderWeele TJ (2019). Finding common ground in meta-analysis
     'wars' on violent video games. <strong>Perspectives on Psychological Science</strong>,
@@ -1567,7 +1583,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1515/jci-2018-0007
   google_id: Azgs6IHzeyYC
-  google_cites: 100
+  google_cites: 101
 - id: Desai2019
   text: Desai M, Montez-Rath M, Kapphahn K, Joyce V, <u>Mathur MB</u>, Garcia A, Purington
     N, Owens DK (2019). Missing data strategies for time-varying confounders in comparative
@@ -1619,7 +1635,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 369
+  google_cites: 371
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1667,7 +1683,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 614
+  google_cites: 617
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1686,7 +1702,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 338
+  google_cites: 339
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto
     T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez
@@ -1809,7 +1825,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 550
+  google_cites: 551
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1955,7 +1971,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9714
+  google_cites: 9733
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
