@@ -213,23 +213,6 @@
   doi: ~
   google_id: ~
   google_cites: ~
-- id: Mathur2024c
-  text: <u>Mathur MB</u> & Shpitser I. Mathur and Shpitser respond to 'The evolution
-    of selection bias in the recent epidemiologic literature – a selective overview'.
-    <strong>American Journal of Epidemiology.</strong>
-  year: 2024
-  type: methods
-  authorship: first
-  status: inpress
-  preprint: https://osf.io/preprints/osf/7xjnk/
-  datarepo: ~
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
 - id: Panda2024
   text: 'Panda P, Deng Y, Frang A, Ward V, Wang E, Newberry J, <u>Mathur MB</u>, Patel
     A. Increased emergency department identification of youth experiencing trafficking
@@ -248,10 +231,27 @@
   doi: ~
   google_id: ~
   google_cites: ~
+- id: Mathur2025b
+  text: <u>Mathur MB</u> & Shpitser I. Mathur and Shpitser respond to 'The evolution
+    of selection bias in the recent epidemiologic literature – a selective overview'.
+    <strong>American Journal of Epidemiology</strong>, 194(1), 585-586.
+  year: 2025
+  type: methods
+  authorship: first
+  status: published
+  preprint: https://academic.oup.com/aje/article/194/3/585/7746107?utm_source=authortollfreelink&utm_campaign=aje&utm_medium=email&guestAccessKey=016f6a79-6dc3-4083-803f-e871b263cb41
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
 - id: Mathur2025a
   text: <u>Mathur MB</u> & Shpitser I (2025). Simple graphical rules for assessing
     selection bias in general-population and selected-sample treatment effects. <strong>American
-    Journal of Epidemiology,</strong> 194(1), 267-277.
+    Journal of Epidemiology</strong>, 194(1), 267-277.
   year: 2025
   type: methods
   authorship: first
@@ -821,7 +821,7 @@
   webapplink: ~
   doi: 10.1146/annurev-publhealth-051920-114020
   google_id: uUvzmPk0f8oC
-  google_cites: 63
+  google_cites: 64
 - id: Mathur2022c
   text: <u>Mathur MB</u> & VanderWeele TJ (2022). Assessing uncontrolled confounding
     in associations of being overweight with all-cause mortality. <strong>JAMA Network
@@ -1191,7 +1191,7 @@
   webapplink: https://www.evalue-calculator.com/meta/
   doi: 10.1080/01621459.2018.1529598
   google_id: n3vGvpFsckwC
-  google_cites: 120
+  google_cites: 121
 - id: Mathur2020c
   text: '<u>Mathur MB</u>, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten
     PAM, Levitan CA, Nave G, Manfredi D, Bessette-Symons B, Szuts A, Aczel B (2020).
@@ -1259,7 +1259,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001180
   google_id: ifOnle78iJkC
-  google_cites: 52
+  google_cites: 53
 - id: Mathur2020g
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Evidence relating health care provider
     burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18.
@@ -1971,7 +1971,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9733
+  google_cites: 9732
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
