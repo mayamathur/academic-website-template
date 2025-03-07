@@ -45,21 +45,6 @@
   doi: 
   google_id: 
 #
-- id: Thomas2025
-  text: "Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K (under review). What can large language models do for sustainable food?"
-  year: 2025
-  type: "empirical"
-  authorship: "middle"
-  status: "inprep"
-  preprint: "https://www.researchgate.net/publication/388860023_What_Can_Large_Language_Models_Do_for_Sustainable_Food"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id:
-#
 - id: Green2024
   text: "Green SA, Smith B, <u>Mathur MB</u> (under review). Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis."
   year: 2024
@@ -196,6 +181,21 @@
   webapplink: 
   doi: 
   google_id: 
+#
+- id: Thomas2025
+  text: "Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K. What can large language models do for sustainable food? <strong>Proceedings of the 42nd International Conference on Machine Learning [PMLR].</strong>"
+  year: 2025
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  preprint: "https://www.researchgate.net/publication/388860023_What_Can_Large_Language_Models_Do_for_Sustainable_Food"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id:
 #
 - id: Panda2024
   text: "Panda P, Deng Y, Frang A, Ward V, Wang E, Newberry J, <u>Mathur MB</u>, Patel A. Increased emergency department identification of youth experiencing trafficking during the COVID-19 pandemic: An interrupted time series analysis. <strong>Public Health Reports.</strong>"

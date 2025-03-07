@@ -46,22 +46,6 @@
   doi: ~
   google_id: ~
   google_cites: ~
-- id: Thomas2025
-  text: Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K (under review).
-    What can large language models do for sustainable food?
-  year: 2025
-  type: empirical
-  authorship: middle
-  status: inprep
-  preprint: https://www.researchgate.net/publication/388860023_What_Can_Large_Language_Models_Do_for_Sustainable_Food
-  datarepo: ~
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
 - id: Green2024
   text: 'Green SA, Smith B, <u>Mathur MB</u> (under review). Meaningfully reducing
     consumption of meat and animal products is an unsolved problem: A meta-analysis.'
@@ -206,6 +190,23 @@
   status: inpress
   preprint: https://osf.io/7jvrw/
   datarepo: https://osf.io/9qfah/
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
+- id: Thomas2025
+  text: Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K. What can large
+    language models do for sustainable food? <strong>Proceedings of the 42nd International
+    Conference on Machine Learning [PMLR].</strong>
+  year: 2025
+  type: empirical
+  authorship: middle
+  status: inpress
+  preprint: https://www.researchgate.net/publication/388860023_What_Can_Large_Language_Models_Do_for_Sustainable_Food
+  datarepo: ~
   rpackagename: ~
   rpackagelink: ~
   webappname: ~
@@ -526,7 +527,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwad007
   google_id: l6Q3WhenKVUC
-  google_cites: 16
+  google_cites: 17
 - id: Mathur2023f
   text: <u>Mathur MB</u> & Mathur VS (2023). Primary care physicians' perceptions
     of the effects of being overweight on all-cause mortality. <strong>Epidemiology</strong>,
@@ -770,7 +771,7 @@
   webapplink: ~
   doi: 10.1037/rel0000441
   google_id: q0uBw5dMOAkC
-  google_cites: 25
+  google_cites: 26
 - id: Mathur2022f
   text: '<u>Mathur MB</u> & VanderWeele TJ (2022). The authors respond: Effects of
     being overweight on mortality are unclear given multiple methodological problems.
@@ -1050,7 +1051,7 @@
   webapplink: ~
   doi: 10.1002/jrsm.1504
   google_id: h168fVGZblEC
-  google_cites: 11
+  google_cites: 12
 - id: Mathur2021c
   text: '<u>Mathur MB</u> & VanderWeele TJ (2021). Estimating publication bias in
     meta-analyses: A meta-meta-analysis across disciplines and journal tiers. <strong>Research
@@ -1191,7 +1192,7 @@
   webapplink: https://www.evalue-calculator.com/meta/
   doi: 10.1080/01621459.2018.1529598
   google_id: n3vGvpFsckwC
-  google_cites: 121
+  google_cites: 122
 - id: Mathur2020c
   text: '<u>Mathur MB</u>, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten
     PAM, Levitan CA, Nave G, Manfredi D, Bessette-Symons B, Szuts A, Aczel B (2020).
@@ -1433,7 +1434,7 @@
   webapplink: ~
   doi: 10.1214/19-STS728
   google_id: 7Frjd3zlGBUC
-  google_cites: 278
+  google_cites: 279
 - id: VanderWeele2020c
   text: 'VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future
     of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483.'
@@ -1635,7 +1636,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 371
+  google_cites: 373
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1651,7 +1652,7 @@
   webapplink: ~
   doi: 10.7326/M18-3112
   google_id: rCNdntzdTkkC
-  google_cites: 54
+  google_cites: 55
 - id: Mathur2018a
   text: <u>Mathur MB</u> & VanderWeele TJ (2018). R function for additive interaction
     measures. <strong>Epidemiology</strong>, 29(1), e5-e6.
@@ -1683,7 +1684,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 617
+  google_cites: 618
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1702,7 +1703,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 339
+  google_cites: 340
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto
     T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez
@@ -1971,7 +1972,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9732
+  google_cites: 9743
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
