@@ -198,9 +198,9 @@
   google_id: ~
   google_cites: ~
 - id: Thomas2025
-  text: Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K. What can large
-    language models do for sustainable food? <strong>Proceedings of the 42nd International
-    Conference on Machine Learning [PMLR].</strong>
+  text: Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K (2025). What can
+    large language models do for sustainable food? <strong>Proceedings of the 42nd
+    International Conference on Machine Learning [PMLR-2025].</strong>
   year: 2025
   type: empirical
   authorship: middle
