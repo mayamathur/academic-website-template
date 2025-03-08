@@ -197,23 +197,6 @@
   doi: ~
   google_id: ~
   google_cites: ~
-- id: Thomas2025
-  text: Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K (2025). What can
-    large language models do for sustainable food? <strong>Proceedings of the 42nd
-    International Conference on Machine Learning [PMLR-2025].</strong>
-  year: 2025
-  type: empirical
-  authorship: middle
-  status: inpress
-  preprint: https://www.researchgate.net/publication/388860023_What_Can_Large_Language_Models_Do_for_Sustainable_Food
-  datarepo: ~
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
 - id: Mathur2025b
   text: <u>Mathur MB</u> & Shpitser I. Mathur and Shpitser respond to 'The evolution
     of selection bias in the recent epidemiologic literature – a selective overview'.
@@ -1085,7 +1068,7 @@
   webapplink: ~
   doi: 10.7554/eLife.71601
   google_id: rbGdIwl2e6cC
-  google_cites: 274
+  google_cites: 275
 - id: Zhang2021
   text: 'Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov
     M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser
@@ -1467,7 +1450,7 @@
   webapplink: ~
   doi: 10.1177/1536867X20909696
   google_id: Vno172sVVMwC
-  google_cites: 149
+  google_cites: 150
 - id: VanderWeele2020d
   text: 'VanderWeele TJ & <u>Mathur MB</u> (2020). Commentary: Developing best-practice
     guidelines for the reporting of the E-value. <strong>International Journal of
@@ -1684,7 +1667,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 618
+  google_cites: 619
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1775,7 +1758,7 @@
   webapplink: ~
   doi: 10.22237/jmasm/1493597100
   google_id: nPTYJWkExTIC
-  google_cites: 16
+  google_cites: 17
 - id: Mathur2016a
   text: <u>Mathur MB</u>, Gould M, Khazeni N (2016). Direct-to-consumer drug advertisements
     can paradoxically increase intentions to adopt lifestyle changes. <strong>Frontiers
@@ -1826,7 +1809,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 551
+  google_cites: 552
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1844,7 +1827,7 @@
   webapplink: ~
   doi: 10.1016/j.bbi.2016.02.002
   google_id: WF5omc3nYNoC
-  google_cites: 307
+  google_cites: 308
 - id: Mummah2016
   text: 'Mummah, SA, <u>Mathur MB</u>, King AC, Gardner CD, Sutton S (2016). Mobile
     technology for vegetable consumption: a randomized controlled pilot study in overweight
@@ -1972,7 +1955,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9743
+  google_cites: 9746
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
