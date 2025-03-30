@@ -735,7 +735,7 @@
   webapplink: ~
   doi: 10.1016/j.gloepi.2023.100099
   google_id: X5YyAB84Iw4C
-  google_cites: 16
+  google_cites: 17
 - id: Voytenko2023
   text: 'Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO,
     Joynt S, Kocum M, Korkhov M, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington
@@ -788,7 +788,7 @@
   webapplink: http://www.evalue-calculator.com
   doi: 10.1093/ije/dyac073
   google_id: QaSi33NTfwYC
-  google_cites: 14
+  google_cites: 15
 - id: Mathur2022d
   text: '<u>Mathur MB</u> & VanderWeele TJ (2022). Methods to address confounding
     and other biases in meta-analyses: Review and recommendations. <strong>Annual
@@ -805,7 +805,7 @@
   webapplink: ~
   doi: 10.1146/annurev-publhealth-051920-114020
   google_id: uUvzmPk0f8oC
-  google_cites: 69
+  google_cites: 70
 - id: Mathur2022c
   text: <u>Mathur MB</u> & VanderWeele TJ (2022). Assessing uncontrolled confounding
     in associations of being overweight with all-cause mortality. <strong>JAMA Network
@@ -929,7 +929,7 @@
   webapplink: ~
   doi: 10.3389/fsufs.2022.1001157
   google_id: qCpRzq7zkD8C
-  google_cites: 13
+  google_cites: 14
 - id: Grundy2022
   text: 'Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, Askin H,
     Lee J, Mintoft-Jones A, Cyna S, Dziegielewski A, Gelber R, Rowe A, <u>Mathur MB</u>,
@@ -965,7 +965,7 @@
   webapplink: ~
   doi: 10.1002/cl2.1256
   google_id: bXQfdp6S9ecC
-  google_cites: 32
+  google_cites: 33
 - id: Lewis2022
   text: Lewis M, <u>Mathur MB</u>, VanderWeele TJ, Frank MC (2022). The puzzling relationship
     between multi-lab replications and meta-analyses of the published literature.
@@ -1051,7 +1051,7 @@
   webapplink: ~
   doi: 10.1002/jrsm.1464
   google_id: TGkaJS32XoUC
-  google_cites: 60
+  google_cites: 61
 - id: Errington2021
   text: Errington TM, <u>Mathur MB</u>, Soderberg CK, Denis A, Perfito N, Iorns E,
     Nosek BA. (2021). Investigating the replicability of preclinical cancer biology.
@@ -1068,7 +1068,7 @@
   webapplink: ~
   doi: 10.7554/eLife.71601
   google_id: rbGdIwl2e6cC
-  google_cites: 281
+  google_cites: 282
 - id: Zhang2021
   text: 'Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov
     M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser
@@ -1138,7 +1138,7 @@
   webapplink: ~
   doi: 10.1016/j.xkme.2020.09.013
   google_id: 0sTkTiv_uMkC
-  google_cites: 11
+  google_cites: 12
 - id: Mathur2020a
   text: '<u>Mathur MB</u>, Bart-Plange DJ, Aczel B, Bernstein MH, Ciunci A, Ebersole
     CR, Falcao F, Ashbaugh K, Hilliard RA, Jern A, Kellier DJ, Kessinger G, Kolb VS,
@@ -1193,7 +1193,7 @@
   webapplink: ~
   doi: 10.1016/j.chb.2019.08.029
   google_id: In6cVmBjs0IC
-  google_cites: 99
+  google_cites: 100
 - id: Mathur2020d
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). Sensitivity analysis for publication
     bias in meta-analyses. <strong>Journal of the Royal Statistical Society: Series
@@ -1243,7 +1243,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001180
   google_id: ifOnle78iJkC
-  google_cites: 63
+  google_cites: 64
 - id: Mathur2020g
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Evidence relating health care provider
     burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18.
@@ -1329,7 +1329,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001105
   google_id: rOcdG6UcVlcC
-  google_cites: 20
+  google_cites: 21
 - id: Ling2020
   text: 'Ling A, Montez-Rath MR, <u>Mathur MB</u>, Kapphahn K, Desai (2020). How to
     apply multiple imputation in propensity score matching with partially observed
@@ -1417,7 +1417,7 @@
   webapplink: ~
   doi: 10.1214/19-STS728
   google_id: 7Frjd3zlGBUC
-  google_cites: 281
+  google_cites: 282
 - id: VanderWeele2020c
   text: 'VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future
     of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483.'
@@ -1484,7 +1484,7 @@
   webapplink: ~
   doi: 10.1177/1745691619850104
   google_id: Y0-TYkg6YM4C
-  google_cites: 128
+  google_cites: 129
 - id: Mathur2019b
   text: '<u>Mathur MB</u> & VanderWeele TJ (2019). Discussion on the meeting on ''Signs
     and sizes: understanding and replicating statistical findings''. <strong>Journal
@@ -1585,7 +1585,7 @@
   webapplink: ~
   doi: 10.1002/sim.8174
   google_id: RMgMIBzvq-4C
-  google_cites: 4
+  google_cites: 5
 - id: VanderWeele2019b
   text: 'VanderWeele TJ, <u>Mathur MB</u>, Chen Y (2019). Media portrayals and public
     health: Effects on suicide and other behaviors. <strong>JAMA Psychiatry</strong>,
@@ -1619,7 +1619,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 386
+  google_cites: 391
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1667,7 +1667,7 @@
   webapplink: https://www.evalue-calculator.com
   doi: 10.1097/EDE.0000000000000864
   google_id: oTdOBqtIf_kC
-  google_cites: 619
+  google_cites: 626
 - id: Hardwicke2018
   text: 'Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell
     MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank
@@ -1686,7 +1686,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 340
+  google_cites: 341
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto
     T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez
@@ -1758,7 +1758,7 @@
   webapplink: ~
   doi: 10.22237/jmasm/1493597100
   google_id: nPTYJWkExTIC
-  google_cites: 18
+  google_cites: 19
 - id: Mathur2016a
   text: <u>Mathur MB</u>, Gould M, Khazeni N (2016). Direct-to-consumer drug advertisements
     can paradoxically increase intentions to adopt lifestyle changes. <strong>Frontiers
@@ -1809,7 +1809,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 552
+  google_cites: 555
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1827,7 +1827,7 @@
   webapplink: ~
   doi: 10.1016/j.bbi.2016.02.002
   google_id: WF5omc3nYNoC
-  google_cites: 308
+  google_cites: 309
 - id: Mummah2016
   text: 'Mummah, SA, <u>Mathur MB</u>, King AC, Gardner CD, Sutton S (2016). Mobile
     technology for vegetable consumption: a randomized controlled pilot study in overweight
@@ -1955,7 +1955,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9807
+  google_cites: 9822
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
