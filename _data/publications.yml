@@ -161,9 +161,9 @@
   rpackagelink: ~
   webappname: ~
   webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
+  doi: 10.1177/251524592412975
+  google_id: NU-BerS4NX4C
+  google_cites: 0
 - id: Mathur2023e
   text: <u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for
     eliminating selection bias in causal estimands through covariate adjustment. <strong>The
@@ -212,8 +212,8 @@
   webappname: ~
   webapplink: ~
   doi: 10.1017/rsm.2024.2
-  google_id: ~
-  google_cites: ~
+  google_id: 8RAEygVn5_EC
+  google_cites: 0
 - id: Mathur2025b
   text: <u>Mathur MB</u> & Shpitser I. Mathur and Shpitser respond to 'The evolution
     of selection bias in the recent epidemiologic literature – a selective overview'.
@@ -228,9 +228,9 @@
   rpackagelink: ~
   webappname: ~
   webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
+  doi: 10.1093/aje/kwae287
+  google_id: _mQi-xiA4oYC
+  google_cites: 1
 - id: Mathur2025a
   text: <u>Mathur MB</u> & Shpitser I (2025). Simple graphical rules for assessing
     selection bias in general-population and selected-sample treatment effects. <strong>American
@@ -663,7 +663,7 @@
   rpackagelink: ~
   webappname: ~
   webapplink: ~
-  doi: ~
+  doi: 10.1186/s12916-023-03038-8
   google_id: rqnDXT1GswoC
   google_cites: 1
 - id: Li2023b
@@ -680,7 +680,7 @@
   rpackagelink: https://cran.r-project.org/web/packages/regmedint/index.html
   webappname: ~
   webapplink: ~
-  doi: ~
+  doi: 10.1097/EDE.0000000000001643
   google_id: eFf2swCANGcC
   google_cites: 9
 - id: Li2023
@@ -1117,7 +1117,7 @@
   rpackagelink: https://cran.r-project.org/web/packages/EValue/vignettes/multiple-bias-examples.html
   webappname: ~
   webapplink: ~
-  doi: ~
+  doi: 10.1097/EDE.0000000000001380
   google_id: kUhpeDhEZMUC
   google_cites: 35
 - id: Lo2021
@@ -1362,7 +1362,7 @@
   rpackagelink: ~
   webappname: ~
   webapplink: ~
-  doi: ~
+  doi: 10.56801/10.56801/v19.i.1072
   google_id: tz746QTLzJkC
   google_cites: 30
 - id: Zhang2020
