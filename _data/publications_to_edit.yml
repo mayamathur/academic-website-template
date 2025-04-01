@@ -30,6 +30,21 @@
   doi: 
   google_id: 
 #
+- id: Dowd2025
+  text: "Madley-Dowd P, Hughes RA, <u>Mathur MB</u>, Heron J, Tilling K (under review). Using directed acyclic graphs to determine whether multiple imputation or subsample multiple imputation estimates of an exposure-outcome association are unbiased."
+  year: 2025
+  type: "methods"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://arxiv.org/abs/2503.24035"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Green2024
   text: "Green SA, Smith B, <u>Mathur MB</u> (under review). Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis."
   year: 2024
