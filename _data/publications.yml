@@ -263,9 +263,9 @@
   rpackagelink: ~
   webappname: ~
   webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
+  doi: 10.1177/00333549241279
+  google_id: zdX0sdgBH_kC
+  google_cites: 1
 - id: Ricotta2025
   text: 'Ricotta EE, Carrillo FAB, Angelli-Nichols S, Barugahare J, Benton A, Carlson
     CJ, Chang-Rabley E, Dean N, Duda SN, Federer L, Fill MMA, LeRoy EC, Linton NM,
@@ -283,8 +283,8 @@
   webappname: ~
   webapplink: ~
   doi: 10.1136/bmjgh-2024-017981
-  google_id: ~
-  google_cites: ~
+  google_id: wkm4DBaukwsC
+  google_cites: 0
 - id: Winslow2025
   text: Winslow J & <u>Mathur MB</u> (2025). Reanalysis of 'A longitudinal study of
     meat reduction over time in the UK.' <strong>Food Quality and Preference,</strong>
@@ -300,8 +300,8 @@
   webappname: ~
   webapplink: ~
   doi: 10.1016/j.foodqual.2024.105324
-  google_id: ~
-  google_cites: ~
+  google_id: B2rIPIGFPLEC
+  google_cites: 0
 - id: Mathur2024d
   text: <u>Mathur MB</u> & Mathur VS (2024). Toward evidence-based communication on
     overweight body mass index and mortality. <strong>BMC Medicine,</strong> 22(1):183.
@@ -382,9 +382,9 @@
   rpackagelink: ~
   webappname: ~
   webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
+  doi: 10.1001/jamanetworkopen.2024.47627
+  google_id: ujxm2eEBZHIC
+  google_cites: 0
 - id: Li2024
   text: 'Li LZ, Yang P, Singer SJ, Pfeffer J, <u>Mathur MB</u>, Shanafelt T. Nurse
     burnout and patient safety, satisfaction, and quality of care: A meta-analysis.
@@ -400,8 +400,8 @@
   webappname: ~
   webapplink: ~
   doi: 10.1001/jamanetworkopen.2024.43059
-  google_id: ~
-  google_cites: ~
+  google_id: u0Mu_IsstPMC
+  google_cites: 12
 - id: Bane2024
   text: 'Bane S, Carmichael S, <u>Mathur MB</u>, Simard J (2024). Considering pregnancies
     as repeated versus independent events: An empirical comparison of common approaches
@@ -510,8 +510,8 @@
   webappname: ~
   webapplink: ~
   doi: 10.1136/bmjph-2023-000072
-  google_id: ~
-  google_cites: ~
+  google_id: gmHTDCtJMcoC
+  google_cites: 5
 - id: Mathur2023g
   text: '<u>Mathur MB</u> & Fox MP (2023). Toward open and reproducible epidemiology.
     <strong>American Journal of Epidemiology</strong>, 192(4), 658-664. '
@@ -610,7 +610,7 @@
   rpackagelink: ~
   webappname: ~
   webapplink: ~
-  doi: ~
+  doi: 10.1098/rsos.231240
   google_id: 17ZO-CJnx_8C
   google_cites: 14
 - id: Marcone2023
@@ -628,7 +628,7 @@
   rpackagelink: ~
   webappname: ~
   webapplink: ~
-  doi: ~
+  doi: 10.1186/s40795-023-00764-3
   google_id: cSdaV2aYdYsC
   google_cites: 1
 - id: Rivera2023
@@ -646,7 +646,7 @@
   rpackagelink: ~
   webappname: ~
   webapplink: ~
-  doi: ~
+  doi: 10.3390/nu15183999
   google_id: wGzT3bKASkAC
   google_cites: 3
 - id: Zhang2023a

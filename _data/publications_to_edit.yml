@@ -256,8 +256,8 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: 
-  google_id: 
+  doi: "10.1177/00333549241279"
+  google_id: "zdX0sdgBH_kC"
 #
 - id: Ricotta2025
   text: "Ricotta EE, Carrillo FAB, Angelli-Nichols S, Barugahare J, Benton A, Carlson CJ, Chang-Rabley E, Dean N, Duda SN, Federer L, Fill MMA, LeRoy EC, Linton NM, Lipsitch M, <u>Mathur MB</u>, Phelan AL, Rid A, Rosen JB, Sauer L, Sullivan SG, Zendt M, Evans NG (2025). Observational research in epidemic settings: A roadmap to reform. <strong>BMJ Global Health</strong>, 10, e017981."
@@ -272,7 +272,7 @@
   webappname: 
   webapplink: 
   doi: "10.1136/bmjgh-2024-017981"
-  google_id: 
+  google_id: "wkm4DBaukwsC"
 #
 - id: Winslow2025
   text: "Winslow J & <u>Mathur MB</u> (2025). Reanalysis of 'A longitudinal study of meat reduction over time in the UK.' <strong>Food Quality and Preference,</strong> 123, 105324."
@@ -287,7 +287,7 @@
   webappname: 
   webapplink: 
   doi: "10.1016/j.foodqual.2024.105324"
-  google_id: 
+  google_id: "B2rIPIGFPLEC"
 #
 # --------------------------- 2024 ---------------------------
 #
@@ -364,8 +364,8 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: 
-  google_id: 
+  doi: "10.1001/jamanetworkopen.2024.47627"
+  google_id: "ujxm2eEBZHIC"
 #
 - id: Li2024
   text: "Li LZ, Yang P, Singer SJ, Pfeffer J, <u>Mathur MB</u>, Shanafelt T. Nurse burnout and patient safety, satisfaction, and quality of care: A meta-analysis. <strong>JAMA Network Open</strong>, 7(11):e2443059."
@@ -380,7 +380,7 @@
   webappname: 
   webapplink: 
   doi: "10.1001/jamanetworkopen.2024.43059"
-  google_id: 
+  google_id: "u0Mu_IsstPMC"
 #
 - id: Bane2024
   text: "Bane S, Carmichael S, <u>Mathur MB</u>, Simard J (2024). Considering pregnancies as repeated versus independent events: An empirical comparison of common approaches across selected perinatal outcomes. <strong>American Journal of Obstetrics & Gynecology Maternal-Fetal Medicine,</strong> 6(8), 101434."
@@ -470,7 +470,7 @@
   webappname:
   webapplink:
   doi: "10.1136/bmjph-2023-000072"
-  google_id: 
+  google_id: "gmHTDCtJMcoC"
 #
 # --------------------------- 2023 ---------------------------
 #
@@ -561,7 +561,7 @@
   rpackagelink:
   webappname:
   webapplink:
-  doi: 
+  doi: "10.1098/rsos.231240"
   google_id: "17ZO-CJnx_8C"
 #
 - id: Marcone2023
@@ -576,7 +576,7 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: 
+  doi: "10.1186/s40795-023-00764-3"
   google_id: "cSdaV2aYdYsC"
 #
 - id: Rivera2023
@@ -591,7 +591,7 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: 
+  doi: "10.3390/nu15183999"
   google_id: "wGzT3bKASkAC"
 #
 - id: Zhang2023a
