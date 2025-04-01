@@ -152,21 +152,6 @@
   doi: "10.31219/osf.io/ths4e"
   google_id: "c1AJUTjuCtUC"
 # 
-- id: Mathur2023e
-  text: "<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist properties. <strong>Research Synthesis Methods.</strong>"
-  year: 2025
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/7jvrw/"
-  datarepo: "https://osf.io/9qfah/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
 - id: Voski2025
   text: "Voski A, Braginsky M, Zhang A, Bertoldo J, Egan S, Levig LA, Ihrig MM, <u>Mathur MB</u>. Effect of a portion-size default nudge on meat consumption and diner satisfaction: Controlled experiments in university dining halls. <strong>BMC Public Health.</strong>"
   year: 2025
@@ -198,6 +183,21 @@
 #   google_id:
 # #
 # --------------------------- 2025 ---------------------------
+#
+- id: Mathur2025c
+  text: "<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist properties. <strong>Research Synthesis Methods</strong>, 16(1), 87-122"
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.cambridge.org/core/journals/research-synthesis-methods/article/metaanalysis-with-jeffreys-priors-empirical-frequentist-properties/B6F787E5BBF8049D473AB896C65ADB39"
+  datarepo: "https://osf.io/9qfah/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1017/rsm.2024.2"
+  google_id: 
 # 
 - id: Mathur2025b
   text: "<u>Mathur MB</u> & Shpitser I. Mathur and Shpitser respond to 'The evolution of selection bias in the recent epidemiologic literature – a selective overview'. <strong>American Journal of Epidemiology</strong>, 194(1), 585-586."

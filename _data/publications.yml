@@ -164,22 +164,6 @@
   doi: 10.31219/osf.io/ths4e
   google_id: c1AJUTjuCtUC
   google_cites: 5
-- id: Mathur2023e
-  text: '<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist
-    properties. <strong>Research Synthesis Methods.</strong>'
-  year: 2025
-  type: methods
-  authorship: first
-  status: inpress
-  preprint: https://osf.io/7jvrw/
-  datarepo: https://osf.io/9qfah/
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
 - id: Voski2025
   text: 'Voski A, Braginsky M, Zhang A, Bertoldo J, Egan S, Levig LA, Ihrig MM, <u>Mathur
     MB</u>. Effect of a portion-size default nudge on meat consumption and diner satisfaction:
@@ -195,6 +179,22 @@
   webappname: ~
   webapplink: ~
   doi: ~
+  google_id: ~
+  google_cites: ~
+- id: Mathur2025c
+  text: '<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist
+    properties. <strong>Research Synthesis Methods</strong>, 16(1), 87-122'
+  year: 2025
+  type: methods
+  authorship: first
+  status: published
+  preprint: https://www.cambridge.org/core/journals/research-synthesis-methods/article/metaanalysis-with-jeffreys-priors-empirical-frequentist-properties/B6F787E5BBF8049D473AB896C65ADB39
+  datarepo: https://osf.io/9qfah/
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: 10.1017/rsm.2024.2
   google_id: ~
   google_cites: ~
 - id: Mathur2025b
@@ -965,7 +965,7 @@
   webapplink: ~
   doi: 10.1002/cl2.1256
   google_id: bXQfdp6S9ecC
-  google_cites: 33
+  google_cites: 34
 - id: Lewis2022
   text: Lewis M, <u>Mathur MB</u>, VanderWeele TJ, Frank MC (2022). The puzzling relationship
     between multi-lab replications and meta-analyses of the published literature.
@@ -1051,7 +1051,7 @@
   webapplink: ~
   doi: 10.1002/jrsm.1464
   google_id: TGkaJS32XoUC
-  google_cites: 61
+  google_cites: 62
 - id: Errington2021
   text: Errington TM, <u>Mathur MB</u>, Soderberg CK, Denis A, Perfito N, Iorns E,
     Nosek BA. (2021). Investigating the replicability of preclinical cancer biology.
@@ -1068,7 +1068,7 @@
   webapplink: ~
   doi: 10.7554/eLife.71601
   google_id: rbGdIwl2e6cC
-  google_cites: 282
+  google_cites: 283
 - id: Zhang2021
   text: 'Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov
     M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser
@@ -1243,7 +1243,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001180
   google_id: ifOnle78iJkC
-  google_cites: 64
+  google_cites: 65
 - id: Mathur2020g
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Evidence relating health care provider
     burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18.
@@ -1619,7 +1619,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 391
+  google_cites: 392
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1722,7 +1722,7 @@
   webapplink: ~
   doi: 10.1161/CIRCRESAHA.117.310828
   google_id: _tF6a-HnqWAC
-  google_cites: 175
+  google_cites: 176
 - id: Mummah2017
   text: 'Mummah S, Robinson TN, <u>Mathur MB</u>, Farzinkhou S, Sutton S, Gardner
     CD (2017). Effect of a mobile app intervention on vegetable consumption in overweight
@@ -1809,7 +1809,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 555
+  google_cites: 556
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1955,7 +1955,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 9822
+  google_cites: 9825
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
