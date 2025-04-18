@@ -135,7 +135,7 @@
   webappname: 
   webapplink: 
   doi: "10.1177/251524592412975"
-  google_id: "NU-BerS4NX4C"
+  google_id: 
 #
 - id: Mathur2023e
   text: "<u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment. <strong>The Annals of Statistics.</strong>"
