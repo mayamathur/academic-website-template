@@ -135,7 +135,7 @@
   webappname: 
   webapplink: 
   doi: "10.1177/251524592412975"
-  google_id: 
+  google_id: "NU-BerS4NX4C"
 #
 - id: Mathur2023e
   text: "<u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment. <strong>The Annals of Statistics.</strong>"
@@ -153,7 +153,7 @@
   google_id: "c1AJUTjuCtUC"
 # 
 - id: Thomas2025
-  text: "Thomas AT, Hope J, <u>Mathur MB</u. Documentary films can increase nationwide interest in plant-based food. <strong>Nature Food.</strong>"
+  text: "Thomas AT, Hope J, <u>Mathur MB</u>. Documentary films can increase nationwide interest in plant-based food. <strong>Nature Food.</strong>"
   year: 2025
   type: "empirical"
   authorship: "last"
