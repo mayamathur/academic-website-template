@@ -152,20 +152,20 @@
   doi: "10.31219/osf.io/ths4e"
   google_id: "c1AJUTjuCtUC"
 # 
-- id: Thomas2025
-  text: "Thomas AT, Hope J, <u>Mathur MB</u>. Documentary films can increase nationwide interest in plant-based food. <strong>Nature Food.</strong>"
-  year: 2025
-  type: "empirical"
-  authorship: "last"
-  status: "inpress"
-  preprint: "https://osf.io/preprints/osf/yh94d"
-  datarepo: "https://github.com/hsflabstanford/media-impacts"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
+# - id: Thomas2025
+#   text: "Thomas AT, Hope J, <u>Mathur MB</u>. Documentary films can increase nationwide interest in plant-based food. <strong>Nature Food.</strong>"
+#   year: 2025
+#   type: "empirical"
+#   authorship: "last"
+#   status: "inpress"
+#   preprint: "https://osf.io/preprints/osf/yh94d"
+#   datarepo: "https://github.com/hsflabstanford/media-impacts"
+#   rpackagename: 
+#   rpackagelink: 
+#   webappname: 
+#   webapplink: 
+#   doi: 
+#   google_id: 
 #
 - id: Voski2025
   text: "Voski A, Braginsky M, Zhang A, Bertoldo J, Egan S, Levig LA, Ihrig MM, <u>Mathur MB</u>. Effect of a portion-size default nudge on meat consumption and diner satisfaction: Controlled experiments in university dining halls. <strong>BMC Public Health.</strong>"
