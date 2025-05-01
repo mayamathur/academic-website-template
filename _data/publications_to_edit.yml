@@ -1,156 +1,156 @@
 # --------------------------- In preparation ---------------------------
 #
-- id: Mathur2024d
-  text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ (under review). Resurrecting complete-case analysis: A defense."
-  year: 2024
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/preprints/osf/f9jvz/"
-  datarepo: "https://osf.io/crxyw/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-- id: Mathur2024c
-  text: "<u>Mathur MB</u> & Shpitser I (under review). Imputation without nightMARs: Graphical criteria for valid imputation of missing data."
-  year: 2024
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/preprints/osf/zqne9/"
-  datarepo: "https://osf.io/27aue/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-- id: Dowd2025
-  text: "Madley-Dowd P, Hughes RA, <u>Mathur MB</u>, Heron J, Tilling K (under review). Using directed acyclic graphs to determine whether multiple imputation or subsample multiple imputation estimates of an exposure-outcome association are unbiased."
-  year: 2025
-  type: "methods"
-  authorship: "middle"
-  status: "inprep"
-  preprint: "https://arxiv.org/abs/2503.24035"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-- id: Green2024
-  text: "Green SA, Smith B, <u>Mathur MB</u> (under review). Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis."
-  year: 2024
-  type: "empirical"
-  authorship: "last"
-  status: "inprep"
-  preprint: "https://osf.io/preprints/osf/q6xyr"
-  datarepo: "https://osf.io/a7g95/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-- id: Thomas2024
-  text: "Thomas AT, Hope J, <u>Mathur MB</u> (under review). Documentary films can increase nationwide interest in plant-based food."
-  year: 2024
-  type: "empirical"
-  authorship: "last"
-  status: "inprep"
-  preprint: "https://osf.io/preprints/osf/yh94d"
-  datarepo: "https://github.com/hsflabstanford/media-impacts"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-- id: He2024
-  text: "He Z, Chu B, Yang J, Gu J, Chen Z, Liu L, Morrison T, Belloy ME, Qi X, Hejazi N, <u>Mathur MB</u>, Le Guen Y, Tang H, Hastie T, Ionita-Laza I, Sabatti C, Candes E. In silico identification of putative causal genetic variants."
-  year: 2023
-  type: "methods"
-  authorship: "middle"
-  status: "inprep"
-  preprint: "https://www.biorxiv.org/content/10.1101/2024.02.28.582621v1.abstract"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-- id: Tsui2022
-  text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, Basnight-Brown D, Bentu D, Bergmann C, Binan Dami E, Boll-Avetisyan N, de Jongh M, Diop Y, Herrmann E, Jang C, Kizito S, Lamba T, Maliwichi-Senganimalunje L, Marangu J, <u>Mathur MB</u>, et al. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
-  year: 2023
-  type: "empirical"
-  authorship: "middle"
-  status: "inprep"
-  preprint: "https://osf.io/fqp4b"
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-# --------------------------- In press ---------------------------
-#
-- id: Mathur2025a
-  text: "<u>Mathur MB</u>. On the statistical analysis of studies with attention checks. <strong>Advances in Methods and Practices in Psychological Science.</strong>"
-  year: 2025
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/preprints/osf/r9vdp/"
-  datarepo: "https://osf.io/kt6ru/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-- id: Mathur2024e
-  text: "<u>Mathur MB</u> & Shpitser I. Pitfalls of imputing using incomplete auxiliary variables. <strong>American Journal of Epidemiology.</strong>"
-  year: 2025
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/preprints/osf/c3zrh/"
-  datarepo: "https://osf.io/8pk7t/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-- id: Mathur2024a
-  text: "<u>Mathur MB</u>. On the statistical analysis of experiments with manipulation checks. <strong>Advances in Methods and Practices in Psychological Science.</strong>"
-  year: 2025
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/preprints/osf/9y8re/"
-  datarepo: "https://osf.io/78bjr/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: "10.1177/251524592412975"
-  google_id: 
+# - id: Mathur2024d
+#   text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ (under review). Resurrecting complete-case analysis: A defense."
+#   year: 2024
+#   type: "methods"
+#   authorship: "first"
+#   status: "inprep"
+#   preprint: "https://osf.io/preprints/osf/f9jvz/"
+#   datarepo: "https://osf.io/crxyw/"
+#   rpackagename: 
+#   rpackagelink: 
+#   webappname: 
+#   webapplink: 
+#   doi: 
+#   google_id: 
+# #
+# - id: Mathur2024c
+#   text: "<u>Mathur MB</u> & Shpitser I (under review). Imputation without nightMARs: Graphical criteria for valid imputation of missing data."
+#   year: 2024
+#   type: "methods"
+#   authorship: "first"
+#   status: "inprep"
+#   preprint: "https://osf.io/preprints/osf/zqne9/"
+#   datarepo: "https://osf.io/27aue/"
+#   rpackagename: 
+#   rpackagelink: 
+#   webappname: 
+#   webapplink: 
+#   doi: 
+#   google_id: 
+# #
+# - id: Dowd2025
+#   text: "Madley-Dowd P, Hughes RA, <u>Mathur MB</u>, Heron J, Tilling K (under review). Using directed acyclic graphs to determine whether multiple imputation or subsample multiple imputation estimates of an exposure-outcome association are unbiased."
+#   year: 2025
+#   type: "methods"
+#   authorship: "middle"
+#   status: "inprep"
+#   preprint: "https://arxiv.org/abs/2503.24035"
+#   datarepo: 
+#   rpackagename: 
+#   rpackagelink: 
+#   webappname: 
+#   webapplink: 
+#   doi: 
+#   google_id: 
+# #
+# - id: Green2024
+#   text: "Green SA, Smith B, <u>Mathur MB</u> (under review). Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis."
+#   year: 2024
+#   type: "empirical"
+#   authorship: "last"
+#   status: "inprep"
+#   preprint: "https://osf.io/preprints/osf/q6xyr"
+#   datarepo: "https://osf.io/a7g95/"
+#   rpackagename: 
+#   rpackagelink: 
+#   webappname: 
+#   webapplink: 
+#   doi: 
+#   google_id: 
+# #
+# - id: Thomas2024
+#   text: "Thomas AT, Hope J, <u>Mathur MB</u> (under review). Documentary films can increase nationwide interest in plant-based food."
+#   year: 2024
+#   type: "empirical"
+#   authorship: "last"
+#   status: "inprep"
+#   preprint: "https://osf.io/preprints/osf/yh94d"
+#   datarepo: "https://github.com/hsflabstanford/media-impacts"
+#   rpackagename: 
+#   rpackagelink: 
+#   webappname: 
+#   webapplink: 
+#   doi: 
+#   google_id: 
+# #
+# - id: He2024
+#   text: "He Z, Chu B, Yang J, Gu J, Chen Z, Liu L, Morrison T, Belloy ME, Qi X, Hejazi N, <u>Mathur MB</u>, Le Guen Y, Tang H, Hastie T, Ionita-Laza I, Sabatti C, Candes E. In silico identification of putative causal genetic variants."
+#   year: 2023
+#   type: "methods"
+#   authorship: "middle"
+#   status: "inprep"
+#   preprint: "https://www.biorxiv.org/content/10.1101/2024.02.28.582621v1.abstract"
+#   datarepo: 
+#   rpackagename: 
+#   rpackagelink: 
+#   webappname: 
+#   webapplink: 
+#   doi: 
+#   google_id: 
+# #
+# - id: Tsui2022
+#   text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, Basnight-Brown D, Bentu D, Bergmann C, Binan Dami E, Boll-Avetisyan N, de Jongh M, Diop Y, Herrmann E, Jang C, Kizito S, Lamba T, Maliwichi-Senganimalunje L, Marangu J, <u>Mathur MB</u>, et al. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
+#   year: 2023
+#   type: "empirical"
+#   authorship: "middle"
+#   status: "inprep"
+#   preprint: "https://osf.io/fqp4b"
+#   datarepo: 
+#   rpackagename: 
+#   rpackagelink: 
+#   webappname: 
+#   webapplink: 
+#   doi: 
+#   google_id: 
+# #
+# # --------------------------- In press ---------------------------
+# #
+# - id: Mathur2025a
+#   text: "<u>Mathur MB</u>. On the statistical analysis of studies with attention checks. <strong>Advances in Methods and Practices in Psychological Science.</strong>"
+#   year: 2025
+#   type: "methods"
+#   authorship: "first"
+#   status: "inpress"
+#   preprint: "https://osf.io/preprints/osf/r9vdp/"
+#   datarepo: "https://osf.io/kt6ru/"
+#   rpackagename: 
+#   rpackagelink: 
+#   webappname: 
+#   webapplink: 
+#   doi: 
+#   google_id: 
+# #
+# - id: Mathur2024e
+#   text: "<u>Mathur MB</u> & Shpitser I. Pitfalls of imputing using incomplete auxiliary variables. <strong>American Journal of Epidemiology.</strong>"
+#   year: 2025
+#   type: "methods"
+#   authorship: "first"
+#   status: "inpress"
+#   preprint: "https://osf.io/preprints/osf/c3zrh/"
+#   datarepo: "https://osf.io/8pk7t/"
+#   rpackagename: 
+#   rpackagelink: 
+#   webappname: 
+#   webapplink: 
+#   doi: 
+#   google_id: 
+# #
+# - id: Mathur2024a
+#   text: "<u>Mathur MB</u>. On the statistical analysis of experiments with manipulation checks. <strong>Advances in Methods and Practices in Psychological Science.</strong>"
+#   year: 2025
+#   type: "methods"
+#   authorship: "first"
+#   status: "inpress"
+#   preprint: "https://osf.io/preprints/osf/9y8re/"
+#   datarepo: "https://osf.io/78bjr/"
+#   rpackagename: 
+#   rpackagelink: 
+#   webappname: 
+#   webapplink: 
+#   doi: "10.1177/251524592412975"
+#   google_id: "NU-BerS4NX4C"
 #
 - id: Mathur2023e
   text: "<u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment. <strong>The Annals of Statistics.</strong>"
