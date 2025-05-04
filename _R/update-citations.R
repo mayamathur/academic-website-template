@@ -80,10 +80,14 @@ for (i in seq_along(x)) {
   z <- c(x[[i]], google_cites=list(NULL))
   pid <- z$google_id
   if (!is.null(z$google_id)) {
-    cat("  - getting citations for PID", z$google_id, "\n")
+    cat("  - getting citations for PID ", z$google_id, " ... ", sep="")
     cit_cnt <- get_cites(z$google_id)
-    if (!is.null(cit_cnt))
+    if (!is.null(cit_cnt)) {
       z$google_cites <- cit_cnt
+      cat("found ", cit_cnt, " citations\n", sep="")
+    } else {
+      cat("failed to pull citation info\n", sep="")
+    }
   }
   x[[i]] <- z
 }
