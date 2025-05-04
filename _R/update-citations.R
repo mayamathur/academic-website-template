@@ -13,6 +13,9 @@ get_article_cite_history2 = function (id, article)
   url_tail <- paste(id, article, sep = ":")
   url <- paste0(url_base, url_tail)
   res <- get_scholar_resp(url)
+
+  str(res)
+
   if (is.null(res)) 
     return(NA)
   httr::stop_for_status(res, "get user id / article information")
@@ -36,8 +39,7 @@ get_article_cite_history2 = function (id, article)
                 df, all.x = TRUE)
     df[is.na(df)] <- 0
     df$pubid <- article
-  }
-  else {
+  } else {
     df$pubid <- vector(mode = mode(article))
   }
   return(df)
