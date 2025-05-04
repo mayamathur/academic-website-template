@@ -20,8 +20,8 @@ jobs:
       - name: Install
         run: Rscript -e 'install.packages(c("yaml", "scholar"))'
 
-      - name: Run update script
-        run: Rscript _R/update-citations.R
+      # - name: Run update script
+      #   run: Rscript _R/update-citations.R
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
