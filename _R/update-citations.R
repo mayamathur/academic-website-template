@@ -5,16 +5,30 @@ library(rvest) #@MM added to fix error about not finding read_html
 library(xml2)
 
 # TEMPORARILY OVERWRITE SCHOLAR'S OWN FN 
-get_article_cite_history2 = function (id, article) 
-{
+get_article_cite_history2 = function (id, article, verbose=FALSE) {
   site <- getOption("scholar_site")
+  if (verbose)
+    cat("site:", site, "\n")
   id <- tidy_id(id)
+  if (verbose)
+    cat("id:", id, "\n")
   url_base <- paste0(site, "/citations?", "view_op=view_citation&hl=en&citation_for_view=")
   url_tail <- paste(id, article, sep = ":")
   url <- paste0(url_base, url_tail)
+  if (verbose)
+    cat("url:", url, "\n")
   res <- get_scholar_resp(url)
+
+  if (verbose) {
+    cat("Response object:\n")
+    str(res)
+  }
+
   if (is.null(res)) 
-    return(NA)
+    return(NULL)
+
+  if (verbose)
+    cat("Processing response ... ")
   httr::stop_for_status(res, "get user id / article information")
   doc <- read_html(res)
   years <- doc %>% html_nodes(".gsc_oci_g_t") %>% html_text() %>% 
@@ -36,9 +50,12 @@ get_article_cite_history2 = function (id, article)
                 df, all.x = TRUE)
     df[is.na(df)] <- 0
     df$pubid <- article
-  }
-  else {
+  } else {
     df$pubid <- vector(mode = mode(article))
+  }
+  if (verbose) {
+    cat("OK\nReturning data frame:\n")
+    print(df)
   }
   return(df)
 }
@@ -49,7 +66,10 @@ aid <- "vmuNN1sAAAAJ"
 # function to simplify queries
 get_cites <- function(pid) {
   #@MM: using my own patched fn
-  as.integer(sum(get_article_cite_history2(aid, pid)$cites))
+  df <- get_article_cite_history2(aid, pid, verbose=FALSE)
+  if (is.null(df))
+    return(NULL)
+  as.integer(sum(df$cites))
 }
 
 # read in the yml file
@@ -61,7 +81,9 @@ for (i in seq_along(x)) {
   pid <- z$google_id
   if (!is.null(z$google_id)) {
     cat("  - getting citations for PID", z$google_id, "\n")
-    z$google_cites <- get_cites(z$google_id)
+    cit_cnt <- get_cites(z$google_id)
+    if (!is.null(cit_cnt))
+      z$google_cites <- cit_cnt
   }
   x[[i]] <- z
 }
