@@ -25,7 +25,7 @@ get_article_cite_history2 = function (id, article, verbose=FALSE) {
   }
 
   if (is.null(res)) 
-    return(NA)
+    return(NULL)
 
   if (verbose)
     cat("Processing response ... ")
