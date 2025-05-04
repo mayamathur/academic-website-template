@@ -66,7 +66,10 @@ aid <- "vmuNN1sAAAAJ"
 # function to simplify queries
 get_cites <- function(pid) {
   #@MM: using my own patched fn
-  as.integer(sum(get_article_cite_history2(aid, pid, verbose=TRUE)$cites))
+  df <- get_article_cite_history2(aid, pid, verbose=FALSE)
+  if (is.null(df))
+    return(NULL)
+  as.integer(sum(df$cites))
 }
 
 # read in the yml file
@@ -78,7 +81,9 @@ for (i in seq_along(x)) {
   pid <- z$google_id
   if (!is.null(z$google_id)) {
     cat("  - getting citations for PID", z$google_id, "\n")
-    z$google_cites <- get_cites(z$google_id)
+    cit_cnt <- get_cites(z$google_id)
+    if (!is.null(cit_cnt))
+      z$google_cites <- cit_cnt
   }
   x[[i]] <- z
 }
