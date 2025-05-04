@@ -1,1804 +1,1804 @@
 # --------------------------- In preparation ---------------------------
 #
-# - id: Mathur2024d
-#   text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ (under review). Resurrecting complete-case analysis: A defense."
-#   year: 2024
-#   type: "methods"
-#   authorship: "first"
-#   status: "inprep"
-#   preprint: "https://osf.io/preprints/osf/f9jvz/"
-#   datarepo: "https://osf.io/crxyw/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: 
-#   google_id: 
-# #
-# - id: Mathur2024c
-#   text: "<u>Mathur MB</u> & Shpitser I (under review). Imputation without nightMARs: Graphical criteria for valid imputation of missing data."
-#   year: 2024
-#   type: "methods"
-#   authorship: "first"
-#   status: "inprep"
-#   preprint: "https://osf.io/preprints/osf/zqne9/"
-#   datarepo: "https://osf.io/27aue/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: 
-#   google_id: 
-# #
-# - id: Dowd2025
-#   text: "Madley-Dowd P, Hughes RA, <u>Mathur MB</u>, Heron J, Tilling K (under review). Using directed acyclic graphs to determine whether multiple imputation or subsample multiple imputation estimates of an exposure-outcome association are unbiased."
-#   year: 2025
-#   type: "methods"
-#   authorship: "middle"
-#   status: "inprep"
-#   preprint: "https://arxiv.org/abs/2503.24035"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: 
-#   google_id: 
-# #
-# - id: Green2024
-#   text: "Green SA, Smith B, <u>Mathur MB</u> (under review). Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis."
-#   year: 2024
-#   type: "empirical"
-#   authorship: "last"
-#   status: "inprep"
-#   preprint: "https://osf.io/preprints/osf/q6xyr"
-#   datarepo: "https://osf.io/a7g95/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: 
-#   google_id: 
-# #
-# - id: Thomas2024
-#   text: "Thomas AT, Hope J, <u>Mathur MB</u> (under review). Documentary films can increase nationwide interest in plant-based food."
-#   year: 2024
-#   type: "empirical"
-#   authorship: "last"
-#   status: "inprep"
-#   preprint: "https://osf.io/preprints/osf/yh94d"
-#   datarepo: "https://github.com/hsflabstanford/media-impacts"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: 
-#   google_id: 
-# #
-# - id: He2024
-#   text: "He Z, Chu B, Yang J, Gu J, Chen Z, Liu L, Morrison T, Belloy ME, Qi X, Hejazi N, <u>Mathur MB</u>, Le Guen Y, Tang H, Hastie T, Ionita-Laza I, Sabatti C, Candes E. In silico identification of putative causal genetic variants."
-#   year: 2023
-#   type: "methods"
-#   authorship: "middle"
-#   status: "inprep"
-#   preprint: "https://www.biorxiv.org/content/10.1101/2024.02.28.582621v1.abstract"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: 
-#   google_id: 
-# #
-# - id: Tsui2022
-#   text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, Basnight-Brown D, Bentu D, Bergmann C, Binan Dami E, Boll-Avetisyan N, de Jongh M, Diop Y, Herrmann E, Jang C, Kizito S, Lamba T, Maliwichi-Senganimalunje L, Marangu J, <u>Mathur MB</u>, et al. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
-#   year: 2023
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "inprep"
-#   preprint: "https://osf.io/fqp4b"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: 
-#   google_id: 
-# #
-# # --------------------------- In press ---------------------------
-# #
-# - id: Mathur2025a
-#   text: "<u>Mathur MB</u>. On the statistical analysis of studies with attention checks. <strong>Advances in Methods and Practices in Psychological Science.</strong>"
-#   year: 2025
-#   type: "methods"
-#   authorship: "first"
-#   status: "inpress"
-#   preprint: "https://osf.io/preprints/osf/r9vdp/"
-#   datarepo: "https://osf.io/kt6ru/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: 
-#   google_id: 
-# #
-# - id: Mathur2024e
-#   text: "<u>Mathur MB</u> & Shpitser I. Pitfalls of imputing using incomplete auxiliary variables. <strong>American Journal of Epidemiology.</strong>"
-#   year: 2025
-#   type: "methods"
-#   authorship: "first"
-#   status: "inpress"
-#   preprint: "https://osf.io/preprints/osf/c3zrh/"
-#   datarepo: "https://osf.io/8pk7t/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: 
-#   google_id: 
-# #
-# - id: Mathur2024a
-#   text: "<u>Mathur MB</u>. On the statistical analysis of experiments with manipulation checks. <strong>Advances in Methods and Practices in Psychological Science.</strong>"
-#   year: 2025
-#   type: "methods"
-#   authorship: "first"
-#   status: "inpress"
-#   preprint: "https://osf.io/preprints/osf/9y8re/"
-#   datarepo: "https://osf.io/78bjr/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1177/251524592412975"
-#   google_id: "NU-BerS4NX4C"
+- id: Mathur2024d
+  text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ (under review). Resurrecting complete-case analysis: A defense."
+  year: 2024
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/osf/f9jvz/"
+  datarepo: "https://osf.io/crxyw/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
 #
-# - id: Mathur2023e
-#   text: "<u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment. <strong>The Annals of Statistics.</strong>"
-#   year: 2025
-#   type: "methods"
-#   authorship: "first"
-#   status: "inpress"
-#   preprint: "https://osf.io/ths4e/"
-#   datarepo: "https://osf.io/crxyw/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.31219/osf.io/ths4e"
-#   google_id: "c1AJUTjuCtUC"
-# # 
-# - id: Voski2025
-#   text: "Voski A, Braginsky M, Zhang A, Bertoldo J, Egan S, Levig LA, Ihrig MM, <u>Mathur MB</u>. Effect of a portion-size default nudge on meat consumption and diner satisfaction: Controlled experiments in university dining halls. <strong>BMC Public Health.</strong>"
+- id: Mathur2024c
+  text: "<u>Mathur MB</u> & Shpitser I (under review). Imputation without nightMARs: Graphical criteria for valid imputation of missing data."
+  year: 2024
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/osf/zqne9/"
+  datarepo: "https://osf.io/27aue/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+- id: Dowd2025
+  text: "Madley-Dowd P, Hughes RA, <u>Mathur MB</u>, Heron J, Tilling K (under review). Using directed acyclic graphs to determine whether multiple imputation or subsample multiple imputation estimates of an exposure-outcome association are unbiased."
+  year: 2025
+  type: "methods"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://arxiv.org/abs/2503.24035"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+- id: Green2024
+  text: "Green SA, Smith B, <u>Mathur MB</u> (under review). Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis."
+  year: 2024
+  type: "empirical"
+  authorship: "last"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/osf/q6xyr"
+  datarepo: "https://osf.io/a7g95/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+- id: Thomas2024
+  text: "Thomas AT, Hope J, <u>Mathur MB</u> (under review). Documentary films can increase nationwide interest in plant-based food."
+  year: 2024
+  type: "empirical"
+  authorship: "last"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/osf/yh94d"
+  datarepo: "https://github.com/hsflabstanford/media-impacts"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+- id: He2024
+  text: "He Z, Chu B, Yang J, Gu J, Chen Z, Liu L, Morrison T, Belloy ME, Qi X, Hejazi N, <u>Mathur MB</u>, Le Guen Y, Tang H, Hastie T, Ionita-Laza I, Sabatti C, Candes E. In silico identification of putative causal genetic variants."
+  year: 2023
+  type: "methods"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://www.biorxiv.org/content/10.1101/2024.02.28.582621v1.abstract"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+- id: Tsui2022
+  text: "Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, Basnight-Brown D, Bentu D, Bergmann C, Binan Dami E, Boll-Avetisyan N, de Jongh M, Diop Y, Herrmann E, Jang C, Kizito S, Lamba T, Maliwichi-Senganimalunje L, Marangu J, <u>Mathur MB</u>, et al. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong> Accepted pending data collection."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "inprep"
+  preprint: "https://osf.io/fqp4b"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+# --------------------------- In press ---------------------------
+#
+- id: Mathur2025a
+  text: "<u>Mathur MB</u>. On the statistical analysis of studies with attention checks. <strong>Advances in Methods and Practices in Psychological Science.</strong>"
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/preprints/osf/r9vdp/"
+  datarepo: "https://osf.io/kt6ru/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+- id: Mathur2024e
+  text: "<u>Mathur MB</u> & Shpitser I. Pitfalls of imputing using incomplete auxiliary variables. <strong>American Journal of Epidemiology.</strong>"
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/preprints/osf/c3zrh/"
+  datarepo: "https://osf.io/8pk7t/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+- id: Mathur2024a
+  text: "<u>Mathur MB</u>. On the statistical analysis of experiments with manipulation checks. <strong>Advances in Methods and Practices in Psychological Science.</strong>"
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/preprints/osf/9y8re/"
+  datarepo: "https://osf.io/78bjr/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1177/251524592412975"
+  google_id: "NU-BerS4NX4C"
+
+- id: Mathur2023e
+  text: "<u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment. <strong>The Annals of Statistics.</strong>"
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/ths4e/"
+  datarepo: "https://osf.io/crxyw/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/ths4e"
+  google_id: "c1AJUTjuCtUC"
+# 
+- id: Voski2025
+  text: "Voski A, Braginsky M, Zhang A, Bertoldo J, Egan S, Levig LA, Ihrig MM, <u>Mathur MB</u>. Effect of a portion-size default nudge on meat consumption and diner satisfaction: Controlled experiments in university dining halls. <strong>BMC Public Health.</strong>"
+  year: 2025
+  type: "empirical"
+  authorship: "last"
+  status: "inpress"
+  preprint: "https://osf.io/preprints/osf/9y53n"
+  datarepo: "https://osf.io/2hy74/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
+# - id: Thomas2025
+#   text: "Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K (2025). What can large language models do for sustainable food? <strong>Proceedings of the 42nd International Conference on Machine Learning [PMLR-2025].</strong>"
 #   year: 2025
 #   type: "empirical"
-#   authorship: "last"
+#   authorship: "middle"
 #   status: "inpress"
-#   preprint: "https://osf.io/preprints/osf/9y53n"
-#   datarepo: "https://osf.io/2hy74/"
+#   preprint: "https://www.researchgate.net/publication/388860023_What_Can_Large_Language_Models_Do_for_Sustainable_Food"
+#   datarepo: 
 #   rpackagename: 
 #   rpackagelink: 
 #   webappname: 
 #   webapplink: 
 #   doi: 
-#   google_id: 
-# #
-# # - id: Thomas2025
-# #   text: "Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K (2025). What can large language models do for sustainable food? <strong>Proceedings of the 42nd International Conference on Machine Learning [PMLR-2025].</strong>"
-# #   year: 2025
-# #   type: "empirical"
-# #   authorship: "middle"
-# #   status: "inpress"
-# #   preprint: "https://www.researchgate.net/publication/388860023_What_Can_Large_Language_Models_Do_for_Sustainable_Food"
-# #   datarepo: 
-# #   rpackagename: 
-# #   rpackagelink: 
-# #   webappname: 
-# #   webapplink: 
-# #   doi: 
-# #   google_id:
-# # #
-# # --------------------------- 2025 ---------------------------
-# #
-# - id: Mathur2025c
-#   text: "<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist properties. <strong>Research Synthesis Methods</strong>, 16(1), 87-122."
-#   year: 2025
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.cambridge.org/core/journals/research-synthesis-methods/article/metaanalysis-with-jeffreys-priors-empirical-frequentist-properties/B6F787E5BBF8049D473AB896C65ADB39"
-#   datarepo: "https://osf.io/9qfah/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1017/rsm.2024.2"
-#   google_id: "8RAEygVn5_EC"
-# # 
-# - id: Mathur2025b
-#   text: "<u>Mathur MB</u> & Shpitser I. Mathur and Shpitser respond to 'The evolution of selection bias in the recent epidemiologic literature – a selective overview'. <strong>American Journal of Epidemiology</strong>, 194(1), 585-586."
-#   year: 2025
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://academic.oup.com/aje/article/194/3/585/7746107?utm_source=authortollfreelink&utm_campaign=aje&utm_medium=email&guestAccessKey=016f6a79-6dc3-4083-803f-e871b263cb41"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1093/aje/kwae287"
-#   google_id: "_mQi-xiA4oYC"
-# #
-# - id: Mathur2025a
-#   text: "<u>Mathur MB</u> & Shpitser I (2025). Simple graphical rules for assessing selection bias in general-population and selected-sample treatment effects. <strong>American Journal of Epidemiology</strong>, 194(1), 267-277."
-#   year: 2025
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://academic.oup.com/aje/article/194/1/267/7696650?utm_source=etoc&utm_campaign=aje&utm_medium=email#500381322"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1093/aje/kwae145"
-#   google_id: "S2WlVNSe3u4C"
-# #
-# - id: Panda2025
-#   text: "Panda P, Deng Y, Frang A, Ward V, Wang E, Newberry J, <u>Mathur MB</u>, Patel A (2025). Increased emergency department identification of youth experiencing trafficking during the COVID-19 pandemic: An interrupted time series analysis. <strong>Public Health Reports</strong>, 140(1_suppl), 74S-81S."
-#   year: 2025
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://journals.sagepub.com/doi/10.1177/00333549241279662"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1177/00333549241279"
-#   google_id: "zdX0sdgBH_kC"
-# #
-# - id: Ricotta2025
-#   text: "Ricotta EE, Carrillo FAB, Angelli-Nichols S, Barugahare J, Benton A, Carlson CJ, Chang-Rabley E, Dean N, Duda SN, Federer L, Fill MMA, LeRoy EC, Linton NM, Lipsitch M, <u>Mathur MB</u>, Phelan AL, Rid A, Rosen JB, Sauer L, Sullivan SG, Zendt M, Evans NG (2025). Observational research in epidemic settings: A roadmap to reform. <strong>BMJ Global Health</strong>, 10, e017981."
-#   year: 2025
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://gh.bmj.com/content/10/2/e017981"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1136/bmjgh-2024-017981"
-#   google_id: "wkm4DBaukwsC"
-# #
-# - id: Winslow2025
-#   text: "Winslow J & <u>Mathur MB</u> (2025). Reanalysis of 'A longitudinal study of meat reduction over time in the UK.' <strong>Food Quality and Preference,</strong> 123, 105324."
-#   year: 2025
-#   type: "empirical"
-#   authorship: "last"
-#   status: "published"
-#   preprint: "https://www.sciencedirect.com/science/article/pii/S095032932400226X?dgcid=coauthor"
-#   datarepo: "https://osf.io/sxtq7/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1016/j.foodqual.2024.105324"
-#   google_id: "B2rIPIGFPLEC"
-# #
-# # --------------------------- 2024 ---------------------------
-# #
-# - id: Mathur2024d
-#   text: "<u>Mathur MB</u> & Mathur VS (2024). Toward evidence-based communication on overweight body mass index and mortality. <strong>BMC Medicine,</strong> 22(1):183."
-#   year: 2024
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://pubmed.ncbi.nlm.nih.gov/38693530/"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1186/s12916-024-03402-2"
-#   google_id: "4QKQTXcH0q8C"
-# # 
-# - id: Mathur2023a
-#   text: "<u>Mathur MB</u> (2024). P-hacking in meta-analyses: A formalization and new meta-analytic methods. <strong>Research Synthesis Methods,</strong> 15(3), 483-499."
-#   year: 2024
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://osf.io/ezjsx"
-#   datarepo: "https://osf.io/gk5ez/"
-#   rpackagename: "phacking"
-#   rpackagelink: "https://cran.r-project.org/web/packages/phacking/index.html"
-#   webappname: "Online tool"
-#   webapplink: "https://metabias.io/phacking/"
-#   doi: "10.31219/osf.io/ezjsx"
-#   google_id: "wBLCggQE-ToC"
-# #
-# #
-# - id: Mathur2024b
-#   text: "<u>Mathur MB</u> (2024). Assessing robustness to worst case publication bias using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851."
-#   year: 2024
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.bmj.com/content/384/bmj-2023-076851"
-#   datarepo: "https://osf.io/8nqwy/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1136/bmj-2023-076851"
-#   google_id: "pUxgyZctzPYC"
-# #
-# - id: Mathur2024a
-#   text: "<u>Mathur MB</u> (2024). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses. <strong>Research Synthesis Methods</strong>, 15(1), 21-43."
-#   year: 2024
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1667"
-#   datarepo: "https://osf.io/3cz56/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1002/jrsm.1667"
-#   google_id: "u3T1itk59dMC"
-# #
-# - id: Zhang2024
-#   text: "Zhang G, Tynelius P, <u>Mathur MB</u>, Quartagno M, Branden G, Lijeros F, Kosidou K. Population trends and individual fluidity of sexual identity in Stockholm County, 2010 to 2021. <strong>JAMA Network Open,</strong> 7(12):e2447627."
-#   year: 2024
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827231"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1001/jamanetworkopen.2024.47627"
-#   google_id: "ujxm2eEBZHIC"
-# #
-# - id: Li2024
-#   text: "Li LZ, Yang P, Singer SJ, Pfeffer J, <u>Mathur MB</u>, Shanafelt T. Nurse burnout and patient safety, satisfaction, and quality of care: A meta-analysis. <strong>JAMA Network Open</strong>, 7(11):e2443059."
-#   year: 2024
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825639"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1001/jamanetworkopen.2024.43059"
-#   google_id: "u0Mu_IsstPMC"
-# #
-# - id: Bane2024
-#   text: "Bane S, Carmichael S, <u>Mathur MB</u>, Simard J (2024). Considering pregnancies as repeated versus independent events: An empirical comparison of common approaches across selected perinatal outcomes. <strong>American Journal of Obstetrics & Gynecology Maternal-Fetal Medicine,</strong> 6(8), 101434."
-#   year: 2024
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.sciencedirect.com/science/article/pii/S2589933324001605?casa_token=IxZU-VEatBsAAAAA:5JmDQZslVS2oIVjnzcVicPTrt6g_tZgLg6IAi3UrJB4-P9yZpwxbyEqLvDvhUwxeYgKZnqsjRA"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1016/j.ajogmf.2024.101434"
-#   google_id: "mVC4hKzE2FoC"
-# #
-# - id: Kurniati2024
-#   text: "Kurniati NMT, Cowden RG, Zulkaida A, Gunatirin EY, Rahardjo W, Elizabeth MP, Suryani AI, Cynthia T, Rini QK, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington EL (2024). A randomized controlled trial of a brief self-directed secular REACH forgiveness intervention with Indonesian Christians: Does religiousness matter? <strong>Spirituality in Clinical Practice,</strong> 11(3), 297-314."
-#   year: 2024
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://psycnet.apa.org/record/2025-19554-008"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1037/scp0000374"
-#   google_id: "GJVTs2krol4C"
-# #
-# - id: Zhao2024
-#   text: "Zhao D, Cheng S, Tsui R, <u>Mathur MB</u>, Wang CJ (2024). Risk of aircraft-acquired COVID-19 transmission during commercial flights: A systematic review. <strong>International Journal of Environmental Research and Public Health,</strong> 21(6), 654."
-#   year: 2024
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.mdpi.com/1660-4601/21/6/654"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.3390/ijerph21060654"
-#   google_id: "i91s68tWr-MC"
-# #
-# - id: Zettersten2024
-#   text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (2024). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind,</strong> 8, 439-461."
-#   year: 2024
-#   type: "empirical"
-#   authorship: "last"
-#   status: "published"
-#   preprint: "https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00134/120611/Evidence-for-Infant-directed-Speech-Preference-Is/"
-#   datarepo: "https://osf.io/amj7u/?_gl=1*dba49g*_ga*MTU4NTA4MTEwNi4xNjkwODM4NTI4*_ga_YE9BMGGWX8*MTY5NTMyODYwNC4xMi4xLjE2OTUzMjg3NjQuNjAuMC4w"
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1162/opmi_a_00134"
-#   google_id: "K4-iKlO5MD4C"
-# #
-# - id: Ho2024
-#   text: "Ho MY, Worthington EL, Cowden RG, Bechara AO, Chen ZJ, Gunatirin EY, Joynt S, Khalanskyi VV, Korzhov H, Kurniati NMT, Rodriguez N Salnykova A, Shtanko L, Tymchenko S, Voytenko VL, Zulkaida A, <u>Mathur MB</u>, VanderWeele TJ (2024). International REACH forgiveness intervention: A multisite randomised controlled trial. <strong>BMJ Public Health,</strong> 2:e000072."
-#   year: 2024
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://osf.io/8qzgw/"
-#   datarepo: "https://osf.io/f34jp"
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "https://doi.org/10.31219/osf.io/8qzgw"
-#   google_id: "j5aT6aphRxQC"
-# #
-# - id: Bechara2024
-#   text: "Bechara AO, Chen ZJ, Cowden RG, Worthington EL, Toussaint L, Rodriguez N, Murillo HG, Ho MY, <u>Mathur MB</u>, VanderWeele TJ (2024). Do forgiveness campaign activities improve forgiveness, mental health, and flourishing? <strong>International Journal of Public Health</strong>, 69:1605341."
-#   year: 2024
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://bmjpublichealth.bmj.com/content/2/1/e000072"
-#   datarepo: 
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1136/bmjph-2023-000072"
-#   google_id: "gmHTDCtJMcoC"
-# #
-# # --------------------------- 2023 ---------------------------
-# #
-# - id: Mathur2023g
-#   text: "<u>Mathur MB</u> & Fox MP (2023). Toward open and reproducible epidemiology. <strong>American Journal of Epidemiology</strong>, 192(4), 658-664. "
-#   year: 2023
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwad007/6982711"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1093/aje/kwad007"    
-#   google_id: "l6Q3WhenKVUC"
-# #
-# - id: Mathur2023f
-#   text: "<u>Mathur MB</u> & Mathur VS (2023). Primary care physicians' perceptions of the effects of being overweight on all-cause mortality. <strong>Epidemiology</strong>, 34(3), e19-e20."
-#   year: 2023
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://journals.lww.com/epidem/Fulltext/2023/05000/Primary_Care_Physicians__Perceptions_of_the.21.aspx"
-#   datarepo: "https://osf.io/9ydkm"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1097/EDE.0000000000001590"
-#   google_id: "CMvovTBb2okC"
-# #
-# - id: Mathur2023b
-#   text: "<u>Mathur MB</u> (2023). The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology</strong>, 192(4), 612-620."
-#   year: 2023
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://academic.oup.com/aje/article/192/4/612/6873724"
-#   datarepo: "https://osf.io/v8ma6/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1093/aje/kwac207"    
-#   google_id: "oursBaop5wYC"
-# #
-# - id: Mathur2023e
-#   text: "<u>Mathur MB</u>, Covington C, VanderWeele TJ (2023). Variation across analysts in statistical significance, yet consistently small effect sizes. <strong>Proceedings of the National Academy of Sciences,</strong> 120(3):e2218957120."
-#   year: 2023
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.pnas.org/doi/10.1073/pnas.2218957120"
-#   datarepo: "https://github.com/ctcovington/MCV_BRWN-22_comment"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1073/pnas.2219555120"
-#   google_id: "yJjnfzR0HrkC"
-# #
-# - id: Mathur2023c
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2023). New metrics for multiple testing with correlated outcomes. <strong>Frontiers in Applied Mathematics and Statistics,</strong> 9:1151314."
-#   year: 2023
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.frontiersin.org/articles/10.3389/fams.2023.1151314/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Applied_Mathematics_and_Statistics&id=1151314"
-#   datarepo: "https://osf.io/qj9wa/"
-#   rpackagename: "NRejections"
-#   rpackagelink: "https://cran.r-project.org/web/packages/NRejections/index.html"
-#   webappname: 
-#   webapplink: 
-#   doi: "10.3389/fams.2023.1151314"
-#   google_id: "xm0LlTxljI0C"
-# #
-# - id: Boyce2023
-#   text: "Boyce V, <u>Mathur MB</u>, Frank MC (2023). Eleven years of student replication projects provide evidence on the correlates of replicability in psychology. <strong>Royal Society Open Science</strong>, 10:231240."
-#   year: 2023
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://royalsocietypublishing.org/doi/full/10.1098/rsos.231240"
-#   datarepo: "https://osf.io/xwn9m/"
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1098/rsos.231240"
-#   google_id: "17ZO-CJnx_8C"
-# #
-# - id: Marcone2023
-#   text: "Marcone AL, Darmstadt GL, Amsler Challamel G, <u>Mathur MB</u>, Gardner CD. Effects of an educational planetary plate graphic on meat consumption in Stanford University dining hall: A randomized controlled trial. <strong>BMC Nutrition</strong>, 9:106."
-#   year: 2023
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://bmcnutr.biomedcentral.com/counter/pdf/10.1186/s40795-023-00764-3.pdf"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1186/s40795-023-00764-3"
-#   google_id: "cSdaV2aYdYsC"
-# #
-# - id: Rivera2023
-#   text: "Rivera N, Nguyen K, Kalami V, Qin F, <u>Mathur MB</u>, Blankenburg R, Yeh AM. A Specific Carbohydrate Diet virtual teaching kitchen promotes knowledge and confidence in caregivers of pediatric patients with inflammatory bowel disease. <strong>Nutrients</strong>, 15(18):3999."
-#   year: 2023
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.mdpi.com/2072-6643/15/18/3999"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.3390/nu15183999"
-#   google_id: "wGzT3bKASkAC"
-# #
-# - id: Zhang2023a
-#   text: "Zhang GC, Basna R, <u>Mathur MB</u>, Lässer C, Mincheva R, Ekerljung L, et al. Exogenous female sex steroid hormones and new onset asthma in women: A matched case-control study. <strong>BMC Medicine,</strong> 21:337."
-#   year: 2023
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03038-8"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1186/s12916-023-03038-8"
-#   google_id: "rqnDXT1GswoC"
-# #
-# - id: Li2023b
-#   text: "Li Y, <u>Mathur MB</u>, Solomon DH, Ridker PM, Glynn RJ, Yoshida K. Effect measure modification by covariates in mediation: Extending regression-based causal mediation analysis. <strong>Epidemiology</strong>, 34(5):661-672."
-#   year: 2023
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://journals.lww.com/epidem/fulltext/2023/09000/effect_measure_modification_by_covariates_in.9.aspx"
-#   datarepo: 
-#   rpackagename: "regmedint"
-#   rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1097/EDE.0000000000001643"
-#   google_id: "eFf2swCANGcC"
-# #
-# - id: Li2023
-#   text: "Li Y, Yoshida K, Kaufman J, <u>Mathur MB</u>. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma: Theory, Research, Practice, and Policy,</strong> 15(6):930-938."
-#   year: 2023
-#   type: "methods"
-#   authorship: "last"
-#   status: "published"
-#   preprint: "https://osf.io/jath7"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1037/tra0001421"    
-#   google_id: "DquSII9TDu4C"
-# #
-# - id: Rooprai2023
-#   text: "Rooprai P, Islam N, Salameh JP, Ebrahimzadeh S, Kazi A, Frank RA, Ramsay T, <u>Mathur MB</u>, Absi M, Khalil A, Kazi S, Dawit H, Lam E, Fabiano N, McInnes MDF. Is there evidence of p-hacking in imaging research? <strong>Canadian Association of Radiologists Journal,</strong> 74(3):497-507."
-#   year: 2023
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://journals.sagepub.com/doi/full/10.1177/08465371221139418"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1177/08465371221139418"    
-#   google_id: "AFmTUeZ1pmEC"
-# #
-# - id: Hunt2023
-#   text: "Hunt IJ, Cai ZR, Nava V, Admassu NE, Bousheri S, Johnson T, Tomz A, Thompson J, Zhang L, Pagato S, Wehner MR, <u>Mathur MB</u>, Linos E. A social media-based public health campaign to reduce indoor tanning in high-risk populations. <strong>AJPM Focus</strong>, 2(3):100123."
-#   year: 2023
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.ajpmfocus.org/article/S2773-0654(23)00060-3/fulltext"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1016/j.focus.2023.100123"    
-#   google_id: "d4tt_xEv1X8C"
-# #
-# - id: Chen2023
-#   text: "Chen Y, <u>Mathur MB</u>, Case BW, VanderWeele TJ (2023). Marital transitions during earlier adulthood and subsequent health and well-being in mid-to late-life among female nurses: An outcome-wide analysis. <strong>Global Epidemiology.</strong> "
-#   year: 2023
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.sciencedirect.com/science/article/pii/S2590113323000020"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1016/j.gloepi.2023.100099"    
-#   google_id: "X5YyAB84Iw4C"
-# #
-# - id: Voytenko2023
-#   text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, Joynt S, Kocum M, Korkhov M, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington EL. Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> "
-#   year: 2023
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://psycnet.apa.org/record/2021-78192-001"
-#   datarepo: 
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1037/rel0000441"
-#   google_id: "q0uBw5dMOAkC"
-# #
-# # --------------------------- 2022 ---------------------------
-# #
-# - id: Mathur2022f
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2022). The authors respond: Effects of being overweight on mortality are unclear given multiple methodological problems. <strong>Epidemiology,</strong> 33(6):e22-e23."
-#   year: 2022
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://osf.io/3psrm"
-#   datarepo: 
-#   rpackagename:
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1097/EDE.0000000000001533"
-#   google_id: "yIeBiWEAh44C"
-# #
-# - id: Mathur2022e
-#   text: "<u>Mathur MB</u>, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2022). E-values for effect heterogeneity and approximations for causal interaction. <strong>International Journal of Epidemiology,</strong> 51(4), 1268-1275."
-#   year: 2022
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://osf.io/h6pru/"
-#   datarepo: "https://osf.io/79scv/"
-#   rpackagename: "EValue"
-#   rpackagelink: "https://CRAN.R-project.org/package=EValue"
-#   webappname: "EValue Calculator"
-#   webapplink: "http://www.evalue-calculator.com"
-#   doi: "10.1093/ije/dyac073"
-#   google_id: "QaSi33NTfwYC"
-# #
-# - id: Mathur2022d
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2022). Methods to address confounding and other biases in meta-analyses: Review and recommendations. <strong>Annual Review of Public Health</strong>, 43, 19-35."
-#   year: 2022
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.annualreviews.org/doi/abs/10.1146/annurev-publhealth-051920-114020"
-#   datarepo: "https://osf.io/yd3ws/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1146/annurev-publhealth-051920-114020"
-#   google_id: "uUvzmPk0f8oC"
-# #
-# #
-# - id: Mathur2022c
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2022). Assessing uncontrolled confounding in associations of being overweight with all-cause mortality. <strong>JAMA Network Open</strong>, 5(3), e222614."
-#   year: 2022
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790428?utm_source=twitter&utm_medium=social_jamajno&utm_term=6654918060&utm_campaign=article_alert&linkId=158454028"
-#   datarepo: "https://osf.io/b3ux8/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1001/jamanetworkopen.2022.2614"
-#   google_id: "qsWQJNntlusC"
-# #
-# - id: Mathur2022b
-#   text: "<u>Mathur MB</u> (2022). Ethical drawbacks of sustainable meat choices. <strong>Science</strong>, 375, 6587."
-#   year: 2022
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://osf.io/nkyqd/"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1126/science.abo2535"
-#   google_id: "cNe27ouKFcQC"
-# #
-# - id: Mathur2022a
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2022). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. <strong>Environment International</strong>, 160, 107032."
-#   year: 2022
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.sciencedirect.com/science/article/pii/S0160412021006577?via%3Dihub/"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1016/j.envint.2021.107032"
-#   google_id: "g_UdREhPGEoC"
-# #
-# - id: Fox2022
-#   text: "Fox MP, <u>Mathur MB</u>, Matthay EC (2022). Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> "
-#   year: 2022
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.sciencedirect.com/science/article/pii/S2590113322000207?via%3Dihub"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1016/j.gloepi.2022.100090"
-#   google_id: "sgsej9ZJWHMC"
-# #
-# - id: Harris2022
-#   text: "Harris J, Ladak A, <u>Mathur MB</u> (2022). The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> "
-#   year: 2022
-#   type: "empirical"
-#   authorship: "last"
-#   status: "published"
-#   preprint: "https://psyarxiv.com/p6hbk"
-#   datarepo: "https://osf.io/gny9x/"
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1080/08927936.2022.2062868"
-#   google_id: "GYcXSSpN504C"
-# #
-# - id: Thielmann2022
-#   text: "Theilmann M, Lemp JM, Winkler V, Manne-Goehler J, Marcus ME, Probst C, Lopez-Arboleda WA, Ebert C, Bommer C, <u>Mathur M</u>, Andall-Brereton G, Bahendeka SK, Bovet P, Farzadfar F, Ghasemi E, Mayige MT, Moghaddam SS, Mwangi KJ, Naderimagham S, Sturua L, Atun R, Davies JI, Bärnighausen T, Vollmer S, Geldsetzer P.. (2022). Patterns of tobacco use in low- and middle-income countries by tobacco product and sociodemographic characteristics: a study of nationally representative survey data from 82 countries. <strong>BMJ,</strong> 378:e067582."
-#   year: 2022
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.bmj.com/content/378/bmj-2021-067582"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1136/bmj-2021-067582"
-#   google_id: 
-# # 
-# #
-# - id: Boronowsky2022
-#   text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, <u>Mathur MB</u>, Cleveland DA, Garnett E, Wharton C, Brown D, Meier A, Wang M, Braverman I, Jay JA (2022). Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> "
-#   year: 2022
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.frontiersin.org/articles/10.3389/fsufs.2022.1001157/abstract"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.3389/fsufs.2022.1001157"
-#   google_id: "qCpRzq7zkD8C"
-# #
-# - id: Grundy2022
-#   text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, Askin H, Lee J, Mintoft-Jones A, Cyna S, Dziegielewski A, Gelber R, Rowe A, <u>Mathur MB</u>, Timmons S, Zhao K, Wilks M, Peacock JR, Harris J, Rosenfelt DL, et al. Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods,</strong> 100111."
-#   year: 2022
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://osf.io/mcdsq/"
-#   datarepo: "https://osf.io/s4bz3/?view_only=e0ab65dc636944c0b2e81ad7b0632493"
-#   rpackagename:
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.17605/OSF.IO/S4BZ3"
-#   google_id: "8VtEwCQfWZkC"
-# #
-# - id: Maier2022
-#   text: "Maier M, VanderWeele TJ, <u>Mathur MB</u> (2022). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. <strong>Campbell Systematic Reviews,</strong> 2022;18:e1256."
-#   year: 2022
-#   type: "methods"
-#   authorship: "last"
-#   status: "published"
-#   preprint: "https://onlinelibrary.wiley.com/doi/full/10.1002/cl2.1256"
-#   datarepo: "https://osf.io/37y9f/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1002/cl2.1256"
-#   google_id: "bXQfdp6S9ecC"
-# #
-# - id: Lewis2022
-#   text: "Lewis M, <u>Mathur MB</u>, VanderWeele TJ, Frank MC (2022). The puzzling relationship between multi-lab replications and meta-analyses of the published literature. <strong>Royal Society Open Science</strong>, 9, 211499."
-#   year: 2022
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://royalsocietypublishing.org/doi/full/10.1098/rsos.211499"
-#   datarepo: "https://github.com/mllewis/kvarven_reanalysis/"
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1098/rsos.211499"
-#   google_id: "e84hm74t-eoC"
-# #
-# # --------------------------- 2021 ---------------------------
-# #
-# - id: Mathur2021e
-#   text: "<u>Mathur MB</u>, Peacock JR, Robinson TN, Gardner CD (2021). Effectiveness of a theory-informed documentary to reduce consumption of meat and animal products: Three randomized controlled experiments. <strong>Nutrients</strong>, 13(12):4555."
-#   year: 2021
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.mdpi.com/2072-6643/13/12/4555"
-#   datarepo: "https://osf.io/8dzng/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.3390/nu13124555"
-#   google_id: "BJtnxTr0fRcC"
-# #
-# #
-# - id: Mathur2021a
-#   text: "<u>Mathur MB</u>, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD, Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal welfare: Meta-analysis and evidence-based recommendations. <strong>Appetite</strong>, 164: 105277."
-#   year: 2021
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.sciencedirect.com/science/article/pii/S0195666321001847"
-#   datarepo: "https://osf.io/8zsw7/"
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1016/j.appet.2021.105277"
-#   google_id: "E7VqQtBCVmcC"
-# #
-# - id: Mathur2021b
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2021). Meta-regression methods to characterize evidence strength using meaningful-effect percentages conditional on study characteristics. <strong>Research Synthesis Methods</strong>, 12(6): 731-749."
-#   year: 2021
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/jrsm.1504"
-#   datarepo: "https://osf.io/gs7fp/"
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1002/jrsm.1504"
-#   google_id: "h168fVGZblEC"
-# #
-# - id: Mathur2021c
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2021). Estimating publication bias in meta-analyses: A meta-meta-analysis across disciplines and journal tiers. <strong>Research Synthesis Methods</strong>, 12(2): 176-191."
-#   year: 2021
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://osf.io/p3xyd/"
-#   datarepo: "https://osf.io/cz8tr/"
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1002/jrsm.1464"
-#   google_id: "TGkaJS32XoUC"
-# #  
-# - id: Errington2021
-#   text: "Errington TM, <u>Mathur MB</u>, Soderberg CK, Denis A, Perfito N, Iorns E, Nosek BA. (2021). Investigating the replicability of preclinical cancer biology. <strong>eLife</strong>, 2021;10:e71601."
-#   year: 2021
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://elifesciences.org/articles/71601"
-#   datarepo: "https://osf.io/e5nvr/"
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.7554/eLife.71601"
-#   google_id: "rbGdIwl2e6cC"
-# #
-# - id: Zhang2021
-#   text: "Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser C, Kankaanranta H, Lee SH, Nwaru B (2021). Menopausal hormone therapy and women's health: An umbrella review. <strong>PLOS Medicine,</strong> 18(8): e1003731."
-#   year: 2021
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003731"
-#   datarepo: "https://osf.io/dsy37/?view_only=a5b0bfea96694a54a1b5886e3fb03765"
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1371/journal.pmed.1003731"
-#   google_id: "RXiHnyRawswC"
-# #
-# - id: Smith2021
-#   text: "Smith LH, <u>Mathur MB</u>, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634."
-#   year: 2021
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://journals.lww.com/epidem/Citation/2021/09000/Multiple_bias_Sensitivity_Analysis_Using_Bounds.2.aspx"
-#   datarepo: 
-#   rpackagename: "EValue"
-#   rpackagelink: "https://cran.r-project.org/web/packages/EValue/vignettes/multiple-bias-examples.html"
-#   webappname:
-#   webapplink:
-#   doi: "10.1097/EDE.0000000000001380"
-#   google_id: "kUhpeDhEZMUC"
-# #
-# - id: Lo2021
-#   text: "Lo RM, Purington N, McGhee SA, <u>Mathur MB</u>, Shaw GM, Schroeder AR (2021). Infant allergy testing and food allergy diagnoses before and after guidelines for early peanut introduction. <strong>The Journal of Allergy and Clinical Immunology: In Practice</strong>, 9(1):302-10."
-#   year: 2021
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.sciencedirect.com/science/article/abs/pii/S2213219820312162"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname:
-#   webapplink:
-#   doi: "10.1016/j.jaip.2020.10.060"
-#   google_id: "KI9T_ytC6pkC"
-# #
-# - id: Fu2021
-#   text: "Fu R, Sekercioglu N, <u>Mathur MB</u>, Couban R, Coyte PC. (2021). Dialysis initiation and all-cause mortality among incident adult patients with advanced chronic kidney disease: A meta-analysis with bias analysis. <strong>Kidney Medicine</strong>, 3(1), 64-75."
-#   year: 2021
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.kidneymedicinejournal.org/article/S2590-0595(20)30256-9/fulltext"
-#   datarepo: "https://osf.io/v2yu5/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname:
-#   webapplink:
-#   doi: "10.1016/j.xkme.2020.09.013"
-#   google_id: "0sTkTiv_uMkC"
-# #
-# # --------------------------- 2020 ---------------------------
-# #
-# - id: Mathur2020a
-#   text: "<u>Mathur MB</u>, Bart-Plange DJ, Aczel B, Bernstein MH, Ciunci A, Ebersole CR, Falcao F, Ashbaugh K, Hilliard RA, Jern A, Kellier DJ, Kessinger G, Kolb VS, Kovacs M, Lage CA, Langford EV, Lins S, Manfredi D, Meyet V, Moore DA, et al. (2020). Many Labs 5: Registered multisite replication of tempting-fate effects in Risen & Gilovich, 2008. <strong>Advances in Methods and Practices in Psychological Science</strong>, 3(3):394-404."
-#   year: 2020
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://journals.sagepub.com/doi/full/10.1177/2515245918785165"
-#   datarepo: "https://osf.io/h5a9y/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname:
-#   webapplink:
-#   doi: "10.1177/2515245918785165"
-#   google_id: "EaFouW7jFu4C"
-# #
-# - id: Mathur2020b
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Sensitivity analysis for unmeasured confounding in meta-analyses. <strong>Journal of the American Statistical Association</strong>, 115(529), 163-170."
-#   year: 2020
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint:
-#   datarepo: "https://osf.io/2r3gm/"
-#   rpackagename: "EValue"
-#   rpackagelink: "https://cran.r-project.org/web/packages/EValue/vignettes/meta-analysis.html"
-#   webappname: "EValue Calculator"
-#   webapplink: "https://www.evalue-calculator.com/meta/"
-#   doi: "10.1080/01621459.2018.1529598"
-#   google_id: "n3vGvpFsckwC"
-# #
-# - id: Mathur2020c
-#   text: "<u>Mathur MB</u>, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten PAM, Levitan CA, Nave G, Manfredi D, Bessette-Symons B, Szuts A, Aczel B (2020). Uncanny but not confusing: Multisite study of perceptual category confusion in the Uncanny Valley. <strong>Computers in Human Behavior</strong>, 103, 21-30."
-#   year: 2020
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.sciencedirect.com/science/article/pii/S0747563219303164"
-#   datarepo: "https://osf.io/2v6f4/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname:
-#   webapplink:
-#   doi: "10.1016/j.chb.2019.08.029"
-#   google_id: "In6cVmBjs0IC"
-# #
-# - id: Mathur2020d
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Sensitivity analysis for publication bias in meta-analyses. <strong>Journal of the Royal Statistical Society: Series C</strong>, 69(5), 1091-1119."
-#   year: 2020
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12440"
-#   datarepo: "https://osf.io/7wc2t/"
-#   rpackagename: "PublicationBias"
-#   rpackagelink: "https://CRAN.R-project.org/package=PublicationBias"
-#   webappname:
-#   webapplink:
-#   doi: "10.1111/rssc.12440"
-#   google_id: "L24QuVWYgZ0C"
-# #
-# - id: Mathur2020e
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2020). New statistical metrics for multisite replication projects. <strong>Journal of the Royal Statistical Society: Series A</strong>, 183(3):1145-1166."
-#   year: 2020
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssa.12572"
-#   datarepo: "https://osf.io/ufjg4"
-#   rpackagename: "Replicate"
-#   rpackagelink: "https://CRAN.R-project.org/package=Replicate"
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1111/rssa.12572"
-#   google_id: "N4u4nq0IxgcC"
-# #
-# - id: Mathur2020f
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Robust metrics and sensitivity analyses for meta-analyses of heterogeneous effects. <strong>Epidemiology</strong>, 31(3):356-358."
-#   year: 2020
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://journals.lww.com/epidem/Fulltext/2020/05000/Robust_Metrics_and_Sensitivity_Analyses_for.7.aspx?casa_token=GXWV40D5E4YAAAAA:NBoojG0hyzOyj5BoYBgVnX5lXHqRMUaJ8Ik8EwGh0-xnLWLTGzo8E4u7UU1Ukgm3ek63InTa_MNhopHMmQJVw8M"
-#   datarepo: "https://osf.io/6nyg8"
-#   rpackagename: "MetaUtility"
-#   rpackagelink: "https://CRAN.R-project.org/package=MetaUtility"
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1097/EDE.0000000000001180"
-#   google_id: "ifOnle78iJkC"
-# #
-# - id: Mathur2020g
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Evidence relating health care provider burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18."
-#   year: 2020
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7958380/"
-#   datarepo: "https://osf.io/3ekfm"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.7326/L19-0826"
-#   google_id: "VRfTbSk87rEC"
-# #
-# - id: Mathur2020h
-#   text: "<u>Mathur MB</u>, Robinson TN, Reichling DB, Gardner CD, Nadler JN, Bain PA, Peacock J. (2020). Reducing meat consumption by appealing to animal welfare: Protocol for a systematic review and meta-analysis. <strong>Systematic Reviews</strong>, 9(3)."
-#   year: 2020
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-1264-5"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1186/s13643-019-1264-5"
-#   google_id: "PlWzFYVEG4EC"
-# #
-# - id: Mathur2020i
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 3: Errors in the statistical justification for the 'credibility ceiling' remain uncorrected. <strong>Journal of Clinical Epidemiology</strong>, 127, 214-216."
-#   year: 2020
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://osf.io/xmcdb/"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.31219/osf.io/p3xyd"
-#   google_id: "BAanoTsO0WEC"
-# #
-# - id: Mathur2020j
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 1: Fundamental problems with the 'credibility ceiling' method for meta-analyses. <strong>Journal of Clinical Epidemiology</strong>, 127, 208-210."
-#   year: 2020
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://osf.io/4qxgf/"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.31219/osf.io/4qxgf"
-#   google_id: "lbI08cpqPnQC"
-# #
-# - id: Mathur2020k
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2020). A simple, interpretable conversion from Pearson's correlation to Cohen's d for continuous exposures. <strong>Epidemiology</strong> 31(2):e16-e18."
-#   year: 2020
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://journals.lww.com/epidem/Fulltext/2020/03000/A_Simple,_Interpretable_Conversion_from_Pearson_s.24.aspx"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1097/EDE.0000000000001105"
-#   google_id: "rOcdG6UcVlcC"
-# #
-# - id: Ling2020
-#   text: "Ling A, Montez-Rath MR, <u>Mathur MB</u>, Kapphahn K, Desai (2020). How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. <strong>Journal of Modern Applied Statistical Methods</strong> 19(1): eP3439."
-#   year: 2020
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://arxiv.org/abs/1904.07408"
-#   datarepo:
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.56801/10.56801/v19.i.1072"
-#   google_id: "tz746QTLzJkC"
-# #
-# - id: Zhang2020
-#   text: "Zhang X, Stamey JD, <u>Mathur MB</u> (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. <strong>Pharmacoepidemiology and Drug Safety</strong>, 29:1219–1227."
-#   year: 2020
-#   type: "methods"
-#   authorship: "last"
-#   status: "published"
-#   preprint: "https://osf.io/fe4gs/"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname:
-#   webapplink:
-#   doi: "10.1002/pds.5117"
-#   google_id: "aDl3D7KC1E4C"
-# #
-# - id: Ebersole2020
-#   text: "Ebersole, CA, <u>Mathur MB</u>, Baranski E, Bart-Pange DJ, Buttrick NR, Chartier CR, Corker KS, Corley M, Hartshorne JK, Ijzerman H, Lazarevic LB, Rabagliati H, Ropovik I, Aczel B, Aeschbach LF, Andrighetto L, Arnal JD, Arrow H, Babincak P, Bakos BE, et al. (2020). Many Labs 5: Testing pre-data collection peer review as an intervention to increase replicability. <strong>Advances in Methods and Practices in Psychological Science</strong>, 3(3):309-331."
-#   year: 2020
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://journals.sagepub.com/doi/full/10.1177/2515245920958687"
-#   datarepo: "https://osf.io/7a6rd/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname:
-#   webapplink:
-#   doi: "10.1177/2515245920958687"
-#   google_id: "TesyEGJKHF4C"
-# #
-# - id: VanderWeele2020a
-#   text: "VanderWeele TJ, Martin J, <u>Mathur MB</u> (2020). E-values and incidence density sampling. <strong>Epidemiology</strong>, 31(6), e51-52."
-#   year: 2020
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://journals.lww.com/epidem/Fulltext/2020/11000/E_Values_and_Incidence_Density_Sampling.22.aspx"
-#   datarepo: 
-#   rpackagename: "EValue"
-#   rpackagelink: "https://cran.r-project.org/web/packages/EValue"
-#   webappname: "EValue Calculator"
-#   webapplink: "https://www.evalue-calculator.com"
-#   doi: "10.1097/EDE.0000000000001238"
-#   google_id: "PuOEWVtPfzwC"
-# #
-# - id: VanderWeele2020b
-#   text: "VanderWeele TJ, <u>Mathur MB</u>, Chen Y (2020). Outcome-wide longitudinal studies: A new template for empirical studies. <strong>Statistical Science</strong>, 35:437-466."
-#   year: 2020
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Outcome-Wide-Longitudinal-Designs-for-Causal-Inference--A-New/10.1214/19-STS728.full"
-#   datarepo: "https://osf.io/tv3wu/"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname:
-#   webapplink:
-#   doi: "10.1214/19-STS728"
-#   google_id: "7Frjd3zlGBUC"
-# #
-# - id: VanderWeele2020c
-#   text: "VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483."
-#   year: 2020
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder-The-Future-of-Outcome-Wide-Studies/10.1214/20-STS791.short"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1214/20-STS791"
-#   google_id: "J3LtWjKFLicC"
-# #
-# - id: Linden2020
-#   text: "Linden A, <u>Mathur MB</u>, & VanderWeele TJ (2020). Conducting sensitivity analysis for unmeasured confounding in observational studies using E-values: The evalue package. <strong>The Stata Journal</strong>, 20(1): 162-175."
-#   year: 2020
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://journals.sagepub.com/doi/pdf/10.1177/1536867X20909696"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1177/1536867X20909696"
-#   google_id: "Vno172sVVMwC"
-# #
-# - id: VanderWeele2020d
-#   text: "VanderWeele TJ & <u>Mathur MB</u> (2020). Commentary: Developing best-practice guidelines for the reporting of the E-value. <strong>International Journal of Epidemiology</strong>, 49(5), 1495-1497."
-#   year: 2020
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://academic.oup.com/ije/article/49/5/1495/5879832"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1093/ije/dyaa094"
-#   google_id: "3A3nxV7CjKIC"
-# #
-# # --------------------------- 2019 ---------------------------
-# #
-# - id: Mathur2019a
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2019). Finding common ground in meta-analysis 'wars' on violent video games. <strong>Perspectives on Psychological Science</strong>, 14(4), 705-708."
-#   year: 2019
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://journals.sagepub.com/doi/full/10.1177/1745691619850104?casa_token=61V6fkrpet0AAAAA:uFi_hfcqUObG-WGoZeHkZ1mROBHjrYbXNhQV_ez5OvFklJUTk23d5P2Vr25ZfxxFI1DIfynMYYRu"
-#   datarepo: "https://osf.io/eunz3"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1177/1745691619850104"
-#   google_id: "Y0-TYkg6YM4C"
-# #
-# - id: Mathur2019b
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2019). Discussion on the meeting on 'Signs and sizes: understanding and replicating statistical findings'. <strong>Journal of the Royal Statistical Society: Series A</strong>, 183(5):449-469."
-#   year: 2019
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12544?af=R"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1111/rssa.12544"
-#   google_id: "R22Rs3tN8aoC"
-# #
-# - id: Mathur2019c
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2019). Challenges and suggestions for defining replication 'success' when effects may be heterogeneous: Comment on Hedges & Schauer (2019).  <strong>Psychological Methods</strong>, 24(5):571-575."
-#   year: 2019
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://psycnet.apa.org/record/2019-58850-001"
-#   datarepo: "https://osf.io/f6sh2"
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1037/met0000223"
-#   google_id: "I8rxH6phXEkC"
-# #
-# - id: Mathur2019e
-#   text: "<u>Mathur MB</u> & Reichling DB (2019). Open-source software for mouse-tracking in Qualtrics to measure category competition. <strong>Behavior Research Methods</strong>, 51(5), 1987-1997."
-#   year: 2019
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://link.springer.com/article/10.3758/s13428-019-01258-6"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: "Software"
-#   webapplink: "https://osf.io/st2ef/"
-#   doi: "10.3758/s13428-019-01258-6"
-#   google_id: "W2uZP3ddy8sC"
-# #
-# - id: Mathur2019f
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2019). New metrics for meta-analyses of heterogeneous effects. <strong>Statistics in Medicine</strong>, 38(8):1336-1342."
-#   year: 2019
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8057"
-#   datarepo: "https://osf.io/pr2s9/"
-#   rpackagename: "MetaUtility"
-#   rpackagelink: "https://cran.r-project.org/web/packages/MetaUtility"
-#   webappname: 
-#   webapplink:
-#   doi: "110.1002/sim.8057"
-#   google_id: "QoJ_w57xiyAC"
-# #
-# - id: VanderWeele2019a
-#   text: "VanderWeele TJ, Ding P, <u>Mathur MB</u> (2019). Technical considerations in the use of the E-value. <strong>Journal of Causal Inference</strong>, 7(2)."
-#   year: 2019
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.degruyter.com/document/doi/10.1515/jci-2018-0007/html"
-#   datarepo: 
-#   rpackagename: "EValue"
-#   rpackagelink: "https://cran.r-project.org/web/packages/EValue"
-#   webappname: "EValue Calculator"
-#   webapplink: "https://www.evalue-calculator.com"
-#   doi: "10.1515/jci-2018-0007"
-#   google_id: "Azgs6IHzeyYC"
-# #
-# - id: Desai2019
-#   text: "Desai M, Montez-Rath M, Kapphahn K, Joyce V, <u>Mathur MB</u>, Garcia A, Purington N, Owens DK (2019). Missing data strategies for time-varying confounders in comparative effectiveness studies of non-missing time-varying exposures and right-censored outcomes. <strong>Statistics in Medicine</strong>, 38(17):3204-3220."
-#   year: 2019
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://pubmed.ncbi.nlm.nih.gov/31099433/"
-#   datarepo: 
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1002/sim.8174"
-#   google_id: "RMgMIBzvq-4C"
-# #
-# - id: VanderWeele2019b
-#   text: "VanderWeele TJ, <u>Mathur MB</u>, Chen Y (2019). Media portrayals and public health: Effects on suicide and other behaviors. <strong>JAMA Psychiatry</strong>, 76(9):891-892."
-#   year: 2019
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2734855?casa_token=ojGVZCEBr_UAAAAA:0QLotJU0Ig1C9sTnbPLCXkFRJwTVu62yf5DXEyT6mWt9Fvn9mFdJ8vQJaztqg42h57tf6d44Sg"
-#   datarepo: 
-#   rpackagename:
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1001/jamapsychiatry.2019.0842"
-#   google_id: "yTLRzDEmwhEC"
-# #
-# - id: VanderWeele2019c
-#   text: "VanderWeele TJ & <u>Mathur MB</u> (2019). Some desirable properties of the Bonferroni correction: Is the Bonferroni correction really so bad? <strong>American Journal of Epidemiology</strong>, 188(3):617-618."
-#   year: 2019
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://pubmed.ncbi.nlm.nih.gov/30452538/"
-#   datarepo: 
-#   rpackagename:
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1093/aje/kwy250"
-#   google_id: "x21FZCSn4ZoC"
-# #
-# - id: VanderWeele2019d
-#   text: "VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132."
-#   year: 2019
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.acpjournals.org/doi/10.7326/M18-3112?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed"
-#   datarepo: 
-#   rpackagename:
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.7326/M18-3112"
-#   google_id: "rCNdntzdTkkC"
-# #  
-# # --------------------------- 2018 ---------------------------
-# #
-# - id: Mathur2018a
-#   text: "<u>Mathur MB</u> & VanderWeele TJ (2018). R function for additive interaction measures. <strong>Epidemiology</strong>, 29(1), e5-e6."
-#   year: 2018
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://journals.lww.com/epidem/Fulltext/2018/01000/R_Function_for_Additive_Interaction_Measures.21.aspx"
-#   datarepo: 
-#   rpackagename:
-#   rpackagelink: 
-#   webappname: "Software"
-#   webapplink: "https://osf.io/7ccpp/"
-#   doi: "10.1097/EDE.0000000000000752"
-#   google_id: "M0leSnx2MbUC"
-# #
-# - id: Mathur2018b
-#   text: "<u>Mathur MB</u>, Ding P, Riddell CA, VanderWeele TJ (2018). Website and R package for computing E-values. <strong>Epidemiology</strong>, 29(5), e45-e47."
-#   year: 2018
-#   type: "methods"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://journals.lww.com/epidem/Fulltext/2018/09000/Web_Site_and_R_Package_for_Computing_E_values.26.aspx"
-#   datarepo: 
-#   rpackagename: "EValue"
-#   rpackagelink: "https://cran.r-project.org/web/packages/EValue"
-#   webappname: "EValue Calculator"
-#   webapplink: "https://www.evalue-calculator.com"
-#   doi: "10.1097/EDE.0000000000000864"
-#   google_id: "oTdOBqtIf_kC"
-# #
-# - id: Hardwicke2018
-#   text: "Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank MC (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. <strong>Royal Society Open Science</strong>, 5, 180448."
-#   year: 2018
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://royalsocietypublishing.org/doi/10.1098/rsos.180448"
-#   datarepo: "https://osf.io/wn8fd"
-#   rpackagename:
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1098/rsos.180448"
-#   google_id: "QsKbpXNoaWkC"
-# #
-# - id: Afghahi2018
-#   text: "Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez SL, Ford JM, Sledge GW, Kurian SW. (2018). Higher absolute lymphocyte counts predict lower mortality from early-stage triple-negative breast cancer. <strong>Clinical Cancer Research</strong>, 24(12), 2851-2858."
-#   year: 2018
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://clincancerres.aacrjournals.org/content/24/12/2851"
-#   datarepo: 
-#   rpackagename:
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1158/1078-0432.CCR-17-1323"
-#   google_id: "orDZ08hpP44C"
-# #
-# - id: Boehm2018
-#   text: "Boehm JK, Chen Y, Koga H, <u>Mathur MB</u>, Vie LL, Kubzansky LD (2018). Is optimism associated with healthier cardiovascular-related behavior? Meta-analyses of three health behaviors. <strong>Circulation Research</strong>, 122(8), 1119-1134."
-#   year: 2018
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.117.310828?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&"
-#   datarepo: "https://osf.io/rk8fx"
-#   rpackagename:
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1161/CIRCRESAHA.117.310828"
-#   google_id: "_tF6a-HnqWAC"
-# #
-# # --------------------------- 2017 ---------------------------
-# - id: Mummah2017
-#   text: "Mummah S, Robinson TN, <u>Mathur MB</u>, Farzinkhou S, Sutton S, Gardner CD (2017). Effect of a mobile app intervention on vegetable consumption in overweight adults: a randomized controlled trial. <strong>International Journal of Behavioral Nutrition and Physical Activity</strong>, 14(1), 125-135."
-#   year: 2017
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-017-0563-2"
-#   datarepo: 
-#   rpackagename:
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1186/s12966-017-0563-2"
-#   google_id: "hNSvKAmkeYkC"
-# #
-# - id: Montez2017
-#   text: "Montez-Rath ME, Kapphahn K, <u>Mathur MB</u>, Mitani AA, Hendry DJ, Desai M (2017). Guidelines for generating right-censored outcomes from a Cox model extended to accommodate time-varying covariates. <strong>Journal of Modern Applied Statistical Methods</strong>, 16(1), 86-106."
-#   year: 2018
-#   type: "methods"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://digitalcommons.wayne.edu/jmasm/vol16/iss1/6/"
-#   datarepo: 
-#   rpackagename:
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.22237/jmasm/1493597100"
-#   google_id: "nPTYJWkExTIC"
-# #
-# # --------------------------- 2016 ---------------------------
-# #
-# - id: Mathur2016a
-#   text: "<u>Mathur MB</u>, Gould M, Khazeni N (2016). Direct-to-consumer drug advertisements can paradoxically increase intentions to adopt lifestyle changes. <strong>Frontiers in Psychology</strong>, 7(1533)."
-#   year: 2016
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01533/full"
-#   datarepo:
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.3389/fpsyg.2016.01533"
-#   google_id: "5nxA0vEk-isC"
-# #
-# - id: Mathur2016b
-#   text: "<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler, DP, Khazeni N (2016). Toward a mechanistic understanding of psychosocial factors in telomere degradation. <strong>Brain, Behavior, and Immunity</strong>, 56, 413."
-#   year: 2016
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.sciencedirect.com/science/article/abs/pii/S0889159116301027?via%3Dihub"
-#   datarepo:
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1016/j.bbi.2016.04.011"
-#   google_id: "LkGwnXOMwfcC"
-# #
-# - id: Mathur2016c
-#   text: "<u>Mathur MB</u> & Reichling DB (2016). Navigating a social world with robot partners: A quantitative cartography of the Uncanny Valley. <strong>Cognition</strong>, 146, 22-32."
-#   year: 2016
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.sciencedirect.com/science/article/pii/S0010027715300640?via%3Dihub"
-#   datarepo: "https://osf.io/3rjnk/"
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1016/j.cognition.2015.09.008"
-#   google_id: "W7OEmFMy1HYC"
-# #
-# - id: Mathur2016c
-#   text: "<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni N (2016). Perceived stress and telomere length: A systematic review, meta-analysis, and methodologic considerations for advancing the field. <strong>Brain, Behavior, and Immunity</strong>, 56(413), 158-169."
-#   year: 2016
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://www.sciencedirect.com/science/article/pii/S088915911630023X?via%3Dihub"
-#   datarepo: "https://osf.io/e9tg8/"
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1016/j.bbi.2016.02.002"
-#   google_id: "WF5omc3nYNoC"
-# #
-# - id: Mummah2016
-#   text: "Mummah, SA, <u>Mathur MB</u>, King AC, Gardner CD, Sutton S (2016). Mobile technology for vegetable consumption: a randomized controlled pilot study in overweight adults. <strong>JMIR mHealth and uHealth</strong>, 4(2), e51."
-#   year: 2016
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://pubmed.ncbi.nlm.nih.gov/27193036/"
-#   datarepo:
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.2196/mhealth.5146"
-#   google_id: "roLk4NBRz8UC"
-# # 
-# - id: Charytan2016
-#   text: "Charytan DM, Desai M, <u>Mathur MB</u>, Stern NM, Brooks MM, Krzych LJ, Schuler GC, Kaehler J, Rodriguez-Granillo AM, Hueb W, Reeves BC, Thiele H, Rodriguez AE, Buszman PP, Puszman PE, Maurer R, Winkelmayer WC (2016). Coronary artery bypass grafting compared with percutaneous coronary intervention in chronic kidney disease: an individual patient meta-analysis of randomized trials. <strong>Kidney International</strong>, 90(2), 411-421."
-#   year: 2016
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://linkinghub.elsevier.com/retrieve/pii/S0085-2538(16)30126-0"
-#   datarepo:
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1016/j.kint.2016.03.033"
-#   google_id: "UebtZRa9Y70C"
-# # 
-# - id: Afghahi2016
-#   text: "Afghahi A, <u>Mathur MB</u>, Thompson C, Mitani A, Rigdon J, Desai M, Yu PP, de Bruin MA, Seto T, Olson C, Kenkare P, Gomez SL, Das AK, Luft HS, Sledge GW, Sing AP, Kurian AW (2016). Use and impact of gene expression profiling in early-stage breast cancer: a study of linked electronic medical record, cancer registry and genomic data across two healthcare systems. <strong>Journal of Oncology Practice</strong>, 12(6), e697-e709."
-#   year: 2016
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://pubmed.ncbi.nlm.nih.gov/27221993/"
-#   datarepo:
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1200/JOP.2015.009803"
-#   google_id: "Se3iqnhoufwC"
-# # 
-# - id: Lo2016
-#   text: "Low YS, Daugherty AC, Schroeder EA, Chen W, Seto T, Weber S, Lim M, Hastie T, <u>Mathur MB</u>, Desai M, Farrington C, Radin AA, Sirota M, Kenkare P, Thompson CA, Yu PP, Gomez SL, Sledge GW, Kurian AW, Shah NH (2016). Synergistic drug combinations from electronic health records and gene expression. <strong>Journal of the American Medical Informatics Association</strong>, 24 (3), 565-576."
-#   year: 2016
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://academic.oup.com/jamia/article/24/3/565/2664593"
-#   datarepo:
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1093/jamia/ocw161"
-#   google_id: "qmtmRrLr0tkC"
-# # 
-# # --------------------------- 2015 ---------------------------
-# #
-# - id: Pargaonkar2015
-#   text: "Pargaonkar VS, Perez MV, Jindal A, <u>Mathur MB</u>, Myers J, Froelicher VF (2015). Long-term prognosis of early repolarization with J-wave and QRS slur patterns on the resting electrocardiogram: a cohort study. <strong>Annals of Internal Medicine</strong>, 163(10), 747-755."
-#   year: 2015
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.acpjournals.org/doi/10.7326/M15-0598?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed"
-#   datarepo:
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.7326/M15-0598"
-#   google_id: "YsMSGLbcyi4C"
-# #
-# - id: Pless2015
-#   text: "Pless E, Queirolo J, Pinter-Wollman N, Crow S, Allen K, <u>Mathur MB</u>, Gordon DM (2015). Interactions increase forager availability and activity in harvester ants. <strong>PLOS One</strong>, 10(11), e0141971."
-#   year: 2015
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141971"
-#   datarepo:
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1371/journal.pone.0141971"
-#   google_id: "eQOLeE2rZwMC"
-# #
-# - id: OSC2015
-#   text: "Open Science Collaboration, including <u>Mathur MB</u> (2015). Estimating the reproducibility of psychological science. <strong>Science</strong>, 349(6251), aac4716."
-#   year: 2015
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://science.sciencemag.org/content/349/6251/aac4716.long"
-#   datarepo:
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1126/science.aac4716"
-#   google_id: "Y0pCki6q_DkC"
-# # 
-# # --------------------------- 2014 ---------------------------
-# #
-# - id: Mathur2014
-#   text: "<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection: Analysis of global cases. <strong>PLOS One</strong>, 9(9), e106171."
-#   year: 2014
-#   type: "empirical"
-#   authorship: "first"
-#   status: "published"
-#   preprint: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106171"
-#   datarepo: 
-#   rpackagename:
-#   rpackagelink:
-#   webappname:
-#   webapplink:
-#   doi: "10.1371/journal.pone.0106171"
-#   google_id: "2osOgNQ5qMEC"
-# #
-# - id: Patel2014
-#   text: "Patel RB, <u>Mathur MB</u>, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Khazeni N (2014). Demographic and clinical predictors of mortality from highly pathogenic avian influenza A (H5N1) virus infection: CART analysis of international cases. <strong>PLOS One</strong>, 9(3), e91630."
-#   year: 2014
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091630"
-#   datarepo:
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: "Interactive case map"
-#   webapplink: "http://flubusters.blogspot.com/p/contact.html"
-#   doi: "10.1371/journal.pone.0091630"
-#   google_id: "9yKSN-GCB0IC"
-# #
-# - id: Perez2014
-#   text: "De Jesus Perez VA, Yuan K, Lyuksyutova MA, Dewey F, Orcholski ME, Shuffle EM, <u>Mathur MB</u>, Yancy Jr. L, Rojas V, Li CG, Cao A, Alastalo T-P, Khazeni N, Cimprich KA, Butte AJ, Ashley E, Zamanian RT (2014). Whole exome sequencing reveals TopBP1 as a novel gene in idiopathic pulmonary arterial hypertension. <strong>American Journal of Respiratory and Critical Care Medicine</strong>, 189(10), 1260-1272."
-#   year: 2014
-#   type: "empirical"
-#   authorship: "middle"
-#   status: "published"
-#   preprint: "https://www.atsjournals.org/doi/full/10.1164/rccm.201310-1749OC"
-#   datarepo:
-#   rpackagename: 
-#   rpackagelink: 
-#   webappname: 
-#   webapplink: 
-#   doi: "10.1164/rccm.201310-1749OC"
-#   google_id: "qjMakFHDy7sC"
-# #
+#   google_id:
+# #
+# --------------------------- 2025 ---------------------------
+#
+- id: Mathur2025c
+  text: "<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist properties. <strong>Research Synthesis Methods</strong>, 16(1), 87-122."
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.cambridge.org/core/journals/research-synthesis-methods/article/metaanalysis-with-jeffreys-priors-empirical-frequentist-properties/B6F787E5BBF8049D473AB896C65ADB39"
+  datarepo: "https://osf.io/9qfah/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1017/rsm.2024.2"
+  google_id: "8RAEygVn5_EC"
+# 
+- id: Mathur2025b
+  text: "<u>Mathur MB</u> & Shpitser I. Mathur and Shpitser respond to 'The evolution of selection bias in the recent epidemiologic literature – a selective overview'. <strong>American Journal of Epidemiology</strong>, 194(1), 585-586."
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://academic.oup.com/aje/article/194/3/585/7746107?utm_source=authortollfreelink&utm_campaign=aje&utm_medium=email&guestAccessKey=016f6a79-6dc3-4083-803f-e871b263cb41"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/aje/kwae287"
+  google_id: "_mQi-xiA4oYC"
+#
+- id: Mathur2025a
+  text: "<u>Mathur MB</u> & Shpitser I (2025). Simple graphical rules for assessing selection bias in general-population and selected-sample treatment effects. <strong>American Journal of Epidemiology</strong>, 194(1), 267-277."
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://academic.oup.com/aje/article/194/1/267/7696650?utm_source=etoc&utm_campaign=aje&utm_medium=email#500381322"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/aje/kwae145"
+  google_id: "S2WlVNSe3u4C"
+#
+- id: Panda2025
+  text: "Panda P, Deng Y, Frang A, Ward V, Wang E, Newberry J, <u>Mathur MB</u>, Patel A (2025). Increased emergency department identification of youth experiencing trafficking during the COVID-19 pandemic: An interrupted time series analysis. <strong>Public Health Reports</strong>, 140(1_suppl), 74S-81S."
+  year: 2025
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.sagepub.com/doi/10.1177/00333549241279662"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1177/00333549241279"
+  google_id: "zdX0sdgBH_kC"
+#
+- id: Ricotta2025
+  text: "Ricotta EE, Carrillo FAB, Angelli-Nichols S, Barugahare J, Benton A, Carlson CJ, Chang-Rabley E, Dean N, Duda SN, Federer L, Fill MMA, LeRoy EC, Linton NM, Lipsitch M, <u>Mathur MB</u>, Phelan AL, Rid A, Rosen JB, Sauer L, Sullivan SG, Zendt M, Evans NG (2025). Observational research in epidemic settings: A roadmap to reform. <strong>BMJ Global Health</strong>, 10, e017981."
+  year: 2025
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://gh.bmj.com/content/10/2/e017981"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1136/bmjgh-2024-017981"
+  google_id: "wkm4DBaukwsC"
+#
+- id: Winslow2025
+  text: "Winslow J & <u>Mathur MB</u> (2025). Reanalysis of 'A longitudinal study of meat reduction over time in the UK.' <strong>Food Quality and Preference,</strong> 123, 105324."
+  year: 2025
+  type: "empirical"
+  authorship: "last"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S095032932400226X?dgcid=coauthor"
+  datarepo: "https://osf.io/sxtq7/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.foodqual.2024.105324"
+  google_id: "B2rIPIGFPLEC"
+#
+# --------------------------- 2024 ---------------------------
+#
+- id: Mathur2024d
+  text: "<u>Mathur MB</u> & Mathur VS (2024). Toward evidence-based communication on overweight body mass index and mortality. <strong>BMC Medicine,</strong> 22(1):183."
+  year: 2024
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://pubmed.ncbi.nlm.nih.gov/38693530/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1186/s12916-024-03402-2"
+  google_id: "4QKQTXcH0q8C"
+# 
+- id: Mathur2023a
+  text: "<u>Mathur MB</u> (2024). P-hacking in meta-analyses: A formalization and new meta-analytic methods. <strong>Research Synthesis Methods,</strong> 15(3), 483-499."
+  year: 2024
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/ezjsx"
+  datarepo: "https://osf.io/gk5ez/"
+  rpackagename: "phacking"
+  rpackagelink: "https://cran.r-project.org/web/packages/phacking/index.html"
+  webappname: "Online tool"
+  webapplink: "https://metabias.io/phacking/"
+  doi: "10.31219/osf.io/ezjsx"
+  google_id: "wBLCggQE-ToC"
+#
+#
+- id: Mathur2024b
+  text: "<u>Mathur MB</u> (2024). Assessing robustness to worst case publication bias using a simple subset meta-analysis. <strong>BMJ</strong>, 384:e076851."
+  year: 2024
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.bmj.com/content/384/bmj-2023-076851"
+  datarepo: "https://osf.io/8nqwy/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1136/bmj-2023-076851"
+  google_id: "pUxgyZctzPYC"
+#
+- id: Mathur2024a
+  text: "<u>Mathur MB</u> (2024). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses. <strong>Research Synthesis Methods</strong>, 15(1), 21-43."
+  year: 2024
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1667"
+  datarepo: "https://osf.io/3cz56/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1002/jrsm.1667"
+  google_id: "u3T1itk59dMC"
+#
+- id: Zhang2024
+  text: "Zhang G, Tynelius P, <u>Mathur MB</u>, Quartagno M, Branden G, Lijeros F, Kosidou K. Population trends and individual fluidity of sexual identity in Stockholm County, 2010 to 2021. <strong>JAMA Network Open,</strong> 7(12):e2447627."
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827231"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1001/jamanetworkopen.2024.47627"
+  google_id: "ujxm2eEBZHIC"
+#
+- id: Li2024
+  text: "Li LZ, Yang P, Singer SJ, Pfeffer J, <u>Mathur MB</u>, Shanafelt T. Nurse burnout and patient safety, satisfaction, and quality of care: A meta-analysis. <strong>JAMA Network Open</strong>, 7(11):e2443059."
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825639"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1001/jamanetworkopen.2024.43059"
+  google_id: "u0Mu_IsstPMC"
+#
+- id: Bane2024
+  text: "Bane S, Carmichael S, <u>Mathur MB</u>, Simard J (2024). Considering pregnancies as repeated versus independent events: An empirical comparison of common approaches across selected perinatal outcomes. <strong>American Journal of Obstetrics & Gynecology Maternal-Fetal Medicine,</strong> 6(8), 101434."
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S2589933324001605?casa_token=IxZU-VEatBsAAAAA:5JmDQZslVS2oIVjnzcVicPTrt6g_tZgLg6IAi3UrJB4-P9yZpwxbyEqLvDvhUwxeYgKZnqsjRA"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.ajogmf.2024.101434"
+  google_id: "mVC4hKzE2FoC"
+#
+- id: Kurniati2024
+  text: "Kurniati NMT, Cowden RG, Zulkaida A, Gunatirin EY, Rahardjo W, Elizabeth MP, Suryani AI, Cynthia T, Rini QK, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington EL (2024). A randomized controlled trial of a brief self-directed secular REACH forgiveness intervention with Indonesian Christians: Does religiousness matter? <strong>Spirituality in Clinical Practice,</strong> 11(3), 297-314."
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://psycnet.apa.org/record/2025-19554-008"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1037/scp0000374"
+  google_id: "GJVTs2krol4C"
+#
+- id: Zhao2024
+  text: "Zhao D, Cheng S, Tsui R, <u>Mathur MB</u>, Wang CJ (2024). Risk of aircraft-acquired COVID-19 transmission during commercial flights: A systematic review. <strong>International Journal of Environmental Research and Public Health,</strong> 21(6), 654."
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.mdpi.com/1660-4601/21/6/654"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.3390/ijerph21060654"
+  google_id: "i91s68tWr-MC"
+#
+- id: Zettersten2024
+  text: "Zettersten M, Cox CM, Bergmann C, Tsui A, Soderstrom M, Mayor J, Lundwall RA, Lewis M, Kosie J, Kartushina N, Fusaroli R, Frank MC, Byers-Heinlein KB, Black AK, <u>Mathur MB</u> (2024). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. <strong>Open Mind,</strong> 8, 439-461."
+  year: 2024
+  type: "empirical"
+  authorship: "last"
+  status: "published"
+  preprint: "https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00134/120611/Evidence-for-Infant-directed-Speech-Preference-Is/"
+  datarepo: "https://osf.io/amj7u/?_gl=1*dba49g*_ga*MTU4NTA4MTEwNi4xNjkwODM4NTI4*_ga_YE9BMGGWX8*MTY5NTMyODYwNC4xMi4xLjE2OTUzMjg3NjQuNjAuMC4w"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1162/opmi_a_00134"
+  google_id: "K4-iKlO5MD4C"
+#
+- id: Ho2024
+  text: "Ho MY, Worthington EL, Cowden RG, Bechara AO, Chen ZJ, Gunatirin EY, Joynt S, Khalanskyi VV, Korzhov H, Kurniati NMT, Rodriguez N Salnykova A, Shtanko L, Tymchenko S, Voytenko VL, Zulkaida A, <u>Mathur MB</u>, VanderWeele TJ (2024). International REACH forgiveness intervention: A multisite randomised controlled trial. <strong>BMJ Public Health,</strong> 2:e000072."
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://osf.io/8qzgw/"
+  datarepo: "https://osf.io/f34jp"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "https://doi.org/10.31219/osf.io/8qzgw"
+  google_id: "j5aT6aphRxQC"
+#
+- id: Bechara2024
+  text: "Bechara AO, Chen ZJ, Cowden RG, Worthington EL, Toussaint L, Rodriguez N, Murillo HG, Ho MY, <u>Mathur MB</u>, VanderWeele TJ (2024). Do forgiveness campaign activities improve forgiveness, mental health, and flourishing? <strong>International Journal of Public Health</strong>, 69:1605341."
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://bmjpublichealth.bmj.com/content/2/1/e000072"
+  datarepo: 
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1136/bmjph-2023-000072"
+  google_id: "gmHTDCtJMcoC"
+#
+# --------------------------- 2023 ---------------------------
+#
+- id: Mathur2023g
+  text: "<u>Mathur MB</u> & Fox MP (2023). Toward open and reproducible epidemiology. <strong>American Journal of Epidemiology</strong>, 192(4), 658-664. "
+  year: 2023
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwad007/6982711"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/aje/kwad007"    
+  google_id: "l6Q3WhenKVUC"
+#
+- id: Mathur2023f
+  text: "<u>Mathur MB</u> & Mathur VS (2023). Primary care physicians' perceptions of the effects of being overweight on all-cause mortality. <strong>Epidemiology</strong>, 34(3), e19-e20."
+  year: 2023
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2023/05000/Primary_Care_Physicians__Perceptions_of_the.21.aspx"
+  datarepo: "https://osf.io/9ydkm"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1097/EDE.0000000000001590"
+  google_id: "CMvovTBb2okC"
+#
+- id: Mathur2023b
+  text: "<u>Mathur MB</u> (2023). The M-value: A simple sensitivity analysis for bias due to missing data in treatment effect estimates. <strong>American Journal of Epidemiology</strong>, 192(4), 612-620."
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://academic.oup.com/aje/article/192/4/612/6873724"
+  datarepo: "https://osf.io/v8ma6/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/aje/kwac207"    
+  google_id: "oursBaop5wYC"
+#
+- id: Mathur2023e
+  text: "<u>Mathur MB</u>, Covington C, VanderWeele TJ (2023). Variation across analysts in statistical significance, yet consistently small effect sizes. <strong>Proceedings of the National Academy of Sciences,</strong> 120(3):e2218957120."
+  year: 2023
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.pnas.org/doi/10.1073/pnas.2218957120"
+  datarepo: "https://github.com/ctcovington/MCV_BRWN-22_comment"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1073/pnas.2219555120"
+  google_id: "yJjnfzR0HrkC"
+#
+- id: Mathur2023c
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2023). New metrics for multiple testing with correlated outcomes. <strong>Frontiers in Applied Mathematics and Statistics,</strong> 9:1151314."
+  year: 2023
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.frontiersin.org/articles/10.3389/fams.2023.1151314/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Applied_Mathematics_and_Statistics&id=1151314"
+  datarepo: "https://osf.io/qj9wa/"
+  rpackagename: "NRejections"
+  rpackagelink: "https://cran.r-project.org/web/packages/NRejections/index.html"
+  webappname: 
+  webapplink: 
+  doi: "10.3389/fams.2023.1151314"
+  google_id: "xm0LlTxljI0C"
+#
+- id: Boyce2023
+  text: "Boyce V, <u>Mathur MB</u>, Frank MC (2023). Eleven years of student replication projects provide evidence on the correlates of replicability in psychology. <strong>Royal Society Open Science</strong>, 10:231240."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://royalsocietypublishing.org/doi/full/10.1098/rsos.231240"
+  datarepo: "https://osf.io/xwn9m/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1098/rsos.231240"
+  google_id: "17ZO-CJnx_8C"
+#
+- id: Marcone2023
+  text: "Marcone AL, Darmstadt GL, Amsler Challamel G, <u>Mathur MB</u>, Gardner CD. Effects of an educational planetary plate graphic on meat consumption in Stanford University dining hall: A randomized controlled trial. <strong>BMC Nutrition</strong>, 9:106."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://bmcnutr.biomedcentral.com/counter/pdf/10.1186/s40795-023-00764-3.pdf"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1186/s40795-023-00764-3"
+  google_id: "cSdaV2aYdYsC"
+#
+- id: Rivera2023
+  text: "Rivera N, Nguyen K, Kalami V, Qin F, <u>Mathur MB</u>, Blankenburg R, Yeh AM. A Specific Carbohydrate Diet virtual teaching kitchen promotes knowledge and confidence in caregivers of pediatric patients with inflammatory bowel disease. <strong>Nutrients</strong>, 15(18):3999."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.mdpi.com/2072-6643/15/18/3999"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.3390/nu15183999"
+  google_id: "wGzT3bKASkAC"
+#
+- id: Zhang2023a
+  text: "Zhang GC, Basna R, <u>Mathur MB</u>, Lässer C, Mincheva R, Ekerljung L, et al. Exogenous female sex steroid hormones and new onset asthma in women: A matched case-control study. <strong>BMC Medicine,</strong> 21:337."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03038-8"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1186/s12916-023-03038-8"
+  google_id: "rqnDXT1GswoC"
+#
+- id: Li2023b
+  text: "Li Y, <u>Mathur MB</u>, Solomon DH, Ridker PM, Glynn RJ, Yoshida K. Effect measure modification by covariates in mediation: Extending regression-based causal mediation analysis. <strong>Epidemiology</strong>, 34(5):661-672."
+  year: 2023
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/fulltext/2023/09000/effect_measure_modification_by_covariates_in.9.aspx"
+  datarepo: 
+  rpackagename: "regmedint"
+  rpackagelink: "https://cran.r-project.org/web/packages/regmedint/index.html"
+  webappname: 
+  webapplink: 
+  doi: "10.1097/EDE.0000000000001643"
+  google_id: "eFf2swCANGcC"
+#
+- id: Li2023
+  text: "Li Y, Yoshida K, Kaufman J, <u>Mathur MB</u>. A brief primer on conducting regression-based causal mediation analysis. <strong>Psychological Trauma: Theory, Research, Practice, and Policy,</strong> 15(6):930-938."
+  year: 2023
+  type: "methods"
+  authorship: "last"
+  status: "published"
+  preprint: "https://osf.io/jath7"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1037/tra0001421"    
+  google_id: "DquSII9TDu4C"
+#
+- id: Rooprai2023
+  text: "Rooprai P, Islam N, Salameh JP, Ebrahimzadeh S, Kazi A, Frank RA, Ramsay T, <u>Mathur MB</u>, Absi M, Khalil A, Kazi S, Dawit H, Lam E, Fabiano N, McInnes MDF. Is there evidence of p-hacking in imaging research? <strong>Canadian Association of Radiologists Journal,</strong> 74(3):497-507."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.sagepub.com/doi/full/10.1177/08465371221139418"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1177/08465371221139418"    
+  google_id: "AFmTUeZ1pmEC"
+#
+- id: Hunt2023
+  text: "Hunt IJ, Cai ZR, Nava V, Admassu NE, Bousheri S, Johnson T, Tomz A, Thompson J, Zhang L, Pagato S, Wehner MR, <u>Mathur MB</u>, Linos E. A social media-based public health campaign to reduce indoor tanning in high-risk populations. <strong>AJPM Focus</strong>, 2(3):100123."
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.ajpmfocus.org/article/S2773-0654(23)00060-3/fulltext"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.focus.2023.100123"    
+  google_id: "d4tt_xEv1X8C"
+#
+- id: Chen2023
+  text: "Chen Y, <u>Mathur MB</u>, Case BW, VanderWeele TJ (2023). Marital transitions during earlier adulthood and subsequent health and well-being in mid-to late-life among female nurses: An outcome-wide analysis. <strong>Global Epidemiology.</strong> "
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S2590113323000020"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.gloepi.2023.100099"    
+  google_id: "X5YyAB84Iw4C"
+#
+- id: Voytenko2023
+  text: "Voytenko VL, Pargament KI, Cowden RG, Lemke AW, Kurniati NMT, Bechara AO, Joynt S, Kocum M, Korkhov M, <u>Mathur MB</u>, Ho MY, VanderWeele TJ, Worthington EL. Religious coping with interpersonal hurts: Psychosocial correlates of the Brief RCOPE in four non-Western countries. <strong>Psychology of Religion and Spirituality.</strong> "
+  year: 2023
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://psycnet.apa.org/record/2021-78192-001"
+  datarepo: 
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1037/rel0000441"
+  google_id: "q0uBw5dMOAkC"
+#
+# --------------------------- 2022 ---------------------------
+#
+- id: Mathur2022f
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2022). The authors respond: Effects of being overweight on mortality are unclear given multiple methodological problems. <strong>Epidemiology,</strong> 33(6):e22-e23."
+  year: 2022
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/3psrm"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1097/EDE.0000000000001533"
+  google_id: "yIeBiWEAh44C"
+#
+- id: Mathur2022e
+  text: "<u>Mathur MB</u>, Smith LH, Yoshida K, Ding P, VanderWeele TJ (2022). E-values for effect heterogeneity and approximations for causal interaction. <strong>International Journal of Epidemiology,</strong> 51(4), 1268-1275."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/h6pru/"
+  datarepo: "https://osf.io/79scv/"
+  rpackagename: "EValue"
+  rpackagelink: "https://CRAN.R-project.org/package=EValue"
+  webappname: "EValue Calculator"
+  webapplink: "http://www.evalue-calculator.com"
+  doi: "10.1093/ije/dyac073"
+  google_id: "QaSi33NTfwYC"
+#
+- id: Mathur2022d
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2022). Methods to address confounding and other biases in meta-analyses: Review and recommendations. <strong>Annual Review of Public Health</strong>, 43, 19-35."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.annualreviews.org/doi/abs/10.1146/annurev-publhealth-051920-114020"
+  datarepo: "https://osf.io/yd3ws/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1146/annurev-publhealth-051920-114020"
+  google_id: "uUvzmPk0f8oC"
+#
+#
+- id: Mathur2022c
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2022). Assessing uncontrolled confounding in associations of being overweight with all-cause mortality. <strong>JAMA Network Open</strong>, 5(3), e222614."
+  year: 2022
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790428?utm_source=twitter&utm_medium=social_jamajno&utm_term=6654918060&utm_campaign=article_alert&linkId=158454028"
+  datarepo: "https://osf.io/b3ux8/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1001/jamanetworkopen.2022.2614"
+  google_id: "qsWQJNntlusC"
+#
+- id: Mathur2022b
+  text: "<u>Mathur MB</u> (2022). Ethical drawbacks of sustainable meat choices. <strong>Science</strong>, 375, 6587."
+  year: 2022
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/nkyqd/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1126/science.abo2535"
+  google_id: "cNe27ouKFcQC"
+#
+- id: Mathur2022a
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2022). How to report E-values for meta-analyses: Recommended improvements and additions to the new GRADE approach. <strong>Environment International</strong>, 160, 107032."
+  year: 2022
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S0160412021006577?via%3Dihub/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.envint.2021.107032"
+  google_id: "g_UdREhPGEoC"
+#
+- id: Fox2022
+  text: "Fox MP, <u>Mathur MB</u>, Matthay EC (2022). Quantifying the impact of bias to inform quality assessments in systematic reviews: The case of perchloroethylene and non-Hodgkin's lymphoma. <strong>Global Epidemiology.</strong> "
+  year: 2022
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S2590113322000207?via%3Dihub"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.gloepi.2022.100090"
+  google_id: "sgsej9ZJWHMC"
+#
+- id: Harris2022
+  text: "Harris J, Ladak A, <u>Mathur MB</u> (2022). The effects of exposure to information about animal welfare reforms on animal farming opposition: a randomized experiment. <strong>Anthrozoos.</strong> "
+  year: 2022
+  type: "empirical"
+  authorship: "last"
+  status: "published"
+  preprint: "https://psyarxiv.com/p6hbk"
+  datarepo: "https://osf.io/gny9x/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1080/08927936.2022.2062868"
+  google_id: "GYcXSSpN504C"
+#
+- id: Thielmann2022
+  text: "Theilmann M, Lemp JM, Winkler V, Manne-Goehler J, Marcus ME, Probst C, Lopez-Arboleda WA, Ebert C, Bommer C, <u>Mathur M</u>, Andall-Brereton G, Bahendeka SK, Bovet P, Farzadfar F, Ghasemi E, Mayige MT, Moghaddam SS, Mwangi KJ, Naderimagham S, Sturua L, Atun R, Davies JI, Bärnighausen T, Vollmer S, Geldsetzer P.. (2022). Patterns of tobacco use in low- and middle-income countries by tobacco product and sociodemographic characteristics: a study of nationally representative survey data from 82 countries. <strong>BMJ,</strong> 378:e067582."
+  year: 2022
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.bmj.com/content/378/bmj-2021-067582"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1136/bmj-2021-067582"
+  google_id: 
+# 
+#
+- id: Boronowsky2022
+  text: "Boronowsky RD, Zhang AW, Stecher C, Presley K, <u>Mathur MB</u>, Cleveland DA, Garnett E, Wharton C, Brown D, Meier A, Wang M, Braverman I, Jay JA (2022). Plant-based default nudges effectively increase the sustainability of catered meals on college campuses: Three randomized controlled trials. <strong>Frontiers in Sustainable Food Systems.</strong> "
+  year: 2022
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.frontiersin.org/articles/10.3389/fsufs.2022.1001157/abstract"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.3389/fsufs.2022.1001157"
+  google_id: "qCpRzq7zkD8C"
+#
+- id: Grundy2022
+  text: "Grundy EAC, Slattery P, Saeri AK, Watkins K, Houlden T, Farr N, Askin H, Lee J, Mintoft-Jones A, Cyna S, Dziegielewski A, Gelber R, Rowe A, <u>Mathur MB</u>, Timmons S, Zhao K, Wilks M, Peacock JR, Harris J, Rosenfelt DL, et al. Interventions that influence animal-product consumption: A meta-review. <strong>Future Foods,</strong> 100111."
+  year: 2022
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://osf.io/mcdsq/"
+  datarepo: "https://osf.io/s4bz3/?view_only=e0ab65dc636944c0b2e81ad7b0632493"
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.17605/OSF.IO/S4BZ3"
+  google_id: "8VtEwCQfWZkC"
+#
+- id: Maier2022
+  text: "Maier M, VanderWeele TJ, <u>Mathur MB</u> (2022). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. <strong>Campbell Systematic Reviews,</strong> 2022;18:e1256."
+  year: 2022
+  type: "methods"
+  authorship: "last"
+  status: "published"
+  preprint: "https://onlinelibrary.wiley.com/doi/full/10.1002/cl2.1256"
+  datarepo: "https://osf.io/37y9f/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1002/cl2.1256"
+  google_id: "bXQfdp6S9ecC"
+#
+- id: Lewis2022
+  text: "Lewis M, <u>Mathur MB</u>, VanderWeele TJ, Frank MC (2022). The puzzling relationship between multi-lab replications and meta-analyses of the published literature. <strong>Royal Society Open Science</strong>, 9, 211499."
+  year: 2022
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://royalsocietypublishing.org/doi/full/10.1098/rsos.211499"
+  datarepo: "https://github.com/mllewis/kvarven_reanalysis/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1098/rsos.211499"
+  google_id: "e84hm74t-eoC"
+#
+# --------------------------- 2021 ---------------------------
+#
+- id: Mathur2021e
+  text: "<u>Mathur MB</u>, Peacock JR, Robinson TN, Gardner CD (2021). Effectiveness of a theory-informed documentary to reduce consumption of meat and animal products: Three randomized controlled experiments. <strong>Nutrients</strong>, 13(12):4555."
+  year: 2021
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.mdpi.com/2072-6643/13/12/4555"
+  datarepo: "https://osf.io/8dzng/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.3390/nu13124555"
+  google_id: "BJtnxTr0fRcC"
+#
+#
+- id: Mathur2021a
+  text: "<u>Mathur MB</u>, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD, Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal welfare: Meta-analysis and evidence-based recommendations. <strong>Appetite</strong>, 164: 105277."
+  year: 2021
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S0195666321001847"
+  datarepo: "https://osf.io/8zsw7/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1016/j.appet.2021.105277"
+  google_id: "E7VqQtBCVmcC"
+#
+- id: Mathur2021b
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2021). Meta-regression methods to characterize evidence strength using meaningful-effect percentages conditional on study characteristics. <strong>Research Synthesis Methods</strong>, 12(6): 731-749."
+  year: 2021
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/jrsm.1504"
+  datarepo: "https://osf.io/gs7fp/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1002/jrsm.1504"
+  google_id: "h168fVGZblEC"
+#
+- id: Mathur2021c
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2021). Estimating publication bias in meta-analyses: A meta-meta-analysis across disciplines and journal tiers. <strong>Research Synthesis Methods</strong>, 12(2): 176-191."
+  year: 2021
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/p3xyd/"
+  datarepo: "https://osf.io/cz8tr/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1002/jrsm.1464"
+  google_id: "TGkaJS32XoUC"
+#  
+- id: Errington2021
+  text: "Errington TM, <u>Mathur MB</u>, Soderberg CK, Denis A, Perfito N, Iorns E, Nosek BA. (2021). Investigating the replicability of preclinical cancer biology. <strong>eLife</strong>, 2021;10:e71601."
+  year: 2021
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://elifesciences.org/articles/71601"
+  datarepo: "https://osf.io/e5nvr/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.7554/eLife.71601"
+  google_id: "rbGdIwl2e6cC"
+#
+- id: Zhang2021
+  text: "Zhang GC, Chen JL, Luo Y, <u>Mathur MB</u>, Anagnostis P, Nurmatov U, Talibov M, Zhang J, Hawrylowicz CM, Lumsden MA, Critchley H, Sheikh A, Lundback B, Lasser C, Kankaanranta H, Lee SH, Nwaru B (2021). Menopausal hormone therapy and women's health: An umbrella review. <strong>PLOS Medicine,</strong> 18(8): e1003731."
+  year: 2021
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003731"
+  datarepo: "https://osf.io/dsy37/?view_only=a5b0bfea96694a54a1b5886e3fb03765"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1371/journal.pmed.1003731"
+  google_id: "RXiHnyRawswC"
+#
+- id: Smith2021
+  text: "Smith LH, <u>Mathur MB</u>, VanderWeele TJ (2021). Multiple-bias sensitivity analysis using bounds. <strong>Epidemiology</strong>, 32(5): 625-634."
+  year: 2021
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Citation/2021/09000/Multiple_bias_Sensitivity_Analysis_Using_Bounds.2.aspx"
+  datarepo: 
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue/vignettes/multiple-bias-examples.html"
+  webappname:
+  webapplink:
+  doi: "10.1097/EDE.0000000000001380"
+  google_id: "kUhpeDhEZMUC"
+#
+- id: Lo2021
+  text: "Lo RM, Purington N, McGhee SA, <u>Mathur MB</u>, Shaw GM, Schroeder AR (2021). Infant allergy testing and food allergy diagnoses before and after guidelines for early peanut introduction. <strong>The Journal of Allergy and Clinical Immunology: In Practice</strong>, 9(1):302-10."
+  year: 2021
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/abs/pii/S2213219820312162"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1016/j.jaip.2020.10.060"
+  google_id: "KI9T_ytC6pkC"
+#
+- id: Fu2021
+  text: "Fu R, Sekercioglu N, <u>Mathur MB</u>, Couban R, Coyte PC. (2021). Dialysis initiation and all-cause mortality among incident adult patients with advanced chronic kidney disease: A meta-analysis with bias analysis. <strong>Kidney Medicine</strong>, 3(1), 64-75."
+  year: 2021
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.kidneymedicinejournal.org/article/S2590-0595(20)30256-9/fulltext"
+  datarepo: "https://osf.io/v2yu5/"
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1016/j.xkme.2020.09.013"
+  google_id: "0sTkTiv_uMkC"
+#
+# --------------------------- 2020 ---------------------------
+#
+- id: Mathur2020a
+  text: "<u>Mathur MB</u>, Bart-Plange DJ, Aczel B, Bernstein MH, Ciunci A, Ebersole CR, Falcao F, Ashbaugh K, Hilliard RA, Jern A, Kellier DJ, Kessinger G, Kolb VS, Kovacs M, Lage CA, Langford EV, Lins S, Manfredi D, Meyet V, Moore DA, et al. (2020). Many Labs 5: Registered multisite replication of tempting-fate effects in Risen & Gilovich, 2008. <strong>Advances in Methods and Practices in Psychological Science</strong>, 3(3):394-404."
+  year: 2020
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.sagepub.com/doi/full/10.1177/2515245918785165"
+  datarepo: "https://osf.io/h5a9y/"
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1177/2515245918785165"
+  google_id: "EaFouW7jFu4C"
+#
+- id: Mathur2020b
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Sensitivity analysis for unmeasured confounding in meta-analyses. <strong>Journal of the American Statistical Association</strong>, 115(529), 163-170."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint:
+  datarepo: "https://osf.io/2r3gm/"
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue/vignettes/meta-analysis.html"
+  webappname: "EValue Calculator"
+  webapplink: "https://www.evalue-calculator.com/meta/"
+  doi: "10.1080/01621459.2018.1529598"
+  google_id: "n3vGvpFsckwC"
+#
+- id: Mathur2020c
+  text: "<u>Mathur MB</u>, Reichling DB, Lunardini F, Geminiani A, Antonietti A, Ruijten PAM, Levitan CA, Nave G, Manfredi D, Bessette-Symons B, Szuts A, Aczel B (2020). Uncanny but not confusing: Multisite study of perceptual category confusion in the Uncanny Valley. <strong>Computers in Human Behavior</strong>, 103, 21-30."
+  year: 2020
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S0747563219303164"
+  datarepo: "https://osf.io/2v6f4/"
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1016/j.chb.2019.08.029"
+  google_id: "In6cVmBjs0IC"
+#
+- id: Mathur2020d
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Sensitivity analysis for publication bias in meta-analyses. <strong>Journal of the Royal Statistical Society: Series C</strong>, 69(5), 1091-1119."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12440"
+  datarepo: "https://osf.io/7wc2t/"
+  rpackagename: "PublicationBias"
+  rpackagelink: "https://CRAN.R-project.org/package=PublicationBias"
+  webappname:
+  webapplink:
+  doi: "10.1111/rssc.12440"
+  google_id: "L24QuVWYgZ0C"
+#
+- id: Mathur2020e
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2020). New statistical metrics for multisite replication projects. <strong>Journal of the Royal Statistical Society: Series A</strong>, 183(3):1145-1166."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssa.12572"
+  datarepo: "https://osf.io/ufjg4"
+  rpackagename: "Replicate"
+  rpackagelink: "https://CRAN.R-project.org/package=Replicate"
+  webappname: 
+  webapplink: 
+  doi: "10.1111/rssa.12572"
+  google_id: "N4u4nq0IxgcC"
+#
+- id: Mathur2020f
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Robust metrics and sensitivity analyses for meta-analyses of heterogeneous effects. <strong>Epidemiology</strong>, 31(3):356-358."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2020/05000/Robust_Metrics_and_Sensitivity_Analyses_for.7.aspx?casa_token=GXWV40D5E4YAAAAA:NBoojG0hyzOyj5BoYBgVnX5lXHqRMUaJ8Ik8EwGh0-xnLWLTGzo8E4u7UU1Ukgm3ek63InTa_MNhopHMmQJVw8M"
+  datarepo: "https://osf.io/6nyg8"
+  rpackagename: "MetaUtility"
+  rpackagelink: "https://CRAN.R-project.org/package=MetaUtility"
+  webappname: 
+  webapplink: 
+  doi: "10.1097/EDE.0000000000001180"
+  google_id: "ifOnle78iJkC"
+#
+- id: Mathur2020g
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Evidence relating health care provider burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7958380/"
+  datarepo: "https://osf.io/3ekfm"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.7326/L19-0826"
+  google_id: "VRfTbSk87rEC"
+#
+- id: Mathur2020h
+  text: "<u>Mathur MB</u>, Robinson TN, Reichling DB, Gardner CD, Nadler JN, Bain PA, Peacock J. (2020). Reducing meat consumption by appealing to animal welfare: Protocol for a systematic review and meta-analysis. <strong>Systematic Reviews</strong>, 9(3)."
+  year: 2020
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-1264-5"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1186/s13643-019-1264-5"
+  google_id: "PlWzFYVEG4EC"
+#
+- id: Mathur2020i
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 3: Errors in the statistical justification for the 'credibility ceiling' remain uncorrected. <strong>Journal of Clinical Epidemiology</strong>, 127, 214-216."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/xmcdb/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/p3xyd"
+  google_id: "BAanoTsO0WEC"
+#
+- id: Mathur2020j
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2020). Controversy and debate on credibility ceilings. Paper 1: Fundamental problems with the 'credibility ceiling' method for meta-analyses. <strong>Journal of Clinical Epidemiology</strong>, 127, 208-210."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://osf.io/4qxgf/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.31219/osf.io/4qxgf"
+  google_id: "lbI08cpqPnQC"
+#
+- id: Mathur2020k
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2020). A simple, interpretable conversion from Pearson's correlation to Cohen's d for continuous exposures. <strong>Epidemiology</strong> 31(2):e16-e18."
+  year: 2020
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2020/03000/A_Simple,_Interpretable_Conversion_from_Pearson_s.24.aspx"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1097/EDE.0000000000001105"
+  google_id: "rOcdG6UcVlcC"
+#
+- id: Ling2020
+  text: "Ling A, Montez-Rath MR, <u>Mathur MB</u>, Kapphahn K, Desai (2020). How to apply multiple imputation in propensity score matching with partially observed confounders: A simulation study and practical recommendations. <strong>Journal of Modern Applied Statistical Methods</strong> 19(1): eP3439."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://arxiv.org/abs/1904.07408"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.56801/10.56801/v19.i.1072"
+  google_id: "tz746QTLzJkC"
+#
+- id: Zhang2020
+  text: "Zhang X, Stamey JD, <u>Mathur MB</u> (2020). Assessing the impact of unmeasured confounders for credible and reliable real-world evidence. <strong>Pharmacoepidemiology and Drug Safety</strong>, 29:1219–1227."
+  year: 2020
+  type: "methods"
+  authorship: "last"
+  status: "published"
+  preprint: "https://osf.io/fe4gs/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1002/pds.5117"
+  google_id: "aDl3D7KC1E4C"
+#
+- id: Ebersole2020
+  text: "Ebersole, CA, <u>Mathur MB</u>, Baranski E, Bart-Pange DJ, Buttrick NR, Chartier CR, Corker KS, Corley M, Hartshorne JK, Ijzerman H, Lazarevic LB, Rabagliati H, Ropovik I, Aczel B, Aeschbach LF, Andrighetto L, Arnal JD, Arrow H, Babincak P, Bakos BE, et al. (2020). Many Labs 5: Testing pre-data collection peer review as an intervention to increase replicability. <strong>Advances in Methods and Practices in Psychological Science</strong>, 3(3):309-331."
+  year: 2020
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.sagepub.com/doi/full/10.1177/2515245920958687"
+  datarepo: "https://osf.io/7a6rd/"
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1177/2515245920958687"
+  google_id: "TesyEGJKHF4C"
+#
+- id: VanderWeele2020a
+  text: "VanderWeele TJ, Martin J, <u>Mathur MB</u> (2020). E-values and incidence density sampling. <strong>Epidemiology</strong>, 31(6), e51-52."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2020/11000/E_Values_and_Incidence_Density_Sampling.22.aspx"
+  datarepo: 
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue"
+  webappname: "EValue Calculator"
+  webapplink: "https://www.evalue-calculator.com"
+  doi: "10.1097/EDE.0000000000001238"
+  google_id: "PuOEWVtPfzwC"
+#
+- id: VanderWeele2020b
+  text: "VanderWeele TJ, <u>Mathur MB</u>, Chen Y (2020). Outcome-wide longitudinal studies: A new template for empirical studies. <strong>Statistical Science</strong>, 35:437-466."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Outcome-Wide-Longitudinal-Designs-for-Causal-Inference--A-New/10.1214/19-STS728.full"
+  datarepo: "https://osf.io/tv3wu/"
+  rpackagename: 
+  rpackagelink: 
+  webappname:
+  webapplink:
+  doi: "10.1214/19-STS728"
+  google_id: "7Frjd3zlGBUC"
+#
+- id: VanderWeele2020c
+  text: "VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder-The-Future-of-Outcome-Wide-Studies/10.1214/20-STS791.short"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1214/20-STS791"
+  google_id: "J3LtWjKFLicC"
+#
+- id: Linden2020
+  text: "Linden A, <u>Mathur MB</u>, & VanderWeele TJ (2020). Conducting sensitivity analysis for unmeasured confounding in observational studies using E-values: The evalue package. <strong>The Stata Journal</strong>, 20(1): 162-175."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.sagepub.com/doi/pdf/10.1177/1536867X20909696"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1177/1536867X20909696"
+  google_id: "Vno172sVVMwC"
+#
+- id: VanderWeele2020d
+  text: "VanderWeele TJ & <u>Mathur MB</u> (2020). Commentary: Developing best-practice guidelines for the reporting of the E-value. <strong>International Journal of Epidemiology</strong>, 49(5), 1495-1497."
+  year: 2020
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://academic.oup.com/ije/article/49/5/1495/5879832"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/ije/dyaa094"
+  google_id: "3A3nxV7CjKIC"
+#
+# --------------------------- 2019 ---------------------------
+#
+- id: Mathur2019a
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2019). Finding common ground in meta-analysis 'wars' on violent video games. <strong>Perspectives on Psychological Science</strong>, 14(4), 705-708."
+  year: 2019
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.sagepub.com/doi/full/10.1177/1745691619850104?casa_token=61V6fkrpet0AAAAA:uFi_hfcqUObG-WGoZeHkZ1mROBHjrYbXNhQV_ez5OvFklJUTk23d5P2Vr25ZfxxFI1DIfynMYYRu"
+  datarepo: "https://osf.io/eunz3"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1177/1745691619850104"
+  google_id: "Y0-TYkg6YM4C"
+#
+- id: Mathur2019b
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2019). Discussion on the meeting on 'Signs and sizes: understanding and replicating statistical findings'. <strong>Journal of the Royal Statistical Society: Series A</strong>, 183(5):449-469."
+  year: 2019
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12544?af=R"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1111/rssa.12544"
+  google_id: "R22Rs3tN8aoC"
+#
+- id: Mathur2019c
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2019). Challenges and suggestions for defining replication 'success' when effects may be heterogeneous: Comment on Hedges & Schauer (2019).  <strong>Psychological Methods</strong>, 24(5):571-575."
+  year: 2019
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://psycnet.apa.org/record/2019-58850-001"
+  datarepo: "https://osf.io/f6sh2"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1037/met0000223"
+  google_id: "I8rxH6phXEkC"
+#
+- id: Mathur2019e
+  text: "<u>Mathur MB</u> & Reichling DB (2019). Open-source software for mouse-tracking in Qualtrics to measure category competition. <strong>Behavior Research Methods</strong>, 51(5), 1987-1997."
+  year: 2019
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://link.springer.com/article/10.3758/s13428-019-01258-6"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: "Software"
+  webapplink: "https://osf.io/st2ef/"
+  doi: "10.3758/s13428-019-01258-6"
+  google_id: "W2uZP3ddy8sC"
+#
+- id: Mathur2019f
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2019). New metrics for meta-analyses of heterogeneous effects. <strong>Statistics in Medicine</strong>, 38(8):1336-1342."
+  year: 2019
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8057"
+  datarepo: "https://osf.io/pr2s9/"
+  rpackagename: "MetaUtility"
+  rpackagelink: "https://cran.r-project.org/web/packages/MetaUtility"
+  webappname: 
+  webapplink:
+  doi: "110.1002/sim.8057"
+  google_id: "QoJ_w57xiyAC"
+#
+- id: VanderWeele2019a
+  text: "VanderWeele TJ, Ding P, <u>Mathur MB</u> (2019). Technical considerations in the use of the E-value. <strong>Journal of Causal Inference</strong>, 7(2)."
+  year: 2019
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.degruyter.com/document/doi/10.1515/jci-2018-0007/html"
+  datarepo: 
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue"
+  webappname: "EValue Calculator"
+  webapplink: "https://www.evalue-calculator.com"
+  doi: "10.1515/jci-2018-0007"
+  google_id: "Azgs6IHzeyYC"
+#
+- id: Desai2019
+  text: "Desai M, Montez-Rath M, Kapphahn K, Joyce V, <u>Mathur MB</u>, Garcia A, Purington N, Owens DK (2019). Missing data strategies for time-varying confounders in comparative effectiveness studies of non-missing time-varying exposures and right-censored outcomes. <strong>Statistics in Medicine</strong>, 38(17):3204-3220."
+  year: 2019
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://pubmed.ncbi.nlm.nih.gov/31099433/"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1002/sim.8174"
+  google_id: "RMgMIBzvq-4C"
+#
+- id: VanderWeele2019b
+  text: "VanderWeele TJ, <u>Mathur MB</u>, Chen Y (2019). Media portrayals and public health: Effects on suicide and other behaviors. <strong>JAMA Psychiatry</strong>, 76(9):891-892."
+  year: 2019
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2734855?casa_token=ojGVZCEBr_UAAAAA:0QLotJU0Ig1C9sTnbPLCXkFRJwTVu62yf5DXEyT6mWt9Fvn9mFdJ8vQJaztqg42h57tf6d44Sg"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1001/jamapsychiatry.2019.0842"
+  google_id: "yTLRzDEmwhEC"
+#
+- id: VanderWeele2019c
+  text: "VanderWeele TJ & <u>Mathur MB</u> (2019). Some desirable properties of the Bonferroni correction: Is the Bonferroni correction really so bad? <strong>American Journal of Epidemiology</strong>, 188(3):617-618."
+  year: 2019
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://pubmed.ncbi.nlm.nih.gov/30452538/"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/aje/kwy250"
+  google_id: "x21FZCSn4ZoC"
+#
+- id: VanderWeele2019d
+  text: "VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132."
+  year: 2019
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.acpjournals.org/doi/10.7326/M18-3112?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.7326/M18-3112"
+  google_id: "rCNdntzdTkkC"
+#  
+# --------------------------- 2018 ---------------------------
+#
+- id: Mathur2018a
+  text: "<u>Mathur MB</u> & VanderWeele TJ (2018). R function for additive interaction measures. <strong>Epidemiology</strong>, 29(1), e5-e6."
+  year: 2018
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2018/01000/R_Function_for_Additive_Interaction_Measures.21.aspx"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: "Software"
+  webapplink: "https://osf.io/7ccpp/"
+  doi: "10.1097/EDE.0000000000000752"
+  google_id: "M0leSnx2MbUC"
+#
+- id: Mathur2018b
+  text: "<u>Mathur MB</u>, Ding P, Riddell CA, VanderWeele TJ (2018). Website and R package for computing E-values. <strong>Epidemiology</strong>, 29(5), e45-e47."
+  year: 2018
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.lww.com/epidem/Fulltext/2018/09000/Web_Site_and_R_Package_for_Computing_E_values.26.aspx"
+  datarepo: 
+  rpackagename: "EValue"
+  rpackagelink: "https://cran.r-project.org/web/packages/EValue"
+  webappname: "EValue Calculator"
+  webapplink: "https://www.evalue-calculator.com"
+  doi: "10.1097/EDE.0000000000000864"
+  google_id: "oTdOBqtIf_kC"
+#
+- id: Hardwicke2018
+  text: "Hardwicke TE, <u>Mathur MB</u>, MacDonald K, Nilsonne G, Banks GC, Kidwell MC, Mohr AH, Clayton E, Yoon EJ, Tessler MH, Lenne RL, Altman S, Long B, Frank MC (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. <strong>Royal Society Open Science</strong>, 5, 180448."
+  year: 2018
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://royalsocietypublishing.org/doi/10.1098/rsos.180448"
+  datarepo: "https://osf.io/wn8fd"
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1098/rsos.180448"
+  google_id: "QsKbpXNoaWkC"
+#
+- id: Afghahi2018
+  text: "Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez SL, Ford JM, Sledge GW, Kurian SW. (2018). Higher absolute lymphocyte counts predict lower mortality from early-stage triple-negative breast cancer. <strong>Clinical Cancer Research</strong>, 24(12), 2851-2858."
+  year: 2018
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://clincancerres.aacrjournals.org/content/24/12/2851"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1158/1078-0432.CCR-17-1323"
+  google_id: "orDZ08hpP44C"
+#
+- id: Boehm2018
+  text: "Boehm JK, Chen Y, Koga H, <u>Mathur MB</u>, Vie LL, Kubzansky LD (2018). Is optimism associated with healthier cardiovascular-related behavior? Meta-analyses of three health behaviors. <strong>Circulation Research</strong>, 122(8), 1119-1134."
+  year: 2018
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.117.310828?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&"
+  datarepo: "https://osf.io/rk8fx"
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1161/CIRCRESAHA.117.310828"
+  google_id: "_tF6a-HnqWAC"
+#
+# --------------------------- 2017 ---------------------------
+- id: Mummah2017
+  text: "Mummah S, Robinson TN, <u>Mathur MB</u>, Farzinkhou S, Sutton S, Gardner CD (2017). Effect of a mobile app intervention on vegetable consumption in overweight adults: a randomized controlled trial. <strong>International Journal of Behavioral Nutrition and Physical Activity</strong>, 14(1), 125-135."
+  year: 2017
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-017-0563-2"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1186/s12966-017-0563-2"
+  google_id: "hNSvKAmkeYkC"
+#
+- id: Montez2017
+  text: "Montez-Rath ME, Kapphahn K, <u>Mathur MB</u>, Mitani AA, Hendry DJ, Desai M (2017). Guidelines for generating right-censored outcomes from a Cox model extended to accommodate time-varying covariates. <strong>Journal of Modern Applied Statistical Methods</strong>, 16(1), 86-106."
+  year: 2018
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://digitalcommons.wayne.edu/jmasm/vol16/iss1/6/"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.22237/jmasm/1493597100"
+  google_id: "nPTYJWkExTIC"
+#
+# --------------------------- 2016 ---------------------------
+#
+- id: Mathur2016a
+  text: "<u>Mathur MB</u>, Gould M, Khazeni N (2016). Direct-to-consumer drug advertisements can paradoxically increase intentions to adopt lifestyle changes. <strong>Frontiers in Psychology</strong>, 7(1533)."
+  year: 2016
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01533/full"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.3389/fpsyg.2016.01533"
+  google_id: "5nxA0vEk-isC"
+#
+- id: Mathur2016b
+  text: "<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler, DP, Khazeni N (2016). Toward a mechanistic understanding of psychosocial factors in telomere degradation. <strong>Brain, Behavior, and Immunity</strong>, 56, 413."
+  year: 2016
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/abs/pii/S0889159116301027?via%3Dihub"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1016/j.bbi.2016.04.011"
+  google_id: "LkGwnXOMwfcC"
+#
+- id: Mathur2016c
+  text: "<u>Mathur MB</u> & Reichling DB (2016). Navigating a social world with robot partners: A quantitative cartography of the Uncanny Valley. <strong>Cognition</strong>, 146, 22-32."
+  year: 2016
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S0010027715300640?via%3Dihub"
+  datarepo: "https://osf.io/3rjnk/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1016/j.cognition.2015.09.008"
+  google_id: "W7OEmFMy1HYC"
+#
+- id: Mathur2016c
+  text: "<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni N (2016). Perceived stress and telomere length: A systematic review, meta-analysis, and methodologic considerations for advancing the field. <strong>Brain, Behavior, and Immunity</strong>, 56(413), 158-169."
+  year: 2016
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.sciencedirect.com/science/article/pii/S088915911630023X?via%3Dihub"
+  datarepo: "https://osf.io/e9tg8/"
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1016/j.bbi.2016.02.002"
+  google_id: "WF5omc3nYNoC"
+#
+- id: Mummah2016
+  text: "Mummah, SA, <u>Mathur MB</u>, King AC, Gardner CD, Sutton S (2016). Mobile technology for vegetable consumption: a randomized controlled pilot study in overweight adults. <strong>JMIR mHealth and uHealth</strong>, 4(2), e51."
+  year: 2016
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://pubmed.ncbi.nlm.nih.gov/27193036/"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.2196/mhealth.5146"
+  google_id: "roLk4NBRz8UC"
+# 
+- id: Charytan2016
+  text: "Charytan DM, Desai M, <u>Mathur MB</u>, Stern NM, Brooks MM, Krzych LJ, Schuler GC, Kaehler J, Rodriguez-Granillo AM, Hueb W, Reeves BC, Thiele H, Rodriguez AE, Buszman PP, Puszman PE, Maurer R, Winkelmayer WC (2016). Coronary artery bypass grafting compared with percutaneous coronary intervention in chronic kidney disease: an individual patient meta-analysis of randomized trials. <strong>Kidney International</strong>, 90(2), 411-421."
+  year: 2016
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://linkinghub.elsevier.com/retrieve/pii/S0085-2538(16)30126-0"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1016/j.kint.2016.03.033"
+  google_id: "UebtZRa9Y70C"
+# 
+- id: Afghahi2016
+  text: "Afghahi A, <u>Mathur MB</u>, Thompson C, Mitani A, Rigdon J, Desai M, Yu PP, de Bruin MA, Seto T, Olson C, Kenkare P, Gomez SL, Das AK, Luft HS, Sledge GW, Sing AP, Kurian AW (2016). Use and impact of gene expression profiling in early-stage breast cancer: a study of linked electronic medical record, cancer registry and genomic data across two healthcare systems. <strong>Journal of Oncology Practice</strong>, 12(6), e697-e709."
+  year: 2016
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://pubmed.ncbi.nlm.nih.gov/27221993/"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1200/JOP.2015.009803"
+  google_id: "Se3iqnhoufwC"
+# 
+- id: Lo2016
+  text: "Low YS, Daugherty AC, Schroeder EA, Chen W, Seto T, Weber S, Lim M, Hastie T, <u>Mathur MB</u>, Desai M, Farrington C, Radin AA, Sirota M, Kenkare P, Thompson CA, Yu PP, Gomez SL, Sledge GW, Kurian AW, Shah NH (2016). Synergistic drug combinations from electronic health records and gene expression. <strong>Journal of the American Medical Informatics Association</strong>, 24 (3), 565-576."
+  year: 2016
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://academic.oup.com/jamia/article/24/3/565/2664593"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1093/jamia/ocw161"
+  google_id: "qmtmRrLr0tkC"
+# 
+# --------------------------- 2015 ---------------------------
+#
+- id: Pargaonkar2015
+  text: "Pargaonkar VS, Perez MV, Jindal A, <u>Mathur MB</u>, Myers J, Froelicher VF (2015). Long-term prognosis of early repolarization with J-wave and QRS slur patterns on the resting electrocardiogram: a cohort study. <strong>Annals of Internal Medicine</strong>, 163(10), 747-755."
+  year: 2015
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.acpjournals.org/doi/10.7326/M15-0598?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.7326/M15-0598"
+  google_id: "YsMSGLbcyi4C"
+#
+- id: Pless2015
+  text: "Pless E, Queirolo J, Pinter-Wollman N, Crow S, Allen K, <u>Mathur MB</u>, Gordon DM (2015). Interactions increase forager availability and activity in harvester ants. <strong>PLOS One</strong>, 10(11), e0141971."
+  year: 2015
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141971"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1371/journal.pone.0141971"
+  google_id: "eQOLeE2rZwMC"
+#
+- id: OSC2015
+  text: "Open Science Collaboration, including <u>Mathur MB</u> (2015). Estimating the reproducibility of psychological science. <strong>Science</strong>, 349(6251), aac4716."
+  year: 2015
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://science.sciencemag.org/content/349/6251/aac4716.long"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1126/science.aac4716"
+  google_id: "Y0pCki6q_DkC"
+# 
+# --------------------------- 2014 ---------------------------
+#
+- id: Mathur2014
+  text: "<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection: Analysis of global cases. <strong>PLOS One</strong>, 9(9), e106171."
+  year: 2014
+  type: "empirical"
+  authorship: "first"
+  status: "published"
+  preprint: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106171"
+  datarepo: 
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "10.1371/journal.pone.0106171"
+  google_id: "2osOgNQ5qMEC"
+#
+- id: Patel2014
+  text: "Patel RB, <u>Mathur MB</u>, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Khazeni N (2014). Demographic and clinical predictors of mortality from highly pathogenic avian influenza A (H5N1) virus infection: CART analysis of international cases. <strong>PLOS One</strong>, 9(3), e91630."
+  year: 2014
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091630"
+  datarepo:
+  rpackagename: 
+  rpackagelink: 
+  webappname: "Interactive case map"
+  webapplink: "http://flubusters.blogspot.com/p/contact.html"
+  doi: "10.1371/journal.pone.0091630"
+  google_id: "9yKSN-GCB0IC"
+#
+- id: Perez2014
+  text: "De Jesus Perez VA, Yuan K, Lyuksyutova MA, Dewey F, Orcholski ME, Shuffle EM, <u>Mathur MB</u>, Yancy Jr. L, Rojas V, Li CG, Cao A, Alastalo T-P, Khazeni N, Cimprich KA, Butte AJ, Ashley E, Zamanian RT (2014). Whole exome sequencing reveals TopBP1 as a novel gene in idiopathic pulmonary arterial hypertension. <strong>American Journal of Respiratory and Critical Care Medicine</strong>, 189(10), 1260-1272."
+  year: 2014
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.atsjournals.org/doi/full/10.1164/rccm.201310-1749OC"
+  datarepo:
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1164/rccm.201310-1749OC"
+  google_id: "qjMakFHDy7sC"
+#
 # --------------------------- 2010 ---------------------------
 #  
 - id: Mathur2010
