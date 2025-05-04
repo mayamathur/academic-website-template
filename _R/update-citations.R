@@ -22,13 +22,15 @@ get_article_cite_history2 = function (id, article, verbose=FALSE) {
   if (is.null(res)) {
     if (verbose) {
       resp <- httr::GET(url)
-      cat("Response object:\n")
+      cat("Response object [ERROR]:\n")
+      print(resp)
       str(resp)
     }
     return(NULL)
   } else {
     if (verbose) {
-      cat("Response object:\n")
+      cat("Response object [SUCCESS]:\n")
+      print(res)
       str(res)
     }
   }
