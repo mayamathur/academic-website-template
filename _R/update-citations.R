@@ -84,8 +84,8 @@ get_cites <- function(pid, verbose=FALSE) {
 x <- read_yaml("_data/publications_to_edit.yml")
 
 # loop over the publications and add the google_cites field
-# for (i in seq_along(x)) {
-for (i in seq_along(x)[51:55]) {
+for (i in seq_along(x)) {
+#for (i in seq_along(x)[51:55]) {
   z <- c(x[[i]], google_cites=list(NULL))
   pid <- z$google_id
   if (!is.null(z$google_id)) {
@@ -102,5 +102,5 @@ for (i in seq_along(x)[51:55]) {
 }
 
 # write publications with citation info
-# write_yaml(x, "_data/publications.yml")
+write_yaml(x, "_data/publications.yml")
 
