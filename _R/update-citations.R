@@ -99,6 +99,8 @@ for (i in seq_along(x)) {
     }
   }
   x[[i]] <- z
+  
+  cat("Just finished entry", i)
 }
 
 # write publications with citation info

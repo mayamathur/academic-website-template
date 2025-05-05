@@ -63,22 +63,6 @@
   doi: ~
   google_id: ~
   google_cites: ~
-- id: Thomas2024
-  text: Thomas AT, Hope J, <u>Mathur MB</u> (under review). Documentary films can
-    increase nationwide interest in plant-based food.
-  year: 2024
-  type: empirical
-  authorship: last
-  status: inprep
-  preprint: https://osf.io/preprints/osf/yh94d
-  datarepo: https://github.com/hsflabstanford/media-impacts
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
 - id: He2024
   text: He Z, Chu B, Yang J, Gu J, Chen Z, Liu L, Morrison T, Belloy ME, Qi X, Hejazi
     N, <u>Mathur MB</u>, Le Guen Y, Tang H, Hastie T, Ionita-Laza I, Sabatti C, Candes
@@ -88,26 +72,6 @@
   authorship: middle
   status: inprep
   preprint: https://www.biorxiv.org/content/10.1101/2024.02.28.582621v1.abstract
-  datarepo: ~
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
-- id: Tsui2022
-  text: 'Tsui A, Carstensen A, Kachergis G, Abubakar A, Mulat Asnake, Barry O, Basnight-Brown
-    D, Bentu D, Bergmann C, Binan Dami E, Boll-Avetisyan N, de Jongh M, Diop Y, Herrmann
-    E, Jang C, Kizito S, Lamba T, Maliwichi-Senganimalunje L, Marangu J, <u>Mathur
-    MB</u>, et al. Exploring variation in infants'' preference for infant-directed
-    speech: Evidence from a multi-site study in Africa. <strong>Developmental Science.</strong>
-    Accepted pending data collection.'
-  year: 2023
-  type: empirical
-  authorship: middle
-  status: inprep
-  preprint: https://osf.io/fqp4b
   datarepo: ~
   rpackagename: ~
   rpackagelink: ~
@@ -146,24 +110,8 @@
   webappname: ~
   webapplink: ~
   doi: ~
-  google_id: ~
+  google_id: 10.1093/aje/kwaf043
   google_cites: ~
-- id: Mathur2024a
-  text: <u>Mathur MB</u>. On the statistical analysis of experiments with manipulation
-    checks. <strong>Advances in Methods and Practices in Psychological Science.</strong>
-  year: 2025
-  type: methods
-  authorship: first
-  status: inpress
-  preprint: https://osf.io/preprints/osf/9y8re/
-  datarepo: https://osf.io/78bjr/
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: 10.1177/251524592412975
-  google_id: NU-BerS4NX4C
-  google_cites: 0
 - id: Mathur2023e
   text: <u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for
     eliminating selection bias in causal estimands through covariate adjustment. <strong>The
@@ -181,16 +129,15 @@
   doi: 10.31219/osf.io/ths4e
   google_id: c1AJUTjuCtUC
   google_cites: 7
-- id: Voski2025
-  text: 'Voski A, Braginsky M, Zhang A, Bertoldo J, Egan S, Levig LA, Ihrig MM, <u>Mathur
-    MB</u>. Effect of a portion-size default nudge on meat consumption and diner satisfaction:
-    Controlled experiments in university dining halls. <strong>BMC Public Health.</strong>'
-  year: 2025
+- id: Thomas2024
+  text: Thomas AT, Hope J, <u>Mathur MB</u>. Documentary films can increase nationwide
+    interest in plant-based food. <strong>Nature Food.</strong>
+  year: 2024
   type: empirical
   authorship: last
   status: inpress
-  preprint: https://osf.io/preprints/osf/9y53n
-  datarepo: https://osf.io/2hy74/
+  preprint: https://osf.io/preprints/osf/yh94d
+  datarepo: https://github.com/hsflabstanford/media-impacts
   rpackagename: ~
   rpackagelink: ~
   webappname: ~
@@ -198,6 +145,40 @@
   doi: ~
   google_id: ~
   google_cites: ~
+- id: Thomas2025
+  text: Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K (2025). What can
+    large language models do for sustainable food? <strong>Proceedings of the 42nd
+    International Conference on Machine Learning [PMLR-2025].</strong>
+  year: 2025
+  type: empirical
+  authorship: middle
+  status: inpress
+  preprint: https://www.researchgate.net/publication/388860023_What_Can_Large_Language_Models_Do_for_Sustainable_Food
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
+- id: Mathur2025d
+  text: <u>Mathur MB</u>. On the statistical analysis of experiments with manipulation
+    checks. <strong>Advances in Methods and Practices in Psychological Science</strong>,
+    8(1), 1-11.
+  year: 2025
+  type: methods
+  authorship: first
+  status: published
+  preprint: https://osf.io/preprints/osf/9y8re/
+  datarepo: https://osf.io/78bjr/
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: 10.1177/251524592412975
+  google_id: NU-BerS4NX4C
+  google_cites: 0
 - id: Mathur2025c
   text: '<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist
     properties. <strong>Research Synthesis Methods</strong>, 16(1), 87-122.'
@@ -248,6 +229,23 @@
   doi: 10.1093/aje/kwae145
   google_id: S2WlVNSe3u4C
   google_cites: 13
+- id: Voski2025
+  text: 'Voski A, Braginsky M, Zhang A, Bertoldo J, Egan S, Levig LA, Ihrig MM, <u>Mathur
+    MB</u>. Effect of a portion-size default nudge on meat consumption and diner satisfaction:
+    Controlled experiments in university dining halls. <strong>BMC Public Health.</strong>'
+  year: 2025
+  type: empirical
+  authorship: last
+  status: published
+  preprint: https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-22495-9
+  datarepo: https://osf.io/2hy74/
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: 10.1186/s12889-025-22495-9
+  google_id: oynPyU19kbsC
+  google_cites: 0
 - id: Panda2025
   text: 'Panda P, Deng Y, Frang A, Ward V, Wang E, Newberry J, <u>Mathur MB</u>, Patel
     A (2025). Increased emergency department identification of youth experiencing
