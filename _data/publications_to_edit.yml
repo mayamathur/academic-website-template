@@ -136,13 +136,13 @@
   webapplink: 
   doi: "10.31219/osf.io/ths4e"
   google_id: "c1AJUTjuCtUC"
-# 
-- id: Zhang2024b
+#
+- id: Zhang2025a
   text: "Zhang W, Tynelius P, <u>Mathur MB</u>, Quartagno M, Branden G, Lijeros F, Kosidou K. Temporal trends in sexual identity and sociodemographic disparities in Stockholm, Sweden, 2010 to 2021. <strong>American Journal of Public Health.</strong>"
-  year: 2024
+  year: 2025
   type: "empirical"
   authorship: "middle"
-  status: "published"
+  status: "inpress"
   preprint: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827231"
   datarepo: 
   rpackagename: 
