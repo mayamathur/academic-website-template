@@ -137,6 +137,21 @@
   doi: "10.31219/osf.io/ths4e"
   google_id: "c1AJUTjuCtUC"
 # 
+- id: Zhang2024b
+  text: "Zhang W, Tynelius P, <u>Mathur MB</u>, Quartagno M, Branden G, Lijeros F, Kosidou K. Temporal trends in sexual identity and sociodemographic disparities in Stockholm, Sweden, 2010 to 2021. <strong>American Journal of Public Health.</strong>"
+  year: 2024
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827231"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1001/jamanetworkopen.2024.47627"
+  google_id: "ujxm2eEBZHIC"
+#
 - id: Thomas2024
   text: "Thomas AT, Hope J, <u>Mathur MB</u>. Documentary films can increase nationwide interest in plant-based food. <strong>Nature Food.</strong>"
   year: 2024
