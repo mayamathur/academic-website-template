@@ -92,21 +92,6 @@
 # #
 # --------------------------- In press ---------------------------
 #
-- id: Mathur2025a
-  text: "<u>Mathur MB</u>. On the statistical analysis of studies with attention checks. <strong>Advances in Methods and Practices in Psychological Science.</strong>"
-  year: 2025
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/preprints/osf/r9vdp/"
-  datarepo: "https://osf.io/kt6ru/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
 - id: Mathur2024e
   text: "<u>Mathur MB</u> & Shpitser I. Pitfalls of imputing using incomplete auxiliary variables. <strong>American Journal of Epidemiology.</strong>"
   year: 2025
@@ -149,8 +134,8 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi: "10.1001/jamanetworkopen.2024.47627"
-  google_id: "ujxm2eEBZHIC"
+  doi: 
+  google_id: 
 #
 - id: Thomas2024
   text: "Thomas AT, Hope J, <u>Mathur MB</u>. Documentary films can increase nationwide interest in plant-based food. <strong>Nature Food.</strong>"
@@ -183,6 +168,22 @@
   google_id:
 #
 # --------------------------- 2025 ---------------------------
+#
+- id: Mathur2025a
+  text: "<u>Mathur MB</u>. On the statistical analysis of studies with attention checks. <strong>Advances in Methods and Practices in Psychological Science</strong>, 8(2), 1-16."
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  labels: ["Methods - applied journals"]
+  preprint: "https://osf.io/preprints/osf/r9vdp/"
+  datarepo: "https://osf.io/kt6ru/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1177/25152459251338041"
+  google_id: 
 #
 - id: Mathur2025d
   text: "<u>Mathur MB</u>. On the statistical analysis of experiments with manipulation checks. <strong>Advances in Methods and Practices in Psychological Science</strong>, 8(1), 1-11."
