@@ -175,7 +175,7 @@
   type: "methods"
   authorship: "first"
   status: "inpress"
-  labels: ["Methods - applied journals"]
+  labels: "Methods - applied journals"
   preprint: "https://osf.io/preprints/osf/r9vdp/"
   datarepo: "https://osf.io/kt6ru/"
   rpackagename: 
