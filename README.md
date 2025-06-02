@@ -168,7 +168,7 @@ docker run --rm \
 
 You'll have to wait until all the gems are installed and the site is built. After that, visit `http://locahost:4000` in your browser. When you edit files in the folder, the site will rebuild and reflect the changes. Once done, hit `Ctrl+C` to exit the Docker process, it will clean up the container. Your changes will persist in this folder and you can commit the mto git.
 
-# Update regarding Google Scholar enforcing the no-bots policy
+## Update regarding Google Scholar enforcing the no-bots policy
 
 Google Scholar is blocking bots in line with their [data export policy](https://scholar.google.com/intl/en/scholar/help.html#export)
 and rules defined in their [`robots.txt`](https://scholar.google.com/robots.txt) file.
