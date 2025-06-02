@@ -167,3 +167,29 @@ docker run --rm \
 ```
 
 You'll have to wait until all the gems are installed and the site is built. After that, visit `http://locahost:4000` in your browser. When you edit files in the folder, the site will rebuild and reflect the changes. Once done, hit `Ctrl+C` to exit the Docker process, it will clean up the container. Your changes will persist in this folder and you can commit the mto git.
+
+# Update regarding Google Scholar enforcing the no-bots policy
+
+Google Scholar is blocking bots in line with their [data export policy](https://scholar.google.com/intl/en/scholar/help.html#export)
+and rules defined in their [`robots.txt`](https://scholar.google.com/robots.txt) file.
+As a result, GitHub's IP address is likely listed too and running the R script (`_R/update-citations.R`)
+as part of GitHub Actions results in HTTP response code [403 Forbidden](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/403).
+
+The R script that updates the Scholar citations still runs from other IP addresses,
+including local runs. Here are a few ways to get citations:
+
+1. Run the script on a local machine once a month to update the yaml file - Google Scholar is not blocking local IP addresses.
+2. Have the script run on a server using a cron job, i.e. run on a schedule similarly to the GitHub action.
+3. Use a server as a [self-hosted runner](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners) for GitHub actions, i.e. integrate with GitHub, but use an on-premises or cloud machine and its IP address that is not blocked.
+
+The current GitHub Action deploys the website _without_ running the R script.
+This deployment from the **main** branch to **gh-pages** will carry over
+any local changes to the `_data/publications.yml` file reflecting the
+Scholar citations.
+
+Here is how to run the R script locally (you should have R installed, and the following packages: yaml, scholar, rvest, xml2):
+
+1. Change working directory to this repository.
+2. From command line, run `Rscript _R/update-citations.R` (from R or R Studio IDE: run the entire script inside `_R/update-citations.R`).
+3. Check if the `_data/publications.yml` has the desired citation info updated.
+4. Commit your changes to the main branch (e.g. `git commit -m "citations updated"`).
