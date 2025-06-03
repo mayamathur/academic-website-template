@@ -197,7 +197,7 @@
   webapplink: ~
   doi: 10.1177/251524592412975
   google_id: NU-BerS4NX4C
-  google_cites: 0
+  google_cites: 1
 - id: Mathur2025c
   text: '<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist
     properties. <strong>Research Synthesis Methods</strong>, 16(1), 87-122.'
@@ -418,7 +418,7 @@
   webapplink: ~
   doi: 10.1001/jamanetworkopen.2024.43059
   google_id: u0Mu_IsstPMC
-  google_cites: 36
+  google_cites: 37
 - id: Bane2024
   text: 'Bane S, Carmichael S, <u>Mathur MB</u>, Simard J (2024). Considering pregnancies
     as repeated versus independent events: An empirical comparison of common approaches
@@ -612,7 +612,7 @@
   webapplink: ~
   doi: 10.3389/fams.2023.1151314
   google_id: xm0LlTxljI0C
-  google_cites: 3
+  google_cites: 4
 - id: Boyce2023
   text: Boyce V, <u>Mathur MB</u>, Frank MC (2023). Eleven years of student replication
     projects provide evidence on the correlates of replicability in psychology. <strong>Royal
@@ -1033,7 +1033,7 @@
   webapplink: ~
   doi: 10.3390/nu13124555
   google_id: BJtnxTr0fRcC
-  google_cites: 13
+  google_cites: 14
 - id: Mathur2021a
   text: '<u>Mathur MB</u>, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD,
     Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal
@@ -1277,7 +1277,7 @@
   webapplink: ~
   doi: 10.1097/EDE.0000000000001180
   google_id: ifOnle78iJkC
-  google_cites: 100
+  google_cites: 101
 - id: Mathur2020g
   text: <u>Mathur MB</u> & VanderWeele TJ (2020). Evidence relating health care provider
     burnout and quality of care. <strong>Annals of Internal Medicine</strong>, 172(6):e16-e18.
@@ -1569,7 +1569,7 @@
   webapplink: https://osf.io/st2ef/
   doi: 10.3758/s13428-019-01258-6
   google_id: W2uZP3ddy8sC
-  google_cites: 60
+  google_cites: 62
 - id: Mathur2019f
   text: <u>Mathur MB</u> & VanderWeele TJ (2019). New metrics for meta-analyses of
     heterogeneous effects. <strong>Statistics in Medicine</strong>, 38(8):1336-1342.
@@ -1653,7 +1653,7 @@
   webapplink: ~
   doi: 10.1093/aje/kwy250
   google_id: x21FZCSn4ZoC
-  google_cites: 451
+  google_cites: 453
 - id: VanderWeele2019d
   text: VanderWeele TJ, <u>Mathur MB</u>, Ding P (2019). Correcting misinterpretations
     of the E-value. <strong>Annals of Internal Medicine</strong>, 170(2), 131-132.
@@ -1774,7 +1774,7 @@
   webapplink: ~
   doi: 10.1186/s12966-017-0563-2
   google_id: hNSvKAmkeYkC
-  google_cites: 129
+  google_cites: 130
 - id: Montez2017
   text: Montez-Rath ME, Kapphahn K, <u>Mathur MB</u>, Mitani AA, Hendry DJ, Desai
     M (2017). Guidelines for generating right-censored outcomes from a Cox model extended
@@ -1843,7 +1843,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 569
+  google_cites: 570
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1989,7 +1989,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 10002
+  google_cites: 10006
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
