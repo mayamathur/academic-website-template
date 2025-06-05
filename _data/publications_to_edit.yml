@@ -92,21 +92,6 @@
 # #
 # --------------------------- In press ---------------------------
 #
-- id: Mathur2024e
-  text: "<u>Mathur MB</u> & Shpitser I. Pitfalls of imputing using incomplete auxiliary variables. <strong>American Journal of Epidemiology.</strong>"
-  year: 2025
-  type: "methods"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/preprints/osf/c3zrh/"
-  datarepo: "https://osf.io/8pk7t/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: "10.1093/aje/kwaf043"
-#
 - id: Mathur2023e
   text: "<u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment. <strong>The Annals of Statistics.</strong>"
   year: 2025
@@ -168,6 +153,23 @@
   google_id:
 #
 # --------------------------- 2025 ---------------------------
+#
+- id: Mathur2024e
+  text: "<u>Mathur MB</u> & Shpitser I. Pitfalls of imputing using incomplete auxiliary variables. <strong>American Journal of Epidemiology</strong>, 194, 1801-1802."
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "published"
+  labels: ["Methods - applied journals"]
+  preprint: "https://academic.oup.com/aje/article/194/6/1801/8109988?utm_source=authortollfreelink&utm_campaign=aje&utm_medium=email&guestAccessKey=f7f4e270-962a-4b92-8405-11ba60c20d23"
+  datarepo: "https://osf.io/8pk7t/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1093/aje/kwaf043"
+  google_id: 
+#
 #
 - id: Mathur2025a
   text: "<u>Mathur MB</u>. On the statistical analysis of studies with attention checks. <strong>Advances in Methods and Practices in Psychological Science</strong>, 8(2), 1-16."
