@@ -80,22 +80,6 @@
   doi: ~
   google_id: ~
   google_cites: ~
-- id: Mathur2024e
-  text: <u>Mathur MB</u> & Shpitser I. Pitfalls of imputing using incomplete auxiliary
-    variables. <strong>American Journal of Epidemiology.</strong>
-  year: 2025
-  type: methods
-  authorship: first
-  status: inpress
-  preprint: https://osf.io/preprints/osf/c3zrh/
-  datarepo: https://osf.io/8pk7t/
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: 10.1093/aje/kwaf043
-  google_cites: ~
 - id: Mathur2023e
   text: <u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for
     eliminating selection bias in causal estimands through covariate adjustment. <strong>The
@@ -161,6 +145,23 @@
   webappname: ~
   webapplink: ~
   doi: ~
+  google_id: ~
+  google_cites: ~
+- id: Mathur2024e
+  text: <u>Mathur MB</u> & Shpitser I. Pitfalls of imputing using incomplete auxiliary
+    variables. <strong>American Journal of Epidemiology</strong>, 194, 1801-1802.
+  year: 2025
+  type: methods
+  authorship: first
+  status: published
+  labels: Methods - applied journals
+  preprint: https://academic.oup.com/aje/article/194/6/1801/8109988?utm_source=authortollfreelink&utm_campaign=aje&utm_medium=email&guestAccessKey=f7f4e270-962a-4b92-8405-11ba60c20d23
+  datarepo: https://osf.io/8pk7t/
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: 10.1093/aje/kwaf043
   google_id: ~
   google_cites: ~
 - id: Mathur2025a
@@ -418,7 +419,7 @@
   webapplink: ~
   doi: 10.1001/jamanetworkopen.2024.43059
   google_id: u0Mu_IsstPMC
-  google_cites: 37
+  google_cites: 39
 - id: Bane2024
   text: 'Bane S, Carmichael S, <u>Mathur MB</u>, Simard J (2024). Considering pregnancies
     as repeated versus independent events: An empirical comparison of common approaches
@@ -1085,7 +1086,7 @@
   webapplink: ~
   doi: 10.1002/jrsm.1464
   google_id: TGkaJS32XoUC
-  google_cites: 68
+  google_cites: 69
 - id: Errington2021
   text: Errington TM, <u>Mathur MB</u>, Soderberg CK, Denis A, Perfito N, Iorns E,
     Nosek BA. (2021). Investigating the replicability of preclinical cancer biology.
@@ -1244,7 +1245,7 @@
   webapplink: ~
   doi: 10.1111/rssc.12440
   google_id: L24QuVWYgZ0C
-  google_cites: 271
+  google_cites: 272
 - id: Mathur2020e
   text: '<u>Mathur MB</u> & VanderWeele TJ (2020). New statistical metrics for multisite
     replication projects. <strong>Journal of the Royal Statistical Society: Series
@@ -1451,7 +1452,7 @@
   webapplink: ~
   doi: 10.1214/19-STS728
   google_id: 7Frjd3zlGBUC
-  google_cites: 292
+  google_cites: 294
 - id: VanderWeele2020c
   text: 'VanderWeele TJ, <u>Mathur MB</u>, & Chen Y  (2020). Rejoinder: The future
     of outcome-wide studies. <strong>Statistical Science</strong>, 35(3), 479-483.'
@@ -1720,7 +1721,7 @@
   webapplink: ~
   doi: 10.1098/rsos.180448
   google_id: QsKbpXNoaWkC
-  google_cites: 359
+  google_cites: 358
 - id: Afghahi2018
   text: Afghahi A, Purington N, Han S, Desai M, Pierson E, <u>Mathur MB</u>, Seto
     T, Thompson CA, Rigdon J, Telli ML, Badve SS, Curtis CN, West RB, Horst K, Gomez
@@ -1843,7 +1844,7 @@
   webapplink: ~
   doi: 10.1016/j.cognition.2015.09.008
   google_id: W7OEmFMy1HYC
-  google_cites: 570
+  google_cites: 571
 - id: Mathur2016c
   text: '<u>Mathur MB</u>, Epel E, Kind S, Desai M, Parks CG, Sandler DP, Khazeni
     N (2016). Perceived stress and telomere length: A systematic review, meta-analysis,
@@ -1989,7 +1990,7 @@
   webapplink: ~
   doi: 10.1126/science.aac4716
   google_id: Y0pCki6q_DkC
-  google_cites: 10006
+  google_cites: 10009
 - id: Mathur2014
   text: '<u>Mathur MB</u>, Patel RB, Gould M, Uyeki TM, Bhattacharya J, Xiao Y, Gillapsie
     Y, Chae C, Khazeni N (2014). Seasonal patterns in human (A) H5N1 virus infection:
