@@ -77,8 +77,8 @@
 # #
 # --------------------------- In press ---------------------------
 #
-- id: Mathur2023e
-  text: "<u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment. <strong>The Annals of Statistics.</strong>"
+- id: Tsai2025
+  text: "Tsai JL, Chen DS, Yang AM, Cachia JYA, Blevins E, Ko M, <u>Mathur MB</u>, et al. A meta-analytic review of cultural variation in affect valuation. <strong>Psychological Bulletin.</strong>"
   year: 2025
   type: "methods"
   authorship: "first"
@@ -91,6 +91,22 @@
   webapplink: 
   doi: "10.31219/osf.io/ths4e"
   google_id: "c1AJUTjuCtUC"
+#
+- id: Green2025
+  text: "Green SA, Smith B, <u>Mathur MB</u>. Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis. <strong>Appetite.</strong>"
+  year: 2025
+  type: "empirical"
+  authorship: "last"
+  status: "inpress"
+  preprint: "https://osf.io/preprints/osf/q6xyr"
+  datarepo: "https://osf.io/a7g95/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 #
 - id: Green2025
   text: "Green SA, Smith B, <u>Mathur MB</u>. Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis. <strong>Appetite.</strong>"
