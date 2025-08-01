@@ -77,6 +77,21 @@
 # #
 # --------------------------- In press ---------------------------
 #
+- id: Mathur2025c
+  text: "A common-cause principle for eliminating selection bias through covariate adjustment. <strong>Annals of Statistics.</strong>"
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "inpress"
+  preprint: "https://osf.io/preprints/ths4e"
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: "c1AJUTjuCtUC"
+#
 - id: Tsai2025
   text: "Tsai JL, Chen DS, Yang AM, Cachia JYA, Blevins E, Ko M, <u>Mathur MB</u>, et al. A meta-analytic review of cultural variation in affect valuation. <strong>Psychological Bulletin.</strong>"
   year: 2025
