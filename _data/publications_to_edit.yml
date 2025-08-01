@@ -107,22 +107,6 @@
   doi: 
   google_id: 
 #
-#
-- id: Green2025
-  text: "Green SA, Smith B, <u>Mathur MB</u>. Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis. <strong>Appetite.</strong>"
-  year: 2025
-  type: "empirical"
-  authorship: "last"
-  status: "inpress"
-  preprint: "https://osf.io/preprints/osf/q6xyr"
-  datarepo: "https://osf.io/a7g95/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
 - id: Zhang2025a
   text: "Zhang W, Tynelius P, <u>Mathur MB</u>, Quartagno M, Branden G, Lijeros F, Kosidou K. Temporal trends in sexual identity and sociodemographic disparities in Stockholm, Sweden, 2010 to 2021. <strong>American Journal of Public Health.</strong>"
   year: 2025
