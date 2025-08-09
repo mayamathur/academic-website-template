@@ -78,7 +78,7 @@
 # --------------------------- In press ---------------------------
 #
 - id: Mathur2025c
-  text: "A common-cause principle for eliminating selection bias through covariate adjustment. <strong>Annals of Statistics.</strong>"
+  text: "<u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for eliminating selection bias through covariate adjustment. <strong>Annals of Statistics.</strong>"
   year: 2025
   type: "methods"
   authorship: "first"
@@ -100,21 +100,6 @@
   status: "inpress"
   preprint: 
   datarepo:
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi: 
-  google_id: 
-#
-- id: Green2025
-  text: "Green SA, Smith B, <u>Mathur MB</u>. Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis. <strong>Appetite.</strong>"
-  year: 2025
-  type: "empirical"
-  authorship: "last"
-  status: "inpress"
-  preprint: "https://osf.io/preprints/osf/q6xyr"
-  datarepo: "https://osf.io/a7g95/"
   rpackagename: 
   rpackagelink: 
   webappname: 
@@ -170,7 +155,7 @@
 # --------------------------- 2025 ---------------------------
 #
 - id: Mathur2024e
-  text: "<u>Mathur MB</u> & Shpitser I. Pitfalls of imputing using incomplete auxiliary variables. <strong>American Journal of Epidemiology</strong>, 194(6), 1801-1802."
+  text: "<u>Mathur MB</u> & Shpitser I (2025). Pitfalls of imputing using incomplete auxiliary variables. <strong>American Journal of Epidemiology</strong>, 194(6), 1801-1802."
   year: 2025
   type: "methods"
   authorship: "first"
@@ -187,7 +172,7 @@
 #
 #
 - id: Mathur2025a
-  text: "<u>Mathur MB</u>. On the statistical analysis of studies with attention checks. <strong>Advances in Methods and Practices in Psychological Science</strong>, 8(2), 1-16."
+  text: "<u>Mathur MB</u> (2025). On the statistical analysis of studies with attention checks. <strong>Advances in Methods and Practices in Psychological Science</strong>, 8(2), 1-16."
   year: 2025
   type: "methods"
   authorship: "first"
@@ -203,7 +188,7 @@
   google_id: 
 #
 - id: Mathur2025d
-  text: "<u>Mathur MB</u>. On the statistical analysis of experiments with manipulation checks. <strong>Advances in Methods and Practices in Psychological Science</strong>, 8(1), 1-11."
+  text: "<u>Mathur MB</u> (2025). On the statistical analysis of experiments with manipulation checks. <strong>Advances in Methods and Practices in Psychological Science</strong>, 8(1), 1-11."
   year: 2025
   type: "methods"
   authorship: "first"
@@ -218,7 +203,7 @@
   google_id: "NU-BerS4NX4C"
 #
 - id: Mathur2025c
-  text: "<u>Mathur MB.</u> Meta-analysis with Jeffreys priors: Empirical frequentist properties. <strong>Research Synthesis Methods</strong>, 16(1), 87-122."
+  text: "<u>Mathur MB (2025).</u> Meta-analysis with Jeffreys priors: Empirical frequentist properties. <strong>Research Synthesis Methods</strong>, 16(1), 87-122."
   year: 2025
   type: "methods"
   authorship: "first"
@@ -233,7 +218,7 @@
   google_id: "8RAEygVn5_EC"
 # 
 - id: Mathur2025b
-  text: "<u>Mathur MB</u> & Shpitser I. Mathur and Shpitser respond to 'The evolution of selection bias in the recent epidemiologic literature – a selective overview'. <strong>American Journal of Epidemiology</strong>, 194(1), 585-586."
+  text: "<u>Mathur MB</u> & Shpitser I (2025). Mathur and Shpitser respond to 'The evolution of selection bias in the recent epidemiologic literature – a selective overview'. <strong>American Journal of Epidemiology</strong>, 194(1), 585-586."
   year: 2025
   type: "methods"
   authorship: "first"
@@ -262,8 +247,23 @@
   doi: "10.1093/aje/kwae145"
   google_id: "S2WlVNSe3u4C"
 #
+- id: Green2025
+  text: "Green SA, Smith B, <u>Mathur MB</u> (2025). Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis. <strong>Appetite</strong>, 216(1), 108233."
+  year: 2025
+  type: "empirical"
+  authorship: "last"
+  status: "published"
+  preprint: "https://osf.io/preprints/osf/q6xyr"
+  datarepo: "https://osf.io/a7g95/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: "10.1016/j.appet.2025.108233"
+  google_id: "j8pvxH-kN2QC"
+#
 - id: Voski2025
-  text: "Voski A, Braginsky M, Zhang A, Bertoldo J, Egan S, Levig LA, Ihrig MM, <u>Mathur MB</u>. Effect of a portion-size default nudge on meat consumption and diner satisfaction: Controlled experiments in university dining halls. <strong>BMC Public Health.</strong>"
+  text: "Voski A, Braginsky M, Zhang A, Bertoldo J, Egan S, Levig LA, Ihrig MM, <u>Mathur MB</u> (2025). Effect of a portion-size default nudge on meat consumption and diner satisfaction: Controlled experiments in university dining halls. <strong>BMC Public Health.</strong>"
   year: 2025
   type: "empirical"
   authorship: "last"
