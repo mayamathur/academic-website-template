@@ -80,6 +80,23 @@
   doi: ~
   google_id: c1AJUTjuCtUC
   google_cites: 0
+- id: Green2026
+  text: 'Green SA, Smith B, <u>Mathur MB</u> (2026). Meaningfully reducing consumption
+    of meat and animal products is an unsolved problem: A meta-analysis. <strong>Appetite</strong>,
+    216(1), 108233.'
+  year: 2026
+  type: empirical
+  authorship: last
+  status: inpress
+  preprint: https://osf.io/preprints/osf/q6xyr
+  datarepo: https://osf.io/a7g95/
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: 10.1016/j.appet.2025.108233
+  google_id: j8pvxH-kN2QC
+  google_cites: 0
 - id: Tsai2025
   text: Tsai JL, Chen DS, Yang AM, Cachia JYA, Blevins E, Ko M, <u>Mathur MB</u>,
     et al. A meta-analytic review of cultural variation in affect valuation. <strong>Psychological
@@ -249,23 +266,6 @@
   webapplink: ~
   doi: 10.1093/aje/kwae145
   google_id: S2WlVNSe3u4C
-  google_cites: 0
-- id: Green2025
-  text: 'Green SA, Smith B, <u>Mathur MB</u> (2025). Meaningfully reducing consumption
-    of meat and animal products is an unsolved problem: A meta-analysis. <strong>Appetite</strong>,
-    216(1), 108233.'
-  year: 2025
-  type: empirical
-  authorship: last
-  status: published
-  preprint: https://osf.io/preprints/osf/q6xyr
-  datarepo: https://osf.io/a7g95/
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: 10.1016/j.appet.2025.108233
-  google_id: j8pvxH-kN2QC
   google_cites: 0
 - id: Voski2025
   text: 'Voski A, Braginsky M, Zhang A, Bertoldo J, Egan S, Levig LA, Ihrig MM, <u>Mathur
