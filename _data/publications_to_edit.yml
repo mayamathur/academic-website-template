@@ -1,13 +1,13 @@
 # --------------------------- In preparation ---------------------------
 #
-- id: Mathur2024d
-  text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ (under review). Resurrecting complete-case analysis: A defense."
-  year: 2024
-  type: "methods"
-  authorship: "first"
+- id: Mathur2024c
+  text: "Hope J, Green SA, Peacock JR, <u>Mathur MB</u> (under review). Taking a bite out of meat, or just giving fresh veggies the boot? Plant-based meats did not reduce meat purchasing in a randomized controlled menu intervention."
+  year: 2025
+  type: "empirical"
+  authorship: "last"
   status: "inprep"
-  preprint: "https://osf.io/preprints/osf/f9jvz/"
-  datarepo: "https://osf.io/crxyw/"
+  preprint: "https://osf.io/preprints/osf/z6rn2_v1"
+  datarepo: "https://github.com/hsflabstanford/TACOS-RCT"
   rpackagename: 
   rpackagelink: 
   webappname: 
@@ -76,6 +76,21 @@
 #   google_id: 
 # #
 # --------------------------- In press ---------------------------
+#
+- id: Mathur2025d
+  text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ. Resurrecting complete-case analysis: A defense. <strong>American Journal of Epidemiology.</strong>"
+  year: 2025
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/osf/f9jvz/"
+  datarepo: "https://osf.io/crxyw/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: "BPS1z4jHU5cC"
 #
 - id: Mathur2025c
   text: "<u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for eliminating selection bias through covariate adjustment. <strong>Annals of Statistics.</strong>"
