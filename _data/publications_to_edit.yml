@@ -92,6 +92,21 @@
   doi: 
   google_id: "c1AJUTjuCtUC"
 #
+- id: Bridgeford2026
+  text: "Bridgeford EW, Caffo BS, <u>Mathur MB</u>, Poldrack RA (in press). How causal perspectives can inform neuroscience data analysis. <strong>Nature Neuroscience.</strong>"
+  year: 2026
+  type: "methods"
+  authorship: "middle"
+  status: "inpress"
+  preprint: "https://osf.io/preprints/osf/zqne9/"
+  datarepo: ""
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi: 
+  google_id: 
+#
 - id: Dowd2025
   text: "Madley-Dowd P, Hughes RA, <u>Mathur MB</u>, Heron J, Tilling K. Using directed acyclic graphs to determine whether multiple imputation or subsample multiple imputation estimates of an exposure-outcome association are unbiased. <strong>American Journal of Epidemiology.</strong>"
   year: 2025
