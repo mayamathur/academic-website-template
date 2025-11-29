@@ -137,21 +137,6 @@
   doi: 
   google_id: 
 #
-- id: Thomas2025
-  text: "Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K (2025). What can large language models do for sustainable food? <strong>Proceedings of the 42nd International Conference on Machine Learning [PMLR-2025].</strong>"
-  year: 2025
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  preprint: "https://www.researchgate.net/publication/388860023_What_Can_Large_Language_Models_Do_for_Sustainable_Food"
-  datarepo:
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi:
-  google_id:
-#
 # --------------------------- 2025 ---------------------------
 #
 - id: Mathur2024e
@@ -261,6 +246,21 @@
   webapplink: 
   doi: "10.1016/j.appet.2025.108233"
   google_id: "j8pvxH-kN2QC"
+#
+- id: Thomas2025
+  text: "Thomas AT, Yee A, <u>Mathur MB</u>, Jurafsky D, Gligoric K (2025). What can large language models do for sustainable food? <strong>Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:59377-59433.</strong>"
+  year: 2025
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  preprint: "https://www.researchgate.net/publication/388860023_What_Can_Large_Language_Models_Do_for_Sustainable_Food"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi:
+  google_id:
 #
 - id: Thomas2025
   text: "Thomas AT, Hope J, <u>Mathur MB</u> (2025). Documentary films can increase public interest in plant-based diets in the USA. <strong>Nature Food</strong>, 6(9):837-842."
