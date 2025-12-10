@@ -80,6 +80,24 @@
   doi: ~
   google_id: c1AJUTjuCtUC
   google_cites: 0
+- id: Koh2026
+  text: 'Koh HK, Frederick DE, Balboni TA, O’Reilly SM, Kelly JF, Humphreys K, Botticelli
+    M, <u>Mathur MB</u>, Psimopoulos C, Long KN, VanderWeele TJ (in press). Spirituality
+    & harmful or hazardous drug use: Meta-analysis of longitudinal studies and implications.<strong>JAMA
+    Psychiatry.</strong>'
+  year: 2026
+  type: empirical
+  authorship: middle
+  status: inpress
+  preprint: ''
+  datarepo: ''
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
 - id: Bridgeford2026
   text: Bridgeford EW, Caffo BS, <u>Mathur MB</u>, Poldrack RA (in press). How causal
     perspectives can inform neuroscience data analysis. <strong>Nature Neuroscience.</strong>
