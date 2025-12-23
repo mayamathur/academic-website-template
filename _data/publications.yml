@@ -64,22 +64,6 @@
   doi: ~
   google_id: BPS1z4jHU5cC
   google_cites: 0
-- id: Mathur2025c
-  text: <u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for
-    eliminating selection bias through covariate adjustment. <strong>Annals of Statistics.</strong>
-  year: 2025
-  type: methods
-  authorship: first
-  status: inpress
-  preprint: https://osf.io/preprints/ths4e
-  datarepo: ~
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: c1AJUTjuCtUC
-  google_cites: 0
 - id: Koh2026
   text: 'Koh HK, Frederick DE, Balboni TA, O’Reilly SM, Kelly JF, Humphreys K, Botticelli
     M, <u>Mathur MB</u>, Psimopoulos C, Long KN, VanderWeele TJ (in press). Spirituality
@@ -149,6 +133,23 @@
   doi: ~
   google_id: ~
   google_cites: ~
+- id: Mathur2025c
+  text: <u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for
+    eliminating selection bias through covariate adjustment. <strong>Annals of Statistics</strong>,
+    53(6), 2303-2328.
+  year: 2025
+  type: methods
+  authorship: first
+  status: published
+  preprint: https://osf.io/preprints/ths4e
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: c1AJUTjuCtUC
+  google_cites: 0
 - id: Mathur2024e
   text: <u>Mathur MB</u> & Shpitser I (2025). Pitfalls of imputing using incomplete
     auxiliary variables. <strong>American Journal of Epidemiology</strong>, 194(6),
