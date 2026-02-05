@@ -67,8 +67,8 @@
 - id: Koh2026
   text: 'Koh HK, Frederick DE, Balboni TA, O’Reilly SM, Kelly JF, Humphreys K, Botticelli
     M, <u>Mathur MB</u>, Psimopoulos C, Long KN, VanderWeele TJ (in press). Spirituality
-    & harmful or hazardous drug use: Meta-analysis of longitudinal studies and implications.<strong>JAMA
-    Psychiatry.</strong>'
+    & harmful or hazardous drug use: Meta-analysis of longitudinal studies and implications.
+    <strong>JAMA Psychiatry.</strong>'
   year: 2026
   type: empirical
   authorship: middle
@@ -90,24 +90,6 @@
   authorship: middle
   status: inpress
   preprint: https://osf.io/preprints/osf/zqne9/
-  datarepo: ''
-  rpackagename: ~
-  rpackagelink: ~
-  webappname: ~
-  webapplink: ~
-  doi: ~
-  google_id: ~
-  google_cites: ~
-- id: Dowd2025
-  text: Madley-Dowd P, Hughes RA, <u>Mathur MB</u>, Heron J, Tilling K. Using directed
-    acyclic graphs to determine whether multiple imputation or subsample multiple
-    imputation estimates of an exposure-outcome association are unbiased. <strong>American
-    Journal of Epidemiology.</strong>
-  year: 2025
-  type: methods
-  authorship: middle
-  status: inpress
-  preprint: https://arxiv.org/abs/2503.24035
   datarepo: ~
   rpackagename: ~
   rpackagelink: ~
@@ -116,15 +98,16 @@
   doi: ~
   google_id: ~
   google_cites: ~
-- id: Tsai2025
-  text: Tsai JL, Chen DS, Yang AM, Cachia JYA, Blevins E, Ko M, <u>Mathur MB</u>,
-    et al. A meta-analytic review of cultural variation in affect valuation. <strong>Psychological
-    Bulletin.</strong>
+- id: Dowd2025
+  text: 'Madley-Dowd P, Hughes RA, <u>Mathur MB</u>, Heron J, Tilling K. Using directed
+    acyclic graphs to determine whether multiple imputation or subsample multiple
+    imputation estimates of an exposure-outcome association are unbiased. <strong>American
+    Journal of Epidemiology,</strong> 151(12): '
   year: 2025
-  type: empirical
+  type: methods
   authorship: middle
   status: inpress
-  preprint: ~
+  preprint: https://arxiv.org/abs/2503.24035
   datarepo: ~
   rpackagename: ~
   rpackagelink: ~
@@ -253,6 +236,23 @@
   doi: 10.1093/aje/kwae145
   google_id: S2WlVNSe3u4C
   google_cites: 0
+- id: Tsai2025
+  text: Tsai JL, Chen DS, Yang AM, Cachia JYA, Blevins E, Ko M, <u>Mathur MB</u>,
+    et al. A meta-analytic review of cultural variation in affect valuation. <strong>Psychological
+    Bulletin,</strong>151(12):1486-1524.
+  year: 2025
+  type: empirical
+  authorship: middle
+  status: published
+  preprint: https://psycnet.apa.org/fulltext/2027-22537-003.html
+  datarepo: ~
+  rpackagename: ~
+  rpackagelink: ~
+  webappname: ~
+  webapplink: ~
+  doi: ~
+  google_id: ~
+  google_cites: ~
 - id: Green2025
   text: 'Green SA, Smith B, <u>Mathur MB</u> (2026). Meaningfully reducing consumption
     of meat and animal products is an unsolved problem: A meta-analysis. <strong>Appetite</strong>,
