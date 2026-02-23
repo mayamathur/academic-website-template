@@ -1,5 +1,20 @@
 # --------------------------- In preparation ---------------------------
 #
+- id: Mathur2026a
+  text: "<u>Mathur MB</u>, Seaman S, Zhang W, McGrath S, Shpitser I (under review). Estimating conditional means under missingness not at random with incomplete auxiliary variables."
+  year: 2024
+  type: "methods"
+  authorship: "first"
+  status: "inprep"
+  preprint: "https://www.researchgate.net/publication/401123077_Estimating_conditional_means_under_missingness-not-at-random_with_incomplete_auxiliary_variables?channel=doi&linkId=699ccbc17247bc6473e365d5&showFulltext=true"
+  datarepo: "https://osf.io/27aue/"
+  rpackagename: "miapack"
+  rpackagelink: "https://github.com/stmcg/miapack"
+  webappname: 
+  webapplink: 
+  doi: "10.13140/RG.2.2.30750.19524"
+  google_id: 
+#
 - id: Mathur2024c
   text: "Hope J, Green SA, Peacock JR, <u>Mathur MB</u> (under review). Taking a bite out of meat, or just giving fresh veggies the boot? Plant-based meats did not reduce meat purchasing in a randomized controlled menu intervention."
   year: 2025
