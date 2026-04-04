@@ -107,12 +107,14 @@
   doi:
   google_id:
 #
+# ## --------------------------- 2026 ---------------------------
+#
 - id: Koh2026
-  text: "Koh HK, Frederick DE, Balboni TA, O'Reilly SM, Kelly JF, Humphreys K, Botticelli M, <u>Mathur MB</u>, Psimopoulos C, Long KN, VanderWeele TJ (2026). Spirituality & harmful or hazardous drug use: Meta-analysis of longitudinal studies and implications. <strong>JAMA Psychiatry.</strong>"
+  text: "Koh HK, Frederick DE, Balboni TA, O'Reilly SM, Kelly JF, Humphreys K, Botticelli M, <u>Mathur MB</u>, Psimopoulos C, Long KN, VanderWeele TJ (2026). Spirituality & harmful or hazardous drug use: Meta-analysis of longitudinal studies and implications. <strong>JAMA Psychiatry,</strong> 83(4):364-378."
   year: 2026
   type: "empirical"
   authorship: "middle"
-  status: "inpress"
+  status: "published"
   preprint: "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2844883"
   datarepo: 
   rpackagename: 
@@ -122,8 +124,6 @@
   doi: "10.1001/jamapsychiatry.2025.4816"
   google_id:
 # 
-# ## --------------------------- 2026 ---------------------------
-#  
 - id: Dowd2026
   text: "Madley-Dowd P, Hughes RA, <u>Mathur MB</u>, Heron J, Tilling K (2026). Using directed acyclic graphs to determine whether multiple imputation or subsample multiple imputation estimates of an exposure-outcome association are unbiased. <strong>American Journal of Epidemiology,</strong> 195(2):505-514."
   year: 2026
