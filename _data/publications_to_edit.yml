@@ -82,7 +82,7 @@
   year: 2026
   type: "empirical"
   authorship: "last"
-  status: "inprep"
+  status: "inpress"
   preprint: "https://osf.io/preprints/osf/z6rn2_v1"
   datarepo: "https://github.com/hsflabstanford/TACOS-RCT"
   rpackagename: 
