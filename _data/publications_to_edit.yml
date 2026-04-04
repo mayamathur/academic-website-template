@@ -45,21 +45,6 @@
   doi:
   google_id:
 #  
-- id: Hope2026
-  text: "Hope J, Green SA, Peacock JR, <u>Mathur MB</u> (under review). Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment."
-  year: 2025
-  type: "empirical"
-  authorship: "last"
-  status: "inprep"
-  preprint: "https://osf.io/preprints/osf/z6rn2_v1"
-  datarepo: "https://github.com/hsflabstanford/TACOS-RCT"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  doi:
-  google_id:
-#  
 - id: He2024
   text: "He Z, Chu B, Yang J, Gu J, Chen Z, Liu L, Morrison T, Belloy ME, Qi X, Hejazi N, <u>Mathur MB</u>, Le Guen Y, Tang H, Hastie T, Ionita-Laza I, Sabatti C, Candes E (under review). In silico identification of putative causal genetic variants."
   year: 2023
@@ -92,6 +77,21 @@
   doi:
   google_id: "BPS1z4jHU5cC"
 #  
+- id: Hope2026
+  text: "Hope J, Green SA, Peacock JR, <u>Mathur MB</u>. Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment."
+  year: 2026
+  type: "empirical"
+  authorship: "last"
+  status: "inprep"
+  preprint: "https://osf.io/preprints/osf/z6rn2_v1"
+  datarepo: "https://github.com/hsflabstanford/TACOS-RCT"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  doi:
+  google_id: "nOiSByfp82kC"
+# 
 - id: Bridgeford2026
   text: "Bridgeford EW, Caffo BS, <u>Mathur MB</u>, Poldrack RA (in press). How causal perspectives can inform neuroscience data analysis. <strong>Nature Neuroscience.</strong>"
   year: 2026
@@ -153,7 +153,7 @@
   rpackagelink: 
   webappname: 
   webapplink: 
-  doi:
+  doi: "10.1214/24-AOS2448"
   google_id: "c1AJUTjuCtUC"
 #  
 - id: Mathur2024e
