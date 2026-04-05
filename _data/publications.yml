@@ -84,11 +84,12 @@
   google_cites: 0
 - id: Hope2026
   text: 'Hope J, Green SA, Peacock JR, <u>Mathur MB</u>. Effects of adding plant-based
-    menu options on meat selection frequency: A randomized controlled experiment.'
+    menu options on meat selection frequency: A randomized controlled experiment.
+    <strong>Food Quality and Preference.</strong>'
   year: 2026
   type: empirical
   authorship: last
-  status: inprep
+  status: inpress
   preprint: https://osf.io/preprints/osf/z6rn2_v1
   datarepo: https://github.com/hsflabstanford/TACOS-RCT
   rpackagename: ~
@@ -118,11 +119,11 @@
   text: 'Koh HK, Frederick DE, Balboni TA, O''Reilly SM, Kelly JF, Humphreys K, Botticelli
     M, <u>Mathur MB</u>, Psimopoulos C, Long KN, VanderWeele TJ (2026). Spirituality
     & harmful or hazardous drug use: Meta-analysis of longitudinal studies and implications.
-    <strong>JAMA Psychiatry.</strong>'
+    <strong>JAMA Psychiatry,</strong> 83(4):364-378.'
   year: 2026
   type: empirical
   authorship: middle
-  status: inpress
+  status: published
   preprint: https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2844883
   datarepo: ~
   rpackagename: ~
