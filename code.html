@@ -1,0 +1,614 @@
+---
+permalink: /code/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Software — Maya B. Mathur</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f5f1e8;
+    --bg-card: #fdfbf6;
+    --ink: #1a1a1a;
+    --ink-soft: #4a4a4a;
+    --ink-muted: #7a7a7a;
+    --rule: #d8cfb8;
+    --rule-soft: #e8e0cb;
+    --accent: #8b2c1f;
+    --accent-soft: #c44a32;
+    --highlight: #f4e8c4;
+    --tag-web-bg: #e5dcc1;
+    --tag-web-ink: #5a4a2a;
+    --tag-r-bg: #d8e0e8;
+    --tag-r-ink: #2a4a6a;
+    --tag-stata-bg: #ddd8e4;
+    --tag-stata-ink: #4a3a6a;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100vh;
+    background-image:
+      radial-gradient(ellipse at top left, rgba(139, 44, 31, 0.03), transparent 50%),
+      radial-gradient(ellipse at bottom right, rgba(139, 44, 31, 0.02), transparent 50%);
+  }
+
+  a { color: inherit; }
+
+  /* ===== MASTHEAD ===== */
+  .masthead {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 48px 40px 32px;
+    border-bottom: 1px solid var(--ink);
+  }
+
+  .masthead-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink-muted);
+    margin-bottom: 24px;
+  }
+
+  .masthead-top nav { display: flex; gap: 24px; }
+  .masthead-top nav a { color: var(--ink-soft); text-decoration: none; transition: color 0.2s; }
+  .masthead-top nav a:hover, .masthead-top nav a.active { color: var(--accent); }
+
+  .masthead-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: clamp(56px, 9vw, 112px);
+    line-height: 0.92;
+    letter-spacing: -0.03em;
+    font-variation-settings: "opsz" 144;
+    margin-bottom: 20px;
+  }
+
+  .masthead-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+
+  .masthead-byline {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 17px;
+    color: var(--ink-soft);
+    max-width: 560px;
+    line-height: 1.45;
+  }
+
+  .masthead-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-muted);
+    text-align: right;
+  }
+
+  .masthead-meta div { margin-bottom: 4px; }
+  .masthead-meta strong { color: var(--ink); font-weight: 500; }
+
+  /* ===== CONTROLS ===== */
+  .controls {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px 40px;
+    border-bottom: 1px solid var(--rule);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    backdrop-filter: blur(8px);
+    background: rgba(245, 241, 232, 0.92);
+  }
+
+  .controls-row {
+    display: flex;
+    gap: 28px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .control-group { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+
+  .control-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink-muted);
+    margin-right: 4px;
+  }
+
+  .control-btn {
+    font-family: 'Inter', sans-serif;
+    font-size: 12.5px;
+    font-weight: 500;
+    padding: 5px 12px;
+    border: 1px solid var(--rule);
+    background: transparent;
+    color: var(--ink-soft);
+    cursor: pointer;
+    border-radius: 999px;
+    transition: all 0.15s ease;
+  }
+
+  .control-btn:hover { border-color: var(--ink); color: var(--ink); }
+  .control-btn.active { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+
+  /* ===== MAIN ===== */
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 56px 40px 40px;
+  }
+
+  .group-section { margin-bottom: 72px; }
+  .group-section:last-child { margin-bottom: 0; }
+
+  .group-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 24px;
+    margin-bottom: 28px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--ink);
+  }
+
+  .group-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 32px;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+    font-variation-settings: "opsz" 72;
+  }
+
+  .group-count {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  /* ===== WEB TOOLS — card layout ===== */
+  .web-tools {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+
+  .web-tool {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    position: relative;
+  }
+
+  .web-tool:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 14px 30px -14px rgba(139, 44, 31, 0.2);
+  }
+
+  .web-tool-visual {
+    aspect-ratio: 16 / 10;
+    background: var(--bg);
+    border-bottom: 1px solid var(--rule);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .web-tool-visual img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top left;
+  }
+
+  /* Placeholder visual with abstract sensitivity-analysis shape */
+  .web-tool-visual svg {
+    width: 75%;
+    height: 75%;
+  }
+
+  .web-tool-body {
+    padding: 22px 24px 24px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+
+  .web-tool-domain {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--accent);
+    margin-bottom: 8px;
+    font-weight: 500;
+  }
+
+  .web-tool-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 26px;
+    letter-spacing: -0.015em;
+    line-height: 1.05;
+    margin-bottom: 10px;
+    font-variation-settings: "opsz" 48;
+  }
+
+  .web-tool-title .dot { color: var(--accent); }
+
+  .web-tool-desc {
+    font-family: 'Fraunces', serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: var(--ink-soft);
+    margin-bottom: 16px;
+    flex: 1;
+    font-variation-settings: "opsz" 36;
+  }
+
+  .web-tool-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .web-tool-credit {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-muted);
+    line-height: 1.5;
+  }
+  .web-tool-credit strong { color: var(--ink); font-weight: 500; }
+
+  .web-tool-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 7px 14px;
+    background: var(--ink);
+    color: var(--bg-card);
+    text-decoration: none;
+    border-radius: 999px;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+
+  .web-tool-cta:hover { background: var(--accent); }
+  .web-tool-cta svg { width: 10px; height: 10px; }
+
+  /* ===== PACKAGE LIST ===== */
+  .packages {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .package {
+    display: grid;
+    grid-template-columns: 220px 1fr auto;
+    gap: 32px;
+    align-items: start;
+    padding: 22px 0;
+    border-bottom: 1px solid var(--rule-soft);
+    transition: background 0.2s;
+  }
+
+  .package:hover { background: rgba(244, 232, 196, 0.22); }
+  .package:last-child { border-bottom: none; }
+
+  .package-name-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .package-lang {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink-muted);
+  }
+
+  .package-name {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: -0.01em;
+    font-variation-settings: "opsz" 48;
+    color: var(--ink);
+    line-height: 1.05;
+  }
+
+  .package-name a {
+    color: inherit;
+    text-decoration: none;
+    background-image: linear-gradient(var(--accent), var(--accent));
+    background-size: 0 1px;
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    transition: background-size 0.25s ease, color 0.2s;
+  }
+  .package-name a:hover {
+    background-size: 100% 1px;
+    color: var(--accent);
+  }
+
+  .package-body {
+    padding-top: 2px;
+  }
+
+  .package-desc {
+    font-family: 'Fraunces', serif;
+    font-size: 16px;
+    line-height: 1.45;
+    color: var(--ink);
+    margin-bottom: 6px;
+    font-variation-settings: "opsz" 36;
+  }
+
+  .package-credit {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--ink-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    line-height: 1.5;
+  }
+  .package-credit strong { color: var(--ink-soft); font-weight: 500; }
+
+  .package-links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 6px;
+  }
+
+  .pkg-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 4px 11px;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    color: var(--ink-soft);
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    background: var(--bg-card);
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+  .pkg-link:hover { border-color: var(--accent); color: var(--accent); }
+  .pkg-link svg { width: 10px; height: 10px; }
+
+  /* ===== FOOTER ===== */
+  footer {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 32px 40px 48px;
+    border-top: 1px solid var(--rule);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--ink-muted);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  footer a { color: var(--ink-soft); text-decoration: none; }
+  footer a:hover { color: var(--accent); }
+
+  /* Reveal */
+  .reveal { opacity: 0; animation: rise 0.45s ease forwards; }
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Responsive */
+  @media (max-width: 900px) {
+    .masthead, .controls, main, footer { padding-left: 24px; padding-right: 24px; }
+    .web-tools { grid-template-columns: 1fr; }
+    .package {
+      grid-template-columns: 1fr;
+      gap: 10px;
+    }
+    .package-links {
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-items: flex-start;
+    }
+    .group-header { gap: 12px; }
+    .group-title { font-size: 26px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-top">
+    <div>Maya B. Mathur · Stanford University</div>
+    <nav>
+      <a href="/">About</a>
+      <a href="/publications/">Publications</a>
+      <a href="/code/" class="active">Software</a>
+    </nav>
+  </div>
+  <h1 class="masthead-title">Software</h1>
+  <div class="masthead-sub">
+    <p class="masthead-byline">Open-source tools implementing the statistical methods from the publications on this site — web interfaces for non-programmers, R packages for analysts, and a Stata module.</p>
+    <div class="masthead-meta">
+      <div><strong>Last updated</strong> Apr 2026</div>
+    </div>
+  </div>
+</header>
+
+<main id="content">
+
+  <!-- ======================================= -->
+  <!-- WEB INTERFACES                           -->
+  <!-- ======================================= -->
+  <section class="group-section reveal" data-group="web">
+    <div class="group-header">
+      <h2 class="group-title">Web interfaces</h2>
+      <span class="group-count">{{ site.data.software.web_tools | size }} tools</span>
+    </div>
+
+    <div class="web-tools">
+      {% for tool in site.data.software.web_tools %}
+      <div class="web-tool">
+        {% if tool.screenshot %}
+          <a class="web-tool-visual" href="{{ tool.url }}" target="_blank" rel="noopener">
+            <img src="{{ tool.screenshot }}" alt="Screenshot of {{ tool.name }}">
+          </a>
+        {% else %}
+          <div class="web-tool-visual" aria-hidden="true" style="background: linear-gradient(135deg, #f5ecd4 0%, #fdfbf6 100%);">
+            <svg viewBox="0 0 200 140" xmlns="http://www.w3.org/2000/svg">
+              <defs>
+                <linearGradient id="grad-{{ forloop.index }}" x1="0" y1="0" x2="1" y2="1">
+                  <stop offset="0%" stop-color="#8b2c1f" stop-opacity="0.9"/>
+                  <stop offset="100%" stop-color="#c44a32" stop-opacity="0.7"/>
+                </linearGradient>
+              </defs>
+              <line x1="30" y1="110" x2="175" y2="110" stroke="#7a7a7a" stroke-width="1"/>
+              <circle cx="85" cy="75" r="5" fill="#1a1a1a"/>
+              <line x1="70" y1="75" x2="100" y2="75" stroke="#1a1a1a" stroke-width="1.5"/>
+              <path d="M 40 95 Q 85 40 160 95" fill="none" stroke="url(#grad-{{ forloop.index }})" stroke-width="2.5" stroke-linecap="round"/>
+            </svg>
+          </div>
+        {% endif %}
+        <div class="web-tool-body">
+          <div class="web-tool-domain">{{ tool.domain }}</div>
+          <h3 class="web-tool-title">{{ tool.name }}</h3>
+          <p class="web-tool-desc">{{ tool.description }}</p>
+          <div class="web-tool-footer">
+            <div class="web-tool-credit">{{ tool.credit }}</div>
+            <a class="web-tool-cta" href="{{ tool.url }}" target="_blank" rel="noopener">
+              Open
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17 17 7M8 7h9v9"/></svg>
+            </a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- ======================================= -->
+  <!-- R PACKAGES                              -->
+  <!-- ======================================= -->
+  <section class="group-section reveal" data-group="r">
+    <div class="group-header">
+      <h2 class="group-title">R packages</h2>
+      <span class="group-count">{{ site.data.software.r_packages | size }} packages</span>
+    </div>
+
+    <div class="packages">
+      {% for pkg in site.data.software.r_packages %}
+      <div class="package">
+        <div class="package-name-wrap">
+          <span class="package-lang">R package</span>
+          <span class="package-name"><a href="{{ pkg.cran | default: pkg.github }}" target="_blank" rel="noopener">{{ pkg.name }}</a></span>
+        </div>
+        <div class="package-body">
+          <div class="package-desc">{{ pkg.description }}</div>
+          <div class="package-credit">With <strong>{{ pkg.contributors }}</strong></div>
+        </div>
+        <div class="package-links">
+          {% if pkg.cran %}<a class="pkg-link" href="{{ pkg.cran }}" target="_blank" rel="noopener">CRAN ↗</a>{% endif %}
+          {% if pkg.github %}<a class="pkg-link" href="{{ pkg.github }}" target="_blank" rel="noopener">GitHub ↗</a>{% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- ======================================= -->
+  <!-- STATA                                    -->
+  <!-- ======================================= -->
+  <section class="group-section reveal" data-group="stata">
+    <div class="group-header">
+      <h2 class="group-title">Stata module</h2>
+      <span class="group-count">1 module</span>
+    </div>
+
+    <div class="packages">
+      {% for mod in site.data.software.stata_modules %}
+      <div class="package">
+        <div class="package-name-wrap">
+          <span class="package-lang">Stata module</span>
+          <span class="package-name"><a href="{{ mod.url }}" target="_blank" rel="noopener">{{ mod.name }}</a></span>
+        </div>
+        <div class="package-body">
+          <div class="package-desc">{{ mod.description }}</div>
+          <div class="package-credit">With <strong>{{ mod.contributors }}</strong></div>
+        </div>
+        <div class="package-links">
+          <a class="pkg-link" href="{{ mod.url }}" target="_blank" rel="noopener">SSC ↗</a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div>© 2026 Maya B. Mathur</div>
+  <div>
+    <a href="mailto:mmathur@stanford.edu">mmathur@stanford.edu</a> ·
+    <a href="https://github.com/mayamathur">github</a> ·
+    <a href="https://scholar.google.com/citations?user=vmuNN1sAAAAJ">scholar</a>
+  </div>
+</footer>
+
+</body>
+</html>
