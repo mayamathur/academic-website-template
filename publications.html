@@ -1,0 +1,1149 @@
+---
+permalink: /publications/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Publications — Maya B. Mathur</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f5f1e8;
+    --bg-card: #fdfbf6;
+    --ink: #1a1a1a;
+    --ink-soft: #4a4a4a;
+    --ink-muted: #7a7a7a;
+    --rule: #d8cfb8;
+    --rule-soft: #e8e0cb;
+    --accent: #8b2c1f;
+    --accent-soft: #c44a32;
+    --highlight: #f4e8c4;
+    --tag-topic-bg: #e5dcc1;
+    --tag-topic-ink: #5a4a2a;
+    --tag-status-inpress-bg: #d4e3d4;
+    --tag-status-inpress-ink: #2d5a2d;
+    --tag-status-inprep-bg: #e8ddcb;
+    --tag-status-inprep-ink: #6a4d20;
+    --tag-mentee-bg: #d8e0e8;
+    --tag-mentee-ink: #2a4a6a;
+    --tag-book-bg: #e8d8d4;
+    --tag-book-ink: #6a3a2a;
+    --tag-meta-bg: #ddd8e4;
+    --tag-meta-ink: #4a3a6a;
+    --tag-newmethod-bg: #d8e6dc;
+    --tag-newmethod-ink: #2a5238;
+    --fun-accent: #c44a32;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100vh;
+    background-image:
+      radial-gradient(ellipse at top left, rgba(139, 44, 31, 0.03), transparent 50%),
+      radial-gradient(ellipse at bottom right, rgba(139, 44, 31, 0.02), transparent 50%);
+  }
+
+  a { color: inherit; }
+
+  /* ===== MASTHEAD ===== */
+  .masthead {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 48px 40px 32px;
+    border-bottom: 1px solid var(--ink);
+  }
+
+  .masthead-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink-muted);
+    margin-bottom: 24px;
+  }
+
+  .masthead-top nav { display: flex; gap: 24px; }
+
+  .masthead-top nav a {
+    color: var(--ink-soft);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .masthead-top nav a:hover,
+  .masthead-top nav a.active { color: var(--accent); }
+
+  .masthead-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: clamp(56px, 9vw, 112px);
+    line-height: 0.92;
+    letter-spacing: -0.03em;
+    font-variation-settings: "opsz" 144;
+    margin-bottom: 20px;
+  }
+
+  .masthead-title em {
+    font-style: italic;
+    font-weight: 400;
+    color: var(--accent);
+  }
+
+  .masthead-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+
+  .masthead-byline {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 18px;
+    color: var(--ink-soft);
+    max-width: 560px;
+    line-height: 1.45;
+  }
+
+  .masthead-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-muted);
+    text-align: right;
+  }
+
+  .masthead-meta div { margin-bottom: 4px; }
+  .masthead-meta strong { color: var(--ink); font-weight: 500; }
+
+  /* ===== CONTROLS ===== */
+  .controls {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px 40px;
+    border-bottom: 1px solid var(--rule);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    backdrop-filter: blur(8px);
+    background: rgba(245, 241, 232, 0.92);
+  }
+
+  .controls-row {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .controls-row + .controls-row {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px dashed var(--rule-soft);
+  }
+
+  .control-group { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+
+  .control-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink-muted);
+    margin-right: 4px;
+  }
+
+  .control-btn {
+    font-family: 'Inter', sans-serif;
+    font-size: 12.5px;
+    font-weight: 500;
+    padding: 5px 12px;
+    border: 1px solid var(--rule);
+    background: transparent;
+    color: var(--ink-soft);
+    cursor: pointer;
+    border-radius: 999px;
+    transition: all 0.15s ease;
+    white-space: nowrap;
+  }
+
+  .control-btn:hover { border-color: var(--ink); color: var(--ink); }
+  .control-btn.active { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+
+  .control-btn.fun {
+    border-color: var(--fun-accent);
+    color: var(--fun-accent);
+    font-style: italic;
+  }
+  .control-btn.fun:hover { background: var(--fun-accent); color: var(--bg-card); }
+  .control-btn.fun.active { background: var(--fun-accent); border-color: var(--fun-accent); color: var(--bg-card); }
+
+  .year-select {
+    font-family: 'Inter', sans-serif;
+    font-size: 12.5px;
+    padding: 5px 28px 5px 12px;
+    border: 1px solid var(--rule);
+    background-color: transparent;
+    color: var(--ink-soft);
+    border-radius: 999px;
+    cursor: pointer;
+    appearance: none;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 24 24' fill='none' stroke='%237a7a7a' stroke-width='2'%3e%3cpolyline points='6 9 12 15 18 9'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+  }
+
+  .search-wrap { flex: 1; min-width: 200px; position: relative; }
+
+  .search-input {
+    width: 100%;
+    padding: 7px 14px 7px 32px;
+    border: 1px solid var(--rule);
+    background: var(--bg-card);
+    border-radius: 999px;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    color: var(--ink);
+    transition: border-color 0.15s;
+  }
+
+  .search-input:focus { outline: none; border-color: var(--accent); }
+
+  .search-icon {
+    position: absolute;
+    left: 11px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--ink-muted);
+    pointer-events: none;
+  }
+
+  .result-count {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-top: 10px;
+  }
+
+  .result-count strong { color: var(--accent); font-weight: 500; }
+
+  /* ===== CONTENT ===== */
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 48px 40px 80px;
+  }
+
+  .topic-section { margin-bottom: 64px; scroll-margin-top: 140px; }
+  .topic-section:last-child { margin-bottom: 0; }
+
+  .topic-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 24px;
+    margin-bottom: 24px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--ink);
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .topic-header:hover .topic-title { color: var(--accent); }
+  .topic-title { transition: color 0.2s; }
+
+  .topic-number {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .topic-chevron {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    margin-right: 14px;
+    transition: transform 0.25s ease;
+    vertical-align: -2px;
+    color: var(--accent);
+    flex-shrink: 0;
+  }
+
+  .topic-section.collapsed .topic-chevron { transform: rotate(-90deg); }
+
+  .topic-header:hover .topic-chevron {
+    color: var(--accent);
+    transform: translateY(-1px);
+  }
+  .topic-section.collapsed .topic-header:hover .topic-chevron {
+    transform: rotate(-90deg) translateX(1px);
+  }
+
+  .topic-title-wrap {
+    display: flex;
+    align-items: center;
+  }
+
+  .topic-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 32px;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+    font-variation-settings: "opsz" 72;
+  }
+
+  .topic-body { overflow: hidden; }
+  .topic-section.collapsed .topic-body { display: none; }
+  .topic-section.collapsed { margin-bottom: 24px; }
+
+  /* Subtopic within a group */
+  .subtopic { margin-top: 40px; }
+  .subtopic:first-child { margin-top: 4px; }
+
+  .subtopic-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 16px;
+    margin-bottom: 8px;
+    padding-bottom: 6px;
+    border-bottom: 1px dotted var(--rule);
+  }
+
+  .subtopic-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 22px;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    font-variation-settings: "opsz" 48;
+    line-height: 1.2;
+  }
+
+  .subtopic-count {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--ink-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    white-space: nowrap;
+  }
+
+  /* Year subheader within a subtopic */
+  .year-block { margin-top: 14px; }
+  .year-block:first-child { margin-top: 4px; }
+
+  .year-header {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 22px;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    margin: 24px 0 4px;
+    padding-top: 8px;
+    font-variation-settings: "opsz" 48;
+  }
+
+  .year-header:first-of-type { margin-top: 8px; padding-top: 0; }
+
+  .year-header.nonyear {
+    font-style: italic;
+    color: var(--accent);
+  }
+
+  /* Publication entry: no more per-paper year column */
+  .pub {
+    padding: 18px 0;
+    border-bottom: 1px solid var(--rule-soft);
+    transition: background 0.2s;
+  }
+
+  .pub:hover { background: rgba(244, 232, 196, 0.22); }
+  .pub:last-child { border-bottom: none; }
+
+  .pub-citation {
+    font-family: 'Fraunces', serif;
+    font-size: 16.5px;
+    line-height: 1.45;
+    color: var(--ink);
+    margin-bottom: 10px;
+    letter-spacing: -0.005em;
+    font-variation-settings: "opsz" 36;
+  }
+
+  .pub-citation-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.2s ease;
+  }
+
+  .pub-citation-link:hover { color: var(--accent); }
+  .pub-citation-link:hover .pub-link-icon { opacity: 1; color: var(--accent); }
+
+  .pub-link-icon {
+    width: 13px;
+    height: 13px;
+    display: inline-block;
+    vertical-align: baseline;
+    margin-right: 7px;
+    opacity: 0.45;
+    color: var(--ink-muted);
+    transition: opacity 0.2s ease, color 0.2s ease;
+    flex-shrink: 0;
+  }
+
+  .pub-citation-text { display: inline; }
+
+  .pub-citation u {
+    text-decoration: none;
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .pub-citation strong {
+    font-style: italic;
+    font-weight: 400;
+    color: var(--ink-soft);
+  }
+
+  .pub-tags {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    margin-bottom: 6px;
+  }
+
+  .tag {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 500;
+  }
+
+  .tag-topic { background: var(--tag-topic-bg); color: var(--tag-topic-ink); }
+  .tag-status-inpress { background: var(--tag-status-inpress-bg); color: var(--tag-status-inpress-ink); }
+  .tag-status-inprep  { background: var(--tag-status-inprep-bg);  color: var(--tag-status-inprep-ink); }
+  .tag-mentee { background: var(--tag-mentee-bg); color: var(--tag-mentee-ink); }
+  .tag-book { background: var(--tag-book-bg); color: var(--tag-book-ink); }
+  .tag-meta { background: var(--tag-meta-bg); color: var(--tag-meta-ink); }
+  .tag-newmethod { background: var(--tag-newmethod-bg); color: var(--tag-newmethod-ink); }
+
+  .pub-media {
+    margin-top: 10px;
+    padding: 7px 10px 7px 12px;
+    background: var(--bg-card);
+    border-left: 3px solid var(--accent);
+    border-radius: 2px;
+    font-size: 13px;
+    color: var(--ink-soft);
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    line-height: 1.45;
+  }
+
+  .pub-media-icon {
+    display: inline-block;
+    margin-right: 6px;
+    font-style: normal;
+    filter: saturate(0.9);
+  }
+
+  .pub-media-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9.5px;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    margin-right: 8px;
+    font-weight: 500;
+  }
+
+  .pub-media a {
+    color: var(--ink-soft);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--rule);
+  }
+
+  .pub-media a:hover { color: var(--accent); border-color: var(--accent); }
+
+  /* Tag chips in legend bar */
+  .control-btn.tag-chip {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 4px 10px;
+  }
+  .control-btn.tag-chip.mentee { background: var(--tag-mentee-bg); color: var(--tag-mentee-ink); border-color: var(--tag-mentee-bg); }
+  .control-btn.tag-chip.mentee:hover, .control-btn.tag-chip.mentee.active { background: var(--tag-mentee-ink); color: var(--bg-card); border-color: var(--tag-mentee-ink); }
+  .control-btn.tag-chip.causal { background: var(--tag-topic-bg); color: var(--tag-topic-ink); border-color: var(--tag-topic-bg); }
+  .control-btn.tag-chip.causal:hover, .control-btn.tag-chip.causal.active { background: var(--tag-topic-ink); color: var(--bg-card); border-color: var(--tag-topic-ink); }
+  .control-btn.tag-chip.meta { background: var(--tag-meta-bg); color: var(--tag-meta-ink); border-color: var(--tag-meta-bg); }
+  .control-btn.tag-chip.meta:hover, .control-btn.tag-chip.meta.active { background: var(--tag-meta-ink); color: var(--bg-card); border-color: var(--tag-meta-ink); }
+  .control-btn.tag-chip.book { background: var(--tag-book-bg); color: var(--tag-book-ink); border-color: var(--tag-book-bg); }
+  .control-btn.tag-chip.book:hover, .control-btn.tag-chip.book.active { background: var(--tag-book-ink); color: var(--bg-card); border-color: var(--tag-book-ink); }
+  .control-btn.tag-chip.newmethod { background: var(--tag-newmethod-bg); color: var(--tag-newmethod-ink); border-color: var(--tag-newmethod-bg); }
+  .control-btn.tag-chip.newmethod:hover, .control-btn.tag-chip.newmethod.active { background: var(--tag-newmethod-ink); color: var(--bg-card); border-color: var(--tag-newmethod-ink); }
+
+  .pub-links {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    align-items: center;
+  }
+
+  .pub-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 3px 10px;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    color: var(--ink-soft);
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    transition: all 0.15s;
+    background: var(--bg-card);
+  }
+
+  .pub-link:hover { border-color: var(--accent); color: var(--accent); }
+  .pub-link.code:hover { background: var(--highlight); }
+  .pub-link svg { width: 10px; height: 10px; }
+
+  .empty-state {
+    padding: 80px 0;
+    text-align: center;
+    color: var(--ink-muted);
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 18px;
+  }
+
+  .jumpnav {
+    position: fixed;
+    left: 24px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 5;
+  }
+
+  .jumpnav-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--rule);
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    position: relative;
+    transition: all 0.2s;
+  }
+
+  .jumpnav-dot::after {
+    content: attr(data-label);
+    position: absolute;
+    left: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-soft);
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.2s;
+    background: var(--bg-card);
+    padding: 3px 8px;
+    border-radius: 3px;
+    border: 1px solid var(--rule);
+    pointer-events: none;
+  }
+
+  .jumpnav-dot:hover { background: var(--accent); }
+  .jumpnav-dot:hover::after { opacity: 1; }
+
+  @media (max-width: 900px) {
+    .jumpnav { display: none; }
+    .masthead, .controls, main { padding-left: 24px; padding-right: 24px; }
+    .topic-header { grid-template-columns: 1fr; gap: 6px; }
+    .topic-blurb { grid-column: 1; }
+    .controls-row { gap: 12px; }
+  }
+
+  footer {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 32px 40px 48px;
+    border-top: 1px solid var(--rule);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--ink-muted);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  footer a { color: var(--ink-soft); text-decoration: none; }
+  footer a:hover { color: var(--accent); }
+
+  .pub { opacity: 0; animation: rise 0.4s ease forwards; }
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-top">
+    <div>Maya B. Mathur · Stanford University</div>
+    <nav>
+      <a href="/">About</a>
+      <a href="/publications/" class="active">Publications</a>
+      <a href="/code/">Software</a>
+    </nav>
+  </div>
+  <h1 class="masthead-title">Publications</h1>
+  <div class="masthead-sub">
+    <div class="masthead-meta">
+      <div><strong>Total</strong> <span id="total-count">—</span></div>
+      <div><strong>Last updated</strong> Apr 2026</div>
+      <div><strong><a href="https://scholar.google.com/citations?user=vmuNN1sAAAAJ" style="color:inherit">Scholar</a></strong> ~17K cites</div>
+    </div>
+  </div>
+</header>
+
+<section class="controls">
+  <div class="controls-row">
+    <div class="control-group">
+      <span class="control-label">View</span>
+      <button class="control-btn active" data-view="topic">By topic</button>
+      <button class="control-btn" data-view="year">By year</button>
+    </div>
+    <div class="control-group">
+      <button class="control-btn" id="collapseToggle">Expand all</button>
+    </div>
+    <div class="search-wrap">
+      <svg class="search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="search" class="search-input" id="searchInput" placeholder="Search title, author, journal…">
+    </div>
+  </div>
+  <div class="controls-row" id="tagLegend">
+    <div class="control-group">
+      <span class="control-label">Filter by tag</span>
+      <button class="control-btn tag-chip mentee" data-tagfilter="mentee">Mentee-led</button>
+      <button class="control-btn tag-chip causal" data-tagfilter="causal-inference">Causal inference</button>
+      <button class="control-btn tag-chip meta" data-tagfilter="empirical-meta">Empirical meta-analysis</button>
+      <button class="control-btn tag-chip newmethod" data-tagfilter="new-methods">New statistical methods</button>
+      <button class="control-btn tag-chip book" data-tagfilter="book">Book</button>
+    </div>
+    <div class="result-count"><strong id="visible-count">—</strong> publications match</div>
+  </div>
+</section>
+
+<main id="content"></main>
+
+<nav class="jumpnav" id="jumpnav"></nav>
+
+<footer>
+  <div>© 2026 Maya B. Mathur</div>
+  <div>
+    <a href="mailto:mmathur@stanford.edu">mmathur@stanford.edu</a> ·
+    <a href="https://github.com/mayamathur">github</a> ·
+    <a href="https://scholar.google.com/citations?user=vmuNN1sAAAAJ">scholar</a>
+  </div>
+</footer>
+
+{% assign empty_array = "" | split: "," %}
+<script id="pubs-data" type="application/json">
+[
+{% for pub in site.data.publications %}
+  {
+    "id": {{ pub.id | jsonify }},
+    "lookup_id": {{ pub.id | jsonify }},
+    "text": {{ pub.text | jsonify }},
+    "plaintext": {{ pub.text | strip_html | jsonify }},
+    "year": {% if pub.year %}{{ pub.year }}{% else %}0{% endif %},
+    "authorship": {{ pub.authorship | jsonify }},
+    "status": {{ pub.status | jsonify }},
+    "topics": {{ pub.topics | default: empty_array | jsonify }},
+    "mentee_led": {% if pub.mentee_led %}true{% else %}false{% endif %},
+    "new_method": {% if pub.new_method %}true{% else %}false{% endif %},
+    "is_book": {% if pub.is_book %}true{% else %}false{% endif %},
+    "preprint": {{ pub.preprint | jsonify }},
+    "datarepo": {{ pub.datarepo | jsonify }},
+    "rpackagename": {{ pub.rpackagename | jsonify }},
+    "rpackagelink": {{ pub.rpackagelink | jsonify }},
+    "webappname": {{ pub.webappname | jsonify }},
+    "webapplink": {{ pub.webapplink | jsonify }},
+    "doi": {{ pub.doi | jsonify }},
+    "media_coverage": {{ pub.media_coverage | default: empty_array | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
+</script>
+<script>
+
+// Two-layer taxonomy. Top-level groups, each with subtopics.
+const GROUPS = [
+  {
+    id: "methods",
+    title: "Statistical methods & theory",
+    subtopics: [
+      { id: "meta-analysis",    title: "Meta-analysis" },
+      { id: "missing-data",     title: "Missing data & selection bias" },
+      { id: "sensitivity",      title: "Sensitivity analysis" },
+      { id: "methods-applied",  title: "Methods papers in applied journals" },
+      { id: "methods-other",    title: "Other" }
+    ]
+  },
+  {
+    id: "empirical",
+    title: "Empirical research",
+    subtopics: [
+      { id: "meta-science",     title: "Meta-science" },
+      { id: "animal-ag",        title: "Animal agriculture & food systems" },
+      { id: "exp-psych",        title: "Experimental psychology" },
+      { id: "medicine",         title: "Medicine & epidemiology" },
+      { id: "potpourri",        title: "Potpourri" }
+    ]
+  },
+  {
+    id: "pedagogy",
+    title: "Open science pedagogy",
+    subtopics: [
+      { id: "open-science",     title: null }  // title:null = render subtopic without own header
+    ]
+  }
+];
+
+// Flat map of all subtopic ids → display title, for tag rendering lookups
+const SUBTOPIC_TITLES = {};
+GROUPS.forEach(g => g.subtopics.forEach(s => { SUBTOPIC_TITLES[s.id] = s.title || g.title; }));
+
+// Secondary-only tags (don't appear as primary section; shown as filter chips + inline tags)
+const SECONDARY_TAGS = [
+  { id: "causal-inference", label: "Causal inference" },
+  { id: "empirical-meta",   label: "Meta-analysis (empirical)" }
+];
+
+// Media coverage (from CV). Keyed by lookup_id.
+const MEDIA = {
+  'Green2025':     [{ name: 'Vox' }],
+  'Mathur2023f':   [{ name: 'Radio New Zealand' }, { name: 'Stanford Medicine' }, { name: 'Stanford Magazine' }],
+  'Errington2021': [{ name: 'Science' }, { name: 'New Scientist' }, { name: 'Wired' }, { name: 'Fox News' }, { name: 'NY Post' }],
+  'Mathur2021a':   [{ name: 'AP News' }, { name: 'SF Chronicle' }, { name: 'ABC News' }, { name: 'US News & World Report' }, { name: 'The Independent' }, { name: 'Psychology Today' }],
+  'Mathur2019a':   [{ name: 'The New York Times' }, { name: 'CNN' }, { name: 'PCMag' }, { name: 'Politifact' }],
+  'Mathur2016b':   [{ name: 'Vox' }],
+  'Mathur2016c':   [{ name: "Science — Editors' Choice" }, { name: 'Slate' }, { name: 'The Guardian' }, { name: 'Discover' }, { name: 'New York Magazine' }, { name: 'New Scientist' }, { name: 'Rolling Stone' }],
+  'OSC2015':       [{ name: 'Runner-up, Breakthrough of the Year (Science)' }, { name: 'Top 100 Stories (Discover)' }, { name: 'Top Science Stories (Nature)' }, { name: '#5 Altmetric100' }],
+  'Mathur2010':    [{ name: 'CDC Newsletter' }],
+};
+
+// Mentee-led is now a YAML field on each pub (mentee_led: true).
+
+// "New method" is now a YAML field on each pub (new_method: true).
+
+// "Unserious" papers are tagged via topics: ["unserious"] in YAML.
+
+const PUBS = JSON.parse(document.getElementById('pubs-data').textContent);
+
+const state = {
+  view: 'topic',
+  search: '',
+  fun: null,              // null | 'unserious'  (surprising removed per Maya)
+  tagFilter: null,        // null | 'mentee' | 'causal-inference' | 'empirical-meta' | 'book' | 'new-methods' | 'review'
+  collapsed: true,
+  collapsedSections: new Set(),   // collapsed GROUP ids
+};
+
+function passesTag(p) {
+  if (!state.tagFilter) return true;
+  switch (state.tagFilter) {
+    case 'mentee':           return !!p.mentee_led;
+    case 'causal-inference': return p.topics.includes('causal-inference');
+    case 'empirical-meta':   return p.topics.includes('empirical-meta');
+    case 'book':             return !!p.is_book;
+    case 'new-methods':      return !!p.new_method;
+    default:                 return true;
+  }
+}
+
+function matches(p) {
+  // Unserious is normally hidden. Show ONLY if fun=unserious. Exclude otherwise.
+  const isUnserious = p.topics && p.topics.includes('unserious');
+  if (state.fun === 'unserious') return isUnserious;
+  if (isUnserious) return false;
+
+  if (!passesTag(p)) return false;
+  if (state.search) {
+    if (!p.plaintext.toLowerCase().includes(state.search.toLowerCase())) return false;
+  }
+  return true;
+}
+
+// Sort within a group: status (inprep, inpress, published), then authorship (first, last, middle), then year desc
+function sortWithinGroup(pubs) {
+  const aRank = { first: 0, last: 1, middle: 2 };
+  const sRank = { inprep: 0, inpress: 1, published: 2 };
+  return [...pubs].sort((a, b) => {
+    const sa = sRank[a.status] ?? 2, sb = sRank[b.status] ?? 2;
+    if (sa !== sb) return sa - sb;
+    const ara = aRank[a.authorship] ?? 2, arb = aRank[b.authorship] ?? 2;
+    if (ara !== arb) return ara - arb;
+    const ya = typeof a.year === 'number' ? a.year : parseInt(a.year, 10) || 0;
+    const yb = typeof b.year === 'number' ? b.year : parseInt(b.year, 10) || 0;
+    return yb - ya;
+  });
+}
+
+function statusTagHTML(p) {
+  if (p.status === 'inpress') return `<span class="tag tag-status-inpress">In press</span>`;
+  if (p.status === 'inprep')  return `<span class="tag tag-status-inprep">In progress</span>`;
+  return '';
+}
+
+// Render topic pills. For each of p.topics:
+//   - 'empirical-meta' → purple "Meta-analysis" tag (stylistically distinct)
+//   - 'causal-inference' → causal tag
+//   - otherwise → subtopic title pill
+function topicTagsHTML(p) {
+  return p.topics.map(t => {
+    if (t === 'empirical-meta')   return `<span class="tag tag-meta">Meta-analysis</span>`;
+    if (t === 'causal-inference') return `<span class="tag tag-topic">Causal inference</span>`;
+    return `<span class="tag tag-topic">${SUBTOPIC_TITLES[t] || t}</span>`;
+  }).join('');
+}
+
+function extraTagsHTML(p) {
+  let s = '';
+  if (p.is_book) s += `<span class="tag tag-book">Book</span>`;
+  if (p.new_method) s += `<span class="tag tag-newmethod">New method</span>`;
+  return s;
+}
+
+function menteeTagHTML(p) {
+  return p.mentee_led ? `<span class="tag tag-mentee">Mentee-led</span>` : '';
+}
+
+function mediaHTML(p) {
+  const m = p.media_coverage;
+  if (!m || !m.length) return '';
+  const items = m.map(x => x.url ? `<a href="${x.url}">${x.name}</a>` : `<span>${x.name}</span>`).join(' · ');
+  return `<div class="pub-media"><span class="pub-media-icon">📰</span><span class="pub-media-label">Featured in</span>${items}</div>`;
+}
+
+// "Primary" link for the title — prefer DOI (final published version), fall back to preprint.
+function primaryLink(p) {
+  if (p.doi) return `https://doi.org/${p.doi}`;
+  if (p.preprint) return p.preprint;
+  return null;
+}
+
+function linksHTML(p) {
+  const parts = [];
+  // Open-access / preprint copy. Shown regardless of whether the DOI is paywalled
+  // (future: YAML could add open_access: true/false to suppress when DOI is already open)
+  if (p.preprint && p.doi) {
+    parts.push(`<a class="pub-link" href="${p.preprint}" target="_blank" rel="noopener">Open-access copy</a>`);
+  } else if (p.preprint && !p.doi) {
+    parts.push(`<a class="pub-link" href="${p.preprint}" target="_blank" rel="noopener">Preprint</a>`);
+  }
+  if (p.datarepo) parts.push(`<a class="pub-link" href="${p.datarepo}" target="_blank" rel="noopener">Data</a>`);
+  if (p.rpackagename) {
+    const url = p.rpackagelink || '#';
+    parts.push(`<a class="pub-link code" href="${url}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>Software: ${p.rpackagename}</a>`);
+  }
+  if (p.webappname && p.webapplink) parts.push(`<a class="pub-link" href="${p.webapplink}" target="_blank" rel="noopener">${p.webappname}</a>`);
+  if (!parts.length) return '';
+  return `<div class="pub-links">${parts.join('')}</div>`;
+}
+
+// Wrap the entire citation in an <a> linking to the primary version
+function citationHTML(p) {
+  const href = primaryLink(p);
+  const linkIcon = `<svg class="pub-link-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>`;
+  if (href) {
+    return `<a class="pub-citation pub-citation-link" href="${href}" target="_blank" rel="noopener">${linkIcon}<span class="pub-citation-text">${p.text}</span></a>`;
+  }
+  return `<div class="pub-citation">${p.text}</div>`;
+}
+
+function pubHTML(p, idx) {
+  return `
+    <article class="pub" style="animation-delay:${Math.min(idx * 20, 300)}ms">
+      ${citationHTML(p)}
+      <div class="pub-tags">
+        ${statusTagHTML(p)}
+        ${topicTagsHTML(p)}
+        ${menteeTagHTML(p)}
+        ${extraTagsHTML(p)}
+      </div>
+      ${mediaHTML(p)}
+      ${linksHTML(p)}
+    </article>
+  `;
+}
+
+// Group a list of pubs by year, preserving in-progress / in-press as special buckets at the top
+function groupByYear(pubs) {
+  const groups = {};
+  const order = [];
+  pubs.forEach(p => {
+    let key;
+    if (p.status === 'inprep')       key = '__inprep__';
+    else if (p.status === 'inpress') key = '__inpress__';
+    else                              key = String(p.year);
+    if (!(key in groups)) { groups[key] = []; order.push(key); }
+    groups[key].push(p);
+  });
+  // Sort keys: special first, then numeric desc
+  order.sort((a, b) => {
+    const sa = a === '__inprep__' ? 0 : a === '__inpress__' ? 1 : 99;
+    const sb = b === '__inprep__' ? 0 : b === '__inpress__' ? 1 : 99;
+    if (sa !== sb) return sa - sb;
+    if (sa === 99 && sb === 99) return parseInt(b, 10) - parseInt(a, 10);
+    return 0;
+  });
+  return { groups, order };
+}
+
+function yearLabel(key) {
+  if (key === '__inprep__')  return { text: 'In progress', nonyear: true };
+  if (key === '__inpress__') return { text: 'In press',    nonyear: true };
+  return { text: key, nonyear: false };
+}
+
+function render() {
+  const visible = PUBS.filter(matches);
+  document.getElementById('total-count').textContent = PUBS.length;
+  document.getElementById('visible-count').textContent = visible.length;
+
+  const root = document.getElementById('content');
+  const jump = document.getElementById('jumpnav');
+
+  if (visible.length === 0) {
+    root.innerHTML = `<div class="empty-state">No publications match the current filters.</div>`;
+    jump.innerHTML = '';
+    return;
+  }
+
+  const chevronSVG = `<svg class="topic-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>`;
+
+  if (state.view === 'topic') {
+    let html = '', jumpHtml = '';
+
+    GROUPS.forEach((group) => {
+      // Collect all pubs whose primary topic is in this group
+      const groupPubs = visible.filter(p => {
+        const primary = p.topics[0];
+        return group.subtopics.some(s => s.id === primary);
+      });
+      if (groupPubs.length === 0) return;
+
+      const isCollapsed = state.collapsed || state.collapsedSections.has(group.id);
+      jumpHtml += `<button class="jumpnav-dot" data-label="${group.title}" onclick="document.getElementById('group-${group.id}').scrollIntoView({behavior:'smooth'})"></button>`;
+
+      // Render each subtopic within this group
+      const subtopicsHtml = group.subtopics.map(sub => {
+        const subPubs = groupPubs.filter(p => p.topics[0] === sub.id);
+        if (subPubs.length === 0) return '';
+
+        const { groups: ygroups, order: yorder } = groupByYear(subPubs);
+        const yearBlocks = yorder.map(k => {
+          const sorted = sortWithinGroup(ygroups[k]);
+          const yl = yearLabel(k);
+          return `
+            <div class="year-block">
+              <h4 class="year-header ${yl.nonyear ? 'nonyear' : ''}">${yl.text}</h4>
+              ${sorted.map((p, idx) => pubHTML(p, idx)).join('')}
+            </div>
+          `;
+        }).join('');
+
+        // Single-subtopic groups (open-science pedagogy) skip their sub-header
+        if (sub.title === null) {
+          return `<div class="subtopic">${yearBlocks}</div>`;
+        }
+        return `
+          <div class="subtopic">
+            <div class="subtopic-header">
+              <h3 class="subtopic-title">${sub.title}</h3>
+              <span class="subtopic-count">${subPubs.length} paper${subPubs.length > 1 ? 's' : ''}</span>
+            </div>
+            ${yearBlocks}
+          </div>
+        `;
+      }).join('');
+
+      html += `
+        <section class="topic-section ${isCollapsed ? 'collapsed' : ''}" id="group-${group.id}">
+          <div class="topic-header" data-toggle="${group.id}">
+            <div class="topic-title-wrap">${chevronSVG}<h2 class="topic-title">${group.title}</h2></div>
+            <div class="topic-number">${groupPubs.length} paper${groupPubs.length > 1 ? 's' : ''}</div>
+          </div>
+          <div class="topic-body">${subtopicsHtml}</div>
+        </section>
+      `;
+    });
+    root.innerHTML = html;
+    jump.innerHTML = jumpHtml;
+
+    // Wire up section click-to-toggle (group level)
+    root.querySelectorAll('[data-toggle]').forEach(h => {
+      h.addEventListener('click', () => {
+        const id = h.dataset.toggle;
+        if (state.collapsed) {
+          state.collapsedSections.delete(id);
+          state.collapsed = false;
+          GROUPS.forEach(g => { if (g.id !== id) state.collapsedSections.add(g.id); });
+          updateCollapseBtn();
+        } else {
+          if (state.collapsedSections.has(id)) state.collapsedSections.delete(id);
+          else state.collapsedSections.add(id);
+        }
+        render();
+      });
+    });
+  } else {
+    // BY YEAR view — single flat list grouped by year
+    const { groups, order } = groupByYear(visible);
+    let html = '';
+    order.forEach((k, i) => {
+      const yl = yearLabel(k);
+      const items = sortWithinGroup(groups[k]);
+      html += `
+        <section class="topic-section">
+          <div class="topic-header">
+            <div class="topic-title-wrap"><h2 class="topic-title">${yl.text}</h2></div>
+            <div class="topic-number">${items.length} paper${items.length > 1 ? 's' : ''}</div>
+          </div>
+          <div class="topic-body">
+            ${items.map((p, idx) => pubHTML(p, idx)).join('')}
+          </div>
+        </section>
+      `;
+    });
+    root.innerHTML = html;
+    jump.innerHTML = '';
+  }
+}
+
+function updateCollapseBtn() {
+  const btn = document.getElementById('collapseToggle');
+  btn.textContent = state.collapsed ? 'Expand all' : 'Collapse all';
+  btn.classList.toggle('active', state.collapsed);
+}
+
+// ============================================================
+// EVENTS
+// ============================================================
+document.querySelectorAll('[data-view]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('[data-view]').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    state.view = btn.dataset.view;
+    render();
+  });
+});
+
+document.getElementById('searchInput').addEventListener('input', e => {
+  state.search = e.target.value.trim();
+  if (state.search) {
+    state.collapsed = false;
+    state.collapsedSections = new Set();
+    updateCollapseBtn();
+  }
+  render();
+});
+
+document.querySelectorAll('[data-fun]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const f = btn.dataset.fun;
+    if (state.fun === f) {
+      state.fun = null;
+      btn.classList.remove('active');
+    } else {
+      document.querySelectorAll('[data-fun]').forEach(b => b.classList.remove('active'));
+      state.fun = f;
+      btn.classList.add('active');
+      // Force expand when fun filter active so user sees results
+      state.collapsed = false;
+      state.collapsedSections = new Set();
+      updateCollapseBtn();
+    }
+    render();
+  });
+});
+
+document.querySelectorAll('[data-tagfilter]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const t = btn.dataset.tagfilter;
+    if (state.tagFilter === t) {
+      state.tagFilter = null;
+      btn.classList.remove('active');
+    } else {
+      document.querySelectorAll('[data-tagfilter]').forEach(b => b.classList.remove('active'));
+      state.tagFilter = t;
+      btn.classList.add('active');
+      state.collapsed = false;
+      state.collapsedSections = new Set();
+      updateCollapseBtn();
+    }
+    render();
+  });
+});
+
+document.getElementById('collapseToggle').addEventListener('click', () => {
+  state.collapsed = !state.collapsed;
+  state.collapsedSections = new Set();  // reset individual toggles
+  updateCollapseBtn();
+  render();
+});
+
+render();
+</script>
+</body>
+</html>
