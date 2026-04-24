@@ -1,0 +1,951 @@
+---
+permalink: /
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Maya B. Mathur</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f5f1e8;
+    --bg-card: #fdfbf6;
+    --ink: #1a1a1a;
+    --ink-soft: #4a4a4a;
+    --ink-muted: #7a7a7a;
+    --rule: #d8cfb8;
+    --rule-soft: #e8e0cb;
+    --accent: #8b2c1f;
+    --accent-soft: #c44a32;
+    --highlight: #f4e8c4;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100vh;
+    background-image:
+      radial-gradient(ellipse at top left, rgba(139, 44, 31, 0.03), transparent 50%),
+      radial-gradient(ellipse at bottom right, rgba(139, 44, 31, 0.02), transparent 50%);
+  }
+
+  a { color: inherit; }
+
+  /* ===== MASTHEAD ===== */
+  .masthead {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 48px 40px 0;
+  }
+
+  .masthead-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink-muted);
+    margin-bottom: 48px;
+  }
+
+  .masthead-top nav { display: flex; gap: 24px; }
+
+  .masthead-top nav a {
+    color: var(--ink-soft);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .masthead-top nav a:hover,
+  .masthead-top nav a.active { color: var(--accent); }
+
+  /* ===== HERO ===== */
+  .hero {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 40px 72px;
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    gap: 64px;
+    align-items: start;
+    border-bottom: 1px solid var(--ink);
+  }
+
+  .hero-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: clamp(52px, 8.5vw, 102px);
+    line-height: 0.95;
+    letter-spacing: -0.035em;
+    font-variation-settings: "opsz" 144;
+    margin-bottom: 10px;
+    color: var(--ink);
+    white-space: nowrap;
+  }
+
+  /* Small accent element — a single trailing mark in red, easy to remove */
+  .hero-title-mark {
+    display: inline-block;
+    font-style: italic;
+    color: var(--accent);
+    font-weight: 400;
+    margin-left: 4px;
+  }
+
+  .hero-icons {
+    display: flex;
+    gap: 10px;
+    margin: 8px 0 28px;
+    flex-wrap: wrap;
+  }
+
+  .hero-icon {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 7px 14px;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    background: var(--bg-card);
+    color: var(--ink-soft);
+    text-decoration: none;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+    transition: all 0.18s ease;
+  }
+
+  .hero-icon svg {
+    width: 15px;
+    height: 15px;
+  }
+
+  .hero-icon:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--bg);
+    transform: translateY(-1px);
+  }
+
+  .hero-role {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink-muted);
+    margin-bottom: 32px;
+    line-height: 1.7;
+  }
+
+  .hero-role .role-line { display: block; }
+  .hero-role .role-line strong { color: var(--ink); font-weight: 500; }
+
+  /* Bio area with fade swap */
+  .bio-wrap {
+    position: relative;
+    max-width: 580px;
+    margin-bottom: 14px;
+  }
+
+  .bio {
+    font-family: 'Fraunces', serif;
+    font-size: 19px;
+    line-height: 1.5;
+    color: var(--ink);
+    font-variation-settings: "opsz" 36;
+    transition: opacity 0.45s ease;
+  }
+
+  .bio.serious { position: relative; }
+  .bio.fun {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    pointer-events: none;
+  }
+  .bio.fun.active {
+    opacity: 1;
+    pointer-events: auto;
+    position: relative;
+  }
+  .bio.serious.hidden {
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    inset: 0;
+  }
+
+  .bio a {
+    color: var(--accent);
+    text-decoration: none;
+    background-image: linear-gradient(var(--accent), var(--accent));
+    background-size: 100% 1px;
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    transition: background-size 0.25s ease;
+  }
+
+  .bio a:hover { background-size: 0 1px; }
+
+  .bio p + p { margin-top: 0.9em; }
+
+  .bio strong { font-weight: 500; }
+
+  /* Inline figures in the fun bio */
+  .bio-fig {
+    margin: 24px 0 20px;
+  }
+
+  .bio-fig img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 3px;
+    box-shadow: 0 10px 28px -14px rgba(139, 44, 31, 0.22);
+  }
+
+  /* 3-up gallery for the dressage photos */
+  .bio-fig-gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 8px;
+    margin-top: 20px;
+    margin-bottom: 4px;
+  }
+
+  .bio-fig-gallery img {
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    box-shadow: 0 6px 18px -10px rgba(139, 44, 31, 0.2);
+    transition: transform 0.3s ease;
+  }
+
+  .bio-fig-gallery img:hover {
+    transform: translateY(-2px);
+  }
+
+  .fun-toggle {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 14px;
+    color: var(--accent-soft);
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    transition: color 0.2s;
+  }
+
+  .fun-toggle:hover { color: var(--accent); }
+
+  /* ===== PHOTO ===== */
+  .photo-column {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+
+  .photo-wrap {
+    position: relative;
+    width: 100%;
+    max-width: 340px;
+    aspect-ratio: 3 / 4;
+    background: var(--bg-card);
+    overflow: hidden;
+    border-radius: 2px;
+    box-shadow:
+      0 1px 0 rgba(0,0,0,0.04),
+      0 14px 36px -14px rgba(139, 44, 31, 0.18);
+  }
+
+  .photo {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity 0.55s ease;
+  }
+
+  .photo.active { opacity: 1; }
+
+  /* ===== SECTIONS ===== */
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 40px 40px;
+  }
+
+  .section {
+    padding: 56px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .section:last-child { border-bottom: none; }
+
+  .section-grid {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: 64px;
+    align-items: start;
+  }
+
+  .section-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--ink-muted);
+    font-weight: 500;
+    padding-top: 4px;
+  }
+
+  /* Research interests */
+  .interests {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px 32px;
+  }
+
+  .interest {
+    font-family: 'Fraunces', serif;
+    font-size: 19px;
+    color: var(--ink);
+    line-height: 1.3;
+    letter-spacing: -0.005em;
+    font-variation-settings: "opsz" 36;
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+  }
+
+  .interest-num {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--ink-muted);
+    font-style: normal;
+    flex-shrink: 0;
+    padding-top: 2px;
+  }
+
+  /* Quick links */
+  .quicklinks {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .quicklink {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--rule-soft);
+    text-decoration: none;
+    color: var(--ink);
+    transition: padding 0.2s;
+  }
+
+  .quicklink:first-child { border-top: 1px solid var(--rule-soft); }
+  .quicklink:hover { padding-left: 8px; }
+  .quicklink:hover .quicklink-title { color: var(--accent); }
+
+  .quicklink-title {
+    font-family: 'Fraunces', serif;
+    font-size: 18px;
+    color: var(--ink);
+    transition: color 0.2s;
+    font-variation-settings: "opsz" 36;
+  }
+
+  .quicklink-arrow {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--ink-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    transition: color 0.2s;
+  }
+
+  .quicklink:hover .quicklink-arrow { color: var(--accent); }
+
+  /* Education */
+  .education {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .edu-item {
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    gap: 24px;
+    align-items: baseline;
+  }
+
+  .edu-years {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-muted);
+    letter-spacing: 0.05em;
+  }
+
+  .edu-body {
+    font-family: 'Fraunces', serif;
+    font-size: 17px;
+    line-height: 1.4;
+    color: var(--ink);
+    font-variation-settings: "opsz" 36;
+  }
+
+  .edu-body strong { font-weight: 500; }
+  .edu-body .edu-where {
+    display: block;
+    font-size: 14.5px;
+    color: var(--ink-muted);
+    font-style: italic;
+    margin-top: 1px;
+  }
+
+  /* ===== FEATURED PROJECTS ===== */
+  .featured {
+    max-width: 1100px;
+    margin: 80px auto 0;
+    padding: 0 40px;
+  }
+
+  .featured-intro {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: var(--accent);
+    font-weight: 500;
+    margin-bottom: 24px;
+  }
+
+  .featured-card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 44px 48px;
+    display: grid;
+    grid-template-columns: 1fr 1.1fr;
+    gap: 56px;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 24px;
+  }
+
+  .featured-card:last-child { margin-bottom: 0; }
+
+  .featured-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: var(--accent);
+  }
+
+  .featured-kicker {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--ink-muted);
+    font-weight: 500;
+    margin-bottom: 12px;
+  }
+
+  .featured-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    font-variation-settings: "opsz" 72;
+    margin-bottom: 16px;
+    color: var(--ink);
+  }
+
+  .featured-title .dot { color: var(--accent); }
+
+  .featured-desc {
+    font-family: 'Fraunces', serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--ink-soft);
+    margin-bottom: 18px;
+    font-variation-settings: "opsz" 36;
+  }
+
+  .featured-desc + .featured-desc { margin-top: -6px; }
+
+  .featured-papers {
+    font-family: 'Fraunces', serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--ink);
+    padding: 14px 0 14px 16px;
+    border-left: 2px solid var(--rule);
+    margin-bottom: 20px;
+    font-variation-settings: "opsz" 36;
+  }
+
+  .featured-papers a {
+    color: var(--ink);
+    text-decoration: none;
+    background-image: linear-gradient(var(--accent), var(--accent));
+    background-size: 0 1px;
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    transition: background-size 0.25s ease, color 0.2s;
+  }
+
+  .featured-papers a:hover {
+    background-size: 100% 1px;
+    color: var(--accent);
+  }
+
+  .featured-papers .paper-journal {
+    font-style: italic;
+    color: var(--ink-muted);
+  }
+
+  .featured-papers-sep {
+    margin: 10px 0;
+    height: 1px;
+    background: var(--rule-soft);
+    border: none;
+  }
+
+  .featured-credit {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-muted);
+    margin-bottom: 24px;
+    line-height: 1.7;
+  }
+
+  .featured-credit strong { color: var(--ink); font-weight: 500; }
+
+  .featured-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 20px;
+    background: var(--ink);
+    color: var(--bg-card);
+    text-decoration: none;
+    border-radius: 999px;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    transition: all 0.2s;
+  }
+
+  .featured-cta:hover { background: var(--accent); transform: translateX(2px); }
+
+  .featured-cta svg { width: 12px; height: 12px; }
+
+  .featured-visual {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    background: var(--bg);
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 8px 28px -12px rgba(139, 44, 31, 0.2);
+  }
+
+  .featured-visual.screenshot {
+    background: #fafafa;
+  }
+
+  .featured-visual.screenshot img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top left;
+    display: block;
+  }
+
+  /* DAG illustration for the AoS/complete-case feature */
+  .featured-visual.dag {
+    background: var(--bg-card);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+  }
+
+  .featured-visual.dag svg,
+  .featured-visual.dag img {
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+    object-fit: contain;
+    display: block;
+  }
+
+  /* ===== FOOTER ===== */
+  footer {
+    max-width: 1100px;
+    margin: 80px auto 0;
+    padding: 32px 40px 48px;
+    border-top: 1px solid var(--rule);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--ink-muted);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  footer a { color: var(--ink-soft); text-decoration: none; }
+  footer a:hover { color: var(--accent); }
+
+  /* Reveal */
+  .fade-in { opacity: 0; animation: rise 0.7s ease forwards; }
+  .fade-in.d1 { animation-delay: 0.08s; }
+  .fade-in.d2 { animation-delay: 0.18s; }
+  .fade-in.d3 { animation-delay: 0.28s; }
+
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Responsive */
+  @media (max-width: 900px) {
+    .masthead, .hero, main, .featured, footer {
+      padding-left: 24px;
+      padding-right: 24px;
+    }
+    .hero {
+      grid-template-columns: 1fr;
+      gap: 40px;
+      padding-bottom: 56px;
+    }
+    .hero-title {
+      white-space: normal;
+      font-size: clamp(48px, 12vw, 72px);
+    }
+    .photo-column { align-items: center; }
+    .photo-wrap { max-width: 300px; }
+    .section-grid { grid-template-columns: 1fr; gap: 20px; }
+    .section-label { padding-top: 0; }
+    .interests { grid-template-columns: 1fr; }
+    .featured-card {
+      grid-template-columns: 1fr;
+      gap: 32px;
+      padding: 32px;
+    }
+    .featured-title { font-size: 32px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-top">
+    <div>Maya B. Mathur · Stanford University</div>
+    <nav>
+      <a href="/" class="active">About</a>
+      <a href="/publications">Publications</a>
+      <a href="/code">Software</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="hero-text fade-in">
+    <h1 class="hero-title">Maya B. Mathur</h1>
+    <div class="hero-icons">
+      <a class="hero-icon" href="https://www.dropbox.com/scl/fi/4akg39cxorep5d005n1dr/Mathur-CV-for-website.pdf?rlkey=jw6yg4j0f5huht40q8r2jdevv&amp;dl=0" target="_blank" rel="noopener" title="Curriculum vitae (PDF)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="16" y2="17"/><line x1="8" y1="9" x2="11" y2="9"/></svg>
+        <span>CV</span>
+      </a>
+      <a class="hero-icon" href="https://scholar.google.com/citations?user=vmuNN1sAAAAJ&amp;hl=en" target="_blank" rel="noopener" title="Google Scholar profile">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+        <span>Scholar</span>
+      </a>
+    </div>
+    <div class="hero-role">
+      <span class="role-line"><strong>Associate Professor</strong></span>
+      <span class="role-line">Biomedical Informatics &amp; Pediatrics</span>
+      <span class="role-line">Stanford University School of Medicine</span>
+    </div>
+
+    <div class="bio-wrap">
+      <div class="bio serious" id="bioSerious">
+        <p>
+          Maya Mathur is a statistician whose methodological research focuses on meta-analysis and other forms of evidence synthesis, missing data, selection bias, and causal inference (especially using graphical models).
+        </p>
+        <p>
+          Outside of methodological research, she directs the <a href="https://www.foodlabstanford.com/" target="_blank" rel="noopener">Stanford Humane and Sustainable Food Lab</a> and serves as Associate Director of Stanford Data Science's <a href="https://datascience.stanford.edu/cores" target="_blank" rel="noopener">Center for Open and Reproducible Science</a>. Her primary appointment is in the <a href="https://med.stanford.edu/qsu.html" target="_blank" rel="noopener">Quantitative Sciences Unit</a>.
+        </p>
+      </div>
+
+      <div class="bio fun" id="bioFun">
+        <p>
+          I love hiking and backpacking. My regular hiking friends know I should never be in charge of navigation.
+        </p>
+        <p>
+          I like nonfiction and some novels. I like fiction that is dark, philosophical, ambiguous, and tightly written. Think <em>Never Let Me Go</em>, <em>I Who Have Never Known Men</em>, and Ted Chiang's short fiction. I host a nonfiction book club that has been described as "depressing."
+        </p>
+        <p>
+          I'm into dog sports, especially canicross: I run while my dog Sirius drags me on a bungee leash. It's all the fun of running fast with much less (human) athleticism. We're also learning other dog sports: agility, scent discrimination, and hunting wild morel mushrooms by scent.
+        </p>
+
+        <figure class="bio-fig">
+          <img src="/assets/images/animal_run_canicross_flying.jpg" alt="Maya running canicross with her dog Sirius">
+        </figure>
+
+        <p>
+          Before that, I rode classical dressage for fifteen years under the mentorship of <a href="https://www.whitehorsedressage.com/" target="_blank" rel="noopener">Petra Sekerka</a>, who descends intellectually from Egon von Neindorff. She's the best rider and horsewoman I have ever met. I had a wonderful Hanoverian, Zero Gravity, whom I rode and trained for many years. I was also fortunate to ride and train a Lipizzaner, Misha, owned by Petra. That little guy took me to a United States Dressage Federation Bronze Medal.
+        </p>
+
+        <figure class="bio-fig bio-fig-gallery">
+          <img src="/assets/images/fourth_level_trot.png" alt="">
+          <img src="/assets/images/zero_gravity_beach.jpeg" alt="">
+          <img src="/assets/images/extended_canter_misha.png" alt="">
+        </figure>
+      </div>
+    </div>
+
+    <button class="fun-toggle" id="funToggle">Show me a fun bio instead</button>
+  </div>
+
+  <div class="photo-column fade-in d2">
+    <div class="photo-wrap">
+      <img class="photo serious active" src="/assets/images/Maya_headshot_cropped_2024.jpeg" alt="Maya B. Mathur">
+    </div>
+  </div>
+</section>
+
+<main>
+
+  <!-- QUICK LINKS -->
+  <section class="section">
+    <div class="section-grid">
+      <div class="section-label">Quick links</div>
+      <div class="quicklinks">
+        <a class="quicklink" href="https://osf.io/e9tg8/" target="_blank" rel="noopener">
+          <span class="quicklink-title">Open-science repositories</span>
+          <span class="quicklink-arrow">OSF ↗</span>
+        </a>
+        <a class="quicklink" href="https://osf.io/x7zgu/" target="_blank" rel="noopener">
+          <span class="quicklink-title">Slide decks</span>
+          <span class="quicklink-arrow">OSF ↗</span>
+        </a>
+        <a class="quicklink" href="https://www.youtube.com/playlist?list=PL518lxDNEhwMxYdl2N8Ip_FMsqC_0TW8F" target="_blank" rel="noopener">
+          <span class="quicklink-title">Recorded talks</span>
+          <span class="quicklink-arrow">YouTube ↗</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- RESEARCH INTERESTS -->
+  <section class="section">
+    <div class="section-grid">
+      <div class="section-label">Research interests</div>
+      <div class="interests">
+        <div class="interest"><span class="interest-num">01</span><span>Meta-analysis &amp; evidence synthesis</span></div>
+        <div class="interest"><span class="interest-num">02</span><span>Missing data</span></div>
+        <div class="interest"><span class="interest-num">03</span><span>Selection bias</span></div>
+        <div class="interest"><span class="interest-num">04</span><span>Causal inference &amp; graphical models</span></div>
+        <div class="interest"><span class="interest-num">05</span><span>Epidemiologic methods</span></div>
+        <div class="interest"><span class="interest-num">06</span><span>Humane &amp; sustainable food</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SELECTED AWARDS -->
+  <section class="section">
+    <div class="section-grid">
+      <div class="section-label">Selected awards</div>
+      <div class="education">
+        <div class="edu-item">
+          <div class="edu-years">2024</div>
+          <div class="edu-body">
+            <strong>Early Career Epidemiologist Award</strong>
+            <span class="edu-where">American College of Epidemiology</span>
+          </div>
+        </div>
+        <div class="edu-item">
+          <div class="edu-years">2022</div>
+          <div class="edu-body">
+            <strong>Early Career Award</strong>
+            <span class="edu-where">Society for Research Synthesis Methodology</span>
+          </div>
+        </div>
+        <div class="edu-item">
+          <div class="edu-years">2022</div>
+          <div class="edu-body">
+            <strong>Brian MacMahon Early Career Award</strong>
+            <span class="edu-where">Society for Epidemiologic Research</span>
+          </div>
+        </div>
+        <div class="edu-item">
+          <div class="edu-years">2018</div>
+          <div class="edu-body">
+            <strong>Young Investigator Award</strong>
+            <span class="edu-where">American Statistical Association, Section on Statistics in Epidemiology</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- EDUCATION -->
+  <section class="section">
+    <div class="section-grid">
+      <div class="section-label">Education</div>
+      <div class="education">
+        <div class="edu-item">
+          <div class="edu-years">2015–2018</div>
+          <div class="edu-body">
+            <strong>PhD, Biostatistics</strong>
+            <span class="edu-where">Harvard University · Advisor: Tyler VanderWeele</span>
+          </div>
+        </div>
+        <div class="edu-item">
+          <div class="edu-years">2011–2013</div>
+          <div class="edu-body">
+            <strong>MS, Statistics</strong>
+            <span class="edu-where">Stanford University · Graduation with Distinction</span>
+          </div>
+        </div>
+        <div class="edu-item">
+          <div class="edu-years">2009–2013</div>
+          <div class="edu-body">
+            <strong>BA, Psychology</strong>
+            <span class="edu-where">Stanford University · Phi Beta Kappa</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- FEATURED PROJECTS -->
+<section class="featured">
+  <div class="featured-intro">Featured projects</div>
+
+  <!-- Featured 1: metabias.io -->
+  <div class="featured-card">
+    <div>
+      <div class="featured-kicker">Interactive web tool</div>
+      <h2 class="featured-title">metabias<span class="dot">.</span>io</h2>
+      <p class="featured-desc">
+        A web interface for running sensitivity analyses on meta-analyses — for publication bias, <em>p</em>-hacking, unmeasured confounding, and their joint effects. Implements the methods from many of the papers on this site as point-and-click tools that produce publication-ready output.
+      </p>
+      <div class="featured-credit">
+        Led by <strong>Mika Braginsky</strong>.<br>
+        Statistical methodology: Maya Mathur.
+      </div>
+      <a class="featured-cta" href="https://metabias.io" target="_blank" rel="noopener">
+        Visit metabias.io
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17 17 7M8 7h9v9"/></svg>
+      </a>
+    </div>
+    <div class="featured-visual screenshot">
+      <img src="/assets/images/metabias_screenshot.png" alt="Screenshot of the metabias.io web interface showing a sensitivity analysis for p-hacking in meta-analyses">
+    </div>
+  </div>
+
+  <!-- Featured 2: Common-cause principle + Complete-case analysis -->
+  <div class="featured-card">
+    <div>
+      <div class="featured-kicker">Recent theory work</div>
+      <h2 class="featured-title">Selection bias, revisited</h2>
+      <p class="featured-desc">
+        Two recent papers that together rethink how we should reason about — and adjust for — selection bias in causal estimation. The first gives a graphical principle for when covariate adjustment eliminates selection bias; the second uses that principle to defend complete-case analysis against its usual reputation.
+      </p>
+      <div class="featured-papers">
+        <div>
+          <a href="https://doi.org/10.1214/25-AOS2567" target="_blank" rel="noopener">A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment.</a>
+          <span class="paper-journal">Annals of Statistics, 2025.</span>
+        </div>
+        <hr class="featured-papers-sep">
+        <div>
+          <a href="https://osf.io/preprints/osf/f9jvz/" target="_blank" rel="noopener">Resurrecting complete-case analysis: A defense.</a>
+          <span class="paper-journal">American Journal of Epidemiology, in press.</span>
+        </div>
+      </div>
+      <div class="featured-credit">
+        With <strong>Tyler VanderWeele</strong> &amp; <strong>Ilya Shpitser</strong>.
+      </div>
+      <a class="featured-cta" href="/publications#group-methods" >
+        See related publications
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+
+    <!-- DAG illustrating selection bias / missing data via common-cause structure -->
+    <div class="featured-visual dag">
+      <img src="/assets/images/dag_selection_bias.png" alt="DAG showing common-cause structure with variables A, V, R, Y">
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div>© 2026 Maya B. Mathur</div>
+  <div>
+    <a href="mailto:mmathur@stanford.edu">mmathur@stanford.edu</a> ·
+    <a href="https://github.com/mayamathur">github</a> ·
+    <a href="https://scholar.google.com/citations?user=vmuNN1sAAAAJ">scholar</a> ·
+    <a href="https://osf.io/e9tg8">osf</a>
+  </div>
+</footer>
+
+<script>
+  // Fun toggle: swaps the bio (and its inline photos) only.
+  // The right-column headshot stays as the serious one throughout.
+  const funToggle = document.getElementById('funToggle');
+  const bioSerious = document.getElementById('bioSerious');
+  const bioFun = document.getElementById('bioFun');
+  let funActive = false;
+
+  funToggle.addEventListener('click', () => {
+    funActive = !funActive;
+    if (funActive) {
+      bioSerious.classList.add('hidden');
+      bioFun.classList.add('active');
+      funToggle.textContent = 'Back to the serious bio';
+    } else {
+      bioFun.classList.remove('active');
+      bioSerious.classList.remove('hidden');
+      funToggle.textContent = 'Show me a fun bio instead';
+    }
+  });
+</script>
+
+</body>
+</html>
