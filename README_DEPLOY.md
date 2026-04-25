@@ -43,8 +43,8 @@ You just published a paper. Here's what to do:
   status: "published"
   topics: ["missing-data", "causal-inference"]
   new_method: true
-  preprint: "https://osf.io/preprints/osf/XXXXX/"
-  doi: "10.1000/xxxxx"
+  journal_url: "https://doi.org/10.1000/xxxxx"
+  preprint_url: "https://osf.io/preprints/osf/XXXXX/"
   datarepo: "https://osf.io/YYYYY/"
 ```
 
@@ -64,8 +64,8 @@ You just published a paper. Here's what to do:
 
 | Field | What to put |
 |---|---|
-| `doi` | The DOI, without the `https://doi.org/` prefix |
-| `preprint` | URL to an open-access / preprint copy |
+| `journal_url` | URL to the final published version (usually `https://doi.org/<doi>`). Title of the paper will link here. |
+| `preprint_url` | URL to an open-access / preprint copy. If both this and `journal_url` are set, a small "Open-access copy" button appears. If only this is set (no journal version), the title links to the preprint. |
 | `datarepo` | URL to an OSF / GitHub repo with code and data |
 | `rpackagename` | Name of the associated R package |
 | `rpackagelink` | URL to that package |
