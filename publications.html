@@ -46,7 +46,7 @@ permalink: /publications/
     background: var(--bg);
     color: var(--ink);
     font-family: 'Inter', sans-serif;
-    font-size: 15px;
+    font-size: 16.5px;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     min-height: 100vh;
@@ -332,7 +332,34 @@ permalink: /publications/
     margin-bottom: 8px;
     padding-bottom: 6px;
     border-bottom: 1px dotted var(--rule);
+    cursor: pointer;
+    user-select: none;
+    transition: padding 0.15s ease;
   }
+
+  .subtopic-header:hover .subtopic-title { color: var(--accent); }
+  .subtopic-header:hover .subtopic-chevron { color: var(--accent); }
+
+  .subtopic-title-wrap {
+    display: flex;
+    align-items: baseline;
+  }
+
+  .subtopic-chevron {
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    margin-right: 10px;
+    transition: transform 0.22s ease, color 0.2s ease;
+    color: var(--accent-soft);
+    flex-shrink: 0;
+    align-self: center;
+  }
+
+  .subtopic.collapsed .subtopic-chevron { transform: rotate(-90deg); }
+  .subtopic.collapsed .subtopic-body { display: none; }
+  .subtopic.collapsed { margin-top: 16px; margin-bottom: 0; }
+  .subtopic.collapsed .subtopic-header { margin-bottom: 0; }
 
   .subtopic-title {
     font-family: 'Fraunces', serif;
@@ -342,6 +369,7 @@ permalink: /publications/
     color: var(--ink);
     font-variation-settings: "opsz" 48;
     line-height: 1.2;
+    transition: color 0.2s ease;
   }
 
   .subtopic-count {
@@ -387,8 +415,8 @@ permalink: /publications/
 
   .pub-citation {
     font-family: 'Fraunces', serif;
-    font-size: 16.5px;
-    line-height: 1.45;
+    font-size: 18px;
+    line-height: 1.48;
     color: var(--ink);
     margin-bottom: 10px;
     letter-spacing: -0.005em;
@@ -406,8 +434,8 @@ permalink: /publications/
   .pub-citation-link:hover .pub-link-icon { opacity: 1; color: var(--accent); }
 
   .pub-link-icon {
-    width: 13px;
-    height: 13px;
+    width: 14px;
+    height: 14px;
     display: inline-block;
     vertical-align: baseline;
     margin-right: 7px;
@@ -712,13 +740,13 @@ permalink: /publications/
     "mentee_led": {% if pub.mentee_led %}true{% else %}false{% endif %},
     "new_method": {% if pub.new_method %}true{% else %}false{% endif %},
     "is_book": {% if pub.is_book %}true{% else %}false{% endif %},
-    "preprint": {{ pub.preprint | jsonify }},
+    "journal_url": {{ pub.journal_url | jsonify }},
+    "preprint_url": {{ pub.preprint_url | jsonify }},
     "datarepo": {{ pub.datarepo | jsonify }},
     "rpackagename": {{ pub.rpackagename | jsonify }},
     "rpackagelink": {{ pub.rpackagelink | jsonify }},
     "webappname": {{ pub.webappname | jsonify }},
     "webapplink": {{ pub.webapplink | jsonify }},
-    "doi": {{ pub.doi | jsonify }},
     "media_coverage": {{ pub.media_coverage | default: empty_array | jsonify }}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
@@ -797,6 +825,7 @@ const state = {
   tagFilter: null,        // null | 'mentee' | 'causal-inference' | 'empirical-meta' | 'book' | 'new-methods' | 'review'
   collapsed: true,
   collapsedSections: new Set(),   // collapsed GROUP ids
+  collapsedSubtopics: new Set(),  // collapsed subtopic ids (independent of group collapse)
 };
 
 function passesTag(p) {
@@ -875,21 +904,22 @@ function mediaHTML(p) {
   return `<div class="pub-media"><span class="pub-media-icon">📰</span><span class="pub-media-label">Featured in</span>${items}</div>`;
 }
 
-// "Primary" link for the title — prefer DOI (final published version), fall back to preprint.
+// "Primary" link for the title. Rules:
+//   - If journal_url exists, title links there (published version).
+//   - Otherwise, if preprint_url exists, title links there.
+//   - Otherwise, no link.
 function primaryLink(p) {
-  if (p.doi) return `https://doi.org/${p.doi}`;
-  if (p.preprint) return p.preprint;
+  if (p.journal_url) return p.journal_url;
+  if (p.preprint_url) return p.preprint_url;
   return null;
 }
 
 function linksHTML(p) {
   const parts = [];
-  // Open-access / preprint copy. Shown regardless of whether the DOI is paywalled
-  // (future: YAML could add open_access: true/false to suppress when DOI is already open)
-  if (p.preprint && p.doi) {
-    parts.push(`<a class="pub-link" href="${p.preprint}" target="_blank" rel="noopener">Open-access copy</a>`);
-  } else if (p.preprint && !p.doi) {
-    parts.push(`<a class="pub-link" href="${p.preprint}" target="_blank" rel="noopener">Preprint</a>`);
+  // Open-access button only when BOTH urls exist. Journal is assumed paywalled;
+  // preprint is the free copy.
+  if (p.journal_url && p.preprint_url) {
+    parts.push(`<a class="pub-link" href="${p.preprint_url}" target="_blank" rel="noopener">Open-access copy</a>`);
   }
   if (p.datarepo) parts.push(`<a class="pub-link" href="${p.datarepo}" target="_blank" rel="noopener">Data</a>`);
   if (p.rpackagename) {
@@ -971,6 +1001,7 @@ function render() {
   }
 
   const chevronSVG = `<svg class="topic-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>`;
+  const subChevronSVG = `<svg class="subtopic-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>`;
 
   if (state.view === 'topic') {
     let html = '', jumpHtml = '';
@@ -1003,17 +1034,18 @@ function render() {
           `;
         }).join('');
 
-        // Single-subtopic groups (open-science pedagogy) skip their sub-header
+        // Single-subtopic groups (open-science pedagogy) skip their sub-header and are never collapsed individually
         if (sub.title === null) {
           return `<div class="subtopic">${yearBlocks}</div>`;
         }
+        const subCollapsed = state.collapsed || state.collapsedSubtopics.has(sub.id);
         return `
-          <div class="subtopic">
-            <div class="subtopic-header">
-              <h3 class="subtopic-title">${sub.title}</h3>
+          <div class="subtopic ${subCollapsed ? 'collapsed' : ''}" id="sub-${sub.id}">
+            <div class="subtopic-header" data-subtoggle="${sub.id}">
+              <div class="subtopic-title-wrap">${subChevronSVG}<h3 class="subtopic-title">${sub.title}</h3></div>
               <span class="subtopic-count">${subPubs.length} paper${subPubs.length > 1 ? 's' : ''}</span>
             </div>
-            ${yearBlocks}
+            <div class="subtopic-body">${yearBlocks}</div>
           </div>
         `;
       }).join('');
@@ -1043,6 +1075,30 @@ function render() {
         } else {
           if (state.collapsedSections.has(id)) state.collapsedSections.delete(id);
           else state.collapsedSections.add(id);
+        }
+        render();
+      });
+    });
+
+    // Wire up subtopic click-to-toggle
+    root.querySelectorAll('[data-subtoggle]').forEach(h => {
+      h.addEventListener('click', (ev) => {
+        ev.stopPropagation();  // don't bubble to group header
+        const id = h.dataset.subtoggle;
+        if (state.collapsed) {
+          // If globally collapsed, expanding a subtopic implicitly opens its parent group too,
+          // and collapses all other subtopics.
+          state.collapsed = false;
+          state.collapsedSubtopics = new Set();
+          GROUPS.forEach(g => {
+            const parentOfId = g.subtopics.some(s => s.id === id);
+            if (!parentOfId) state.collapsedSections.add(g.id);
+            g.subtopics.forEach(s => { if (s.id !== id && s.title !== null) state.collapsedSubtopics.add(s.id); });
+          });
+          updateCollapseBtn();
+        } else {
+          if (state.collapsedSubtopics.has(id)) state.collapsedSubtopics.delete(id);
+          else state.collapsedSubtopics.add(id);
         }
         render();
       });
@@ -1094,6 +1150,7 @@ document.getElementById('searchInput').addEventListener('input', e => {
   if (state.search) {
     state.collapsed = false;
     state.collapsedSections = new Set();
+    state.collapsedSubtopics = new Set();
     updateCollapseBtn();
   }
   render();
@@ -1112,6 +1169,7 @@ document.querySelectorAll('[data-fun]').forEach(btn => {
       // Force expand when fun filter active so user sees results
       state.collapsed = false;
       state.collapsedSections = new Set();
+      state.collapsedSubtopics = new Set();
       updateCollapseBtn();
     }
     render();
@@ -1130,6 +1188,7 @@ document.querySelectorAll('[data-tagfilter]').forEach(btn => {
       btn.classList.add('active');
       state.collapsed = false;
       state.collapsedSections = new Set();
+      state.collapsedSubtopics = new Set();
       updateCollapseBtn();
     }
     render();
@@ -1138,7 +1197,8 @@ document.querySelectorAll('[data-tagfilter]').forEach(btn => {
 
 document.getElementById('collapseToggle').addEventListener('click', () => {
   state.collapsed = !state.collapsed;
-  state.collapsedSections = new Set();  // reset individual toggles
+  state.collapsedSections = new Set();  // reset individual group toggles
+  state.collapsedSubtopics = new Set(); // reset individual subtopic toggles
   updateCollapseBtn();
   render();
 });
