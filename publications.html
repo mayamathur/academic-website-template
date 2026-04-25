@@ -34,8 +34,6 @@ permalink: /publications/
     --tag-book-ink: #6a3a2a;
     --tag-meta-bg: #ddd8e4;
     --tag-meta-ink: #4a3a6a;
-    --tag-newmethod-bg: #d8e6dc;
-    --tag-newmethod-ink: #2a5238;
     --fun-accent: #c44a32;
   }
 
@@ -46,7 +44,7 @@ permalink: /publications/
     background: var(--bg);
     color: var(--ink);
     font-family: 'Inter', sans-serif;
-    font-size: 16.5px;
+    font-size: 17.5px;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     min-height: 100vh;
@@ -70,7 +68,7 @@ permalink: /publications/
     justify-content: space-between;
     align-items: baseline;
     font-family: 'JetBrains Mono', monospace;
-    font-size: 11px;
+    font-size: 12.5px;
     text-transform: uppercase;
     letter-spacing: 0.12em;
     color: var(--ink-muted);
@@ -398,10 +396,8 @@ permalink: /publications/
 
   .year-header:first-of-type { margin-top: 8px; padding-top: 0; }
 
-  .year-header.nonyear {
-    font-style: italic;
-    color: var(--accent);
-  }
+  /* In press / In progress headers use the same typographic treatment as year headers
+     — same Fraunces, same size, same color. The .nonyear class no longer styles differently. */
 
   /* Publication entry: no more per-paper year column */
   .pub {
@@ -415,7 +411,7 @@ permalink: /publications/
 
   .pub-citation {
     font-family: 'Fraunces', serif;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.48;
     color: var(--ink);
     margin-bottom: 10px;
@@ -434,8 +430,8 @@ permalink: /publications/
   .pub-citation-link:hover .pub-link-icon { opacity: 1; color: var(--accent); }
 
   .pub-link-icon {
-    width: 14px;
-    height: 14px;
+    width: 15px;
+    height: 15px;
     display: inline-block;
     vertical-align: baseline;
     margin-right: 7px;
@@ -483,7 +479,6 @@ permalink: /publications/
   .tag-mentee { background: var(--tag-mentee-bg); color: var(--tag-mentee-ink); }
   .tag-book { background: var(--tag-book-bg); color: var(--tag-book-ink); }
   .tag-meta { background: var(--tag-meta-bg); color: var(--tag-meta-ink); }
-  .tag-newmethod { background: var(--tag-newmethod-bg); color: var(--tag-newmethod-ink); }
 
   .pub-media {
     margin-top: 10px;
@@ -540,8 +535,6 @@ permalink: /publications/
   .control-btn.tag-chip.meta:hover, .control-btn.tag-chip.meta.active { background: var(--tag-meta-ink); color: var(--bg-card); border-color: var(--tag-meta-ink); }
   .control-btn.tag-chip.book { background: var(--tag-book-bg); color: var(--tag-book-ink); border-color: var(--tag-book-bg); }
   .control-btn.tag-chip.book:hover, .control-btn.tag-chip.book.active { background: var(--tag-book-ink); color: var(--bg-card); border-color: var(--tag-book-ink); }
-  .control-btn.tag-chip.newmethod { background: var(--tag-newmethod-bg); color: var(--tag-newmethod-ink); border-color: var(--tag-newmethod-bg); }
-  .control-btn.tag-chip.newmethod:hover, .control-btn.tag-chip.newmethod.active { background: var(--tag-newmethod-ink); color: var(--bg-card); border-color: var(--tag-newmethod-ink); }
 
   .pub-links {
     display: flex;
@@ -704,7 +697,6 @@ permalink: /publications/
       <button class="control-btn tag-chip mentee" data-tagfilter="mentee">Mentee-led</button>
       <button class="control-btn tag-chip causal" data-tagfilter="causal-inference">Causal inference</button>
       <button class="control-btn tag-chip meta" data-tagfilter="empirical-meta">Empirical meta-analysis</button>
-      <button class="control-btn tag-chip newmethod" data-tagfilter="new-methods">New statistical methods</button>
       <button class="control-btn tag-chip book" data-tagfilter="book">Book</button>
     </div>
     <div class="result-count"><strong id="visible-count">—</strong> publications match</div>
@@ -738,7 +730,6 @@ permalink: /publications/
     "status": {{ pub.status | jsonify }},
     "topics": {{ pub.topics | default: empty_array | jsonify }},
     "mentee_led": {% if pub.mentee_led %}true{% else %}false{% endif %},
-    "new_method": {% if pub.new_method %}true{% else %}false{% endif %},
     "is_book": {% if pub.is_book %}true{% else %}false{% endif %},
     "journal_url": {{ pub.journal_url | jsonify }},
     "preprint_url": {{ pub.preprint_url | jsonify }},
@@ -794,7 +785,7 @@ GROUPS.forEach(g => g.subtopics.forEach(s => { SUBTOPIC_TITLES[s.id] = s.title |
 // Secondary-only tags (don't appear as primary section; shown as filter chips + inline tags)
 const SECONDARY_TAGS = [
   { id: "causal-inference", label: "Causal inference" },
-  { id: "empirical-meta",   label: "Meta-analysis (empirical)" }
+  { id: "empirical-meta",   label: "Empirical meta-analysis" }
 ];
 
 // Media coverage (from CV). Keyed by lookup_id.
@@ -812,7 +803,7 @@ const MEDIA = {
 
 // Mentee-led is now a YAML field on each pub (mentee_led: true).
 
-// "New method" is now a YAML field on each pub (new_method: true).
+// (mentee_led, media_coverage, etc. are YAML fields on each pub)
 
 // "Unserious" papers are tagged via topics: ["unserious"] in YAML.
 
@@ -822,7 +813,7 @@ const state = {
   view: 'topic',
   search: '',
   fun: null,              // null | 'unserious'  (surprising removed per Maya)
-  tagFilter: null,        // null | 'mentee' | 'causal-inference' | 'empirical-meta' | 'book' | 'new-methods' | 'review'
+  tagFilter: null,        // null | 'mentee' | 'causal-inference' | 'empirical-meta' | 'book'
   collapsed: true,
   collapsedSections: new Set(),   // collapsed GROUP ids
   collapsedSubtopics: new Set(),  // collapsed subtopic ids (independent of group collapse)
@@ -835,7 +826,6 @@ function passesTag(p) {
     case 'causal-inference': return p.topics.includes('causal-inference');
     case 'empirical-meta':   return p.topics.includes('empirical-meta');
     case 'book':             return !!p.is_book;
-    case 'new-methods':      return !!p.new_method;
     default:                 return true;
   }
 }
@@ -875,12 +865,12 @@ function statusTagHTML(p) {
 }
 
 // Render topic pills. For each of p.topics:
-//   - 'empirical-meta' → purple "Meta-analysis" tag (stylistically distinct)
+//   - 'empirical-meta' → purple "Empirical meta-analysis" tag (stylistically distinct)
 //   - 'causal-inference' → causal tag
 //   - otherwise → subtopic title pill
 function topicTagsHTML(p) {
   return p.topics.map(t => {
-    if (t === 'empirical-meta')   return `<span class="tag tag-meta">Meta-analysis</span>`;
+    if (t === 'empirical-meta')   return `<span class="tag tag-meta">Empirical meta-analysis</span>`;
     if (t === 'causal-inference') return `<span class="tag tag-topic">Causal inference</span>`;
     return `<span class="tag tag-topic">${SUBTOPIC_TITLES[t] || t}</span>`;
   }).join('');
@@ -889,7 +879,6 @@ function topicTagsHTML(p) {
 function extraTagsHTML(p) {
   let s = '';
   if (p.is_book) s += `<span class="tag tag-book">Book</span>`;
-  if (p.new_method) s += `<span class="tag tag-newmethod">New method</span>`;
   return s;
 }
 
