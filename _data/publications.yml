@@ -9,7 +9,6 @@
   journal_url: "https://doi.org/10.13140/RG.2.2.30750.19524"
   preprint_url: "https://www.researchgate.net/publication/401123077_Estimating_conditional_means_under_missingness-not-at-random_with_incomplete_auxiliary_variables?channel=doi&linkId=699ccbc17247bc6473e365d5&showFulltext=true"
   topics: ["missing-data"]
-  new_method: true
   datarepo: "https://osf.io/27aue/"
   rpackagename: "miapack"
   rpackagelink: "https://github.com/stmcg/miapack"
@@ -26,7 +25,6 @@
   journal_url: ""
   preprint_url: "https://osf.io/preprints/osf/zqne9/"
   topics: ["missing-data"]
-  new_method: true
   datarepo: "https://osf.io/27aue/"
   rpackagename: 
   rpackagelink: 
@@ -74,10 +72,9 @@
   type: "methods"
   authorship: "first"
   status: "inpress"
-  journal_url: ""
+  journal_url: "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf284/8415237?redirectedFrom=fulltext&login=false"
   preprint_url: "https://osf.io/preprints/osf/f9jvz/"
   topics: ["missing-data", "causal-inference"]
-  new_method: true
   datarepo: "https://osf.io/crxyw/"
   rpackagename: 
   rpackagelink: 
@@ -86,13 +83,13 @@
   google_id: "BPS1z4jHU5cC"
 #  
 - id: Hope2026
-  text: "Hope J, Green SA, Peacock JR, <u>Mathur MB</u>. Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment. <strong>Food Quality and Preference.</strong>"
+  text: "Hope J, Green SA, Peacock JR, <u>Mathur MB</u>. Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment. <strong>Food Quality and Preference</strong>, 143, 105931."
   year: 2026
   type: "empirical"
   authorship: "last"
-  status: "inpress"
-  journal_url: ""
-  preprint_url: "https://osf.io/preprints/osf/z6rn2_v1"
+  status: "published"
+  journal_url: "https://www.sciencedirect.com/science/article/pii/S0950329326000856"
+  preprint_url: ""
   topics: ["animal-ag"]
   mentee_led: true
   datarepo: "https://github.com/hsflabstanford/TACOS-RCT"
@@ -145,7 +142,6 @@
   journal_url: "https://doi.org/10.1093/aje/kwaf265"
   preprint_url: ""
   topics: ["missing-data"]
-  new_method: true
   datarepo: 
   rpackagename: 
   rpackagelink: 
@@ -162,9 +158,8 @@
   authorship: "first"
   status: "published"
   journal_url: "https://doi.org/10.1214/24-AOS2448"
-  preprint_url: "https://osf.io/preprints/ths4e"
+  preprint_url: ""
   topics: ["missing-data", "causal-inference"]
-  new_method: true
   datarepo: 
   rpackagename: 
   rpackagelink: 
@@ -196,9 +191,8 @@
   authorship: "first"
   status: "published"
   journal_url: "https://doi.org/10.1177/25152459251338041"
-  preprint_url: "https://osf.io/preprints/osf/r9vdp/"
+  preprint_url: ""
   topics: ["methods-applied"]
-  new_method: true
   labels: ["Methods - applied journals"]
   datarepo: "https://osf.io/kt6ru/"
   rpackagename: 
@@ -214,9 +208,8 @@
   authorship: "first"
   status: "published"
   journal_url: "https://doi.org/10.1177/251524592412975"
-  preprint_url: "https://osf.io/preprints/osf/9y8re/"
+  preprint_url: ""
   topics: ["methods-applied"]
-  new_method: true
   datarepo: "https://osf.io/78bjr/"
   rpackagename: 
   rpackagelink: 
@@ -233,7 +226,6 @@
   journal_url: "https://doi.org/10.1017/rsm.2024.2"
   preprint_url: ""
   topics: ["meta-analysis"]
-  new_method: true
   datarepo: "https://osf.io/9qfah/"
   rpackagename: 
   rpackagelink: 
@@ -266,7 +258,6 @@
   journal_url: "https://doi.org/10.1093/aje/kwae145"
   preprint_url: ""
   topics: ["missing-data", "causal-inference"]
-  new_method: true
   datarepo: 
   rpackagename: 
   rpackagelink: 
@@ -280,7 +271,7 @@
   type: "empirical"
   authorship: "middle"
   status: "published"
-  journal_url: ""
+  journal_url: "https://psycnet.apa.org/fulltext/2027-22537-003.html"
   preprint_url: ""
   topics: ["exp-psych", "empirical-meta"]
   datarepo:
@@ -313,8 +304,8 @@
   type: "empirical"
   authorship: "middle"
   status: "published"
-  journal_url: ""
-  preprint_url: "https://www.researchgate.net/publication/388860023_What_Can_Large_Language_Models_Do_for_Sustainable_Food"
+  journal_url: "https://proceedings.mlr.press/v267/thomas25a.html"
+  preprint_url: ""
   topics: ["animal-ag"]
   mentee_led: true
   datarepo:
@@ -449,10 +440,9 @@
   type: "methods"
   authorship: "first"
   status: "published"
-  journal_url: "https://doi.org/10.31219/osf.io/ezjsx"
-  preprint_url: "https://osf.io/ezjsx"
+  journal_url: "https://onlinelibrary.wiley.com/doi/full/10.1002/jrsm.1701"
+  preprint_url: ""
   topics: ["meta-analysis"]
-  new_method: true
   datarepo: "https://osf.io/gk5ez/"
   rpackagename: "phacking"
   rpackagelink: "https://cran.r-project.org/web/packages/phacking/index.html"
@@ -485,7 +475,6 @@
   journal_url: "https://doi.org/10.1002/jrsm.1667"
   preprint_url: ""
   topics: ["meta-analysis", "sensitivity"]
-  new_method: true
   datarepo: "https://osf.io/3cz56/"
   rpackagename: 
   rpackagelink: 
@@ -596,8 +585,8 @@
   type: "empirical"
   authorship: "middle"
   status: "published"
-  journal_url: "https://doi.org/https://doi.org/10.31219/osf.io/8qzgw"
-  preprint_url: "https://osf.io/8qzgw/"
+  journal_url: "https://bmjpublichealth.bmj.com/content/2/1/e000072"
+  preprint_url: ""
   topics: ["medicine"]
   datarepo: "https://osf.io/f34jp"
   rpackagename:
@@ -665,7 +654,6 @@
   journal_url: "https://doi.org/10.1093/aje/kwac207"
   preprint_url: ""
   topics: ["missing-data", "sensitivity"]
-  new_method: true
   datarepo: "https://osf.io/v8ma6/"
   rpackagename: 
   rpackagelink: 
@@ -698,7 +686,6 @@
   journal_url: "https://doi.org/10.3389/fams.2023.1151314"
   preprint_url: ""
   topics: ["methods-other"]
-  new_method: true
   datarepo: "https://osf.io/qj9wa/"
   rpackagename: "NRejections"
   rpackagelink: "https://cran.r-project.org/web/packages/NRejections/index.html"
@@ -898,7 +885,6 @@
   journal_url: "https://doi.org/10.1093/ije/dyac073"
   preprint_url: "https://osf.io/h6pru/"
   topics: ["sensitivity", "causal-inference"]
-  new_method: true
   datarepo: "https://osf.io/79scv/"
   rpackagename: "EValue"
   rpackagelink: "https://CRAN.R-project.org/package=EValue"
@@ -1126,7 +1112,6 @@
   journal_url: "https://doi.org/10.1002/jrsm.1504"
   preprint_url: ""
   topics: ["meta-analysis"]
-  new_method: true
   datarepo: "https://osf.io/gs7fp/"
   rpackagename:
   rpackagelink:
@@ -1141,7 +1126,7 @@
   authorship: "first"
   status: "published"
   journal_url: "https://doi.org/10.1002/jrsm.1464"
-  preprint_url: "https://osf.io/p3xyd/"
+  preprint_url: ""
   topics: ["meta-science", "empirical-meta"]
   datarepo: "https://osf.io/cz8tr/"
   rpackagename:
@@ -1191,7 +1176,6 @@
   journal_url: "https://doi.org/10.1097/EDE.0000000000001380"
   preprint_url: ""
   topics: ["sensitivity"]
-  new_method: true
   datarepo: 
   rpackagename: "EValue"
   rpackagelink: "https://cran.r-project.org/web/packages/EValue/vignettes/multiple-bias-examples.html"
@@ -1258,7 +1242,6 @@
   journal_url: "https://doi.org/10.1080/01621459.2018.1529598"
   preprint_url: ""
   topics: ["meta-analysis", "sensitivity"]
-  new_method: true
   datarepo: "https://osf.io/2r3gm/"
   rpackagename: "EValue"
   rpackagelink: "https://cran.r-project.org/web/packages/EValue/vignettes/meta-analysis.html"
@@ -1291,7 +1274,6 @@
   journal_url: "https://doi.org/10.1111/rssc.12440"
   preprint_url: ""
   topics: ["meta-analysis"]
-  new_method: true
   datarepo: "https://osf.io/7wc2t/"
   rpackagename: "PublicationBias"
   rpackagelink: "https://CRAN.R-project.org/package=PublicationBias"
@@ -1308,7 +1290,6 @@
   journal_url: "https://doi.org/10.1111/rssa.12572"
   preprint_url: ""
   topics: ["meta-analysis", "meta-science"]
-  new_method: true
   datarepo: "https://osf.io/ufjg4"
   rpackagename: "Replicate"
   rpackagelink: "https://CRAN.R-project.org/package=Replicate"
@@ -1325,7 +1306,6 @@
   journal_url: "https://doi.org/10.1097/EDE.0000000000001180"
   preprint_url: ""
   topics: ["meta-analysis"]
-  new_method: true
   datarepo: "https://osf.io/6nyg8"
   rpackagename: "MetaUtility"
   rpackagelink: "https://CRAN.R-project.org/package=MetaUtility"
@@ -1406,7 +1386,6 @@
   journal_url: "https://doi.org/10.1097/EDE.0000000000001105"
   preprint_url: ""
   topics: ["methods-applied"]
-  new_method: true
   datarepo: 
   rpackagename: 
   rpackagelink: 
@@ -1617,7 +1596,6 @@
   journal_url: "https://doi.org/110.1002/sim.8057"
   preprint_url: ""
   topics: ["meta-analysis"]
-  new_method: true
   datarepo: "https://osf.io/pr2s9/"
   rpackagename: "MetaUtility"
   rpackagelink: "https://cran.r-project.org/web/packages/MetaUtility"
@@ -1732,7 +1710,6 @@
   journal_url: "https://doi.org/10.1097/EDE.0000000000000864"
   preprint_url: ""
   topics: ["sensitivity"]
-  new_method: true
   datarepo: 
   rpackagename: "EValue"
   rpackagelink: "https://cran.r-project.org/web/packages/EValue"
