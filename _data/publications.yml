@@ -474,7 +474,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1002/jrsm.1667"
   preprint_url: ""
-  topics: ["meta-analysis", "sensitivity"]
+  topics: ["meta-analysis", "sensitivity", "causal-inference"]
   datarepo: "https://osf.io/3cz56/"
   rpackagename: 
   rpackagelink: 
@@ -653,7 +653,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1093/aje/kwac207"
   preprint_url: ""
-  topics: ["missing-data", "sensitivity"]
+  topics: ["missing-data", "sensitivity", "causal-inference"]
   datarepo: "https://osf.io/v8ma6/"
   rpackagename: 
   rpackagelink: 
@@ -900,7 +900,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1146/annurev-publhealth-051920-114020"
   preprint_url: ""
-  topics: ["meta-analysis"]
+  topics: ["meta-analysis", "causal-inference"]
   datarepo: "https://osf.io/yd3ws/"
   rpackagename: 
   rpackagelink: 
@@ -916,7 +916,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1001/jamanetworkopen.2022.2614"
   preprint_url: ""
-  topics: ["medicine", "sensitivity"]
+  topics: ["medicine", "sensitivity", "causal-inference"]
   datarepo: "https://osf.io/b3ux8/"
   rpackagename: 
   rpackagelink: 
@@ -948,7 +948,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1016/j.envint.2021.107032"
   preprint_url: ""
-  topics: ["meta-analysis", "sensitivity"]
+  topics: ["meta-analysis", "sensitivity", "causal-inference"]
   datarepo: 
   rpackagename: 
   rpackagelink: 
@@ -964,7 +964,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1016/j.gloepi.2022.100090"
   preprint_url: ""
-  topics: ["sensitivity"]
+  topics: ["sensitivity", "causal-inference"]
   datarepo: 
   rpackagename: 
   rpackagelink: 
@@ -1175,7 +1175,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1097/EDE.0000000000001380"
   preprint_url: ""
-  topics: ["sensitivity"]
+  topics: ["sensitivity", "causal-inference"]
   datarepo: 
   rpackagename: "EValue"
   rpackagelink: "https://cran.r-project.org/web/packages/EValue/vignettes/multiple-bias-examples.html"
@@ -1241,7 +1241,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1080/01621459.2018.1529598"
   preprint_url: ""
-  topics: ["meta-analysis", "sensitivity"]
+  topics: ["meta-analysis", "sensitivity", "causal-inference"]
   datarepo: "https://osf.io/2r3gm/"
   rpackagename: "EValue"
   rpackagelink: "https://cran.r-project.org/web/packages/EValue/vignettes/meta-analysis.html"
@@ -1417,7 +1417,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1002/pds.5117"
   preprint_url: "https://osf.io/fe4gs/"
-  topics: ["sensitivity"]
+  topics: ["sensitivity", "causal-inference"]
   datarepo: 
   rpackagename: 
   rpackagelink: 
@@ -1611,7 +1611,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1515/jci-2018-0007"
   preprint_url: ""
-  topics: ["sensitivity"]
+  topics: ["sensitivity", "causal-inference"]
   datarepo: 
   rpackagename: "EValue"
   rpackagelink: "https://cran.r-project.org/web/packages/EValue"
@@ -1627,7 +1627,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1002/sim.8174"
   preprint_url: ""
-  topics: ["missing-data"]
+  topics: ["missing-data", "causal-inference"]
   datarepo: 
   rpackagename: 
   rpackagelink: 
@@ -1675,7 +1675,7 @@
   status: "published"
   journal_url: "https://doi.org/10.7326/M18-3112"
   preprint_url: ""
-  topics: ["sensitivity"]
+  topics: ["sensitivity", "causal-inference"]
   datarepo: 
   rpackagename:
   rpackagelink: 
@@ -1709,7 +1709,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1097/EDE.0000000000000864"
   preprint_url: ""
-  topics: ["sensitivity"]
+  topics: ["sensitivity", "causal-inference"]
   datarepo: 
   rpackagename: "EValue"
   rpackagelink: "https://cran.r-project.org/web/packages/EValue"
