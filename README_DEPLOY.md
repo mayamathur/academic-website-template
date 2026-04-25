@@ -42,7 +42,6 @@ You just published a paper. Here's what to do:
   authorship: "first"
   status: "published"
   topics: ["missing-data", "causal-inference"]
-  new_method: true
   journal_url: "https://doi.org/10.1000/xxxxx"
   preprint_url: "https://osf.io/preprints/osf/XXXXX/"
   datarepo: "https://osf.io/YYYYY/"
@@ -72,7 +71,6 @@ You just published a paper. Here's what to do:
 | `webappname` | Name of an associated web app |
 | `webapplink` | URL to that web app |
 | `mentee_led` | `true` if led by your student, mentee, or staff scientist |
-| `new_method` | `true` if the paper introduces new statistical methodology |
 | `media_coverage` | Array of outlets that covered the paper (see below) |
 
 **5. Save the file.**
