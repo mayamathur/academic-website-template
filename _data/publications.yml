@@ -82,23 +82,22 @@
   webapplink: 
   google_id: "BPS1z4jHU5cC"
 #  
-- id: Hope2026
-  text: "Hope J, Green SA, Peacock JR, <u>Mathur MB</u>. Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment. <strong>Food Quality and Preference</strong>, 143, 105931."
+- id: Szabo2026
+  text: "Szabo Y, Nishimi K, Smirnova M, Niles A, Skovgaard Lerche A, Tsai H, Afroz S, Huey N, <u>Mathur MB</u>, & O'Donovan A (2025). Sex-specific associations of depression with inflammatory markers: A systematic review and meta-analysis. <strong>Translational Psychiatry</strong>."
   year: 2026
-  type: "empirical"
-  authorship: "last"
-  status: "published"
-  journal_url: "https://www.sciencedirect.com/science/article/pii/S0950329326000856"
+  type: "applied"
+  authorship: "middle"
+  status: "inpress"
+  journal_url: ""
   preprint_url: ""
-  topics: ["animal-ag"]
-  mentee_led: true
-  datarepo: "https://github.com/hsflabstanford/TACOS-RCT"
+  topics: ["medicine", "empirical-meta"]
+  datarepo: 
   rpackagename: 
   rpackagelink: 
   webappname: 
   webapplink: 
-  google_id: "nOiSByfp82kC"
-# 
+  google_id: ""
+#
 - id: Bridgeford2026
   text: "Bridgeford EW, Caffo BS, <u>Mathur MB</u>, Poldrack RA (in press). How causal perspectives can inform neuroscience data analysis. <strong>Nature Neuroscience.</strong>"
   year: 2026
@@ -117,6 +116,23 @@
 #
 # ## --------------------------- 2026 ---------------------------
 #
+- id: Hope2026
+  text: "Hope J, Green SA, Peacock JR, <u>Mathur MB</u>. Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment. <strong>Food Quality and Preference</strong>, 143, 105931."
+  year: 2026
+  type: "empirical"
+  authorship: "last"
+  status: "published"
+  journal_url: "https://www.sciencedirect.com/science/article/pii/S0950329326000856"
+  preprint_url: ""
+  topics: ["animal-ag"]
+  mentee_led: true
+  datarepo: "https://github.com/hsflabstanford/TACOS-RCT"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  google_id: "nOiSByfp82kC"
+# 
 - id: Koh2026
   text: "Koh HK, Frederick DE, Balboni TA, O'Reilly SM, Kelly JF, Humphreys K, Botticelli M, <u>Mathur MB</u>, Psimopoulos C, Long KN, VanderWeele TJ (2026). Spirituality & harmful or hazardous drug use: Meta-analysis of longitudinal studies and implications. <strong>JAMA Psychiatry,</strong> 83(4):364-378."
   year: 2026
@@ -458,7 +474,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1136/bmj-2023-076851"
   preprint_url: ""
-  topics: ["meta-analysis"]
+  topics: ["methods-applied", "meta-analysis"]
   datarepo: "https://osf.io/8nqwy/"
   rpackagename: 
   rpackagelink: 
@@ -1988,7 +2004,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1371/journal.pone.0106171"
   preprint_url: ""
-  topics: ["potpourri"]
+  topics: ["medicine"]
   datarepo: 
   rpackagename:
   rpackagelink:
@@ -2004,7 +2020,7 @@
   status: "published"
   journal_url: "https://doi.org/10.1371/journal.pone.0091630"
   preprint_url: ""
-  topics: ["potpourri"]
+  topics: ["medicine"]
   datarepo:
   rpackagename: 
   rpackagelink: 
