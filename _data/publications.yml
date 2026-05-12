@@ -82,6 +82,21 @@
   webapplink: 
   google_id: "BPS1z4jHU5cC"
 #  
+- id: Pathmarajah2026
+  text: "Pathmarajah P, Li S, <u>Mathur MB</u>, Johnson A, Marinkovich MP, Admani S, Eid E, Tu J, Mitchell DC, Perrone L, Villanueva Gaona R, Teng J, Tang JY, Chiou AS (in press). Validation of the Investigator Global Assessment Scale for epidermolysis bullosa simplex. <strong>JEADV Clinical Practice.</strong>"
+  year: 2026
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  journal_url: ""
+  preprint_url: ""
+  topics: ["medicine"]
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink:
+#
 - id: Szabo2026
   text: "Szabo Y, Nishimi K, Smirnova M, Niles A, Skovgaard Lerche A, Tsai H, Afroz S, Huey N, <u>Mathur MB</u>, & O'Donovan A. Sex-specific associations of depression with inflammatory markers: A systematic review and meta-analysis. <strong>Translational Psychiatry</strong>."
   year: 2026
