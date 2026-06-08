@@ -82,6 +82,22 @@
   webapplink: 
   google_id: "BPS1z4jHU5cC"
 #  
+- id: Tsui2026
+  text: "Tsui ASM, Carstensen A, Kachergis G, Cao A, Abubakar A, Asnake M, et al., including <u>Mathur MB</u>. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science</strong>"
+  year: 2026
+  type: "applied"
+  authorship: "middle"
+  status: "inpress"
+  journal_url: ""
+  preprint_url: "https://osf.io/preprints/psyarxiv/dc93n_v1"
+  topics: ["exp-psych"]
+  datarepo: ""
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  google_id: "Ul_CLA4dPeMC"
+#
 - id: Hope2026
   text: "Hope J, Green SA, Peacock JR, <u>Mathur MB</u>. Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment. <strong>Food Quality and Preference.</strong>"
   year: 2026
