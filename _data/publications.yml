@@ -81,7 +81,23 @@
   webappname: 
   webapplink: 
   google_id: "BPS1z4jHU5cC"
-#  
+# 
+- id: Tsui2026
+  text: "Tsui ASM, Carstensen A, Kachergis G, Cao A, Abubakar A, Asnake M, et al., including <u>Mathur MB</u>. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science</strong>"
+  year: 2026
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  journal_url: ""
+  preprint_url: "https://osf.io/preprints/psyarxiv/dc93n_v1"
+  topics: ["exp-psych"]
+  datarepo: ""
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  google_id: "Ul_CLA4dPeMC"
+#
 - id: Pathmarajah2026
   text: "Pathmarajah P, Li S, <u>Mathur MB</u>, Johnson A, Marinkovich MP, Admani S, Eid E, Tu J, Mitchell DC, Perrone L, Villanueva Gaona R, Teng J, Tang JY, Chiou AS (in press). Validation of the Investigator Global Assessment Scale for epidermolysis bullosa simplex. <strong>JEADV Clinical Practice.</strong>"
   year: 2026
