@@ -30,6 +30,8 @@ permalink: /publications/
     --tag-status-inprep-ink: #6a4d20;
     --tag-mentee-bg: #d8e0e8;
     --tag-mentee-ink: #2a4a6a;
+    --tag-maya-bg: #f0ddd0;
+    --tag-maya-ink: #7a3020;
     --tag-book-bg: #e8d8d4;
     --tag-book-ink: #6a3a2a;
     --tag-meta-bg: #ddd8e4;
@@ -477,6 +479,7 @@ permalink: /publications/
   .tag-status-inpress { background: var(--tag-status-inpress-bg); color: var(--tag-status-inpress-ink); }
   .tag-status-inprep  { background: var(--tag-status-inprep-bg);  color: var(--tag-status-inprep-ink); }
   .tag-mentee { background: var(--tag-mentee-bg); color: var(--tag-mentee-ink); }
+  .tag-maya   { background: var(--tag-maya-bg);   color: var(--tag-maya-ink); }
   .tag-book { background: var(--tag-book-bg); color: var(--tag-book-ink); }
   .tag-meta { background: var(--tag-meta-bg); color: var(--tag-meta-ink); }
 
@@ -529,6 +532,8 @@ permalink: /publications/
   }
   .control-btn.tag-chip.mentee { background: var(--tag-mentee-bg); color: var(--tag-mentee-ink); border-color: var(--tag-mentee-bg); }
   .control-btn.tag-chip.mentee:hover, .control-btn.tag-chip.mentee.active { background: var(--tag-mentee-ink); color: var(--bg-card); border-color: var(--tag-mentee-ink); }
+  .control-btn.tag-chip.maya { background: var(--tag-maya-bg); color: var(--tag-maya-ink); border-color: var(--tag-maya-bg); }
+  .control-btn.tag-chip.maya:hover, .control-btn.tag-chip.maya.active { background: var(--tag-maya-ink); color: var(--bg-card); border-color: var(--tag-maya-ink); }
   .control-btn.tag-chip.causal { background: var(--tag-topic-bg); color: var(--tag-topic-ink); border-color: var(--tag-topic-bg); }
   .control-btn.tag-chip.causal:hover, .control-btn.tag-chip.causal.active { background: var(--tag-topic-ink); color: var(--bg-card); border-color: var(--tag-topic-ink); }
   .control-btn.tag-chip.meta { background: var(--tag-meta-bg); color: var(--tag-meta-ink); border-color: var(--tag-meta-bg); }
@@ -694,6 +699,7 @@ permalink: /publications/
   <div class="controls-row" id="tagLegend">
     <div class="control-group">
       <span class="control-label">Filter by tag</span>
+      <button class="control-btn tag-chip maya" data-tagfilter="maya-led">Maya-led</button>
       <button class="control-btn tag-chip mentee" data-tagfilter="mentee">Mentee-led</button>
       <button class="control-btn tag-chip causal" data-tagfilter="causal-inference">Causal inference</button>
       <button class="control-btn tag-chip meta" data-tagfilter="empirical-meta">Empirical meta-analysis</button>
@@ -730,6 +736,7 @@ permalink: /publications/
     "status": {{ pub.status | jsonify }},
     "topics": {{ pub.topics | default: empty_array | jsonify }},
     "mentee_led": {% if pub.mentee_led %}true{% else %}false{% endif %},
+    "maya_led": {% if pub.maya_led %}true{% else %}false{% endif %},
     "is_book": {% if pub.is_book %}true{% else %}false{% endif %},
     "journal_url": {{ pub.journal_url | jsonify }},
     "preprint_url": {{ pub.preprint_url | jsonify }},
@@ -822,7 +829,8 @@ const state = {
 function passesTag(p) {
   if (!state.tagFilter) return true;
   switch (state.tagFilter) {
-    case 'mentee':           return !!p.mentee_led;
+    case 'maya-led':          return !!p.maya_led;
+    case 'mentee':            return !!p.mentee_led;
     case 'causal-inference': return p.topics.includes('causal-inference');
     case 'empirical-meta':   return p.topics.includes('empirical-meta');
     case 'book':             return !!p.is_book;
@@ -886,6 +894,10 @@ function menteeTagHTML(p) {
   return p.mentee_led ? `<span class="tag tag-mentee">Mentee-led</span>` : '';
 }
 
+function mayaLedTagHTML(p) {
+  return p.maya_led ? `<span class="tag tag-maya">Maya-led</span>` : '';
+}
+
 function mediaHTML(p) {
   const m = p.media_coverage;
   if (!m || !m.length) return '';
@@ -937,6 +949,7 @@ function pubHTML(p, idx) {
       <div class="pub-tags">
         ${statusTagHTML(p)}
         ${topicTagsHTML(p)}
+        ${mayaLedTagHTML(p)}
         ${menteeTagHTML(p)}
         ${extraTagsHTML(p)}
       </div>

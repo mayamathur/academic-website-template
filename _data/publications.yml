@@ -5,6 +5,7 @@
   year: 2024
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "inprep"
   journal_url: "https://doi.org/10.13140/RG.2.2.30750.19524"
   preprint_url: "https://www.researchgate.net/publication/401123077_Estimating_conditional_means_under_missingness-not-at-random_with_incomplete_auxiliary_variables?channel=doi&linkId=699ccbc17247bc6473e365d5&showFulltext=true"
@@ -21,6 +22,7 @@
   year: 2024
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "inprep"
   journal_url: ""
   preprint_url: "https://osf.io/preprints/osf/zqne9/"
@@ -71,6 +73,7 @@
   year: 2025
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "inpress"
   journal_url: "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf284/8415237?redirectedFrom=fulltext&login=false"
   preprint_url: "https://osf.io/preprints/osf/f9jvz/"
@@ -203,6 +206,7 @@
   year: 2025
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1214/24-AOS2448"
   preprint_url: ""
@@ -219,6 +223,7 @@
   year: 2025
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1093/aje/kwaf043"
   preprint_url: ""
@@ -236,6 +241,7 @@
   year: 2025
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1177/25152459251338041"
   preprint_url: ""
@@ -253,6 +259,7 @@
   year: 2025
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1177/251524592412975"
   preprint_url: ""
@@ -269,6 +276,7 @@
   year: 2025
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1017/rsm.2024.2"
   preprint_url: ""
@@ -285,6 +293,7 @@
   year: 2025
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1093/aje/kwae287"
   preprint_url: ""
@@ -301,6 +310,7 @@
   year: 2025
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1093/aje/kwae145"
   preprint_url: ""
@@ -470,6 +480,7 @@
   year: 2024
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1186/s12916-024-03402-2"
   preprint_url: ""
@@ -486,6 +497,7 @@
   year: 2024
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://onlinelibrary.wiley.com/doi/full/10.1002/jrsm.1701"
   preprint_url: ""
@@ -502,6 +514,7 @@
   year: 2024
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1136/bmj-2023-076851"
   preprint_url: ""
@@ -518,6 +531,7 @@
   year: 2024
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1002/jrsm.1667"
   preprint_url: ""
@@ -665,6 +679,7 @@
   year: 2023
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1093/aje/kwad007"
   preprint_url: ""
@@ -681,6 +696,7 @@
   year: 2023
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1097/EDE.0000000000001590"
   preprint_url: ""
@@ -697,6 +713,7 @@
   year: 2023
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1093/aje/kwac207"
   preprint_url: ""
@@ -713,6 +730,7 @@
   year: 2023
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1073/pnas.2219555120"
   preprint_url: ""
@@ -729,6 +747,7 @@
   year: 2023
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.3389/fams.2023.1151314"
   preprint_url: ""
@@ -912,6 +931,7 @@
   year: 2022
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1097/EDE.0000000000001533"
   preprint_url: "https://osf.io/3psrm"
@@ -928,6 +948,7 @@
   year: 2022
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1093/ije/dyac073"
   preprint_url: "https://osf.io/h6pru/"
@@ -944,6 +965,7 @@
   year: 2022
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1146/annurev-publhealth-051920-114020"
   preprint_url: ""
@@ -960,6 +982,7 @@
   year: 2022
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1001/jamanetworkopen.2022.2614"
   preprint_url: ""
@@ -976,6 +999,7 @@
   year: 2022
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1126/science.abo2535"
   preprint_url: "https://osf.io/nkyqd/"
@@ -992,6 +1016,7 @@
   year: 2022
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1016/j.envint.2021.107032"
   preprint_url: ""
@@ -1123,6 +1148,7 @@
   year: 2021
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.3390/nu13124555"
   preprint_url: ""
@@ -1139,6 +1165,7 @@
   year: 2021
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1016/j.appet.2021.105277"
   preprint_url: ""
@@ -1155,6 +1182,7 @@
   year: 2021
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1002/jrsm.1504"
   preprint_url: ""
@@ -1171,6 +1199,7 @@
   year: 2021
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1002/jrsm.1464"
   preprint_url: ""
@@ -1269,6 +1298,7 @@
   year: 2020
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1177/2515245918785165"
   preprint_url: ""
@@ -1285,6 +1315,7 @@
   year: 2020
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1080/01621459.2018.1529598"
   preprint_url: ""
@@ -1301,6 +1332,7 @@
   year: 2020
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1016/j.chb.2019.08.029"
   preprint_url: ""
@@ -1317,6 +1349,7 @@
   year: 2020
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1111/rssc.12440"
   preprint_url: ""
@@ -1333,6 +1366,7 @@
   year: 2020
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1111/rssa.12572"
   preprint_url: ""
@@ -1349,6 +1383,7 @@
   year: 2020
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1097/EDE.0000000000001180"
   preprint_url: ""
@@ -1365,6 +1400,7 @@
   year: 2020
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.7326/L19-0826"
   preprint_url: ""
@@ -1381,6 +1417,7 @@
   year: 2020
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1186/s13643-019-1264-5"
   preprint_url: ""
@@ -1397,6 +1434,7 @@
   year: 2020
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.31219/osf.io/p3xyd"
   preprint_url: "https://osf.io/xmcdb/"
@@ -1413,6 +1451,7 @@
   year: 2020
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.31219/osf.io/4qxgf"
   preprint_url: "https://osf.io/4qxgf/"
@@ -1429,6 +1468,7 @@
   year: 2020
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1097/EDE.0000000000001105"
   preprint_url: ""
@@ -1575,6 +1615,7 @@
   year: 2019
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1177/1745691619850104"
   preprint_url: ""
@@ -1591,6 +1632,7 @@
   year: 2019
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1111/rssa.12544"
   preprint_url: ""
@@ -1607,6 +1649,7 @@
   year: 2019
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1037/met0000223"
   preprint_url: ""
@@ -1623,6 +1666,7 @@
   year: 2019
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.3758/s13428-019-01258-6"
   preprint_url: ""
@@ -1639,6 +1683,7 @@
   year: 2019
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/110.1002/sim.8057"
   preprint_url: ""
@@ -1737,6 +1782,7 @@
   year: 2018
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1097/EDE.0000000000000752"
   preprint_url: ""
@@ -1753,6 +1799,7 @@
   year: 2018
   type: "methods"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1097/EDE.0000000000000864"
   preprint_url: ""
@@ -1852,6 +1899,7 @@
   year: 2016
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.3389/fpsyg.2016.01533"
   preprint_url: ""
@@ -1868,6 +1916,7 @@
   year: 2016
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1016/j.bbi.2016.04.011"
   preprint_url: ""
@@ -1884,6 +1933,7 @@
   year: 2016
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1016/j.cognition.2015.09.008"
   preprint_url: ""
@@ -1900,6 +1950,7 @@
   year: 2016
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1016/j.bbi.2016.02.002"
   preprint_url: ""
@@ -2032,6 +2083,7 @@
   year: 2014
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1371/journal.pone.0106171"
   preprint_url: ""
@@ -2082,6 +2134,7 @@
   year: 2010
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "published"
   journal_url: "https://doi.org/10.1016/j.pedhc.2008.11.004"
   preprint_url: ""
@@ -2116,6 +2169,7 @@
   year: 2024
   type: "empirical"
   authorship: "first"
+  maya_led: true
   status: "inprep"
   journal_url: ""
   preprint_url: "https://osf.io/preprints/osf/e5dyt_v1"
