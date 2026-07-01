@@ -50,23 +50,7 @@
   webapplink: 
   google_id:
 #  
-- id: He2024
-  text: "He Z, Chu B, Yang J, Gu J, Chen Z, Liu L, Morrison T, Belloy ME, Qi X, Hejazi N, <u>Mathur MB</u>, Le Guen Y, Tang H, Hastie T, Ionita-Laza I, Sabatti C, Candes E (under review). In silico identification of putative causal genetic variants."
-  year: 2023
-  type: "methods"
-  authorship: "middle"
-  status: "inprep"
-  journal_url: ""
-  preprint_url: "https://www.biorxiv.org/content/10.1101/2024.02.28.582621v1.abstract"
-  topics: ["methods-other"]
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  google_id:
-
-# ## --------------------------- In press ---------------------------git 
+# ## --------------------------- In press ---------------------------
 #  
 - id: Mathur2025d
   text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ. Resurrecting complete-case analysis: A defense. <strong>American Journal of Epidemiology.</strong>"
@@ -85,6 +69,22 @@
   webapplink: 
   google_id: "BPS1z4jHU5cC"
 # 
+- id: He2026
+  text: "He Z, Chu B, Yang J, Gu J, Chen Z, Liu L, Morrison T, Belloy ME, Qi X, Hejazi N, <u>Mathur MB</u>, Le Guen Y, Tang H, Hastie T, Ionita-Laza I, Sabatti C, Candes E (under review). CIT-Lasso: A scalable approach beyond guilty by association for identifying causal variants from genome-wide summary statistics. <strong>Genome Biology.</strong>"
+  year: 2026
+  type: "methods"
+  authorship: "middle"
+  status: "inpress"
+  journal_url: ""
+  preprint_url: "https://www.biorxiv.org/content/10.1101/2024.02.28.582621v1.abstract"
+  topics: ["methods-other"]
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  google_id:
+#
 - id: Tsui2026
   text: "Tsui ASM, Carstensen A, Kachergis G, Cao A, Abubakar A, Asnake M, et al., including <u>Mathur MB</u>. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science</strong>"
   year: 2026
