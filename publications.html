@@ -745,6 +745,8 @@ permalink: /publications/
     "rpackagelink": {{ pub.rpackagelink | jsonify }},
     "webappname": {{ pub.webappname | jsonify }},
     "webapplink": {{ pub.webapplink | jsonify }},
+    "supplement_url": {{ pub.supplement_url | jsonify }},
+    "supplement_label": {{ pub.supplement_label | jsonify }},
     "media_coverage": {{ pub.media_coverage | default: empty_array | jsonify }}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
@@ -923,6 +925,12 @@ function linksHTML(p) {
     parts.push(`<a class="pub-link" href="${p.preprint_url}" target="_blank" rel="noopener">Open-access copy</a>`);
   }
   if (p.datarepo) parts.push(`<a class="pub-link" href="${p.datarepo}" target="_blank" rel="noopener">Data</a>`);
+  // Supplementary page hosted on this site (e.g. extended simulation results).
+  // Label defaults to "Supplementary results" if supplement_label is blank.
+  if (p.supplement_url) {
+    const label = p.supplement_label || 'Supplementary results';
+    parts.push(`<a class="pub-link" href="${p.supplement_url}" target="_blank" rel="noopener">${label}</a>`);
+  }
   if (p.rpackagename) {
     const url = p.rpackagelink || '#';
     parts.push(`<a class="pub-link code" href="${url}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>Software: ${p.rpackagename}</a>`);

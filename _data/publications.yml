@@ -11,6 +11,8 @@
   preprint_url: "https://www.researchgate.net/publication/401123077_Estimating_conditional_means_under_missingness-not-at-random_with_incomplete_auxiliary_variables?channel=doi&linkId=699ccbc17247bc6473e365d5&showFulltext=true"
   topics: ["missing-data"]
   datarepo: "https://osf.io/27aue/"
+  supplement_url: "/mia-simulations/"
+  supplement_label: "Extended simulation results"
   rpackagename: "miapack"
   rpackagelink: "https://github.com/stmcg/miapack"
   webappname: 
