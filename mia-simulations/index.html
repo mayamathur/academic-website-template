@@ -114,8 +114,14 @@
     letter-spacing:-.008em; color:var(--ink); max-width:78ch;
   }
   .navline{margin:12px 0 0; font-size:14px}
-  a.pagelink{color:var(--accent); text-decoration:none; border-bottom:1px solid #b6c3cb}
-  a.pagelink:hover{border-bottom-color:var(--accent)}
+  .pagelink{
+    color:var(--accent); text-decoration:none;
+    border:0; border-bottom:1px solid #b6c3cb;
+    background:none; padding:0; margin:0;
+    font:inherit; text-align:left; cursor:pointer;
+  }
+  .pagelink:hover{border-bottom-color:var(--accent)}
+  .pagelink:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
   header .sub{margin-top:6px}
 
   .dagname{font-size:14px; color:var(--ink); font-weight:600; letter-spacing:.01em}
@@ -168,7 +174,7 @@
     <p class="eyebrow">Supplementary material</p>
     <h1>Full simulation results</h1>
     <p class="subtitle">Studies 1 and 2: DAGs (a)&ndash;(g) with |<i>W</i>|&nbsp;=&nbsp;1 or |<i>W</i>|&nbsp;=&nbsp;10</p>
-    <p class="navline"><a class="pagelink" href="#study3">Click here for Study 3 results (violations and near-violations of positivity and CSI assumptions).</a></p>
+    <p class="navline"><button type="button" class="pagelink" data-page="study3">Click here for Study 3 results (violations and near-violations of positivity and CSI assumptions).</button></p>
   </header>
 
   <div class="controls">
@@ -193,7 +199,7 @@
       <div class="chips">
         <label class="chk">
           <input type="checkbox" id="miaSuffOnly1">
-          <span>Only DGMs where MIA sufficient conditions hold</span>
+          <span>Only DGMs fulfilling MIA sufficient conditions</span>
         </label>
       </div>
     </div>
@@ -222,7 +228,7 @@
     <p class="eyebrow">Supplementary material</p>
     <h1>Full simulation results</h1>
     <p class="subtitle">Study 3: DGMs I(a)&ndash;II(d), violations and near-violations of the positivity and CSI assumptions</p>
-    <p class="navline"><a class="pagelink" href="#main">&larr; Back to Studies 1 and 2</a></p>
+    <p class="navline"><button type="button" class="pagelink" data-page="main">&larr; Back to Studies 1 and 2</button></p>
   </header>
 
   <div class="controls">
@@ -237,6 +243,19 @@
     <div class="ctl">
       <label>Metrics</label>
       <div class="chips" id="metrics3"></div>
+    </div>
+    <div class="ctl">
+      <label>Filter</label>
+      <div class="chips">
+        <label class="chk">
+          <input type="checkbox" id="marOnly3">
+          <span>Only DGMs fulfilling MAR</span>
+        </label>
+        <label class="chk">
+          <input type="checkbox" id="mnarOnly3">
+          <span>Only DGMs exhibiting weak MNAR</span>
+        </label>
+      </div>
     </div>
   </div>
 
@@ -297,38 +316,166 @@ const ORDER1 = ['1A','1B','1C','2A','2B','3A','3B'];
    bB/rB/cB/wB: bias, RMSE, coverage, CI width for beta-hat_{X2}
    bI/rI/cI/wI: the same for beta-hat_0                                              */
 const DATA3 = [
-  {"dag": "5A", "N": 1000, "wdim": 1, "method": "gold", "reps": 500, "bB": 0.0, "rB": 0.19, "cB": 0.95, "wB": 0.71, "bI": 0.0, "rI": 0.09, "cI": 0.95, "wI": 0.37},
-  {"dag": "5A", "N": 1000, "wdim": 1, "method": "MAR", "reps": 500, "bB": -0.01, "rB": 0.49, "cB": 0.95, "wB": 2.02, "bI": 0.09, "rI": 0.22, "cI": 0.98, "wI": 1.07},
-  {"dag": "5A", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 500, "bB": -0.02, "rB": 0.34, "cB": 0.93, "wB": 1.29, "bI": 0.63, "rI": 0.66, "cI": 0.06, "wI": 0.67},
-  {"dag": "5A", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 500, "bB": -0.02, "rB": 0.35, "cB": 0.92, "wB": 1.29, "bI": 0.63, "rI": 0.66, "cI": 0.05, "wI": 0.67},
-  {"dag": "5B", "N": 1000, "wdim": 1, "method": "gold", "reps": 500, "bB": 0.0, "rB": 0.18, "cB": 0.94, "wB": 0.71, "bI": 0.0, "rI": 0.09, "cI": 0.95, "wI": 0.37},
-  {"dag": "5B", "N": 1000, "wdim": 1, "method": "MAR", "reps": 500, "bB": 0.07, "rB": 0.47, "cB": 0.95, "wB": 1.94, "bI": 0.17, "rI": 0.25, "cI": 0.95, "wI": 1.04},
-  {"dag": "5B", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 500, "bB": 0.02, "rB": 0.32, "cB": 0.95, "wB": 1.29, "bI": 0.62, "rI": 0.65, "cI": 0.09, "wI": 0.67},
-  {"dag": "5B", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 500, "bB": 0.03, "rB": 0.33, "cB": 0.94, "wB": 1.29, "bI": 0.62, "rI": 0.65, "cI": 0.08, "wI": 0.67},
-  {"dag": "5C", "N": 1000, "wdim": 1, "method": "gold", "reps": 500, "bB": 0.0, "rB": 0.18, "cB": 0.95, "wB": 0.71, "bI": 0.0, "rI": 0.1, "cI": 0.94, "wI": 0.37},
-  {"dag": "5C", "N": 1000, "wdim": 1, "method": "MAR", "reps": 500, "bB": 0.04, "rB": 0.52, "cB": 0.93, "wB": 2.03, "bI": 0.07, "rI": 0.21, "cI": 0.98, "wI": 1.06},
-  {"dag": "5C", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 500, "bB": -0.01, "rB": 0.33, "cB": 0.95, "wB": 1.31, "bI": 0.64, "rI": 0.66, "cI": 0.07, "wI": 0.67},
-  {"dag": "5C", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 500, "bB": -0.01, "rB": 0.35, "cB": 0.93, "wB": 1.31, "bI": 0.64, "rI": 0.66, "cI": 0.06, "wI": 0.67},
-  {"dag": "5D", "N": 1000, "wdim": 1, "method": "gold", "reps": 500, "bB": 0.0, "rB": 0.18, "cB": 0.95, "wB": 0.71, "bI": 0.0, "rI": 0.1, "cI": 0.94, "wI": 0.37},
-  {"dag": "5D", "N": 1000, "wdim": 1, "method": "MAR", "reps": 500, "bB": 0.07, "rB": 0.49, "cB": 0.96, "wB": 2.0, "bI": 0.17, "rI": 0.26, "cI": 0.96, "wI": 1.07},
-  {"dag": "5D", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 500, "bB": 0.0, "rB": 0.33, "cB": 0.94, "wB": 1.3, "bI": 0.62, "rI": 0.65, "cI": 0.09, "wI": 0.67},
-  {"dag": "5D", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 500, "bB": -0.01, "rB": 0.34, "cB": 0.94, "wB": 1.31, "bI": 0.62, "rI": 0.65, "cI": 0.08, "wI": 0.68},
-  {"dag": "6A", "N": 1000, "wdim": 1, "method": "gold", "reps": 500, "bB": 0.0, "rB": 0.17, "cB": 0.96, "wB": 0.69, "bI": 0.0, "rI": 0.09, "cI": 0.96, "wI": 0.35},
-  {"dag": "6A", "N": 1000, "wdim": 1, "method": "MAR", "reps": 500, "bB": 0.04, "rB": 0.44, "cB": 0.93, "wB": 1.76, "bI": 0.07, "rI": 0.2, "cI": 0.96, "wI": 0.96},
-  {"dag": "6A", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 500, "bB": -0.01, "rB": 0.33, "cB": 0.93, "wB": 1.23, "bI": 0.54, "rI": 0.56, "cI": 0.11, "wI": 0.63},
-  {"dag": "6A", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 500, "bB": -0.01, "rB": 0.33, "cB": 0.93, "wB": 1.21, "bI": 0.54, "rI": 0.56, "cI": 0.1, "wI": 0.63},
-  {"dag": "6B", "N": 1000, "wdim": 1, "method": "gold", "reps": 500, "bB": 0.0, "rB": 0.18, "cB": 0.94, "wB": 0.68, "bI": 0.0, "rI": 0.1, "cI": 0.93, "wI": 0.35},
-  {"dag": "6B", "N": 1000, "wdim": 1, "method": "MAR", "reps": 500, "bB": 0.05, "rB": 0.45, "cB": 0.9, "wB": 1.7, "bI": 0.12, "rI": 0.23, "cI": 0.94, "wI": 0.91},
-  {"dag": "6B", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 500, "bB": 0.0, "rB": 0.33, "cB": 0.94, "wB": 1.24, "bI": 0.54, "rI": 0.57, "cI": 0.12, "wI": 0.63},
-  {"dag": "6B", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 500, "bB": 0.0, "rB": 0.33, "cB": 0.93, "wB": 1.21, "bI": 0.54, "rI": 0.57, "cI": 0.11, "wI": 0.63},
-  {"dag": "6C", "N": 1000, "wdim": 1, "method": "gold", "reps": 500, "bB": 0.0, "rB": 0.17, "cB": 0.95, "wB": 0.68, "bI": 0.0, "rI": 0.09, "cI": 0.96, "wI": 0.36},
-  {"dag": "6C", "N": 1000, "wdim": 1, "method": "MAR", "reps": 500, "bB": 0.1, "rB": 0.48, "cB": 0.91, "wB": 1.82, "bI": 0.02, "rI": 0.21, "cI": 0.97, "wI": 1.0},
-  {"dag": "6C", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 500, "bB": 0.02, "rB": 0.33, "cB": 0.94, "wB": 1.23, "bI": 0.52, "rI": 0.55, "cI": 0.14, "wI": 0.63},
-  {"dag": "6C", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 500, "bB": 0.02, "rB": 0.33, "cB": 0.92, "wB": 1.19, "bI": 0.52, "rI": 0.55, "cI": 0.12, "wI": 0.64},
-  {"dag": "6D", "N": 1000, "wdim": 1, "method": "gold", "reps": 500, "bB": 0.0, "rB": 0.18, "cB": 0.94, "wB": 0.68, "bI": 0.0, "rI": 0.09, "cI": 0.96, "wI": 0.35},
-  {"dag": "6D", "N": 1000, "wdim": 1, "method": "MAR", "reps": 500, "bB": 0.04, "rB": 0.43, "cB": 0.92, "wB": 1.66, "bI": 0.14, "rI": 0.23, "cI": 0.92, "wI": 0.88},
-  {"dag": "6D", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 500, "bB": 0.01, "rB": 0.32, "cB": 0.95, "wB": 1.24, "bI": 0.52, "rI": 0.54, "cI": 0.14, "wI": 0.63},
-  {"dag": "6D", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 500, "bB": 0.01, "rB": 0.32, "cB": 0.93, "wB": 1.21, "bI": 0.52, "rI": 0.54, "cI": 0.13, "wI": 0.64}
+  {"dag": "5A", "N": 200, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.49, "cB": 0.94, "wB": 1.88, "bI": 0.0, "rI": 0.21, "cI": 0.95, "wI": 0.83},
+  {"dag": "5A", "N": 200, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.56, "rB": 1.54, "cB": 0.64, "wB": 3.76, "bI": 0.27, "rI": 0.62, "cI": 0.87, "wI": 2.15},
+  {"dag": "5A", "N": 200, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.24, "rB": 0.94, "cB": 0.91, "wB": 3.48, "bI": 0.62, "rI": 0.75, "cI": 0.65, "wI": 1.57},
+  {"dag": "5A", "N": 200, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.57, "rB": 1.12, "cB": 0.68, "wB": 2.68, "bI": 0.66, "rI": 0.8, "cI": 0.57, "wI": 1.43},
+  {"dag": "5B", "N": 200, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.49, "cB": 0.94, "wB": 1.88, "bI": 0.0, "rI": 0.21, "cI": 0.95, "wI": 0.83},
+  {"dag": "5B", "N": 200, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.53, "rB": 1.53, "cB": 0.66, "wB": 3.79, "bI": 0.34, "rI": 0.63, "cI": 0.86, "wI": 2.13},
+  {"dag": "5B", "N": 200, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.23, "rB": 0.94, "cB": 0.9, "wB": 3.55, "bI": 0.62, "rI": 0.73, "cI": 0.65, "wI": 1.56},
+  {"dag": "5B", "N": 200, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.59, "rB": 1.15, "cB": 0.65, "wB": 2.72, "bI": 0.66, "rI": 0.79, "cI": 0.56, "wI": 1.42},
+  {"dag": "5C", "N": 200, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.49, "cB": 0.94, "wB": 1.88, "bI": 0.0, "rI": 0.22, "cI": 0.95, "wI": 0.83},
+  {"dag": "5C", "N": 200, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.47, "rB": 1.56, "cB": 0.63, "wB": 3.74, "bI": 0.28, "rI": 0.65, "cI": 0.84, "wI": 2.15},
+  {"dag": "5C", "N": 200, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.25, "rB": 0.93, "cB": 0.9, "wB": 3.48, "bI": 0.61, "rI": 0.73, "cI": 0.65, "wI": 1.58},
+  {"dag": "5C", "N": 200, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.56, "rB": 1.13, "cB": 0.68, "wB": 2.69, "bI": 0.66, "rI": 0.81, "cI": 0.57, "wI": 1.43},
+  {"dag": "5D", "N": 200, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.49, "cB": 0.94, "wB": 1.88, "bI": 0.0, "rI": 0.22, "cI": 0.94, "wI": 0.83},
+  {"dag": "5D", "N": 200, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.56, "rB": 1.49, "cB": 0.66, "wB": 3.78, "bI": 0.34, "rI": 0.64, "cI": 0.86, "wI": 2.17},
+  {"dag": "5D", "N": 200, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.18, "rB": 0.9, "cB": 0.93, "wB": 3.52, "bI": 0.63, "rI": 0.75, "cI": 0.63, "wI": 1.56},
+  {"dag": "5D", "N": 200, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.53, "rB": 1.13, "cB": 0.68, "wB": 2.69, "bI": 0.67, "rI": 0.81, "cI": 0.55, "wI": 1.44},
+  {"dag": "6A", "N": 200, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.41, "cB": 0.93, "wB": 1.53, "bI": 0.0, "rI": 0.2, "cI": 0.94, "wI": 0.79},
+  {"dag": "6A", "N": 200, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.21, "rB": 0.97, "cB": 0.85, "wB": 3.03, "bI": 0.18, "rI": 0.46, "cI": 0.88, "wI": 1.85},
+  {"dag": "6A", "N": 200, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.0, "rB": 0.79, "cB": 0.91, "wB": 2.91, "bI": 0.52, "rI": 0.65, "cI": 0.68, "wI": 1.48},
+  {"dag": "6A", "N": 200, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.12, "rB": 0.83, "cB": 0.74, "wB": 1.96, "bI": 0.52, "rI": 0.65, "cI": 0.57, "wI": 1.21},
+  {"dag": "6B", "N": 200, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.39, "cB": 0.94, "wB": 1.52, "bI": 0.0, "rI": 0.2, "cI": 0.95, "wI": 0.79},
+  {"dag": "6B", "N": 200, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.18, "rB": 0.92, "cB": 0.86, "wB": 2.97, "bI": 0.2, "rI": 0.47, "cI": 0.87, "wI": 1.78},
+  {"dag": "6B", "N": 200, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.0, "rB": 0.75, "cB": 0.92, "wB": 2.92, "bI": 0.53, "rI": 0.65, "cI": 0.67, "wI": 1.48},
+  {"dag": "6B", "N": 200, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.12, "rB": 0.78, "cB": 0.77, "wB": 1.95, "bI": 0.53, "rI": 0.65, "cI": 0.57, "wI": 1.21},
+  {"dag": "6C", "N": 200, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.41, "cB": 0.93, "wB": 1.53, "bI": 0.0, "rI": 0.2, "cI": 0.96, "wI": 0.8},
+  {"dag": "6C", "N": 200, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.21, "rB": 1.03, "cB": 0.84, "wB": 3.02, "bI": 0.16, "rI": 0.48, "cI": 0.86, "wI": 1.85},
+  {"dag": "6C", "N": 200, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": -0.02, "rB": 0.79, "cB": 0.92, "wB": 2.9, "bI": 0.53, "rI": 0.65, "cI": 0.68, "wI": 1.48},
+  {"dag": "6C", "N": 200, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.13, "rB": 0.84, "cB": 0.75, "wB": 1.94, "bI": 0.54, "rI": 0.66, "cI": 0.57, "wI": 1.22},
+  {"dag": "6D", "N": 200, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.4, "cB": 0.94, "wB": 1.52, "bI": 0.0, "rI": 0.2, "cI": 0.95, "wI": 0.79},
+  {"dag": "6D", "N": 200, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.15, "rB": 0.96, "cB": 0.84, "wB": 2.93, "bI": 0.24, "rI": 0.5, "cI": 0.84, "wI": 1.74},
+  {"dag": "6D", "N": 200, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": -0.03, "rB": 0.75, "cB": 0.92, "wB": 2.89, "bI": 0.54, "rI": 0.66, "cI": 0.66, "wI": 1.47},
+  {"dag": "6D", "N": 200, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.14, "rB": 0.81, "cB": 0.75, "wB": 1.93, "bI": 0.54, "rI": 0.67, "cI": 0.56, "wI": 1.2},
+  {"dag": "5A", "N": 500, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.31, "cB": 0.93, "wB": 1.19, "bI": 0.0, "rI": 0.13, "cI": 0.95, "wI": 0.52},
+  {"dag": "5A", "N": 500, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.17, "rB": 0.94, "cB": 0.87, "wB": 3.23, "bI": 0.14, "rI": 0.33, "cI": 0.96, "wI": 1.5},
+  {"dag": "5A", "N": 500, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.18, "rB": 0.59, "cB": 0.91, "wB": 2.16, "bI": 0.63, "rI": 0.68, "cI": 0.33, "wI": 0.95},
+  {"dag": "5A", "N": 500, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.23, "rB": 0.67, "cB": 0.86, "wB": 2.09, "bI": 0.63, "rI": 0.68, "cI": 0.29, "wI": 0.95},
+  {"dag": "5B", "N": 500, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.3, "cB": 0.96, "wB": 1.19, "bI": 0.0, "rI": 0.14, "cI": 0.94, "wI": 0.52},
+  {"dag": "5B", "N": 500, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.25, "rB": 0.89, "cB": 0.88, "wB": 3.12, "bI": 0.22, "rI": 0.37, "cI": 0.94, "wI": 1.47},
+  {"dag": "5B", "N": 500, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.2, "rB": 0.59, "cB": 0.92, "wB": 2.14, "bI": 0.62, "rI": 0.67, "cI": 0.33, "wI": 0.96},
+  {"dag": "5B", "N": 500, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.25, "rB": 0.67, "cB": 0.86, "wB": 2.07, "bI": 0.62, "rI": 0.67, "cI": 0.3, "wI": 0.96},
+  {"dag": "5C", "N": 500, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.31, "cB": 0.94, "wB": 1.19, "bI": 0.0, "rI": 0.13, "cI": 0.94, "wI": 0.52},
+  {"dag": "5C", "N": 500, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.2, "rB": 0.93, "cB": 0.87, "wB": 3.18, "bI": 0.12, "rI": 0.33, "cI": 0.96, "wI": 1.5},
+  {"dag": "5C", "N": 500, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.2, "rB": 0.6, "cB": 0.91, "wB": 2.13, "bI": 0.63, "rI": 0.68, "cI": 0.33, "wI": 0.96},
+  {"dag": "5C", "N": 500, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.26, "rB": 0.69, "cB": 0.85, "wB": 2.05, "bI": 0.64, "rI": 0.68, "cI": 0.29, "wI": 0.95},
+  {"dag": "5D", "N": 500, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.3, "cB": 0.94, "wB": 1.19, "bI": 0.0, "rI": 0.13, "cI": 0.96, "wI": 0.52},
+  {"dag": "5D", "N": 500, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.36, "rB": 0.96, "cB": 0.86, "wB": 3.11, "bI": 0.2, "rI": 0.36, "cI": 0.94, "wI": 1.51},
+  {"dag": "5D", "N": 500, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.23, "rB": 0.6, "cB": 0.91, "wB": 2.12, "bI": 0.64, "rI": 0.68, "cI": 0.32, "wI": 0.96},
+  {"dag": "5D", "N": 500, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.3, "rB": 0.71, "cB": 0.82, "wB": 2.04, "bI": 0.64, "rI": 0.68, "cI": 0.28, "wI": 0.96},
+  {"dag": "6A", "N": 500, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.26, "cB": 0.94, "wB": 0.97, "bI": 0.0, "rI": 0.13, "cI": 0.95, "wI": 0.5},
+  {"dag": "6A", "N": 500, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.1, "rB": 0.62, "cB": 0.92, "wB": 2.29, "bI": 0.11, "rI": 0.29, "cI": 0.94, "wI": 1.32},
+  {"dag": "6A", "N": 500, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": -0.01, "rB": 0.47, "cB": 0.94, "wB": 1.79, "bI": 0.53, "rI": 0.58, "cI": 0.41, "wI": 0.91},
+  {"dag": "6A", "N": 500, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.0, "rB": 0.48, "cB": 0.88, "wB": 1.53, "bI": 0.53, "rI": 0.58, "cI": 0.37, "wI": 0.9},
+  {"dag": "6B", "N": 500, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.25, "cB": 0.94, "wB": 0.97, "bI": 0.0, "rI": 0.13, "cI": 0.95, "wI": 0.5},
+  {"dag": "6B", "N": 500, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.12, "rB": 0.6, "cB": 0.89, "wB": 2.2, "bI": 0.14, "rI": 0.3, "cI": 0.92, "wI": 1.25},
+  {"dag": "6B", "N": 500, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.02, "rB": 0.46, "cB": 0.93, "wB": 1.78, "bI": 0.52, "rI": 0.57, "cI": 0.43, "wI": 0.9},
+  {"dag": "6B", "N": 500, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.03, "rB": 0.47, "cB": 0.9, "wB": 1.53, "bI": 0.52, "rI": 0.57, "cI": 0.39, "wI": 0.9},
+  {"dag": "6C", "N": 500, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.25, "cB": 0.94, "wB": 0.96, "bI": 0.0, "rI": 0.13, "cI": 0.94, "wI": 0.5},
+  {"dag": "6C", "N": 500, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.09, "rB": 0.67, "cB": 0.89, "wB": 2.36, "bI": 0.07, "rI": 0.31, "cI": 0.93, "wI": 1.37},
+  {"dag": "6C", "N": 500, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": -0.02, "rB": 0.48, "cB": 0.92, "wB": 1.79, "bI": 0.54, "rI": 0.58, "cI": 0.4, "wI": 0.91},
+  {"dag": "6C", "N": 500, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": -0.01, "rB": 0.48, "cB": 0.88, "wB": 1.54, "bI": 0.54, "rI": 0.58, "cI": 0.36, "wI": 0.9},
+  {"dag": "6D", "N": 500, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.26, "cB": 0.94, "wB": 0.97, "bI": 0.0, "rI": 0.13, "cI": 0.94, "wI": 0.5},
+  {"dag": "6D", "N": 500, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.09, "rB": 0.6, "cB": 0.9, "wB": 2.23, "bI": 0.16, "rI": 0.32, "cI": 0.91, "wI": 1.25},
+  {"dag": "6D", "N": 500, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.01, "rB": 0.46, "cB": 0.94, "wB": 1.79, "bI": 0.52, "rI": 0.57, "cI": 0.42, "wI": 0.91},
+  {"dag": "6D", "N": 500, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.02, "rB": 0.47, "cB": 0.89, "wB": 1.54, "bI": 0.52, "rI": 0.57, "cI": 0.37, "wI": 0.9},
+  {"dag": "5A", "N": 1000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.22, "cB": 0.94, "wB": 0.84, "bI": 0.0, "rI": 0.09, "cI": 0.95, "wI": 0.37},
+  {"dag": "5A", "N": 1000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.03, "rB": 0.61, "cB": 0.94, "wB": 2.44, "bI": 0.08, "rI": 0.21, "cI": 0.98, "wI": 1.07},
+  {"dag": "5A", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.2, "rB": 0.44, "cB": 0.9, "wB": 1.5, "bI": 0.63, "rI": 0.65, "cI": 0.05, "wI": 0.67},
+  {"dag": "5A", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.2, "rB": 0.45, "cB": 0.9, "wB": 1.5, "bI": 0.63, "rI": 0.65, "cI": 0.06, "wI": 0.67},
+  {"dag": "5B", "N": 1000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.22, "cB": 0.94, "wB": 0.84, "bI": 0.0, "rI": 0.09, "cI": 0.95, "wI": 0.37},
+  {"dag": "5B", "N": 1000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.13, "rB": 0.6, "cB": 0.94, "wB": 2.32, "bI": 0.18, "rI": 0.27, "cI": 0.94, "wI": 1.02},
+  {"dag": "5B", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.21, "rB": 0.45, "cB": 0.88, "wB": 1.48, "bI": 0.64, "rI": 0.66, "cI": 0.06, "wI": 0.66},
+  {"dag": "5B", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.21, "rB": 0.47, "cB": 0.88, "wB": 1.48, "bI": 0.64, "rI": 0.66, "cI": 0.05, "wI": 0.67},
+  {"dag": "5C", "N": 1000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.21, "cB": 0.95, "wB": 0.84, "bI": 0.0, "rI": 0.09, "cI": 0.96, "wI": 0.37},
+  {"dag": "5C", "N": 1000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.06, "rB": 0.62, "cB": 0.94, "wB": 2.42, "bI": 0.06, "rI": 0.23, "cI": 0.98, "wI": 1.06},
+  {"dag": "5C", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.19, "rB": 0.44, "cB": 0.9, "wB": 1.5, "bI": 0.63, "rI": 0.65, "cI": 0.06, "wI": 0.67},
+  {"dag": "5C", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.19, "rB": 0.44, "cB": 0.9, "wB": 1.51, "bI": 0.63, "rI": 0.65, "cI": 0.05, "wI": 0.67},
+  {"dag": "5D", "N": 1000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.21, "cB": 0.95, "wB": 0.84, "bI": 0.0, "rI": 0.09, "cI": 0.96, "wI": 0.37},
+  {"dag": "5D", "N": 1000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.16, "rB": 0.59, "cB": 0.95, "wB": 2.38, "bI": 0.15, "rI": 0.26, "cI": 0.95, "wI": 1.05},
+  {"dag": "5D", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.21, "rB": 0.43, "cB": 0.91, "wB": 1.49, "bI": 0.63, "rI": 0.65, "cI": 0.05, "wI": 0.67},
+  {"dag": "5D", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.21, "rB": 0.44, "cB": 0.91, "wB": 1.49, "bI": 0.63, "rI": 0.65, "cI": 0.05, "wI": 0.67},
+  {"dag": "6A", "N": 1000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.18, "cB": 0.94, "wB": 0.68, "bI": 0.0, "rI": 0.09, "cI": 0.94, "wI": 0.35},
+  {"dag": "6A", "N": 1000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.04, "rB": 0.45, "cB": 0.92, "wB": 1.78, "bI": 0.07, "rI": 0.21, "cI": 0.97, "wI": 0.95},
+  {"dag": "6A", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.01, "rB": 0.33, "cB": 0.93, "wB": 1.24, "bI": 0.53, "rI": 0.55, "cI": 0.12, "wI": 0.63},
+  {"dag": "6A", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.01, "rB": 0.33, "cB": 0.92, "wB": 1.2, "bI": 0.53, "rI": 0.55, "cI": 0.11, "wI": 0.63},
+  {"dag": "6B", "N": 1000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.17, "cB": 0.95, "wB": 0.68, "bI": 0.0, "rI": 0.09, "cI": 0.94, "wI": 0.36},
+  {"dag": "6B", "N": 1000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.03, "rB": 0.39, "cB": 0.95, "wB": 1.69, "bI": 0.12, "rI": 0.21, "cI": 0.95, "wI": 0.9},
+  {"dag": "6B", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": -0.01, "rB": 0.3, "cB": 0.95, "wB": 1.23, "bI": 0.54, "rI": 0.56, "cI": 0.1, "wI": 0.63},
+  {"dag": "6B", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": -0.01, "rB": 0.3, "cB": 0.95, "wB": 1.2, "bI": 0.54, "rI": 0.56, "cI": 0.09, "wI": 0.63},
+  {"dag": "6C", "N": 1000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.18, "cB": 0.94, "wB": 0.69, "bI": 0.0, "rI": 0.09, "cI": 0.95, "wI": 0.35},
+  {"dag": "6C", "N": 1000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.05, "rB": 0.48, "cB": 0.91, "wB": 1.85, "bI": 0.03, "rI": 0.2, "cI": 0.97, "wI": 0.99},
+  {"dag": "6C", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.0, "rB": 0.32, "cB": 0.94, "wB": 1.24, "bI": 0.54, "rI": 0.56, "cI": 0.11, "wI": 0.63},
+  {"dag": "6C", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.0, "rB": 0.33, "cB": 0.93, "wB": 1.21, "bI": 0.54, "rI": 0.56, "cI": 0.1, "wI": 0.63},
+  {"dag": "6D", "N": 1000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.17, "cB": 0.95, "wB": 0.69, "bI": 0.0, "rI": 0.09, "cI": 0.96, "wI": 0.35},
+  {"dag": "6D", "N": 1000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.04, "rB": 0.41, "cB": 0.94, "wB": 1.66, "bI": 0.14, "rI": 0.24, "cI": 0.91, "wI": 0.89},
+  {"dag": "6D", "N": 1000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.0, "rB": 0.31, "cB": 0.94, "wB": 1.23, "bI": 0.54, "rI": 0.56, "cI": 0.12, "wI": 0.63},
+  {"dag": "6D", "N": 1000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.0, "rB": 0.31, "cB": 0.93, "wB": 1.2, "bI": 0.54, "rI": 0.56, "cI": 0.11, "wI": 0.63},
+  {"dag": "5A", "N": 5000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.09, "cB": 0.95, "wB": 0.38, "bI": 0.0, "rI": 0.04, "cI": 0.95, "wI": 0.17},
+  {"dag": "5A", "N": 5000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": -0.01, "rB": 0.24, "cB": 0.98, "wB": 1.08, "bI": 0.02, "rI": 0.09, "cI": 0.99, "wI": 0.47},
+  {"dag": "5A", "N": 5000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.2, "rB": 0.26, "cB": 0.78, "wB": 0.66, "bI": 0.63, "rI": 0.64, "cI": 0.0, "wI": 0.3},
+  {"dag": "5A", "N": 5000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.2, "rB": 0.26, "cB": 0.76, "wB": 0.66, "bI": 0.63, "rI": 0.64, "cI": 0.0, "wI": 0.3},
+  {"dag": "5B", "N": 5000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.1, "cB": 0.96, "wB": 0.38, "bI": 0.0, "rI": 0.04, "cI": 0.95, "wI": 0.17},
+  {"dag": "5B", "N": 5000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.1, "rB": 0.25, "cB": 0.95, "wB": 1.04, "bI": 0.12, "rI": 0.15, "cI": 0.89, "wI": 0.45},
+  {"dag": "5B", "N": 5000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.2, "rB": 0.27, "cB": 0.78, "wB": 0.66, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.3},
+  {"dag": "5B", "N": 5000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.2, "rB": 0.27, "cB": 0.77, "wB": 0.66, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.3},
+  {"dag": "5C", "N": 5000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.1, "cB": 0.94, "wB": 0.38, "bI": 0.0, "rI": 0.04, "cI": 0.95, "wI": 0.17},
+  {"dag": "5C", "N": 5000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.01, "rB": 0.24, "cB": 0.97, "wB": 1.08, "bI": 0.01, "rI": 0.09, "cI": 0.99, "wI": 0.47},
+  {"dag": "5C", "N": 5000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.21, "rB": 0.27, "cB": 0.77, "wB": 0.66, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.3},
+  {"dag": "5C", "N": 5000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.21, "rB": 0.27, "cB": 0.75, "wB": 0.65, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.3},
+  {"dag": "5D", "N": 5000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.1, "cB": 0.95, "wB": 0.38, "bI": 0.0, "rI": 0.04, "cI": 0.95, "wI": 0.17},
+  {"dag": "5D", "N": 5000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.15, "rB": 0.27, "cB": 0.95, "wB": 1.05, "bI": 0.1, "rI": 0.13, "cI": 0.94, "wI": 0.47},
+  {"dag": "5D", "N": 5000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.22, "rB": 0.27, "cB": 0.77, "wB": 0.66, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.3},
+  {"dag": "5D", "N": 5000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.22, "rB": 0.27, "cB": 0.74, "wB": 0.66, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.3},
+  {"dag": "6A", "N": 5000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.08, "cB": 0.95, "wB": 0.31, "bI": 0.0, "rI": 0.04, "cI": 0.95, "wI": 0.16},
+  {"dag": "6A", "N": 5000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.02, "rB": 0.19, "cB": 0.97, "wB": 0.84, "bI": 0.01, "rI": 0.08, "cI": 0.99, "wI": 0.44},
+  {"dag": "6A", "N": 5000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.0, "rB": 0.14, "cB": 0.94, "wB": 0.54, "bI": 0.53, "rI": 0.54, "cI": 0.0, "wI": 0.28},
+  {"dag": "6A", "N": 5000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.0, "rB": 0.14, "cB": 0.95, "wB": 0.54, "bI": 0.53, "rI": 0.54, "cI": 0.0, "wI": 0.28},
+  {"dag": "6B", "N": 5000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.08, "cB": 0.95, "wB": 0.31, "bI": 0.0, "rI": 0.04, "cI": 0.94, "wI": 0.16},
+  {"dag": "6B", "N": 5000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.02, "rB": 0.18, "cB": 0.97, "wB": 0.79, "bI": 0.06, "rI": 0.1, "cI": 0.95, "wI": 0.41},
+  {"dag": "6B", "N": 5000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.0, "rB": 0.14, "cB": 0.94, "wB": 0.54, "bI": 0.53, "rI": 0.54, "cI": 0.0, "wI": 0.28},
+  {"dag": "6B", "N": 5000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.0, "rB": 0.14, "cB": 0.94, "wB": 0.54, "bI": 0.53, "rI": 0.54, "cI": 0.0, "wI": 0.28},
+  {"dag": "6C", "N": 5000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.08, "cB": 0.94, "wB": 0.31, "bI": 0.0, "rI": 0.04, "cI": 0.96, "wI": 0.16},
+  {"dag": "6C", "N": 5000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.01, "rB": 0.2, "cB": 0.97, "wB": 0.88, "bI": -0.03, "rI": 0.09, "cI": 0.99, "wI": 0.46},
+  {"dag": "6C", "N": 5000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.0, "rB": 0.14, "cB": 0.95, "wB": 0.55, "bI": 0.53, "rI": 0.53, "cI": 0.0, "wI": 0.28},
+  {"dag": "6C", "N": 5000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.0, "rB": 0.14, "cB": 0.95, "wB": 0.54, "bI": 0.53, "rI": 0.53, "cI": 0.0, "wI": 0.28},
+  {"dag": "6D", "N": 5000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.08, "cB": 0.95, "wB": 0.31, "bI": 0.0, "rI": 0.04, "cI": 0.95, "wI": 0.16},
+  {"dag": "6D", "N": 5000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.01, "rB": 0.18, "cB": 0.96, "wB": 0.77, "bI": 0.12, "rI": 0.14, "cI": 0.84, "wI": 0.4},
+  {"dag": "6D", "N": 5000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": -0.01, "rB": 0.14, "cB": 0.95, "wB": 0.55, "bI": 0.54, "rI": 0.54, "cI": 0.0, "wI": 0.28},
+  {"dag": "6D", "N": 5000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": -0.01, "rB": 0.14, "cB": 0.95, "wB": 0.55, "bI": 0.54, "rI": 0.54, "cI": 0.0, "wI": 0.28},
+  {"dag": "5A", "N": 10000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.07, "cB": 0.95, "wB": 0.27, "bI": 0.0, "rI": 0.03, "cI": 0.94, "wI": 0.12},
+  {"dag": "5A", "N": 10000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.0, "rB": 0.17, "cB": 0.98, "wB": 0.76, "bI": 0.01, "rI": 0.06, "cI": 0.99, "wI": 0.33},
+  {"dag": "5A", "N": 10000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.21, "rB": 0.24, "cB": 0.61, "wB": 0.46, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.21},
+  {"dag": "5A", "N": 10000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.21, "rB": 0.24, "cB": 0.58, "wB": 0.46, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.21},
+  {"dag": "5B", "N": 10000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.07, "cB": 0.95, "wB": 0.27, "bI": 0.0, "rI": 0.03, "cI": 0.96, "wI": 0.12},
+  {"dag": "5B", "N": 10000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.11, "rB": 0.2, "cB": 0.93, "wB": 0.73, "bI": 0.11, "rI": 0.13, "cI": 0.8, "wI": 0.32},
+  {"dag": "5B", "N": 10000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.21, "rB": 0.24, "cB": 0.59, "wB": 0.46, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.21},
+  {"dag": "5B", "N": 10000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.21, "rB": 0.24, "cB": 0.58, "wB": 0.46, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.21},
+  {"dag": "5C", "N": 10000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.07, "cB": 0.95, "wB": 0.27, "bI": 0.0, "rI": 0.03, "cI": 0.96, "wI": 0.12},
+  {"dag": "5C", "N": 10000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.01, "rB": 0.17, "cB": 0.97, "wB": 0.76, "bI": 0.01, "rI": 0.06, "cI": 1.0, "wI": 0.33},
+  {"dag": "5C", "N": 10000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.22, "rB": 0.25, "cB": 0.56, "wB": 0.46, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.21},
+  {"dag": "5C", "N": 10000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.22, "rB": 0.25, "cB": 0.54, "wB": 0.46, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.21},
+  {"dag": "5D", "N": 10000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.07, "cB": 0.95, "wB": 0.27, "bI": 0.0, "rI": 0.03, "cI": 0.95, "wI": 0.12},
+  {"dag": "5D", "N": 10000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.13, "rB": 0.21, "cB": 0.92, "wB": 0.74, "bI": 0.09, "rI": 0.11, "cI": 0.87, "wI": 0.33},
+  {"dag": "5D", "N": 10000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.2, "rB": 0.24, "cB": 0.6, "wB": 0.47, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.21},
+  {"dag": "5D", "N": 10000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.2, "rB": 0.24, "cB": 0.58, "wB": 0.46, "bI": 0.63, "rI": 0.63, "cI": 0.0, "wI": 0.21},
+  {"dag": "6A", "N": 10000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.05, "cB": 0.96, "wB": 0.22, "bI": 0.0, "rI": 0.03, "cI": 0.94, "wI": 0.11},
+  {"dag": "6A", "N": 10000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.01, "rB": 0.13, "cB": 0.97, "wB": 0.6, "bI": 0.0, "rI": 0.06, "cI": 0.99, "wI": 0.31},
+  {"dag": "6A", "N": 10000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.0, "rB": 0.09, "cB": 0.95, "wB": 0.38, "bI": 0.53, "rI": 0.54, "cI": 0.0, "wI": 0.2},
+  {"dag": "6A", "N": 10000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.0, "rB": 0.09, "cB": 0.95, "wB": 0.38, "bI": 0.53, "rI": 0.54, "cI": 0.0, "wI": 0.2},
+  {"dag": "6B", "N": 10000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.06, "cB": 0.95, "wB": 0.22, "bI": 0.0, "rI": 0.03, "cI": 0.94, "wI": 0.11},
+  {"dag": "6B", "N": 10000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.02, "rB": 0.13, "cB": 0.97, "wB": 0.56, "bI": 0.05, "rI": 0.08, "cI": 0.95, "wI": 0.29},
+  {"dag": "6B", "N": 10000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.0, "rB": 0.1, "cB": 0.94, "wB": 0.38, "bI": 0.53, "rI": 0.54, "cI": 0.0, "wI": 0.2},
+  {"dag": "6B", "N": 10000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.0, "rB": 0.1, "cB": 0.94, "wB": 0.38, "bI": 0.53, "rI": 0.54, "cI": 0.0, "wI": 0.2},
+  {"dag": "6C", "N": 10000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.06, "cB": 0.94, "wB": 0.22, "bI": 0.0, "rI": 0.03, "cI": 0.94, "wI": 0.11},
+  {"dag": "6C", "N": 10000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.01, "rB": 0.14, "cB": 0.97, "wB": 0.62, "bI": -0.03, "rI": 0.07, "cI": 0.98, "wI": 0.32},
+  {"dag": "6C", "N": 10000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.0, "rB": 0.1, "cB": 0.95, "wB": 0.38, "bI": 0.53, "rI": 0.53, "cI": 0.0, "wI": 0.2},
+  {"dag": "6C", "N": 10000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.0, "rB": 0.1, "cB": 0.94, "wB": 0.38, "bI": 0.53, "rI": 0.53, "cI": 0.0, "wI": 0.2},
+  {"dag": "6D", "N": 10000, "wdim": 1, "method": "gold", "reps": 1000, "bB": 0.0, "rB": 0.06, "cB": 0.94, "wB": 0.22, "bI": 0.0, "rI": 0.03, "cI": 0.95, "wI": 0.11},
+  {"dag": "6D", "N": 10000, "wdim": 1, "method": "MAR", "reps": 1000, "bB": 0.01, "rB": 0.13, "cB": 0.97, "wB": 0.54, "bI": 0.12, "rI": 0.13, "cI": 0.66, "wI": 0.28},
+  {"dag": "6D", "N": 10000, "wdim": 1, "method": "MIA (ICE)", "reps": 1000, "bB": 0.0, "rB": 0.1, "cB": 0.96, "wB": 0.38, "bI": 0.54, "rI": 0.54, "cI": 0.0, "wI": 0.2},
+  {"dag": "6D", "N": 10000, "wdim": 1, "method": "MIA (TMLE)", "reps": 1000, "bB": 0.0, "rB": 0.1, "cB": 0.96, "wB": 0.38, "bI": 0.54, "rI": 0.54, "cI": 0.0, "wI": 0.2}
 ];
 
 /* Display labels and the assumption structure of each Study 3 DGM. */
@@ -382,6 +529,14 @@ const EST = [
 const $ = s => document.querySelector(s);
 const uniq = a => [...new Set(a)].sort((x,y)=>x-y);
 
+/* Filter predicates. A DGM "fulfils the MIA sufficient conditions" when they hold
+   for both estimands; regime3 reads the missingness regime of a Study 3 DGM. */
+const miaSuffHolds = (mark, dag) => {
+  const M = mark[dag];
+  return !!M && M.MIA[0] === 'ok' && M.MIA[1] === 'ok';
+};
+const regime3 = dag => SPEC3[SUFFIX3[dag]].regime;
+
 function buildChips(host, items, checked){
   host.innerHTML = items.map(it => `
     <label class="chk">
@@ -402,11 +557,21 @@ function makeView(cfg){
     n:       $(cfg.n),
     methods: $(cfg.methods),
     metrics: $(cfg.metrics),
-    out:     $(cfg.out),
-    filter:  cfg.filter  ? $(cfg.filter)  : null
+    out:     $(cfg.out)
   };
   const DATA = cfg.data, MARK = cfg.mark, ORDER = cfg.order;
   const BREAK = cfg.breakBefore || [];
+
+  /* DGM filters. Each entry is {sel, test}. At most one may be active: ticking a
+     filter clears any other, and unticking it returns to the unfiltered view. */
+  const FILTERS = (cfg.filters || [])
+    .map(f => Object.assign({}, f, {el: $(f.sel)}))
+    .filter(f => f.el);
+
+  function keepDag(dag){
+    const on = FILTERS.find(f => f.el.checked);
+    return on ? on.test(dag) : true;
+  }
 
   buildChips(el.methods, ALL_METHODS, ALL_METHODS);
   buildChips(el.metrics, METRICS.map(m=>m.label), METRICS.map(m=>m.label));
@@ -449,6 +614,12 @@ function makeView(cfg){
     }
     const get = (dag,m) => rows.find(r=>r.dag===dag && r.method===m);
 
+    const shown = ORDER.filter(dag => rows.some(r=>r.dag===dag) && keepDag(dag));
+    if(!shown.length){
+      el.out.innerHTML = `<p class="empty">No DGMs satisfy the selected filters.</p>`;
+      return;
+    }
+
     let h = `<table>`;
     h += `<thead><tr><th colspan="2" rowspan="2">DGM<div class="hint">Hover to see the DAG</div></th>`;
     mets.forEach(m => { h += `<th class="grp blk" colspan="${meth.length}">${m.label}</th>`; });
@@ -456,12 +627,7 @@ function makeView(cfg){
     mets.forEach(()=> meth.forEach((mm,j)=>{ h += `<th class="sub2 ${j===0?'blk':''}">${mm}</th>`; }));
     h += `</tr></thead><tbody>`;
 
-    const suffOnly = el.filter && el.filter.checked;
-    const miaSuff = dag => { const M = MARK[dag]; return M && M.MIA[0]==='ok' && M.MIA[1]==='ok'; };
-
-    ORDER.forEach(dag=>{
-      if(!rows.some(r=>r.dag===dag)) return;
-      if(suffOnly && !miaSuff(dag)) return;
+    shown.forEach(dag=>{
       EST.forEach((estLab, ri)=>{
         let cls = ri===0 ? 'dagfirst' : 'top';
         if(ri===0 && BREAK.includes(dag)) cls += ' seriesbreak';
@@ -499,7 +665,10 @@ function makeView(cfg){
   el.n.addEventListener('change', render);
   el.methods.addEventListener('change', render);
   el.metrics.addEventListener('change', render);
-  if(el.filter) el.filter.addEventListener('change', render);
+  FILTERS.forEach(f => f.el.addEventListener('change', ()=>{
+    if(f.el.checked) FILTERS.forEach(o => { if(o !== f) o.el.checked = false; });
+    render();
+  }));
 
   refreshN();
   render();
@@ -2544,13 +2713,20 @@ function dagRef(dag, label){
 makeView({
   data: DATA1, mark: MARK1, order: ORDER1,
   wdim:'#wdim1', n:'#nsize1', methods:'#methods1', metrics:'#metrics1',
-  out:'#out1', filter:'#miaSuffOnly1',
+  out:'#out1',
+  filters: [
+    {sel:'#miaSuffOnly1', test: dag => miaSuffHolds(MARK1, dag)}
+  ],
   dagCell: dag => dagRef(dag, `(${PANEL1[dag]})`)
 });
 
 makeView({
   data: DATA3, mark: MARK3, order: ORDER3, breakBefore: BREAK3,
   n:'#nsize3', methods:'#methods3', metrics:'#metrics3', out:'#out3',
+  filters: [
+    {sel:'#marOnly3',  test: dag => regime3(dag) === 'MAR'},
+    {sel:'#mnarOnly3', test: dag => regime3(dag) === 'weak MNAR'}
+  ],
   dagCell: dag => `<div class="dagname">${dagRef(dag, LABEL3[dag])}</div><div class="tags">${pills3(dag)}</div>`
 });
 
@@ -2566,16 +2742,24 @@ function showPage(name){
   document.title = s3 ? 'Full simulation results \u2014 Study 3' : 'Full simulation results';
   try { window.scrollTo(0,0); } catch(e){}
 }
-/* Switch on click directly, so the page works even where hash navigation is
-   blocked (sandboxed previews, file:// viewers); the hash is kept in sync
-   when the browser allows it, so #study3 stays linkable. */
-document.addEventListener('click', function(e){
-  const a = e.target && e.target.closest ? e.target.closest('a.pagelink') : null;
-  if(!a) return;
-  e.preventDefault();
-  const name = (a.getAttribute('href') || '').replace('#','') === 'study3' ? 'study3' : 'main';
+/* Page switching is driven by direct listeners on real <button> elements rather
+   than by anchors or the URL hash, because sandboxed previews (artifact viewers,
+   file:// windows) commonly block in-page navigation. The hash is still kept in
+   sync where the browser permits it, so #study3 remains linkable. */
+function switchTo(name){
   showPage(name);
   try { history.replaceState(null, '', '#' + name); } catch(err){}
+}
+document.querySelectorAll('.pagelink[data-page]').forEach(function(b){
+  b.addEventListener('click', function(){ switchTo(b.getAttribute('data-page')); });
+});
+/* Fallback for any .pagelink added later, or if the direct binding above ran
+   before the element existed. */
+document.addEventListener('click', function(e){
+  const b = e.target && e.target.closest ? e.target.closest('.pagelink[data-page]') : null;
+  if(!b) return;
+  e.preventDefault();
+  switchTo(b.getAttribute('data-page'));
 });
 window.addEventListener('hashchange', function(){ showPage(pageName()); });
 showPage(pageName());
