@@ -279,9 +279,9 @@
     <span class="mark ok">&#10003;</span> indicates that the sufficient and necessary conditions for
     &mu;<sub>MAR</sub> hold; <span class="mark bad">&#10007;</span> in the &mu;<sub>MAR</sub> columns
     indicates that they are violated.
-    <span class="mark bad">&#10007;</span> in the &mu;<sub>MIA</sub> columns indicates that the
-    sufficient conditions for &mu;<sub>MIA</sub> are violated, which is the case for every DGM in
-    Study 3.
+    <span class="mark unk">?</span> in the &mu;<sub>MIA</sub> columns indicates that the
+    sufficient (but not necessary) conditions for &mu;<sub>MIA</sub> are violated, which is the
+    case for every DGM in Study 3.
     Boldface indicates approximately correct performance (|bias| &le; 0.03; coverage &ge; 93%).
     <span style="color:var(--bad)">Red</span> marks coverage below 93% in settings where the
     conditions hold and nominal coverage was therefore expected.
@@ -305,7 +305,7 @@ const MARK1 = {
   '2A': {MAR:['bad','bad'], MIA:['ok','ok']},
   '2B': {MAR:['bad','bad'], MIA:['unk','unk']},
   '3A': {MAR:['bad','bad'], MIA:['ok','ok']},
-  '3B': {MAR:['bad','bad'], MIA:['bad','bad']}
+  '3B': {MAR:['bad','bad'], MIA:['unk','unk']}
 };
 const PANEL1 = {'1A':'a','1B':'b','1C':'c','2A':'d','2B':'e','3A':'f','3B':'g'};
 const ORDER1 = ['1A','1B','1C','2A','2B','3A','3B'];
@@ -499,8 +499,8 @@ const MARK3 = {};
 ORDER3.forEach(function(d){
   const s = SPEC3[SUFFIX3[d]];
   const g = (s.regime === 'MAR') ? 'ok' : 'bad';
-  /* MIA sufficient conditions are violated in every Study 3 DGM. */
-  MARK3[d] = {MAR:[g,g], MIA:['bad','bad']};
+  /* MIA sufficient (but not necessary) conditions are violated in every Study 3 DGM. */
+  MARK3[d] = {MAR:[g,g], MIA:['unk','unk']};
 });
 
 function pills3(dag){
