@@ -1,7 +1,7 @@
 # --------------------------- In preparation ---------------------------
 #  
 - id: Mathur2026a
-  text: "<u>Mathur MB</u>, Seaman S, Zhang W, McGrath S, Shpitser I (under review). Estimating conditional means under missingness not at random with incomplete auxiliary variables."
+  text: "<u>Mathur MB</u>, Seaman S, Zhang W, McGrath S, Shpitser I (under revision for <i>JASA</i>). Estimating conditional means under missingness not at random with incomplete auxiliary variables."
   year: 2024
   type: "methods"
   authorship: "first"
@@ -54,55 +54,6 @@
 #  
 # ## --------------------------- In press ---------------------------
 #  
-- id: Mathur2025d
-  text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ. Resurrecting complete-case analysis: A defense. <strong>American Journal of Epidemiology.</strong>"
-  year: 2025
-  type: "methods"
-  authorship: "first"
-  maya_led: true
-  status: "inpress"
-  journal_url: "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf284/8415237?redirectedFrom=fulltext&login=false"
-  preprint_url: "https://osf.io/preprints/osf/f9jvz/"
-  topics: ["missing-data", "causal-inference"]
-  datarepo: "https://osf.io/crxyw/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  google_id: "BPS1z4jHU5cC"
-# 
-- id: He2026
-  text: "He Z, Chu B, Yang J, Gu J, Chen Z, Liu L, Morrison T, Belloy ME, Qi X, Hejazi N, <u>Mathur MB</u>, Le Guen Y, Tang H, Hastie T, Ionita-Laza I, Sabatti C, Candes E (under review). CIT-Lasso: A scalable approach beyond guilty by association for identifying causal variants from genome-wide summary statistics. <strong>Genome Biology.</strong>"
-  year: 2026
-  type: "methods"
-  authorship: "middle"
-  status: "inpress"
-  journal_url: ""
-  preprint_url: "https://www.biorxiv.org/content/10.1101/2024.02.28.582621v1.abstract"
-  topics: ["methods-other"]
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  google_id:
-#
-- id: Tsui2026
-  text: "Tsui ASM, Carstensen A, Kachergis G, Cao A, Abubakar A, Asnake M, et al., including <u>Mathur MB</u>. Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science</strong>"
-  year: 2026
-  type: "empirical"
-  authorship: "middle"
-  status: "inpress"
-  journal_url: ""
-  preprint_url: "https://osf.io/preprints/psyarxiv/dc93n_v1"
-  topics: ["exp-psych"]
-  datarepo: ""
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  google_id: "Ul_CLA4dPeMC"
-#
 - id: Pathmarajah2026
   text: "Pathmarajah P, Li S, <u>Mathur MB</u>, Johnson A, Marinkovich MP, Admani S, Eid E, Tu J, Mitchell DC, Perrone L, Villanueva Gaona R, Teng J, Tang JY, Chiou AS (in press). Validation of the Investigator Global Assessment Scale for epidermolysis bullosa simplex. <strong>JEADV Clinical Practice.</strong>"
   year: 2026
@@ -117,22 +68,6 @@
   rpackagelink: 
   webappname: 
   webapplink:
-#
-- id: Szabo2026
-  text: "Szabo Y, Nishimi K, Smirnova M, Niles A, Skovgaard Lerche A, Tsai H, Afroz S, Huey N, <u>Mathur MB</u>, & O'Donovan A. Sex-specific associations of depression with inflammatory markers: A systematic review and meta-analysis. <strong>Translational Psychiatry</strong>."
-  year: 2026
-  type: "applied"
-  authorship: "middle"
-  status: "inpress"
-  journal_url: ""
-  preprint_url: ""
-  topics: ["medicine", "empirical-meta"]
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  google_id: ""
 #
 - id: Bridgeford2026
   text: "Bridgeford EW, Caffo BS, <u>Mathur MB</u>, Poldrack RA (in press). How causal perspectives can inform neuroscience data analysis. <strong>Nature Neuroscience.</strong>"
@@ -151,6 +86,71 @@
   google_id:
 #
 # ## --------------------------- 2026 ---------------------------
+#
+- id: Tsui2026
+  text: "Tsui ASM, Carstensen A, Kachergis G, Cao A, Abubakar A, Asnake M, et al., including <u>Mathur MB</u> (2026). Exploring variation in infants' preference for infant-directed speech: Evidence from a multi-site study in Africa. <strong>Developmental Science,</strong> 29(5):e70242."
+  year: 2026
+  type: "empirical"
+  authorship: "middle"
+  status: "published"
+  journal_url: "https://doi.org/10.1111/desc.70242"
+  preprint_url: "https://osf.io/preprints/psyarxiv/dc93n_v1"
+  topics: ["exp-psych"]
+  datarepo: ""
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  google_id: "Ul_CLA4dPeMC"
+#
+- id: He2026
+  text: "He Z, Chu B, Yang J, Gu J, Chen Z, Liu L, Morrison T, Belloy ME, Qi X, Hejazi N, <u>Mathur MB</u>, Le Guen Y, Tang H, Hastie T, Ionita-Laza I, Candes E, Sabatti C (2026). CIT-Lasso: A scalable approach beyond guilty by association for identifying causal variants from genome-wide summary statistics. <strong>Genome Biology,</strong> 27(1):223."
+  year: 2026
+  type: "methods"
+  authorship: "middle"
+  status: "published"
+  journal_url: "https://doi.org/10.1186/s13059-026-04185-w"
+  preprint_url: "https://www.biorxiv.org/content/10.1101/2024.02.28.582621v1.abstract"
+  topics: ["methods-other"]
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  google_id:
+#
+- id: Mathur2025d
+  text: "<u>Mathur MB</u>, Shpitser I, VanderWeele TJ (2026). Resurrecting complete-case analysis: A defense. <strong>American Journal of Epidemiology,</strong> 195(6):1765-1778."
+  year: 2026
+  type: "methods"
+  authorship: "first"
+  maya_led: true
+  status: "published"
+  journal_url: "https://doi.org/10.1093/aje/kwaf284"
+  preprint_url: "https://osf.io/preprints/osf/f9jvz/"
+  topics: ["missing-data", "causal-inference"]
+  datarepo: "https://osf.io/crxyw/"
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  google_id: "BPS1z4jHU5cC"
+#
+- id: Szabo2026
+  text: "Szabo Y, Nishimi K, Smirnova M, Niles A, Skovgaard Lerche A, Tsai H, Afroz S, Huey N, <u>Mathur MB</u>, & O'Donovan A (2026). Sex-specific associations of depression with inflammatory markers: A systematic review and meta-analysis. <strong>Translational Psychiatry,</strong> 16(1):394."
+  year: 2026
+  type: "applied"
+  authorship: "middle"
+  status: "published"
+  journal_url: "https://doi.org/10.1038/s41398-026-04139-7"
+  preprint_url: ""
+  topics: ["medicine", "empirical-meta"]
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  google_id: ""
 #
 - id: Hope2026
   text: "Hope J, Green SA, Peacock JR, <u>Mathur MB</u>. Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment. <strong>Food Quality and Preference</strong>, 143, 105931."
@@ -204,7 +204,7 @@
 ## --------------------------- 2025 ---------------------------
 #  
 - id: Mathur2025c
-  text: "<u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for eliminating selection bias through covariate adjustment. <strong>Annals of Statistics</strong>, 53(6), 2303-2328."
+  text: "<u>Mathur MB</u>, VanderWeele TJ, Shpitser I. A common-cause principle for eliminating selection bias in causal estimands through covariate adjustment. <strong>Annals of Statistics</strong>, 53(6), 2303-2328."
   year: 2025
   type: "methods"
   authorship: "first"
