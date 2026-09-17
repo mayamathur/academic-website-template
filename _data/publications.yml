@@ -54,6 +54,23 @@
 #  
 # ## --------------------------- In press ---------------------------
 #  
+- id: Panda2026
+  text: "Panda P, Deng Y, Lynge A, Forest AS, Triolo B, Fang A, Ward V, Wang E, Newberry J, <u>Mathur MB</u>, Patel AI (in press). Association between Childhood Opportunity Index and pediatric emergency department utilization of youth with experiences of trafficking: A national multicenter retrospective cohort study. <strong>Pediatric Emergency Care.</strong>"
+  year: 2026
+  type: "empirical"
+  authorship: "middle"
+  status: "inpress"
+  journal_url: ""
+  preprint_url: ""
+  topics: ["medicine"]
+  mentee_led: true
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  google_id:
+#
 - id: Pathmarajah2026
   text: "Pathmarajah P, Li S, <u>Mathur MB</u>, Johnson A, Marinkovich MP, Admani S, Eid E, Tu J, Mitchell DC, Perrone L, Villanueva Gaona R, Teng J, Tang JY, Chiou AS (in press). Validation of the Investigator Global Assessment Scale for epidermolysis bullosa simplex. <strong>JEADV Clinical Practice.</strong>"
   year: 2026
@@ -2163,16 +2180,3 @@
   is_book: true
   webappname: "experimentology.io"
   webapplink: "https://experimentology.io"
-
-# The "Very unserious science" entry — hidden from the main view.
-# Replace text with the real title whenever the preprint is ready to share.
-- id: UnseriousScience2024
-  text: "<u>Mathur MB</u>. [TITLE — replace with real title]. <strong>Preprint, OSF</strong>."
-  year: 2024
-  type: "empirical"
-  authorship: "first"
-  maya_led: true
-  status: "inprep"
-  journal_url: ""
-  preprint_url: "https://osf.io/preprints/osf/e5dyt_v1"
-  topics: ["unserious"]
