@@ -54,6 +54,22 @@
 #  
 # ## --------------------------- In press ---------------------------
 #  
+- id: Kurniati2026
+  text: "Kurniati NMT, Cowden RG, Worthington EL, Rini QK, Suryani AI, Zulkaida A, Cynthia T, Rahardjo W, Gunatirin EY, Elisabeth MP, Ho MY, <u>Mathur MB</u>, VanderWeele TJ (in press). A randomized controlled trial of a brief self-directed secular REACH forgiveness intervention with Indonesian Muslims: Effects on forgiveness, shared rumination, anxiety, depression, posttraumatic growth, and individual flourishing. <strong>Journal of Consulting and Clinical Psychology.</strong>"
+  year: 2026
+  type: "empirical"
+  authorship: "middle"
+  status: "in press"
+  journal_url: ""
+  preprint_url: ""
+  topics: ["medicine"]
+  datarepo: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  google_id: ""
+#
 - id: Panda2026
   text: "Panda P, Deng Y, Lynge A, Forest AS, Triolo B, Fang A, Ward V, Wang E, Newberry J, <u>Mathur MB</u>, Patel AI (in press). Association between Childhood Opportunity Index and pediatric emergency department utilization of youth with experiences of trafficking: A national multicenter retrospective cohort study. <strong>Pediatric Emergency Care.</strong>"
   year: 2026
