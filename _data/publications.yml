@@ -1,7 +1,26 @@
 # --------------------------- In preparation ---------------------------
 #  
+- id: Mathur2026b
+  text: "<u>Mathur MB</u>, Zhang W, Seaman S, Bhattacharya R, Shpitser I (submitted to <i>Biometrika</i>). A mechanistic characterization of missingness at random."
+  year: 2026
+  type: "methods"
+  authorship: "first"
+  maya_led: true
+  status: "inprep"
+  journal_url: 
+  preprint_url: 
+  topics: ["missing-data"]
+  datarepo: "https://github.com/willizhang/applied-example-collider-bias"
+  supplement_url: 
+  supplement_label: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  google_id:
+#
 - id: Mathur2026a
-  text: "<u>Mathur MB</u>, Seaman S, Zhang W, McGrath S, Shpitser I (under revision for <i>JASA</i>). Estimating conditional means under missingness not at random with incomplete auxiliary variables."
+  text: "<u>Mathur MB</u>, Seaman S, Zhang W, McGrath S, Shpitser I (under review). Estimating conditional means under missingness not at random with incomplete auxiliary variables."
   year: 2026
   type: "methods"
   authorship: "first"
@@ -19,23 +38,23 @@
   webapplink: 
   google_id:
 #  
-- id: Mathur2024c
-  text: "<u>Mathur MB</u> & Shpitser I (under review). Imputation without nightMARs: Graphical criteria for valid imputation of missing data."
-  year: 2024
-  type: "methods"
-  authorship: "first"
-  maya_led: true
-  status: "inprep"
-  journal_url: ""
-  preprint_url: "https://osf.io/preprints/osf/zqne9/"
-  topics: ["missing-data"]
-  datarepo: "https://osf.io/27aue/"
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  google_id:
-#  
+# - id: Mathur2024c
+#   text: "<u>Mathur MB</u> & Shpitser I (under review). Imputation without nightMARs: Graphical criteria for valid imputation of missing data."
+#   year: 2024
+#   type: "methods"
+#   authorship: "first"
+#   maya_led: true
+#   status: "inprep"
+#   journal_url: ""
+#   preprint_url: "https://osf.io/preprints/osf/zqne9/"
+#   topics: ["missing-data"]
+#   datarepo: "https://osf.io/27aue/"
+#   rpackagename: 
+#   rpackagelink: 
+#   webappname: 
+#   webapplink: 
+#   google_id:
+# #  
 - id: Hughes-Noehrer2025
   text: "Hughes-Noehrer L, Parkes MJ, Stewart A, Wilson AJ, Collins GS, Riley RD, <u>Mathur MB</u>, Fox MP, Islam N, Zivich PN, Feeney TJ (under review). Code sharing in healthcare research: A practical guide and recommendations for good practice."
   year: 2025
@@ -54,6 +73,24 @@
 #  
 # ## --------------------------- In press ---------------------------
 #  
+- id: HughesNoehrer2026
+  text: "Hughes-Noehrer L, Parkes MJ, Stewart A, Wilson AJ, Collins GS, Riley RD, <u>Mathur MB</u>, Fox MP, Islam N, Zivich PN, Feeney T (in press). Code sharing in healthcare research: a practical guide and recommendations for good practice. <strong>BMJ.</strong>"
+  year: 2026
+  type: "methods"
+  authorship: "middle"
+  maya_led: false
+  status: "accepted"
+  journal_url: 
+  preprint_url: 
+  topics: ["open-science"]
+  datarepo: 
+  supplement_url: 
+  supplement_label: 
+  rpackagename: 
+  rpackagelink: 
+  webappname: 
+  webapplink: 
+  google_id:
 - id: Kurniati2026
   text: "Kurniati NMT, Cowden RG, Worthington EL, Rini QK, Suryani AI, Zulkaida A, Cynthia T, Rahardjo W, Gunatirin EY, Elisabeth MP, Ho MY, <u>Mathur MB</u>, VanderWeele TJ (in press). A randomized controlled trial of a brief self-directed secular REACH forgiveness intervention with Indonesian Muslims: Effects on forgiveness, shared rumination, anxiety, depression, posttraumatic growth, and individual flourishing. <strong>Journal of Consulting and Clinical Psychology.</strong>"
   year: 2026
