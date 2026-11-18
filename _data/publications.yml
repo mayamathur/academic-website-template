@@ -55,22 +55,6 @@
 #   webapplink: 
 #   google_id:
 # #  
-- id: Hughes-Noehrer2025
-  text: "Hughes-Noehrer L, Parkes MJ, Stewart A, Wilson AJ, Collins GS, Riley RD, <u>Mathur MB</u>, Fox MP, Islam N, Zivich PN, Feeney TJ (under review). Code sharing in healthcare research: A practical guide and recommendations for good practice."
-  year: 2025
-  type: "methods"
-  authorship: "middle"
-  status: "inprep"
-  journal_url: ""
-  preprint_url: "https://arxiv.org/pdf/2510.19279"
-  topics: ["open-science"]
-  datarepo: 
-  rpackagename: 
-  rpackagelink: 
-  webappname: 
-  webapplink: 
-  google_id:
-#  
 # ## --------------------------- In press ---------------------------
 #  
 - id: HughesNoehrer2026
